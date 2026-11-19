@@ -35,8 +35,8 @@
   {
    "file": "de_city_1.json.gz",
    "n": 477,
-   "bytes": 23825964,
-   "sha": "4913d345d317f4a8"
+   "bytes": 23827081,
+   "sha": "0bff76cd9e728805"
   }
  ],
  "fr:city": [
@@ -205,6 +205,274 @@
    "n": 81,
    "bytes": 3741278,
    "sha": "21157411011de08d"
+  }
+ ],
+ "us:church": [
+  {
+   "file": "us_church_1.json.gz",
+   "n": 900,
+   "bytes": 37089211,
+   "sha": "a3558eb94f7e24e2"
+  },
+  {
+   "file": "us_church_2.json.gz",
+   "n": 760,
+   "bytes": 31040954,
+   "sha": "a7862ff4b5d05f03"
+  }
+ ],
+ "de:church": [
+  {
+   "file": "de_church_1.json.gz",
+   "n": 900,
+   "bytes": 33593158,
+   "sha": "95a7397b8fc05c8e"
+  },
+  {
+   "file": "de_church_2.json.gz",
+   "n": 900,
+   "bytes": 33549157,
+   "sha": "f67fe4fd68cbba5a"
+  },
+  {
+   "file": "de_church_3.json.gz",
+   "n": 900,
+   "bytes": 33578000,
+   "sha": "2a3913a8652705ad"
+  },
+  {
+   "file": "de_church_4.json.gz",
+   "n": 900,
+   "bytes": 33581420,
+   "sha": "6fab766a0acb7b7d"
+  },
+  {
+   "file": "de_church_5.json.gz",
+   "n": 900,
+   "bytes": 33621735,
+   "sha": "3b695cc46109c32a"
+  },
+  {
+   "file": "de_church_6.json.gz",
+   "n": 708,
+   "bytes": 26544113,
+   "sha": "95044839691bc5bd"
+  }
+ ],
+ "fr:church": [
+  {
+   "file": "fr_church_1.json.gz",
+   "n": 900,
+   "bytes": 33579887,
+   "sha": "5730716faaa45c17"
+  },
+  {
+   "file": "fr_church_2.json.gz",
+   "n": 900,
+   "bytes": 33660519,
+   "sha": "b932bc06478f3813"
+  },
+  {
+   "file": "fr_church_3.json.gz",
+   "n": 900,
+   "bytes": 33728412,
+   "sha": "02695ae6876525dd"
+  },
+  {
+   "file": "fr_church_4.json.gz",
+   "n": 900,
+   "bytes": 33721347,
+   "sha": "69aab6268c8466a2"
+  },
+  {
+   "file": "fr_church_5.json.gz",
+   "n": 181,
+   "bytes": 6948333,
+   "sha": "f92f81b5c0efcf61"
+  }
+ ],
+ "se:church": [
+  {
+   "file": "se_church_1.json.gz",
+   "n": 900,
+   "bytes": 33492497,
+   "sha": "09cd6ef3576d061c"
+  },
+  {
+   "file": "se_church_2.json.gz",
+   "n": 900,
+   "bytes": 33506116,
+   "sha": "b997aa2304457de9"
+  },
+  {
+   "file": "se_church_3.json.gz",
+   "n": 464,
+   "bytes": 17245175,
+   "sha": "38c03a656032450e"
+  }
+ ],
+ "no:church": [
+  {
+   "file": "no_church_1.json.gz",
+   "n": 900,
+   "bytes": 33213036,
+   "sha": "0ebf3287dcf65803"
+  },
+  {
+   "file": "no_church_2.json.gz",
+   "n": 343,
+   "bytes": 12722097,
+   "sha": "17532f1b2badee34"
+  }
+ ],
+ "gb:church": [
+  {
+   "file": "gb_church_1.json.gz",
+   "n": 900,
+   "bytes": 36963365,
+   "sha": "e630453864cef2d1"
+  },
+  {
+   "file": "gb_church_2.json.gz",
+   "n": 334,
+   "bytes": 13750545,
+   "sha": "0491a47efddc5787"
+  }
+ ],
+ "dk:church": [
+  {
+   "file": "dk_church_1.json.gz",
+   "n": 382,
+   "bytes": 14143761,
+   "sha": "3a85d3c8cc9f0ad2"
+  }
+ ],
+ "fi:church": [
+  {
+   "file": "fi_church_1.json.gz",
+   "n": 317,
+   "bytes": 11761348,
+   "sha": "dff3afdf639190b4"
+  }
+ ],
+ "ca-en:church": [
+  {
+   "file": "ca-en_church_1.json.gz",
+   "n": 138,
+   "bytes": 5641098,
+   "sha": "b576c638448b1780"
+  }
+ ],
+ "ca-fr:church": [
+  {
+   "file": "ca-fr_church_1.json.gz",
+   "n": 23,
+   "bytes": 861945,
+   "sha": "2a64e0ef65ddc333"
+  }
+ ],
+ "au:church": [
+  {
+   "file": "au_church_1.json.gz",
+   "n": 115,
+   "bytes": 4682940,
+   "sha": "eeb56474e2df59bc"
+  }
+ ],
+ "ie:church": [
+  {
+   "file": "ie_church_1.json.gz",
+   "n": 5,
+   "bytes": 203402,
+   "sha": "d637b31d970ad1ed"
+  }
+ ],
+ "es:church": [
+  {
+   "file": "es_church_1.json.gz",
+   "n": 3,
+   "bytes": 111471,
+   "sha": "5bf6ceb26418d5ff"
+  }
+ ],
+ "it:church": [
+  {
+   "file": "it_church_1.json.gz",
+   "n": 2,
+   "bytes": 75022,
+   "sha": "81ccd63a4822ba5a"
+  }
+ ],
+ "pl:church": [
+  {
+   "file": "pl_church_1.json.gz",
+   "n": 57,
+   "bytes": 2086424,
+   "sha": "b498c8e11b79ca96"
+  }
+ ],
+ "ro:church": [
+  {
+   "file": "ro_church_1.json.gz",
+   "n": 1,
+   "bytes": 37791,
+   "sha": "99b6a38d6d262057"
+  }
+ ],
+ "jp:church": [
+  {
+   "file": "jp_church_1.json.gz",
+   "n": 22,
+   "bytes": 827504,
+   "sha": "87b1af9ed2d68412"
+  }
+ ],
+ "ch:church": [
+  {
+   "file": "ch_church_1.json.gz",
+   "n": 164,
+   "bytes": 6051750,
+   "sha": "cec1e45c95adeadf"
+  }
+ ],
+ "be:church": [
+  {
+   "file": "be_church_1.json.gz",
+   "n": 218,
+   "bytes": 8118874,
+   "sha": "e09400fdf379f133"
+  }
+ ],
+ "nl:church": [
+  {
+   "file": "nl_church_1.json.gz",
+   "n": 122,
+   "bytes": 4502502,
+   "sha": "6ff5434949b07319"
+  }
+ ],
+ "at:church": [
+  {
+   "file": "at_church_1.json.gz",
+   "n": 59,
+   "bytes": 2180890,
+   "sha": "40c18740efb28b10"
+  }
+ ],
+ "cz:church": [
+  {
+   "file": "cz_church_1.json.gz",
+   "n": 60,
+   "bytes": 2227282,
+   "sha": "50164a448019e195"
+  }
+ ],
+ "nz:church": [
+  {
+   "file": "nz_church_1.json.gz",
+   "n": 83,
+   "bytes": 3385356,
+   "sha": "13a0e57ddbca56f0"
   }
  ]
 }
