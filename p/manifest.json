@@ -1,0 +1,210 @@
+{
+ "se:city": [
+  {
+   "file": "se_city_1.json.gz",
+   "n": 250,
+   "bytes": 12211259,
+   "sha": "3d97dc1ba69e8cf9"
+  }
+ ],
+ "no:city": [
+  {
+   "file": "no_city_1.json.gz",
+   "n": 127,
+   "bytes": 6088230,
+   "sha": "c3004e8df2a91f45"
+  }
+ ],
+ "dk:city": [
+  {
+   "file": "dk_city_1.json.gz",
+   "n": 35,
+   "bytes": 1647808,
+   "sha": "560cbed6cafc2f8c"
+  }
+ ],
+ "fi:city": [
+  {
+   "file": "fi_city_1.json.gz",
+   "n": 43,
+   "bytes": 1995213,
+   "sha": "ddf7f6f6c22941bd"
+  }
+ ],
+ "de:city": [
+  {
+   "file": "de_city_1.json.gz",
+   "n": 477,
+   "bytes": 23825964,
+   "sha": "4913d345d317f4a8"
+  }
+ ],
+ "fr:city": [
+  {
+   "file": "fr_city_1.json.gz",
+   "n": 138,
+   "bytes": 6899113,
+   "sha": "9637e3292f399160"
+  }
+ ],
+ "ch:city": [
+  {
+   "file": "ch_city_1.json.gz",
+   "n": 7,
+   "bytes": 315820,
+   "sha": "9f130b6b300ed654"
+  }
+ ],
+ "be:city": [
+  {
+   "file": "be_city_1.json.gz",
+   "n": 12,
+   "bytes": 534607,
+   "sha": "6ecacd340237c5aa"
+  }
+ ],
+ "nl:city": [
+  {
+   "file": "nl_city_1.json.gz",
+   "n": 11,
+   "bytes": 497122,
+   "sha": "cccf19428632c664"
+  }
+ ],
+ "at:city": [
+  {
+   "file": "at_city_1.json.gz",
+   "n": 5,
+   "bytes": 239829,
+   "sha": "d9afabc809895eb9"
+  }
+ ],
+ "cz:city": [
+  {
+   "file": "cz_city_1.json.gz",
+   "n": 9,
+   "bytes": 413406,
+   "sha": "b3383c1167254747"
+  }
+ ],
+ "nz:city": [
+  {
+   "file": "nz_city_1.json.gz",
+   "n": 2,
+   "bytes": 98410,
+   "sha": "f8730cc1e072cf85"
+  }
+ ],
+ "us:city": [
+  {
+   "file": "us_city_1.json.gz",
+   "n": 1208,
+   "bytes": 60579259,
+   "sha": "70f8af0477697b5d"
+  }
+ ],
+ "gb:city": [
+  {
+   "file": "gb_city_1.json.gz",
+   "n": 157,
+   "bytes": 8242429,
+   "sha": "cac4968eac4a57a5"
+  }
+ ],
+ "ca-en:city": [
+  {
+   "file": "ca-en_city_1.json.gz",
+   "n": 215,
+   "bytes": 10680392,
+   "sha": "3901012fc5e9a4d6"
+  }
+ ],
+ "ca-fr:city": [
+  {
+   "file": "ca-fr_city_1.json.gz",
+   "n": 45,
+   "bytes": 2030423,
+   "sha": "d90dbcfd364db5bf"
+  }
+ ],
+ "au:city": [
+  {
+   "file": "au_city_1.json.gz",
+   "n": 78,
+   "bytes": 3728802,
+   "sha": "5aafdc4b7d59c58a"
+  }
+ ],
+ "ie:city": [
+  {
+   "file": "ie_city_1.json.gz",
+   "n": 17,
+   "bytes": 796874,
+   "sha": "6a4be872e4c7cdd0"
+  }
+ ],
+ "es:city": [
+  {
+   "file": "es_city_1.json.gz",
+   "n": 67,
+   "bytes": 3065400,
+   "sha": "90814ea83eea5359"
+  }
+ ],
+ "mx:city": [
+  {
+   "file": "mx_city_1.json.gz",
+   "n": 104,
+   "bytes": 4701456,
+   "sha": "244d949c2e73f530"
+  }
+ ],
+ "br:city": [
+  {
+   "file": "br_city_1.json.gz",
+   "n": 62,
+   "bytes": 2725539,
+   "sha": "9b1c7bc7d8f9aa8a"
+  }
+ ],
+ "it:city": [
+  {
+   "file": "it_city_1.json.gz",
+   "n": 30,
+   "bytes": 1385959,
+   "sha": "8198ab5a9dc45501"
+  }
+ ],
+ "pl:city": [
+  {
+   "file": "pl_city_1.json.gz",
+   "n": 102,
+   "bytes": 4662262,
+   "sha": "41bff3ed319b86e9"
+  }
+ ],
+ "ro:city": [
+  {
+   "file": "ro_city_1.json.gz",
+   "n": 78,
+   "bytes": 3411960,
+   "sha": "713791d2b62fcf87"
+  }
+ ],
+ "jp:city": [
+  {
+   "file": "jp_city_1.json.gz",
+   "n": 152,
+   "bytes": 6917584,
+   "sha": "8dd90c30a125509f"
+  }
+ ],
+ "kr:city": [
+  {
+   "file": "kr_city_1.json.gz",
+   "n": 81,
+   "bytes": 3741278,
+   "sha": "21157411011de08d"
+  }
+ ]
+}
