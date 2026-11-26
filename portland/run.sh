@@ -10,6 +10,7 @@ import csv, os, subprocess, sys
 mode = os.environ["MODE"]
 if mode not in ("check", "add"): sys.exit("usage: bash run.sh check|add")
 for slug, name, city, cc, url, date in csv.reader(open("/tmp/pdx_events.tsv"), delimiter="\t"):
+    if slug.startswith("christmas-sing-a-long-at-sherwood"): continue
     print("--", slug, flush=True)
     if mode == "check":
         cmd = ["python3", "registry.py", "check", "--name", name, "--city", city, "--cc", cc, "--date", date]
@@ -18,4 +19,3 @@ for slug, name, city, cc, url, date in csv.reader(open("/tmp/pdx_events.tsv"), d
     r = subprocess.run(cmd, capture_output=True, text=True)
     out = (r.stdout + r.stderr).strip().splitlines()
     print("\n".join(out[:3]), flush=True)
-PY
