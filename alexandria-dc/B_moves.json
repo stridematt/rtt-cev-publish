@@ -1,0 +1,104 @@
+{
+ "moves": [
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "christmas-carriage-rides-in-historic-downtown-manassas-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "new-years-eve-pre-party-palooza-at-central-library-manassas-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "greater-manassas-christmas-parade-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "santa-lights-manassas-tree-lighting-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "vre-santa-train-manassas-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "ice-skating-at-harris-pavilion-manassas-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "manassas-va",
+   "card_slug": "historic-holiday-concert-at-brentsville-courthouse-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "woodbridge-va",
+   "card_slug": "holiday-walk-of-lights-at-neabsco-regional-park-woodbridge-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "woodbridge-va",
+   "card_slug": "santa-visits-family-story-time-at-lake-ridge-library-woodbridge-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "woodbridge-va",
+   "card_slug": "photos-with-santa-at-chinn-aquatics-and-fitness-center-woodbridge-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "woodbridge-va",
+   "card_slug": "the-nutcracker-after-midnight-sbdcrc-school-of-dance-winter-woodbridge-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "drop",
+   "card_slug": "santa-story-time-at-dale-city-library-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "drop",
+   "card_slug": "manassas-ballet-theatre-the-nutcracker-va"
+  }
+ ],
+ "note": "Block B. occoquan-va carries 24 cards, 12 of them belong to Manassas, Woodbridge or Dale City. Manassas cards move to manassas-va (existing page); Woodbridge cards move to the NEW woodbridge-va; the Dale City story time is already on dale-city-va (drop the duplicate); Manassas Ballet Theatre The Nutcracker is a probable duplicate of manassas-va's live manassas-ballet-theatre-nutcracker-va (same host, Hylton Performing Arts Center; drop the occoquan copy after the publisher confirms dates Dec 16 to 23).",
+ "other_blocks": {
+  "note": "Cards on occoquan-va that belong to towns outside block B; the A or C lead should move them.",
+  "cards": {
+   "mount-vernon (Alexandria/Fairfax area)": [
+    "aladdin-the-christmas-camel-at-mount-vernon-va",
+    "mount-vernon-by-candlelight-va",
+    "christmas-illuminations-at-mount-vernon-va"
+   ],
+   "centreville-va": [
+    "bull-run-festival-of-lights-and-holiday-village-centreville-va"
+   ],
+   "springfield-va": [
+    "santa-photos-at-springfield-town-center-va"
+   ],
+   "mason-neck / lorton area": [
+    "christmastide-at-gunston-hall-storytime-and-santa-mason-neck-va"
+   ]
+  }
+ },
+ "date_fix_flags": {
+  "leesburg-va": "Live card leesburg-christmas-and-holiday-parade must read Saturday, December 12, 2026, 6 pm (rain date Sunday, December 13), Ida Lee Park to King Street. Source: Town of Leesburg page. The Mommy Poppins round-up that says Dec 5 is wrong.",
+  "vre-santa-train-manassas-va": "Live card cost must read $10 per rider (every rider needs a ticket), online only through Eventbrite from Monday, November 30, 10 am. Replace 'check the host'.",
+  "ice-skating-at-harris-pavilion-manassas-va": "City of Manassas prices: adults $11 ($18 with skate rental), youth 12 and under $9 ($16 with rental). Update the card if it shows other prices.",
+  "greater-manassas-christmas-parade-va": "Saturday, December 5, 10 am to about 12:30 pm, Free.",
+  "santa-lights-manassas-tree-lighting-va": "Friday, December 4: Holiday Market 4 to 8 pm, tree lighting 6:30 pm, Free.",
+  "warrenton-christmas-parade-va": "Rechecked: Visit Fauquier County's events calendar lists Friday, December 4, 2026, 6 to 8 pm, Main Street. The Town of Warrenton site's older parade page (Dec 3) is a 2023 archive and is stale; Old Town Warrenton's events page does not list the parade. Treat Dec 4 as the date."
+ },
+ "held": {
+  "front-royal-christmas-on-main": "Already a live card on front-royal-va (Dec 5, noon to 7 pm, parade 4 pm, Gazebo at Main and Chester Streets, frontroyalva.com calendar). Not rebuilt.",
+  "dale-city": "PWC calendar lists only addresses; the Parks news item found is the 2025 release. Nothing new host-verified for 2026, so no new Dale City event.",
+  "south-riding": "Page already carries Enchanted Light Stroll, Selfies with Santa and Winterfest Market; nothing new host-verified.",
+  "stafford-christmas-parade-date": "Tour Stafford calendar and the parade site say Saturday, December 19, 2026, 3 pm; an older Facebook snippet says Dec 20 (that is the 2025 date). Built Dec 19.",
+  "winter-lights-per-park": "Franklin and Hanson parks built into one county series card on sterling-va (per-park nightly dates from Ashburn Today quoting the county's Nov 24 release; loudoun.gov per-park page did not render). Banshee Reeks solstice Dec 20 and 21 is a special-night line on that card."
+ }
+}

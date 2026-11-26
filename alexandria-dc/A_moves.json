@@ -1,0 +1,50 @@
+{
+ "moves": [
+  {
+   "from_page": "occoquan-va",
+   "to_page": "alexandria-va",
+   "card_slug": "christmas-illuminations-at-mount-vernon-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "alexandria-va",
+   "card_slug": "aladdin-the-christmas-camel-at-mount-vernon-va"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "alexandria-va",
+   "card_slug": "mount-vernon-by-candlelight-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "drop",
+   "card_slug": "mount-vernon-by-candlelight-va"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "alexandria-va",
+   "card_slug": "old-town-alexandria-christmas-market-and-holiday-craft-show-va"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "fairfax-va",
+   "card_slug": "the-nutcracker-with-the-fairfax-symphony-and-fairfax-ballet-va"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "vienna-va",
+   "card_slug": "winter-walk-of-lights-vienna-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "centreville-va",
+   "card_slug": "bull-run-festival-of-lights-and-holiday-village-centreville-va"
+  },
+  {
+   "from_page": "occoquan-va",
+   "to_page": "fairfax-va",
+   "card_slug": "santa-photos-at-springfield-town-center-va"
+  }
+ ],
+ "note": "Block A. Mount Vernon cards go to alexandria-va (Mount Vernon is an Alexandria mailing area); mount-vernon-by-candlelight-va is carded on both washington-dc and occoquan-va, so move the DC copy and drop the occoquan copy. Four of my candidate events duplicated live cards and were NOT built: Old Town Alexandria Christmas Market (live on washington-dc), Christmas Illuminations at Mount Vernon (live on occoquan-va), Meadowlark Winter Walk of Lights in Vienna (live on washington-dc as anchor ev-vienna-winter-walk-of-lights, slug winter-walk-of-lights-vienna-va) and Bull Run Festival of Lights (live on occoquan-va). Their live cards move to the town pages instead. Springfield folds into fairfax-va. Not moved: christmastide-at-gunston-hall-storytime-and-santa-mason-neck-va (Mason Neck, closer to Occoquan/Woodbridge, left on occoquan-va). Publisher flag: arlington-va live card rosslyn-holiday-market-with-santa-arlington-va was November 21 and has ended."
+}
