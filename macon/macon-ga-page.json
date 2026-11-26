@@ -1,0 +1,26 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Macon for 2026, and here is what he found: 17 family events, 9 of them free. The magic runs from the Macon Pops Christmas Spectacular and the Christmas Light Extravaganza (November 27) through Festival of Trees at the Museum of Arts and Sciences (January 9), with the Downtown Macon Christmas Parade (December 6), Marche de Noel (December 4 to 13), the Nutcracker of Middle Georgia (December 9 to 13) and Elf Jr. at Macon Little Theatre (December 18 to 20) along the way. We check every date on the host's own website or an official calendar, and each listing links straight there.</p>\n<h2>What Rally found in Macon</h2>\n<ul><li>17 Christmas events for kids in Macon</li><li>9 free events, including the Christmas Light Extravaganza, the Downtown Macon Christmas Parade, the Gray Christmas Parade, Holiday Movie Night, the Tubman Museum tree celebration and Marche de Noel</li><li>Meet Santa: Breakfast and Books with Santa (December 5), Holiday Movie Night with Santa and the Grinch (December 6) and the Tubman Museum Pan-African Christmas Tree Celebration (December 4)</li><li>Parades and lights: Downtown Macon Christmas Parade (December 6), Gray Christmas Parade (December 8), Christmas at the Cross (December 4) and the Christmas Light Extravaganza (November 27 to January 3)</li><li>Shows: Nutcracker of Middle Georgia (December 9 to 13) and Elf Jr. (December 18 to 20)</li><li>Trains: Santa train rides are in our Georgia Christmas train rides guide, with the closest in Cordele</li><li>Season: November 27 to January 9</li></ul>\n<p>Planning a bigger day out? Macon families also use our Georgia guide, which covers Christmas events across the state, and our Warner Robins and Forsyth pages for events nearby.</p>",
+ "seo_description": "Christmas events for kids in Macon, Georgia for 2026: 17 family events, 9 free, with dates, times and addresses checked on each host's site.",
+ "seo_title": "Macon Christmas Events for Kids 2026: 17 Events, 9 Free",
+ "slug": "macon-ga",
+ "name": "Macon",
+ "move_from_warner-robins-ga": [
+  "festival-of-trees-at-the-museum-of-arts-and-sciences-macon-ga",
+  "public-ice-skating-at-the-macon-coliseum-ga",
+  "macon-pops-christmas-spectacular-ga",
+  "marche-de-noel-macon-christmas-market-ga",
+  "christmas-at-the-creek-macon-ga"
+ ],
+ "drop_from_warner-robins-ga": [
+  "macon-christmas-light-extravaganza-ga",
+  "nutcracker-of-middle-georgia-macon-ga",
+  "santa-at-hay-house-macon-ga"
+ ],
+ "christmas_eve_services_page": "yes",
+ "folded": [
+  "gray-ga (helper C)",
+  "barnesville-ga",
+  "gordon-ga",
+  "jeffersonville-ga"
+ ]
+}
