@@ -1,0 +1,109 @@
+[
+ {
+  "cand": 43001,
+  "name": "Holiday Crafts at Hayward Area Historical Society",
+  "town": "Hayward",
+  "venue": "HAHS Museum of History & Culture",
+  "address": "22380 Foothill Boulevard, Second Floor, Hayward, CA 94541",
+  "times": [
+   [
+    "2026-12-19",
+    "11:00",
+    "14:30"
+   ]
+  ],
+  "when_note": "Third Saturday drop-in: storytime at 11:00 am, then drop in for crafts between 11:30 am and 2:30 pm.",
+  "cost": "Free",
+  "ages": "Kids of all ages",
+  "host": "Hayward Area Historical Society",
+  "url": "https://www.haywardareahistory.org/family-programs",
+  "kind": "crafts story",
+  "indoor": true,
+  "page": "hayward-ca",
+  "page_name": "Hayward",
+  "paras": [
+   "The Hayward Area Historical Society holds its Family Programs on the third Saturday of the month, and the December 19, 2026 session is Holiday Crafts. Storytime starts at 11:00 am, and kids can drop in for guided crafts from 11:30 am to 2:30 pm in the museum's classroom. No reservations are required, and the crafts are free.",
+   "The program takes place at the HAHS Museum of History & Culture on the second floor at 22380 Foothill Boulevard. Families can also see the local history and art exhibitions, try free-play art activities and explore the toy and book nook. Museum admission is a suggested $5 donation, and free parking is behind the building off Russell Way."
+  ],
+  "tip": "Arrive for the 11:00 am storytime, then stay for the crafts and the toy and book nook, since the galleries close at 3 pm."
+ },
+ {
+  "cand": 43002,
+  "name": "Midwinter Revels at Douglas Morrisson Theatre",
+  "town": "Hayward",
+  "venue": "Douglas Morrisson Theatre",
+  "address": "22311 N 3rd St, Hayward, CA 94546",
+  "times": [
+   [
+    "2026-12-11",
+    "19:30",
+    ""
+   ],
+   [
+    "2026-12-12",
+    "13:00",
+    ""
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    ""
+   ],
+   [
+    "2026-12-13",
+    "13:00",
+    ""
+   ],
+   [
+    "2026-12-13",
+    "18:00",
+    ""
+   ],
+   [
+    "2026-12-17",
+    "19:30",
+    ""
+   ],
+   [
+    "2026-12-18",
+    "19:30",
+    ""
+   ],
+   [
+    "2026-12-19",
+    "13:00",
+    ""
+   ],
+   [
+    "2026-12-19",
+    "18:00",
+    ""
+   ],
+   [
+    "2026-12-20",
+    "13:00",
+    ""
+   ],
+   [
+    "2026-12-20",
+    "18:00",
+    ""
+   ]
+  ],
+  "when_note": "Evening shows at 7:30 pm on Friday, December 11, Thursday, December 17 and Friday, December 18; matinees at 1:00 pm and evening shows at 6:00 pm on the weekends of December 12 to 13 and 19 to 20.",
+  "cost": "$35 youth, $55 adult (VIP $60 youth, $80 adult)",
+  "ages": "Youth and adult tickets",
+  "host": "California Revels",
+  "url": "https://californiarevels.org/26-mwr",
+  "tickets": "https://douglasmorrissontheatre.thundertix.com/events/263359",
+  "kind": "show",
+  "indoor": true,
+  "page": "hayward-ca",
+  "page_name": "Hayward",
+  "paras": [
+   "California Revels presents The Midwinter Revels: American Crossroads at the Douglas Morrisson Theatre in Hayward from December 11 to 20, 2026. The Hayward Area Recreation and Park District describes it as a joyful celebration of American songs, dances and stories, and it marks 40 years of California Revels creating community through celebration.",
+   "This year's show is a journey through the USA in 1933 and the traditions that shaped a shared story. Audiences are invited to sing, clap and connect. Standard tickets are $35 for youth and $55 for adults, and VIP seats are $60 for youth and $80 for adults, with a mix of weekday evening shows and weekend matinees."
+  ],
+  "tip": "Youth tickets cost less than adult tickets, so buy them in the same order and pick a weekend 1:00 pm matinee if bedtime is a worry."
+ }
+]
