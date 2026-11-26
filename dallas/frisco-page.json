@@ -1,0 +1,165 @@
+{
+ "slug": "frisco-tx",
+ "name": "Frisco",
+ "seo_title": "Christmas Events for Kids in Frisco, TX 2026",
+ "seo_description": "Kids' Christmas in Frisco, TX: Christmas in the Square lights, Skate the Square, Santa at The Star, SaturYay at Kaleidoscope Park and The Light Park.",
+ "lede": "The story of Christmas in Frisco starts with Merry Main Street, the city's annual block party that marked its 29th year in 2019, and the dancing light show Jeff Trykoski began designing for Frisco Square in 2006. A railroad town that took its name from the Frisco line in 1902, it also became home in 2013 to the Museum of the American Railroad.",
+ "sections": [
+  [
+   "Merry Main Street and the city tree",
+   "The City of Frisco calls Merry Main Street an annual event, with school choirs, the lighting of the City Tree, a holiday gift market and visits with Santa, Mrs. Claus and friends. The Dallas Morning News reported that the 2019 edition was the 29th annual Merry Main Street, which puts its roots around 1991. The paper described it as the big block party hosted by both the City of Frisco and Frisco Square, where the big Christmas tree is lit. Today it fills Simpson Plaza at Frisco Square, 6101 Frisco Square Boulevard."
+  ],
+  [
+   "Frisco Square's dancing lights",
+   "The lights that dance across Frisco Square each winter are the work of Jeff Trykoski. The Dallas Morning News reported in 2019 that he spent 18 years decorating his own house before Frisco Square brought him on part time in 2006. The 2019 show used 175,000 lights, eight miles of extension cords and 11 and a half miles of wiring, spread across the four-story apartments and shops around the plaza, City Hall and the tree. The lights dance to music, including Trans-Siberian Orchestra's Wizards in Winter. Today Frisco Square calls its season Christmas in the Square, with light shows and an outdoor ice rink."
+  ],
+  [
+   "A town named for a railroad",
+   "Frisco owes its name to trains. The Handbook of Texas says the townsite was first called Emerson, after landowner Francis Emerson, but the name was too close to Emberson in Lamar County. When the post office opened in 1902 the town was renamed Frisco City in honor of the St. Louis, San Francisco and Texas Railway, known as the Frisco system, and the name was later shortened. Families from nearby Erudia and Lebanon moved in to be near the tracks. The railroad story came full circle on September 10, 2013, when the Museum of the American Railroad finished moving from its 1.8-acre Fair Park home in Dallas to nearly 15 acres in downtown Frisco, Big Boy locomotive 4018 included."
+  ]
+ ],
+ "train_links": [
+  [
+   "/museums/museum-of-the-american-railroad-frisco-texas",
+   "Museum of the American Railroad",
+   "Historic locomotives and railcars, including Big Boy 4018, on nearly 15 acres in downtown Frisco."
+  ],
+  [
+   "/museums/interurban-railway-museum-plano-texas",
+   "Interurban Railway Museum",
+   "Interurban railway history in downtown Plano, a short drive south."
+  ]
+ ],
+ "traditions": [
+  [
+   "Merry Main Street",
+   "The City of Frisco's annual holiday block party brings school choirs, a gift market, Santa and Mrs. Claus, and the lighting of the City Tree."
+  ],
+  [
+   "Christmas in the Square",
+   "Frisco Square lights up nightly from November 20, 2026, to January 4, 2027, with a light show set to music."
+  ],
+  [
+   "Skate the Square",
+   "An outdoor ice rink returns to Frisco Square for the Christmas in the Square season."
+  ],
+  [
+   "SaturYay: Christmas Edition",
+   "Kaleidoscope Park holds free Saturday morning holiday fun on November 28 and December 5, 12 and 19, 2026, with train rides and Santa photos."
+  ],
+  [
+   "Santa at The Star",
+   "Santa visits The Star District from November 20 to December 24, 2026, by reservation."
+  ],
+  [
+   "The Light Park at Riders Field",
+   "A drive-through light show runs at Riders Field from November 6, 2026, to January 3, 2027."
+  ]
+ ],
+ "kidfact": "Frisco is named after a train line: in 1902 the town became Frisco City to honor the St. Louis, San Francisco and Texas Railway, which everyone called the Frisco.",
+ "sources": [
+  [
+   "https://www.tshaonline.org/handbook/entries/frisco-tx",
+   "Frisco, TX",
+   "Texas State Historical Association, Handbook of Texas"
+  ],
+  [
+   "https://www.dallasnews.com/arts-entertainment/holidays/2019/12/12/meet-the-man-behind-frisco-squares-dancing-holiday-lights/",
+   "Meet the man behind Frisco Square's dancing holiday lights",
+   "The Dallas Morning News"
+  ],
+  [
+   "https://www.friscotexas.gov/916/Merry-Main-Street",
+   "Merry Main Street Presented By Texas Health Hospital Frisco",
+   "City of Frisco"
+  ],
+  [
+   "https://www.historictrains.org/news/nz8o143ta0fb76ry1f3geu8rqzzdxd",
+   "Museum Move to Frisco Complete",
+   "Museum of the American Railroad"
+  ],
+  [
+   "https://www.friscosquare.com/",
+   "Christmas in the Square",
+   "Frisco Square"
+  ],
+  [
+   "https://www.kaleidoscopepark.org/events/saturyay-holiday-edition/",
+   "SaturYay: Holiday Edition",
+   "Kaleidoscope Park Foundation"
+  ],
+  [
+   "https://thestardistrict.com/santa/",
+   "Santa at The Star",
+   "The Star District"
+  ],
+  [
+   "https://www.thelightpark.com/locations/frisco-texas",
+   "The Light Park Frisco",
+   "The Light Park"
+  ]
+ ],
+ "nearby": [
+  [
+   "dallas-tx",
+   "Dallas"
+  ],
+  [
+   "prosper-tx",
+   "Prosper"
+  ],
+  [
+   "plano-tx",
+   "Plano"
+  ],
+  [
+   "allen-tx",
+   "Allen"
+  ],
+  [
+   "little-elm-tx",
+   "Little Elm"
+  ]
+ ],
+ "fixes": [
+  "Title and og:title read \"2 Christmas Events for Kids in Frisco, TX 2026: Santa\"; the count goes stale once the 7 new Frisco cards are added.",
+  "Intro list reads \"2 Christmas events for kids in Frisco, both on Saturday, December 5\" while the gate says \"Rally the corgi has 1 more Frisco event researched for you\"; update both counts after this bundle.",
+  "Price note reads \"Admission, tickets or a fee apply. Where a host has not posted a price yet, the listing says so.\" House rule: unknown price is held, so this line should go.",
+  "Breakfast with Santa is labeled \"Sold out\" but still carded; house rule drops sold out events.",
+  "Breakfast with Santa cost reads \"Ticketed; tickets went on sale October 19\" with no price.",
+  "Merry Main Street and Breakfast with Santa cards show an empty \"Where:\" line.",
+  "\"Every date checked on the City of Frisco's site on Nov 11\" and \"We last checked Frisco on November 11, 2026\" are stale after this update.",
+  "The page has no story section yet; use the sections in this file."
+ ],
+ "faq": [
+  [
+   "How did Frisco get its name?",
+   "The Handbook of Texas says the townsite was first called Emerson, but that was too close to Emberson in Lamar County. When the post office opened in 1902, the town was renamed Frisco City for the St. Louis, San Francisco and Texas Railway, known as the Frisco system, and the name was later shortened."
+  ],
+  [
+   "What is Merry Main Street in Frisco?",
+   "The City of Frisco calls Merry Main Street an annual event with school choirs, the lighting of the City Tree, a holiday gift market and visits with Santa and Mrs. Claus. The Dallas Morning News reported the 2019 edition was the 29th, and it takes place at Simpson Plaza in Frisco Square."
+  ],
+  [
+   "Who designs the dancing lights at Frisco Square?",
+   "Jeff Trykoski. The Dallas Morning News reported in 2019 that he spent 18 years decorating his own house before Frisco Square brought him on part time in 2006. That year's show used 175,000 lights, and the lights dance to music, including Wizards in Winter."
+  ],
+  [
+   "What can kids do at Christmas in Frisco?",
+   "Frisco Square runs Christmas in the Square nightly from November 20, 2026, to January 4, 2027, with light shows and an ice rink. Kaleidoscope Park holds free SaturYay holiday mornings with train rides and Santa photos on November 28 and December 5, 12 and 19, 2026."
+  ],
+  [
+   "What railroad museum is in Frisco?",
+   "The Museum of the American Railroad finished moving from Fair Park in Dallas to nearly 15 acres in downtown Frisco on September 10, 2013, Big Boy locomotive 4018 included. The move suits a town named for a railroad, and the museum has a Rally Takes the Train page."
+  ]
+ ],
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Frisco for 2026, and here is what he found: 11 family events. Newly added: Christmas in the Square at Frisco Square, Skate the Square Outdoor Ice Rink at Frisco Square and SaturYay: Christmas Edition at Kaleidoscope Park. We check every date on the host’s own website, and each listing links straight there. For the rest of the state, see our Texas Christmas events for kids guide.</p><p>What Rally found in Frisco</p><ul><li>11 Christmas events for kids in Frisco</li><li>New this update: Christmas in the Square at Frisco Square, Skate the Square Outdoor Ice Rink at Frisco Square, SaturYay: Christmas Edition at Kaleidoscope Park</li><li>Every date checked on the host’s own site on Nov 25</li></ul>",
+ "intro_counts": {
+  "live_cards": 2,
+  "built": 7,
+  "moved_in": 2,
+  "moved_out": 0,
+  "total": 11,
+  "note": "recount with quick-counts after card moves; live_cards may include cross-town cards"
+ }
+}
