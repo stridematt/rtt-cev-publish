@@ -27,9 +27,9 @@ Folded without a page (reason in each `folded.json`): Gray (1 event, card built 
 
 ## Flags
 - Most Macon, Forsyth, Milledgeville, Eatonton and Dublin facts come from tourism or city calendars (Visit Macon, visitforsythga.com, Visit Milledgeville, Visit Eatonton, Visit Dublin GA); the pages say so.
-- Tubman Museum address (310 Cherry St) was not on the host page. Forsyth and Dublin downtown events carry placeholder pins (Forsyth: "Downtown Forsyth"; Dublin parade and Jingle and Mingle use Theatre Dublin's 314 Academy Ave) because calendars print no street. Milledgeville parade has no street address.
+- Tubman Museum address (310 Cherry St) was not on the host page. Rechecked Nov 26: Visit Dublin prints "Downtown Dublin, 314 Academy Avenue" (coordinates 32.5382957,-82.9078839) for the parade and Jingle and Mingle, so those Dublin pins come from the host page. Forsyth host pages print only "Downtown Forsyth", no street, so no better pin exists. Milledgeville parade has no street address.
 - Santa at The Plaza and Live Nativity (Eatonton) not confirmed on host pages. Pate Road lights (Forsyth) list only two dates.
-- Perry: the live Small Business Saturday card has a Paid tag but says free; counted free in 3 of 4 (4 of 4 if it is free). Perry's "last year" paragraph uses the Visit Perry 2025 guide, labeled as 2025.
+- Perry: Rally's coordinator confirmed the live Small Business Saturday and Tree Lighting card is free. PUBLISHER: remove its Paid tag and set cost Free when moving it to perry-ga; Perry is then 4 events, 4 free (update intro and seo counts: 4 family events, 4 of them free). Perry's "last year" paragraph uses the Visit Perry 2025 guide, labeled as 2025.
 - Forsyth train_links uses /museums/sam-shortline-excursion-train-cordele-georgia (taken from the live Macon page, not separately checked for 200).
 - Neighbor-page scans covered macon-ga and warner-robins-ga only; athens, augusta, columbus not link-scanned for stray cards.
 
