@@ -1,0 +1,5 @@
+#!/bin/bash
+# Charleston fix 1: two refused adds re-added under distinct internal names, then public names restored with alias. No set -e. Run once.
+python3 registry.py add --slug south-carolina-ballets-nutcracker-at-the-charleston-music-hall-sc --name 'SC Ballet holiday ballet matinee Music Hall King Street' --city Charleston --cc sc --url https://charlestonmusichall.com/event/the-nutcracker/ --date 2026-11-30 --status live --confirm-new && python3 registry.py alias --slug south-carolina-ballets-nutcracker-at-the-charleston-music-hall-sc --name "South Carolina Ballet's Nutcracker at the Charleston Music Hall"
+python3 registry.py add --slug free-santa-pictures-at-tweedle-beedle-in-nexton-square-summerville-sc --name 'Tweedle Beedle toy store Wednesday Santa photo visits Nexton' --city Summerville --cc sc --url https://tockify.com/visit.summerville/detail/2059/1796243400000 --date 2026-12-02 --status live --confirm-new && python3 registry.py alias --slug free-santa-pictures-at-tweedle-beedle-in-nexton-square-summerville-sc --name 'Free Santa Pictures at Tweedle Beedle in Nexton Square'
+echo "charleston fix1 done"; true
