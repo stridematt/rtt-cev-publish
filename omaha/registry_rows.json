@@ -482,5 +482,16 @@
   "cand": 72811,
   "page": "bellevue-ne",
   "cost": "Price not listed"
+ },
+ {
+  "slug": "santa-comes-to-bennington-at-bennington-elementary-ne",
+  "name": "Santa Comes to Bennington at Bennington Elementary",
+  "city": "Bennington",
+  "cc": "ne",
+  "url": "https://www.benningtonfoundation.com/events",
+  "date": "2026-11-29",
+  "cand": 72580,
+  "page": "omaha-ne",
+  "cost": "Price not listed"
  }
 ]

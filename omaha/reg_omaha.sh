@@ -46,4 +46,5 @@ add --slug greenery-and-glitter-in-downtown-gretna-ne --name 'Greenery and Glitt
 add --slug visit-santa-at-nebraska-crossing-gretna-ne --name 'Visit Santa at Nebraska Crossing' --city Gretna --cc ne --url https://nexcrossing.com/ --date 2026-11-27 --status live --confirm-new || true
 add --slug victorian-christmas-on-main-in-downtown-plattsmouth-ne --name 'Victorian Christmas on Main in Downtown Plattsmouth' --city Plattsmouth --cc ne --url https://visitcasscounty.com/event/victorian-christmas-on-main/ --date 2026-12-05 --status live --confirm-new || true
 add --slug night-of-1-000-santas-on-main-street-in-plattsmouth-ne --name 'Night of 1,000 Santas on Main Street in Plattsmouth' --city Plattsmouth --cc ne --url https://www.casscountynemuseum.org/special-events/ --date 2026-12-04 --status live --confirm-new || true
+add --slug santa-comes-to-bennington-at-bennington-elementary-ne --name 'Santa Comes to Bennington at Bennington Elementary' --city Bennington --cc ne --url https://www.benningtonfoundation.com/events --date 2026-11-29 --status live --confirm-new || true
 echo "added $A, refused $R"; [ -n "$REF" ] && echo "refused slugs:$REF"; true
