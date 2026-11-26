@@ -1,0 +1,43 @@
+{
+ "slug": "concord-ca",
+ "exists": true,
+ "cards_before": 2,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 4,
+ "held": [
+  [
+   "Holiday Stroll With A Little Sip (Dec 4)",
+   "mainly a drinks stroll"
+  ],
+  [
+   "Dave and Buster's Breakfast with Santa (Dec 20)",
+   "Fever listing only"
+  ],
+  [
+   "Breakfast with Santa at Gibson's Irish Pub (Dec 12)",
+   "Eventbrite only"
+  ],
+  [
+   "Concord Historical Society Holiday Market",
+   "past and shopping only"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Santa's Firehouse Toy Drive, Station 81 (Dec 5, 315 W 10th St)",
+   "Antioch",
+   "https://www.cccfpd.org/m/calendar/event/detail/944"
+  ],
+  [
+   "Santa's Firehouse Toy Drive, Station 92 (Dec 12)",
+   "Brentwood",
+   "https://www.cccfpd.org/m/calendar/event/detail/947"
+  ]
+ ],
+ "existing_event_pages": [
+  "magic-of-lights-concord-ca",
+  "tree-lighting-and-mayors-sing-along-concord-ca"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "piedmont-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "built": false,
+ "held": [
+  [
+   "Lights Up Piedmont (Wed Dec 2, 6 pm, Piedmont Community Hall, 711 Highland Ave, free, Santa photos)",
+   "City page piedmont.ca.gov still shows December 2, 2025; 2026 date only in local news and a guide"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Piedmont Avenue Tree Lighting Celebration (Dec 6, 5 pm, Santa)",
+   "oakland",
+   "https://www.piedmontavenue.org/happenings"
+  ]
+ ],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [],
+ "notes": "0 verified; one more held for host year."
+}

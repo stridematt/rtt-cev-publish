@@ -1,0 +1,20 @@
+{
+ "slug": "redwood-city-ca",
+ "exists": true,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 3,
+ "held": [
+  [
+   "Letters to Santa",
+   "mail-in, not an event"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [
+  "christmas-eve-at-the-fox-theatre-redwood-city-ca"
+ ],
+ "move_from_sf": []
+}

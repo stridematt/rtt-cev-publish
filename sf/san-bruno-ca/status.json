@@ -1,0 +1,16 @@
+{
+ "slug": "san-bruno-ca",
+ "exists": true,
+ "cards_before": 2,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 0,
+ "held": [],
+ "other_towns": [],
+ "existing_event_pages": [
+  "breakfast-with-santa-san-bruno-ca",
+  "tree-lighting-and-jingle-around-the-block-san-bruno-ca"
+ ],
+ "move_from_sf": []
+}

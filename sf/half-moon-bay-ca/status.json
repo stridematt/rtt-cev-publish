@@ -1,0 +1,39 @@
+{
+ "slug": "half-moon-bay-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "built": false,
+ "held": [
+  [
+   "A Christmas Carol, the Musical at Coastal Repertory Theatre, 1167 Main St (Dec 4 to 20)",
+   "Visit HMB listing prints no price or ages, tickets on ovationtix; family fit unconfirmed"
+  ],
+  [
+   "Saturday with Santa (city Calendar EID 870)",
+   "Page is an old year (Saturday December 4th, not 2026)"
+  ],
+  [
+   "Harley Farms Christmas Faire (Pescadero)",
+   "Host listing is for Dec 13 and 14, 2025; also Pescadero"
+  ],
+  [
+   "Santa at Half Moon Bay Nursery (Nov 28) and Santa's Tree Farm",
+   "Only third party and Instagram snippets; no host page checked"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [
+  [
+   "Night of Lights Tree Lighting and Lighted Parade with Santa",
+   "Fri 2026-12-04 4 to 8 pm, Mac Dutra Plaza and Main St, 500 Main St, Half Moon Bay, CA 94019, Free (public parade)",
+   "https://www.visithalfmoonbay.org/events/night-lights"
+  ]
+ ],
+ "notes": "1 verified event only, below the 3 event rule."
+}

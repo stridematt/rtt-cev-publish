@@ -1,0 +1,17 @@
+{
+ "slug": "daly-city-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 3,
+ "held": [],
+ "other_towns": [],
+ "existing_event_pages": [
+  "the-great-dickens-christmas-fair-daly-city-ca"
+ ],
+ "move_from_sf": [
+  "the-great-dickens-christmas-fair-daly-city-ca"
+ ]
+}

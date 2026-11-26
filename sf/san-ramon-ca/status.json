@@ -1,0 +1,21 @@
+{
+ "slug": "san-ramon-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 6,
+ "held": [
+  [
+   "City Center Tree Lighting (Nov 20)",
+   "past"
+  ],
+  [
+   "Alamo Christmas Parade (Dec 12)",
+   "Alamo, not San Ramon"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": []
+}

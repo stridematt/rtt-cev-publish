@@ -1,0 +1,20 @@
+{
+ "slug": "dublin-ca",
+ "exists": true,
+ "cards_before": 4,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 1,
+ "held": [
+  [
+   "Dublin Tree Lane (Dec 3 to 31, Civic Center, free to view)",
+   "city page text did not render; only a round-up lists it, so no verified host text"
+  ],
+  [
+   "A Crooner Christmas, Dublin Library (Dec 5)",
+   "adult concert, not a kids event"
+  ]
+ ],
+ "other_towns": []
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "brentwood-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 5,
+ "held": [],
+ "other_towns": [
+  [
+   "Discovery Bay Parade of Lights street parade, Dec 5",
+   "Discovery Bay",
+   ""
+  ],
+  [
+   "Discovery Bay Lighted Boat Parade, Dec 12",
+   "Discovery Bay",
+   "https://www.dbyc.com/event-6555746"
+  ]
+ ],
+ "existing_event_pages": []
+}

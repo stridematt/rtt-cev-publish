@@ -1,0 +1,24 @@
+{
+ "slug": "burlingame-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 2,
+ "held": [
+  [
+   "Visits from Santa",
+   "residents-only paid home visits, no venue"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Burlingame Country Christmas",
+   "Burlingame, Kansas",
+   "discard"
+  ]
+ ],
+ "existing_event_pages": [],
+ "move_from_sf": []
+}

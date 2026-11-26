@@ -1,0 +1,27 @@
+{
+ "slug": "el-cerrito-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "held": [
+  [
+   "Holiday Pancake Breakfast with Santa / Pancake Breakfast and Toy Drive",
+   "no 2026 date found; only 2017 and 2024 city posts"
+  ],
+  [
+   "Winter Makers Market (Dec 6, Hana Gardens Senior Center)",
+   "shopping market, no kids program"
+  ],
+  [
+   "Sundar Shadi Holiday Display (7501 Moeser Lane, Dec 12 to 27)",
+   "private home display, no host page"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "notes": "0 verified events; page.json and status.json only, no bundle."
+}

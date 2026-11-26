@@ -1,0 +1,27 @@
+{
+ "slug": "discovery-bay-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "built": false,
+ "held": [
+  [
+   "Discovery Bay Lighted Holiday Street Parade (Sat Dec 5, 6 pm, Downtown Discovery Bay)",
+   "Only contracosta.news and a Delta events listing found; no host page"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [
+  [
+   "Discovery Bay Yacht Club 2026 Lighted Boat Parade",
+   "Sat 2026-12-12 parade begins 5:15 pm, bays of Discovery Bay, ends Marina Bay, Yacht Club 5871 Marina Blvd (page address); open to the public to enter; shore viewing price not stated",
+   "https://www.dbyc.com/event-6555746"
+  ]
+ ],
+ "notes": "At most 2 events (street parade unverified at host), below the 3 event rule."
+}

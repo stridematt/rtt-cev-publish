@@ -1,0 +1,32 @@
+{
+ "slug": "pittsburg-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 4,
+ "held": [
+  [
+   "Pittsburg Yacht Club Lighted Boat Parade, Dec 12",
+   "club reservation event with bar, not a free shore parade"
+  ],
+  [
+   "Chick-fil-A Holiday Craft Night (snow globes), Dec 12",
+   "Eventbrite only"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Lafayette It's A Wonderful Life with free Lafayette Express train rides, Dec 4",
+   "Lafayette",
+   ""
+  ],
+  [
+   "Clayton Holidays in the Grove, Dec 5",
+   "Clayton",
+   ""
+  ]
+ ],
+ "existing_event_pages": []
+}

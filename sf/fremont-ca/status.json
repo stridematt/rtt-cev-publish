@@ -1,0 +1,34 @@
+{
+ "slug": "fremont-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 7,
+ "held": [
+  [
+   "Crippsmas Place (Dec 5 onward)",
+   "host channels disagree: site says Dec 5 to 31 and Dec 5 to 27 with address 36031 Wellington Pl, Instagram Dec 6 to NYE at 35971 Wellington Pl, Facebook through Dec 27; donations only, no price"
+  ],
+  [
+   "Cookies for Santa (Fremont Rec, Shinn Park, Dec 16)",
+   "full"
+  ],
+  [
+   "Emmanuel's Christmas Village (43344 Arkwood St)",
+   "private home display, no host page"
+  ],
+  [
+   "Believe Holiday Boutique (Dec 5)",
+   "shopping market"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [
+  "train-of-lights-at-niles-canyon-railway-fremont-ca",
+  "creative-reuse-crafty-christmas-cards-fremont-ca"
+ ],
+ "move_from_sf": [],
+ "notes": "Added Niles Festival of Lights Parade (free, public parade) and Winter Wonderland Crafting (Price not listed)."
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "livermore-ca",
+ "exists": true,
+ "cards_before": 8,
+ "links_to_sf": true,
+ "eve_page": true,
+ "eve_churches": 17,
+ "new_events": 5,
+ "held": [
+  [
+   "Deacon Dave's Christmas Display, 352 Hillcrest Ave",
+   "host page text still says opening November 30th, 2024; no 2026 dates (removed from facts)"
+  ],
+  [
+   "Chanukah Under the Stars",
+   "not a Christmas event"
+  ]
+ ],
+ "other_towns": [],
+ "eve_note": "Christmas Eve page exists with 17 Livermore churches"
+}

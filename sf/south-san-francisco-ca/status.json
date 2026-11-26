@@ -1,0 +1,25 @@
+{
+ "slug": "south-san-francisco-ca",
+ "exists": true,
+ "cards_before": 2,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 1,
+ "held": [
+  [
+   "PJ Storytime Fairytale Ball",
+   "not Christmas themed per the city page"
+  ],
+  [
+   "Letters to Santa",
+   "mail-in, not an event"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [
+  "santa-comes-to-town-south-san-francisco-ca",
+  "ssf-civic-ballet-the-nutcracker-south-san-francisco-ca"
+ ],
+ "move_from_sf": []
+}

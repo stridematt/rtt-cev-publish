@@ -1,0 +1,32 @@
+{
+ "slug": "oakley-ca",
+ "exists": true,
+ "cards_before": 2,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 1,
+ "held": [],
+ "other_towns": [
+  [
+   "SJYC Parade of Lights boat parade",
+   "Bethel Island",
+   ""
+  ],
+  [
+   "Oxbow Marina lighted boat parade, Dec 12",
+   "Isleton",
+   ""
+  ],
+  [
+   "Crockett tree lighting, Dec 6",
+   "Crockett",
+   ""
+  ],
+  [
+   "Hercules tree lighting, Dec 6",
+   "Hercules",
+   "built on hercules-ca"
+  ]
+ ]
+}

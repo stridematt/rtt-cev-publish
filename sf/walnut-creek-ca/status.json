@@ -1,0 +1,42 @@
+{
+ "slug": "walnut-creek-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 13,
+ "held": [
+  [
+   "Lindsay Wildlife Tiny Tuesday: Winter Wildlife (Dec 8)",
+   "winter theme, not Christmas"
+  ],
+  [
+   "Contra Costa Ballet Nutcracker",
+   "only a 2024 page"
+  ],
+  [
+   "Diablo Ballet Nutcracker",
+   "past"
+  ],
+  [
+   "Shadelands Holiday Faire",
+   "shopping only"
+  ],
+  [
+   "Holiday tea weekends",
+   "sold out"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Dave and Buster's Breakfast with Santa (Dec 20)",
+   "Concord",
+   "Fever listing only, held"
+  ]
+ ],
+ "existing_event_pages": [
+  "holiday-tree-lighting-ceremony-walnut-creek-ca"
+ ],
+ "existing_note": "the live tree lighting was Nov 20 and is over; list it anyway"
+}

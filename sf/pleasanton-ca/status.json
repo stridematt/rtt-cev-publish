@@ -1,0 +1,30 @@
+{
+ "slug": "pleasanton-ca",
+ "exists": true,
+ "cards_before": 3,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 1,
+ "held": [
+  [
+   "Stoneridge Shopping Center Santa photos and Caring Santa (Dec 6)",
+   "only a third party round-up lists prices; no verified 2026 host page read this pass"
+  ],
+  [
+   "Pleasanton Downtown Association Spirit and Sweater Stroll",
+   "adult focused, Eventbrite only"
+  ]
+ ],
+ "other_towns": [],
+ "move_from_sf": [
+  "hometown-holiday-celebration-pleasanton-ca"
+ ],
+ "existing_event_pages": [
+  "hometown-holiday-celebration-pleasanton-ca",
+  "hometown-holiday-celebration-parade-and-tree-lighting-pleasanton-ca",
+  "magical-holiday-evening-pleasanton-ca",
+  "christmas-toy-giveaway-and-family-fun-day-in-pleasanton-ca"
+ ],
+ "note": "Hometown Holiday Celebration is carded on both SF (slug hometown-holiday-celebration-pleasanton-ca) and Pleasanton (hometown-holiday-celebration-parade-and-tree-lighting-pleasanton-ca); lead should remove the SF card"
+}

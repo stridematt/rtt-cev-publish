@@ -1,0 +1,46 @@
+{
+ "slug": "antioch-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 3,
+ "held": [
+  [
+   "Golden Gate Boys Choir and Bellringers Christmas concert, St. Ignatius of Antioch",
+   "host site (ggbc.org) shows only 2025 concerts; the Dec 12 date rests on an Antioch Herald ad"
+  ],
+  [
+   "Winter Wonderland at Prewett Library (CCC Library)",
+   "library and kids-calendar listings show an all day Dec 1 entry with no times or program page; not verifiable"
+  ],
+  [
+   "El Campanil Theatre holiday shows",
+   "no Dec 2026 kids productions listed"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Discovery Bay Lighted Boat Parade, Dec 12",
+   "Discovery Bay",
+   "https://www.dbyc.com/event-6555746"
+  ],
+  [
+   "Delta Reflections lighted boat parade, Dec 5",
+   "Isleton area",
+   ""
+  ],
+  [
+   "Martinez Festival of Lights boat parade, Nov 29",
+   "Martinez",
+   ""
+  ],
+  [
+   "Santa's Firehouse Toy Drive, Station 81, 315 W 10th St (Dec 5, 5 to 7 pm)",
+   "Antioch",
+   "https://www.cccfpd.org/m/calendar/event/944 (not built; same host as the Concord and Hercules toy drives)"
+  ]
+ ],
+ "existing_event_pages": []
+}

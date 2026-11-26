@@ -1,0 +1,33 @@
+{
+ "slug": "corte-madera-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "built": false,
+ "held": [
+  [
+   "Marin Mommies and other guides list nothing else",
+   "No other 2026 kids event found with host page"
+  ]
+ ],
+ "other_towns": [
+  [
+   "The Polar Express Pajama Party",
+   "larkspur",
+   "https://www.visitmarin.org/event-calendar/2026/december-2026/the-polar-express-pajama-party-at-lark-theater/"
+  ]
+ ],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [
+  [
+   "Experience the Magic of Santa at The Village at Corte Madera",
+   "2026-11-20 to 2026-12-24 (Santa schedule Nov 20 to Dec 10 per the Village page), North Court across from Nordstrom; photo packages and e-cards for purchase, Price not listed",
+   "https://www.villageatcortemadera.com/santaphotos"
+  ]
+ ],
+ "notes": "1 verified event; street address not on the Visit Marin page, so not buildable without confirming it."
+}

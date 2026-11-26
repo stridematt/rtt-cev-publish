@@ -1,0 +1,26 @@
+{
+ "slug": "san-mateo-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 4,
+ "held": [
+  [
+   "Library holiday concerts (Holiday Roulette, Rejoice)",
+   "not kids focused"
+  ],
+  [
+   "Teen Winter Party",
+   "not kids focused"
+  ],
+  [
+   "Letters to Santa",
+   "mail-in, not an event"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [],
+ "move_from_sf": []
+}

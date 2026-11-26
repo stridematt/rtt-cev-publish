@@ -1,0 +1,33 @@
+{
+ "slug": "alameda-ca",
+ "exists": true,
+ "cards_before": 6,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 5,
+ "held": [
+  [
+   "USS Hornet Toys for Tots and Trains",
+   "host page shows only 2025 dates"
+  ],
+  [
+   "Christmas Tree Lane / Tap Dancing Christmas Trees on Thompson Ave",
+   "no 2026 host page or price; official site shows 2025 only"
+  ],
+  [
+   "Downtown Alameda Winter Market (Dec 5)",
+   "shopping market; mentioned in the Hot Cocoa Stroll card"
+  ],
+  [
+   "Puppet Art Theatre puppet shows (Alameda Free Library)",
+   "not Christmas themed"
+  ],
+  [
+   "South Shore Center and Alameda Landing Santa visits",
+   "not verified on a host page"
+  ]
+ ],
+ "other_towns": [],
+ "notes": "Lighted Yacht Parade built here (event listed under Alameda, parade route on both sides). Live card santa-visits-alameda-homes-ca also exists. Intro text: Alameda Rec and Park hosts only some of the cards (ctr_fixes note)."
+}

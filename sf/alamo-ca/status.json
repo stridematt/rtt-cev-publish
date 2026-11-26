@@ -1,0 +1,35 @@
+{
+ "slug": "alamo-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "built": false,
+ "held": [
+  [
+   "Alamo Tree Lighting Festival (Sun Dec 6)",
+   "Sources conflict (10 am to noon at 1471 Jackson Way vs 4 to 6 pm at Andrew H. Young Park, 3000 Danville Blvd); no host page found"
+  ],
+  [
+   "Alamo Women's Club Holiday Celebration and Hospice Tree Lighting (Dec 10, 4 to 6 pm)",
+   "Wine and appetizer evening, no kids activity, no address or price"
+  ],
+  [
+   "Alamo Christmas Parade Dec 12",
+   "Search results for this lead are all Alamo, Texas; no Alamo, California parade exists in 2026 sources"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [
+  [
+   "European Train Enthusiasts holiday train exhibit at Alamo Plaza",
+   "2026-11-27 to 2027-01-03, Wed to Sun 10 am to 5 pm plus extra days, 170-A Alamo Plaza, Alamo, CA 94507, $5 (under 6 free); ete.org/sfbayarea lists Alamo Plaza from Nov 27, details from non-host real estate blogs only",
+   "https://www.ete.org/sfbayarea"
+  ]
+ ],
+ "notes": "Rally's Alamo parade lead appears to be Alamo, Texas. 1 train event only, host page lacks details."
+}

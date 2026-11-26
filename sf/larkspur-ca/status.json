@@ -1,0 +1,35 @@
+{
+ "slug": "larkspur-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 3,
+ "built": true,
+ "held": [
+  [
+   "Perry's Annual Tree Lighting (Wed Dec 2, 5 to 7 pm, 234 Magnolia Ave, free)",
+   "Date, place and free price seen only on Marin Dish and Marin Mommies; Perry's own location page does not list it"
+  ],
+  [
+   "Winter Wonderland at Lark Creek Shops (Dec 4) and Holiday Magic on Magnolia (Dec 5 and 6)",
+   "Only one non-host guide lists them; no host page found"
+  ],
+  [
+   "Santa Claus Conquers the Martians with live orchestra at Lark Theater (Dec 19)",
+   "Not a kids' Christmas event as listed; no ages or price"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Corte Madera Santa at The Village",
+   "corte-madera",
+   "https://www.visitmarin.org/event-calendar/2026/november-2026/experience-the-magic-of-santa-at-the-village-corte-madera-1/"
+  ]
+ ],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [],
+ "notes": "3 new events: Holiday Magic Happens tree lighting, Marin Country Mart tree lighting/Santa photos/Grinch double feature (merged), Polar Express pajama party at Lark Theater. Venue address of Larkspur Community Park taken as 400 Magnolia Ave (City Hall/Parks and Recreation address, chamber page prints no street address): lead please confirm. Marin Country Mart address 2257 Larkspur Landing Cir is not printed on the Mart events page. All three build as Price not listed. Marin Country Mart Hanukkah event (Dec 9) left out (not Christmas)."
+}

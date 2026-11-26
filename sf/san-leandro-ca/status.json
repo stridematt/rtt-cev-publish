@@ -1,0 +1,37 @@
+{
+ "slug": "san-leandro-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 5,
+ "held": [
+  [
+   "Breakfast with Santa and Cookies and Cocoa with Santa (San Leandro Rec)",
+   "not found in the 2026 registration catalog"
+  ],
+  [
+   "Bay Area Family Church Christmas Family Festival",
+   "Facebook only, no official page or price"
+  ],
+  [
+   "OOLY holiday gift-making workshop",
+   "Eventbrite listing only"
+  ],
+  [
+   "TAGS Holiday Night Market",
+   "shopping only"
+  ],
+  [
+   "Holiday Mug and Book Swap, DIY Gift Making Workshop for Adults (library)",
+   "adults only"
+  ]
+ ],
+ "other_towns": [],
+ "existing_event_pages": [
+  "community-christmas-giveaway-at-encounter-church-san-leandro-ca"
+ ],
+ "move_from_sf": [],
+ "notes": "The Encounter Church giveaway card currently sits on the live Oakland page; move to San Leandro. Library gift making built with Price not listed."
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "richmond-ca",
+ "exists": true,
+ "cards_before": 2,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 2,
+ "held": [
+  [
+   "NIAD Art Center Holiday Spectacular (Dec 12, 551 23rd St)",
+   "no host event page found with details; only a news listing and an Instagram snippet"
+  ],
+  [
+   "Richmond Annual Tree Lighting (Nov 18)",
+   "already past; separate live page annual-tree-lighting-richmond-ca exists"
+  ],
+  [
+   "Hug A Bear toy drive (Chamber)",
+   "toy drive, not a kids event"
+  ],
+  [
+   "Menorah lighting and Crazy Noisy Hanukkah Fair (Dec 6)",
+   "Hanukkah, not Christmas"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Feliz Navidena at Los Cenzontles (Dec 12)",
+   "San Pablo",
+   "https://www.loscenzontles.com/"
+  ]
+ ],
+ "move_from_sf": [],
+ "existing_event_pages": [],
+ "notes": "The existing live cards (Charles Reid Foundation party Dec 13, Snow Day) already cover RPAL and Nicholl Park."
+}

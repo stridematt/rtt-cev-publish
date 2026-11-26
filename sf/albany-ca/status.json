@@ -1,0 +1,25 @@
+{
+ "slug": "albany-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 1,
+ "held": [
+  [
+   "Community Christmas Tree (Nov 28) / Albany tree lighting listings",
+   "search hits were Albany NY or GA, not Albany CA"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Santa on Solano (1758 Solano Ave)",
+   "Berkeley",
+   "https://www.solanoavenueassn.org/events/winter-season/"
+  ]
+ ],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "notes": "Winter on Solano spans Albany and Berkeley; built on Albany. Santa on Solano built on Berkeley."
+}

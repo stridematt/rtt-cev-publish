@@ -1,0 +1,22 @@
+{
+ "slug": "clayton-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 0,
+ "built": false,
+ "held": [],
+ "other_towns": [],
+ "existing_event_pages": [],
+ "move_from_sf": [],
+ "verified_not_built": [
+  [
+   "Holidays in the Grove",
+   "Sat 2026-12-05 5 to 7:30 pm, The Grove Park, downtown Clayton (street address not printed), horse drawn trolley rides, Santa and Mrs. Claus, free hot cider; price otherwise not listed",
+   "https://www.claytoncbca.org/cbca-clayton-holidays-in-the-grove/"
+  ]
+ ],
+ "notes": "1 verified event, below the 3 event rule."
+}

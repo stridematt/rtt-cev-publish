@@ -1,0 +1,16 @@
+{
+ "slug": "san-rafael-ca",
+ "exists": true,
+ "cards_before": 7,
+ "links_to_sf": true,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 2,
+ "held": [],
+ "other_towns": [],
+ "existing_event_pages": [
+  "holiday-magic-family-treasure-workshop-san-rafael-ca",
+  "winter-wonderland-45th-anniversary-san-rafael-ca"
+ ],
+ "move_from_sf": []
+}

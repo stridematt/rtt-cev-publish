@@ -1,0 +1,23 @@
+{
+ "slug": "sausalito-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": null,
+ "new_events": 2,
+ "built": true,
+ "held": [],
+ "other_towns": [],
+ "existing_event_pages": [
+  "sausalito-lighted-boat-parade-sausalito-ca",
+  "winter-wonderlab-sausalito-ca",
+  "once-upon-a-holiday-at-cavallo-point-sausalito-ca"
+ ],
+ "move_from_sf": [
+  "sausalito-lighted-boat-parade-sausalito-ca",
+  "winter-wonderlab-sausalito-ca"
+ ],
+ "verified_not_built": [],
+ "notes": "2 new events (tree lighting at Tracy Way Plaza, Breakfast with Santa at Sausalito Yacht Club) plus 3 live event pages that belong here (cavallo point is not on SF, only the other two are). Tracy Way Plaza street address and Sausalito Yacht Club 100 Humboldt Ave are not printed on the host pages (Visit Sausalito listing gives 100 Humboldt); zip 94965 assumed. Visit Marin also lists a Sausalito Lighted Boat Parade and Fireworks Cruise with Angel Island Ferry on Dec 12 (ticketed cruise, not built)."
+}

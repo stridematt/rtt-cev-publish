@@ -1,0 +1,51 @@
+{
+ "slug": "oakland-ca",
+ "exists": true,
+ "cards_before": 11,
+ "links_to_sf": true,
+ "eve_page": true,
+ "eve_churches": 8,
+ "new_events": 10,
+ "held": [
+  [
+   "Lighted Yacht Parade (Dec 5)",
+   "built on the Alameda page instead (free shore viewing, route on both sides)"
+  ],
+  [
+   "Dunsmuir Hellman Historic Estate holiday events",
+   "no 2026 info; dunsmuir.org domain now unrelated"
+  ],
+  [
+   "Rockin' Holiday at the Henry J. Kaiser Center",
+   "Facebook post only, no official page"
+  ],
+  [
+   "Oakland Public Library holiday programs",
+   "no holiday-specific 2026 kids programs found"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Piedmont Lights Up (tree lighting, Dec 2)",
+   "Piedmont",
+   "https://www.piedmont.ca.gov/cms/One.aspx?portalId=13659823&pageId=20442756"
+  ]
+ ],
+ "move_from_sf": [
+  "glowfari-oakland-ca"
+ ],
+ "existing_event_pages": [
+  "glowfari-oakland-ca"
+ ],
+ "move_from_this_page": [
+  [
+   "winterdance-a-celtic-christmas-celebration-berkeley-ca",
+   "berkeley-ca"
+  ],
+  [
+   "community-christmas-giveaway-at-encounter-church-san-leandro-ca",
+   "san-leandro-ca"
+  ]
+ ],
+ "notes": "Live Oakland page also carries cards for other towns: a-merry-little-christmas-a-concert-for-young-families (Piedmont), holiday-sights-and-sounds-parade-and-tree-lighting-livermore-ca (Livermore). Piedmont Ave tree lighting (Key Route Plaza, Oakland) built with Price not listed."
+}

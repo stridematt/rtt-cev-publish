@@ -1,0 +1,32 @@
+{
+ "slug": "pacifica-ca",
+ "exists": false,
+ "cards_before": 0,
+ "links_to_sf": false,
+ "eve_page": false,
+ "eve_churches": [],
+ "new_events": 0,
+ "held": [
+  [
+   "Rockaway Beach Tree Lighting",
+   "no host-verified 2026 date; chamber says first Sunday of December with no year"
+  ],
+  [
+   "Polar Palooza",
+   "city page dates lack a year"
+  ]
+ ],
+ "other_towns": [
+  [
+   "Jewell Park tree lighting",
+   "Pacific Grove",
+   "discard, not Pacifica"
+  ]
+ ],
+ "existing_event_pages": [
+  "the-nutcracker-by-san-francisco-youth-ballet-theatre-pacifica-ca"
+ ],
+ "move_from_sf": [
+  "the-nutcracker-by-san-francisco-youth-ballet-theatre-pacifica-ca"
+ ]
+}
