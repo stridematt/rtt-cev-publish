@@ -1,0 +1,662 @@
+[
+ {
+  "cand": 41001,
+  "name": "Palm Bay City Christmas Tree Lighting",
+  "town": "Palm Bay",
+  "venue": "Palm Bay City Hall",
+  "address": "120 Malabar Road, Palm Bay, FL 32907",
+  "times": [
+   [
+    "2026-12-04",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Starts at 5 pm; the tree lights at 6:30 pm.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "City of Palm Bay",
+  "url": "https://www.palmbayfl.gov/Home/Components/News/News/13822/",
+  "kind": "parade",
+  "indoor": false,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "Palm Bay lights its city tree on Friday, December 4, 2026, at City Hall, 120 Malabar Road. The evening starts at 5 pm with performances by local schools and aerialists, and kids can get a picture with Santa while they wait. The tree itself comes on at 6:30 pm.",
+   "Bring an unwrapped toy for the Marine Toys for Tots Foundation and you get a free light-up Christmas tree wand while supplies last. The city's calendar lists the ceremony from 5 to 8 pm, so there is no need to rush off after the countdown."
+  ],
+  "tip": "Pack a toy for Toys for Tots, since the free wand is only for families who donate and supplies are limited."
+ },
+ {
+  "cand": 41002,
+  "name": "Palm Bay Holiday Light Parade",
+  "town": "Palm Bay",
+  "venue": "Malabar Road",
+  "address": "Malabar Road, Palm Bay, FL 32907",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Parade starts at 6 pm; the end time is not listed.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "City of Palm Bay",
+  "url": "https://www.palmbayfl.gov/Home/Components/News/News/13822/",
+  "kind": "parade",
+  "indoor": false,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "The Palm Bay Holiday Light Parade rolls down Malabar Road on Saturday, December 5, 2026, starting at 6 pm. The three-mile route leaves the Palm Bay campus of Eastern Florida State College, turns north onto San Filippo Drive and then heads west on Malabar Road, ending in front of City Hall at Minton Road.",
+   "The city calls it Brevard County's premiere holiday parade, with dozens of brightly lit floats, high school marching bands, cheer squads and motorized vehicles, and it says thousands of spectators line the route every year."
+  ],
+  "tip": "The route is three miles long, so choose your curb spot first and park nearby before the 6 pm start."
+ },
+ {
+  "cand": 41003,
+  "name": "Breakfast with Santa at the Ted Whitlock Community Center",
+  "town": "Palm Bay",
+  "venue": "Ted Whitlock Community Center",
+  "address": "370 Championship Circle NW, Palm Bay, FL 32907",
+  "times": [
+   [
+    "2026-12-12",
+    "08:30",
+    "11:00"
+   ]
+  ],
+  "cost": "$5 per person; children 2 and under free with a paying adult",
+  "ages": "All ages",
+  "host": "City of Palm Bay",
+  "url": "https://www.palmbayfl.gov/Home/Components/News/News/13822/",
+  "kind": "santa food",
+  "indoor": true,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "Pancakes and sausage are on the menu for Breakfast with Santa on Saturday, December 12, 2026, from 8:30 to 11 am at the Ted Whitlock Community Center. Coffee, hot chocolate, orange juice and pastries come with it, and the cost is $5 a person, with children 2 and under free when they arrive with a paying adult.",
+   "Between bites, kids get inflatables, games and crafts, and Santa and his friends are around for photos, so parents are reminded to bring a camera. It is one of several holiday events the City of Palm Bay lays out for December, and this one is the sit-down meal."
+  ],
+  "tip": "Bring a camera and plan on the whole 8:30 to 11 am window, since the food, games and photos all happen inside it."
+ },
+ {
+  "cand": 41004,
+  "name": "Movie in the Park: The Grinch at Fred Poppe Regional Park",
+  "town": "Palm Bay",
+  "venue": "Fred Poppe Regional Park",
+  "address": "1951 Malabar Road NW, Palm Bay, FL 32907",
+  "times": [
+   [
+    "2026-12-19",
+    "16:30",
+    "19:30"
+   ]
+  ],
+  "when_note": "Seating at 4:30 pm; the movie starts at 5:30 pm.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Palm Bay",
+  "url": "https://www.palmbayfl.gov/Home/Components/News/News/13822/",
+  "kind": "outing",
+  "indoor": false,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "Fred Poppe Regional Park turns into an open-air theater on the evening of Saturday, December 19, 2026, for a free showing of The Grinch. Seating opens at 4:30 pm and the movie starts at 5:30 pm on a large outdoor screen.",
+   "Families are encouraged to bring chairs, blankets and snacks. The movie follows the 18th annual Family Christmas Extravaganza, which runs from 10 am to 3 pm at the same park, so the day is easy to turn into a double."
+  ],
+  "tip": "Bring chairs and blankets, since the movie is outdoors and the screen goes on at 5:30 pm."
+ },
+ {
+  "cand": 41005,
+  "name": "Santa Calling by Phone",
+  "town": "Palm Bay",
+  "venue": "Phone call from the North Pole (register at Tony Rosa Community Center)",
+  "address": "1502 Port Malabar Blvd NE, Palm Bay, FL 32905",
+  "when_note": "Santa calls on the evening of December 15 or December 16, between 5 and 7:30 pm. Registration closes December 12 at 4 pm.",
+  "cost": "Free",
+  "ages": "Kids in Palm Bay",
+  "host": "City of Palm Bay Recreation",
+  "url": "https://www.palmbayfl.gov/Home/Components/Calendar/Event/21920/1373",
+  "kind": "santa",
+  "indoor": true,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "Palm Bay Recreation lets Santa phone your child at home on the evening of December 15 or 16, with calls going out between 5 and 7:30 pm. There is nothing to attend, which makes it an easy pick for families with a busy week or a child who is shy around a big beard.",
+   "Families register for a call window online or by picking up a form at the Tony Rosa Community Center on Port Malabar Boulevard. The city asks that registration be in by 4 pm on Saturday, December 12, so sign up early."
+  ],
+  "tip": "Register before the December 12 4 pm cutoff and keep the phone nearby during your window.",
+  "times": [
+   [
+    "2026-12-15",
+    "17:00",
+    "19:30"
+   ],
+   [
+    "2026-12-16",
+    "17:00",
+    "19:30"
+   ]
+  ]
+ },
+ {
+  "cand": 41101,
+  "name": "IMAS Guild Christmas Tree Forest",
+  "town": "McAllen",
+  "venue": "International Museum of Art and Science",
+  "address": "1900 W Nolana Ave, McAllen, TX 78504",
+  "when_note": "On view November 27, 2026 through January 2, 2027. Daily hours are not printed on the exhibit page.",
+  "cost": "Included with museum admission; price not listed",
+  "ages": "All ages",
+  "host": "IMAS Guild",
+  "url": "https://theimasonline.org/2026-christmas-tree-forest/",
+  "kind": "outing",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The IMAS Guild fills the museum on West Nolana Avenue with decorated Christmas trees, and the 2026 forest is built around the theme Art of the Americas: Nature Edition. It is on view from November 27 through January 2.",
+   "Each tree is dressed by a different community group, and the participants range from preschoolers to adults, so kids can hunt for the one that looks most like their own handiwork. The page does not print the ticket price, so check the museum before you go."
+  ],
+  "tip": "Check the museum's current hours and admission before driving over, since the forest page does not list them.",
+  "range": [
+   "2026-11-27",
+   "2027-01-02",
+   "10:00",
+   "17:00"
+  ]
+ },
+ {
+  "cand": 41102,
+  "name": "South Pole Illuminated Festival",
+  "town": "McAllen",
+  "venue": "McAllen Convention Center",
+  "address": "700 Convention Center Blvd, McAllen, TX 78501",
+  "when_note": "Runs November 27 through December 27, 2026. Daily hours are not printed on the host page.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "South Pole Illuminated Festival and H-E-B",
+  "url": "https://www.exploremcallen.com/uncategorized/get-ready-for-south-pole-illuminated-festival-2026/",
+  "kind": "lights",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The South Pole Illuminated Festival returns to the McAllen Convention Center for a run from November 27 through December 27, 2026. McAllen's tourism office describes dazzling lights, festive attractions and family entertainment under the Wild Bright theme.",
+   "Ticket listings show entry starting at 5:30 pm on scheduled dates, but the host page does not print a full daily schedule or a price. Look at the festival's own ticket page for the night you want before you head out."
+  ],
+  "tip": "Pick your date on the festival's ticket page first, because hours and prices are not posted on the tourism page.",
+  "range": [
+   "2026-11-27",
+   "2026-12-27",
+   "17:30",
+   "21:00"
+  ]
+ },
+ {
+  "cand": 41103,
+  "name": "South Pole Illuminated Festival Tree Lighting",
+  "town": "McAllen",
+  "venue": "McAllen Convention Center and Oval Park",
+  "address": "700 Convention Center Blvd, McAllen, TX 78501",
+  "when_note": "Saturday, November 28, 2026. Festivities begin before 6 pm and no ceremony start time is printed.",
+  "cost": "Free; complimentary festival entry before 6 pm",
+  "ages": "All ages",
+  "host": "McAllen Holiday Parade and H-E-B",
+  "url": "https://mcallenholidayparade.com/tree-lighting-ceremony/",
+  "kind": "lights",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The tree lighting opens the festival season on Saturday, November 28, 2026, at the McAllen Convention Center. A digital Christmas tree more than 100 feet tall switches on, and the host promises fireworks as part of the evening.",
+   "The McAllen International Airport adds a Concert in the Sky, and festival entry is free for families who arrive before 6 pm. No ceremony start time is printed, so plan to be there well ahead of dark."
+  ],
+  "tip": "Arrive before 6 pm to get the free festival entry, then stay for the fireworks.",
+  "times": [
+   [
+    "2026-11-28",
+    "17:00",
+    "20:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41104,
+  "name": "Christmas in the Park",
+  "town": "McAllen",
+  "venue": "McAllen Municipal Park",
+  "address": "1921 Bicentennial Blvd, McAllen, TX 78501",
+  "when_note": "December 3 and 4 from 5 to 11 pm, and December 5 from noon to 11 pm.",
+  "cost": "Free admission; unlimited ride bracelet $25",
+  "ages": "All ages",
+  "host": "McAllen Holiday Parade and the City of McAllen",
+  "url": "https://mcallenholidayparade.com/christmas-in-the-park/",
+  "kind": "outing",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "Municipal Park becomes a carnival ahead of the holiday parade, with rides, food, artisan vendors and live concerts. Gates are open from 5 to 11 pm on Thursday, December 3 and Friday, December 4, and from noon to 11 pm on Saturday, December 5.",
+   "Walking in is free. An unlimited ride bracelet costs $25, which is the number to budget if you have several kids. The schedule lists the Thursday as carnival only, with free concerts on Friday and Saturday."
+  ],
+  "tip": "Budget $25 per rider for the ride bracelet, and go Saturday afternoon if you want to combine it with the parade.",
+  "times": [
+   [
+    "2026-12-03",
+    "17:00",
+    "23:00"
+   ],
+   [
+    "2026-12-04",
+    "17:00",
+    "23:00"
+   ],
+   [
+    "2026-12-05",
+    "12:00",
+    "23:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41105,
+  "name": "McAllen Holiday Parade",
+  "town": "McAllen",
+  "venue": "McAllen Veterans Memorial Stadium and Bicentennial Blvd",
+  "address": "2001 N Bicentennial Blvd, McAllen, TX 78501",
+  "when_note": "Saturday, December 5, 2026. Stadium gates 3:30 pm, extravaganza and fireworks 4:30 pm, parade 6 pm.",
+  "cost": "Price not listed; stadium and route seating are ticketed",
+  "ages": "All ages",
+  "host": "McAllen Holiday Parade and the City of McAllen",
+  "url": "https://www.exploremcallen.com/events/mcallen-holiday-parade-2026/",
+  "kind": "parade",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The McAllen Holiday Parade steps off at 6 pm on Saturday, December 5, 2026, along a 1.5 mile route on Bicentennial Boulevard. Expect lit floats, giant character balloons, marching bands and celebrity guests.",
+   "Veterans Memorial Stadium opens its gates at 3:30 pm, and a stadium extravaganza with fireworks begins at 4:30 pm. Stadium and route seating are ticketed, though the page does not list prices, so check before you pick a spot."
+  ],
+  "tip": "Decide between ticketed seating and a curb spot before the day, and aim to be in place by 5 pm.",
+  "times": [
+   [
+    "2026-12-05",
+    "15:30",
+    "20:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41107,
+  "name": "Gingerbread Challenge at IMAS",
+  "town": "McAllen",
+  "venue": "International Museum of Art and Science",
+  "address": "1900 W Nolana Ave, McAllen, TX 78504",
+  "when_note": "Saturday, December 19, 2026 in three sessions: 1 to 1:45, 2 to 2:45 and 3 to 3:45 pm.",
+  "cost": "Adult $17; child $13; IMAS members $8",
+  "ages": "Children 12 and under need an adult",
+  "host": "International Museum of Art and Science",
+  "url": "https://theimasonline.org/gingerbread-challenge/",
+  "kind": "crafts",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "Kids build and decorate their own gingerbread house at IMAS on Saturday, December 19, 2026, using graham crackers, frosting and candy, then carry it home. Three sessions run at 1, 2 and 3 pm, and each lasts 30 to 45 minutes.",
+   "Tickets are $17 for adults, $13 for children and $8 for IMAS members, and general admission is included. Children 12 and under must be supervised by an adult, so count the grown-up in your budget."
+  ],
+  "tip": "Pick a session when you book, since each one is short and tied to a set start time.",
+  "times": [
+   [
+    "2026-12-19",
+    "13:00",
+    "15:45"
+   ]
+  ]
+ },
+ {
+  "cand": 41204,
+  "name": "Black Rock Christmas Tree Lighting",
+  "town": "Bridgeport",
+  "venue": "Black Rock flagpole at Brewster Street and Grovers Avenue",
+  "address": "Brewster St and Grovers Ave, Bridgeport, CT 06605",
+  "when_note": "Sunday, December 6, 2026 at 5 pm.",
+  "cost": "Price not listed",
+  "ages": "Families; the Wassail Party is for members only",
+  "host": "Black Rock Community Council",
+  "url": "https://blackrockct.com/black-rock-christmas-tree-lighting/",
+  "kind": "lights",
+  "indoor": false,
+  "page": "bridgeport-ct",
+  "page_name": "Bridgeport",
+  "paras": [
+   "The Black Rock Community Council holds its annual tree lighting on Sunday, December 6, 2026, at 5 pm. The tree stands at the flagpole on the corner of Brewster Street and Grovers Avenue.",
+   "A Wassail Party follows at the S.S. Norden Club, but the council limits that part to its members. Families can still come for the lighting, and no price is posted for the outdoor ceremony."
+  ],
+  "tip": "Come for the 5 pm lighting only, since the wassail party afterward is members only.",
+  "times": [
+   [
+    "2026-12-06",
+    "17:00",
+    "18:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41205,
+  "name": "Help Decorate the Christmas Tree at Bridgeport Library",
+  "town": "Bridgeport",
+  "venue": "Burroughs-Saden Library Children's Room",
+  "address": "925 Broad St, Bridgeport, CT 06604",
+  "when_note": "Open all day on December 8 to 12, 14 to 19 and 21 to 24, 2026.",
+  "cost": "Free",
+  "ages": "All ages; caregivers stay with children",
+  "host": "Bridgeport Public Library",
+  "url": "https://bportlibrary.libcal.com/event/17888397",
+  "kind": "crafts",
+  "indoor": true,
+  "page": "bridgeport-ct",
+  "page_name": "Bridgeport",
+  "paras": [
+   "Kids can stop by the Children's Room at the Burroughs-Saden Library and add ornaments to the library's Christmas tree. It is part of the library's 2026 Holiday Season series and runs from December 8 through December 24 on the days listed.",
+   "The library lists it as free and open to all ages, with caregivers staying with their children. The listing says the activity is open all day on its dates, which are December 8 to 12, 14 to 19 and 21 to 24."
+  ],
+  "tip": "Check the listed dates first, since the tree is not open on Sundays or on the days between those ranges.",
+  "range": [
+   "2026-12-08",
+   "2026-12-24",
+   "10:00",
+   "17:00"
+  ]
+ },
+ {
+  "cand": 41007,
+  "name": "Christmas at the Farm at Harris Establishment Farms",
+  "town": "Palm Bay",
+  "venue": "Harris Establishment Farms",
+  "address": "1950 Vars St NW, Palm Bay, FL 32907",
+  "when_note": "Open Friday through Sunday, 10 am to 4 pm, from November 27 through December 21, 2026. The Christmas market is December 12 and 13.",
+  "cost": "$10 per person plus tax; children 2 and under free",
+  "ages": "Family friendly",
+  "host": "Harris Establishment Farms",
+  "url": "https://www.harrisestablishmentfarms.com/",
+  "kind": "outing",
+  "indoor": false,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "Harris Establishment Farms turns into a Christmas festival from November 27 through December 21, 2026, open Friday through Sunday from 10 am to 4 pm. Entry is $10 per person plus tax, children 2 and under are free, and wagon rides come with entry.",
+   "Kids can visit the farm animals, play in the Florida snowball pit, decorate an ornament and use the playground. A Christmas market with vendors joins the farm on December 12 and 13, and gem mining costs extra."
+  ],
+  "tip": "Bring quarters for the animal feeders, wear closed toe shoes and note that last entry is one hour before closing.",
+  "range": [
+   "2026-11-27",
+   "2026-12-21",
+   "10:00",
+   "16:00"
+  ]
+ },
+ {
+  "cand": 41110,
+  "name": "Holiday Programs at Palm View Branch Library",
+  "town": "McAllen",
+  "venue": "Palm View Branch Library",
+  "address": "3401 Jordan Ave, McAllen, TX 78503",
+  "when_note": "Six holiday programs between December 2 and December 22, 2026. Dates and times are listed below.",
+  "cost": "Price not listed",
+  "ages": "Early learners 0 to 5, children 5 to 11 and families",
+  "host": "McAllen Public Library",
+  "url": "https://mcallenlibrary.libnet.info/event/18011185",
+  "kind": "story",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The Palm View Branch hosts several holiday programs in December 2026. On December 2 at 6 pm kids ages 6 to 11 make a Christmas tree ornament, and bilingual storytimes on December 8 (Christmas ornaments) and December 15 (Lleg\u00f3 La Navidad) run from 11 am to noon.",
+   "Little Winter Folkl\u00f3rico on December 8 from 6 to 7:30 pm is for ages 4 to 7 and needs registration. A homeschool holiday traditions hangout is December 11 at 2 pm, and a Christmas watch party with edible crafts is December 22 from 2 to 4 pm."
+  ],
+  "tip": "Check each program's listing for registration, since Little Winter Folkl\u00f3rico requires it.",
+  "times": [
+   [
+    "2026-12-02",
+    "18:00",
+    "19:00"
+   ],
+   [
+    "2026-12-08",
+    "11:00",
+    "12:00"
+   ],
+   [
+    "2026-12-08",
+    "18:00",
+    "19:30"
+   ],
+   [
+    "2026-12-11",
+    "14:00",
+    "15:30"
+   ],
+   [
+    "2026-12-15",
+    "11:00",
+    "12:00"
+   ],
+   [
+    "2026-12-22",
+    "14:00",
+    "16:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41112,
+  "name": "A Celtic Christmas by A Taste of Ireland",
+  "town": "McAllen",
+  "venue": "McAllen Performing Arts Center",
+  "address": "801 Convention Center Blvd, McAllen, TX 78501",
+  "when_note": "Sunday, December 20, 2026, 4 to 5 pm.",
+  "cost": "Price not listed",
+  "ages": "All ages; families welcome",
+  "host": "McAllen Convention Center",
+  "url": "https://experiencemcallen.com/event/a-celtic-christmas-mcallen-2026/",
+  "kind": "show",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "A Celtic Christmas comes to the McAllen Performing Arts Center on Sunday, December 20, 2026, at 4 pm. The show from A Taste of Ireland blends Irish dance, live music, vocals and storytelling.",
+   "The event page calls it a family friendly Christmas celebration inspired by Irish traditions. It lists a one hour run time and does not print ticket prices, so check the box office."
+  ],
+  "tip": "Tickets are sold through the venue, so confirm the price before you go.",
+  "times": [
+   [
+    "2026-12-20",
+    "16:00",
+    "17:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41206,
+  "name": "Black Rock Holiday Family Party at the Library",
+  "town": "Bridgeport",
+  "venue": "Black Rock Branch Library Children's Room",
+  "address": "2705 Fairfield Ave, Bridgeport, CT 06605",
+  "when_note": "Thursday, December 10, 2026, 5:30 to 7 pm. Registration is requested.",
+  "cost": "Price not listed",
+  "ages": "Ages 0 to 11",
+  "host": "Bridgeport Public Library",
+  "url": "https://bportlibrary.libcal.com/event/18068105",
+  "kind": "santa",
+  "indoor": true,
+  "page": "bridgeport-ct",
+  "page_name": "Bridgeport",
+  "paras": [
+   "The Black Rock Branch Library holds its annual holiday family party on Thursday, December 10, 2026, from 5:30 to 7 pm. The Connecticut Yuletide Carolers perform first.",
+   "Santa and Mrs. Claus follow with stories, singing, crafts and pictures, and holiday treats are planned. The library asks for registration because supplies are limited."
+  ],
+  "tip": "Register ahead, since the library says supplies are limited.",
+  "times": [
+   [
+    "2026-12-10",
+    "17:30",
+    "19:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41207,
+  "name": "Santa Stops by Newfield Library",
+  "town": "Bridgeport",
+  "venue": "Newfield Branch Library Community Room",
+  "address": "1732 Stratford Ave, Bridgeport, CT 06607",
+  "when_note": "Wednesday, December 16, 2026, 5 to 6:30 pm.",
+  "cost": "Price not listed",
+  "ages": "Whole family; ages 0 to 11 listed",
+  "host": "Bridgeport Public Library",
+  "url": "https://bportlibrary.libcal.com/event/17956569",
+  "kind": "santa",
+  "indoor": true,
+  "page": "bridgeport-ct",
+  "page_name": "Bridgeport",
+  "paras": [
+   "Santa visits the Newfield Branch Library on Wednesday, December 16, 2026, from 5 to 6:30 pm. Children can meet him, share holiday wishes and have their photos taken.",
+   "The library lists it as part of its 2026 Holiday Season series and asks parents or caregivers to stay with their children. No price is printed on the listing."
+  ],
+  "tip": "Bring a camera, and stay with your child, since caregivers are required.",
+  "times": [
+   [
+    "2026-12-16",
+    "17:00",
+    "18:30"
+   ]
+  ]
+ },
+ {
+  "cand": 41208,
+  "name": "Grinchmas Party at North Branch Library",
+  "town": "Bridgeport",
+  "venue": "North Branch Library Community Room",
+  "address": "3455 Madison Ave, Bridgeport, CT 06606",
+  "when_note": "Saturday, December 12, 2026, 1 to 3 pm.",
+  "cost": "Price not listed",
+  "ages": "Whole family",
+  "host": "Bridgeport Public Library",
+  "url": "https://bportlibrary.libcal.com/event/17957451",
+  "kind": "outing",
+  "indoor": true,
+  "page": "bridgeport-ct",
+  "page_name": "Bridgeport",
+  "paras": [
+   "The North Branch Library throws a Grinch party on Saturday, December 12, 2026, from 1 to 3 pm. The event page promises green slime, green snacks and a showing of the original animated How the Grinch Stole Christmas.",
+   "It is open to the whole family, and the page suggests Cindy Lou Who may drop in. The listing does not print a price."
+  ],
+  "tip": "Wear green, since the party is built around green snacks and slime.",
+  "times": [
+   [
+    "2026-12-12",
+    "13:00",
+    "15:00"
+   ]
+  ]
+ },
+ {
+  "cand": 41113,
+  "name": "Holiday Programs at Lark Branch Library",
+  "town": "McAllen",
+  "venue": "Lark Branch Library",
+  "address": "2601 Lark Ave, McAllen, TX 78504",
+  "when_note": "Find Shelfie runs December 1 through 23. Toddler Time: Christmas is Tuesday, December 15, 11 am to noon.",
+  "cost": "Price not listed",
+  "ages": "Early learners 0 to 5, children 5 to 10 and families",
+  "host": "McAllen Public Library",
+  "url": "https://mcallenlibrary.libnet.info/event/17971548",
+  "kind": "story",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The Lark Branch of the McAllen Public Library has two holiday programs for little ones. Kids can hunt for Shelfie, the library's hidden holiday elf, in a daily search from December 1 through December 23, 2026, and the first listing runs from 11 am to noon on December 1.",
+   "On Tuesday, December 15, 2026, from 11 to noon, Toddler Time: Christmas adds interactive storytime, a craft and playtime for toddlers and their caregivers. The library tags both as holiday programs and prints no price."
+  ],
+  "tip": "Call the branch about daily Shelfie hours, since only December 1 lists a time.",
+  "range": [
+   "2026-12-01",
+   "2026-12-23",
+   "11:00",
+   "12:00"
+  ]
+ },
+ {
+  "cand": 41114,
+  "name": "Holiday Events at McAllen Public Library Meeting Center",
+  "town": "McAllen",
+  "venue": "Meeting Center at McAllen Public Library",
+  "address": "4001 N 23rd St, McAllen, TX 78504",
+  "when_note": "Marty's Winter Bash is Saturday, December 12, 4 to 6 pm. Family Gingerbread House is Monday, December 21, 6 to 7:30 pm.",
+  "cost": "Price not listed; hot cocoa is free",
+  "ages": "All ages",
+  "host": "McAllen Public Library",
+  "url": "https://mcallenlibrary.libnet.info/event/18015826",
+  "kind": "santa",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "Marty the library cat hosts Marty's Winter Bash at the Meeting Center on Saturday, December 12, 2026, from 4 to 6 pm. The library lists free hot cocoa, photos with Santa, crafts, storytimes and a book giveaway.",
+   "On Monday, December 21, 2026, from 6 to 7:30 pm, the same room hosts a family gingerbread house session. The library supplies the ingredients, and families bring the creativity. Neither listing prints a price."
+  ],
+  "tip": "Choose the date that fits your family, since the winter bash has Santa and the gingerbread night is later in the week of Christmas.",
+  "times": [
+   [
+    "2026-12-12",
+    "16:00",
+    "18:00"
+   ],
+   [
+    "2026-12-21",
+    "18:00",
+    "19:30"
+   ]
+  ]
+ },
+ {
+  "cand": 41115,
+  "name": "Christmas Events for Kids at City Church Space Coast",
+  "town": "Palm Bay",
+  "venue": "City Church Space Coast",
+  "address": "344 Emerson Dr NW, Palm Bay, FL 32907",
+  "when_note": "Christmas Under the Stars is Wednesday, December 2, 6:30 to 8 pm. The Gingerbread Bash is Saturday, December 12, 4 to 6 pm.",
+  "cost": "Free; hot dogs $6 and pulled pork sandwiches $9 on December 2",
+  "ages": "All ages",
+  "host": "City Church Space Coast",
+  "url": "https://citychurchspacecoast.churchcenter.com/registrations/events/4012221",
+  "kind": "outing",
+  "indoor": false,
+  "page": "palm-bay-fl",
+  "page_name": "Palm Bay",
+  "paras": [
+   "City Church Space Coast hosts Christmas Under the Stars on Wednesday, December 2, 2026, from 6:30 to 8 pm at 344 Emerson Drive NW. The evening has caroling, cocoa and family fun, and guests bring their own chairs.",
+   "On Saturday, December 12, from 4 to 6 pm, City Kids builds gingerbread nativities in the chapel with the Christmas story, songs and games. Both are free. The December 2 youth dinner sells hot dogs for $6 and pulled pork sandwiches for $9."
+  ],
+  "tip": "Bring a folding chair for the December 2 night, and plan to stay the full two hours on December 12.",
+  "times": [
+   [
+    "2026-12-02",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-12",
+    "16:00",
+    "18:00"
+   ]
+  ]
+ }
+]
