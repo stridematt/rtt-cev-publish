@@ -1,0 +1,4 @@
+#!/bin/bash
+# NYC registry fix 1: re-add Muscoot Holiday Nights under a distinct internal name (registry saw it as a duplicate of Winter Candy Barns), then restore the public name as an alias. Run once; no set -e.
+python3 registry.py check --name "Katonah Friday Night Barnyard Visits" --city "Katonah" --cc ny --date 2026-12-04 || true
+python3 registry.py add --slug holiday-nights-on-the-farm-at-muscoot-farm-katonah-ny --name 'Katonah Friday Night Barnyard Visits' --city Katonah --cc ny --url 'https://parksevents.westchestercountyny.gov/event/holiday-nights-on-the-farm/2026-12-18/' --date 2026-12-04 --status live --confirm-new && python3 registry.py alias --slug holiday-nights-on-the-farm-at-muscoot-farm-katonah-ny --name 'Holiday Nights on the Farm at Muscoot Farm' ; echo "fix1 done"; true
