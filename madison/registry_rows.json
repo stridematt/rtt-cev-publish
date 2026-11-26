@@ -1,0 +1,832 @@
+[
+ {
+  "slug": "holiday-express-model-train-and-flower-show-at-olbrich-botanical-madison-wi",
+  "name": "Holiday Express Model Train and Flower Show at Olbrich Botanical Gardens",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://www.olbrich.org/calendar/holiday-express",
+  "date": "2026-12-05",
+  "cand": 58000,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "a-christmas-carol-at-childrens-theater-of-madison-wi",
+  "name": "A Christmas Carol at Children's Theater of Madison",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://www.overture.org/events/childrens-theater-of-madison-a-christmas-carol/",
+  "date": "2026-12-12",
+  "cand": 58001,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "madison-ballets-the-nutcracker-at-overture-hall-wi",
+  "name": "Madison Ballet's The Nutcracker at Overture Hall",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://www.overture.org/events/madison-ballet-the-nutcracker/",
+  "date": "2026-12-11",
+  "cand": 58002,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "the-pigeon-gets-a-big-time-holiday-extravaganza-at-childrens-theater-wi",
+  "name": "The Pigeon Gets a Big Time Holiday Extravaganza at Children's Theater of Madison",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://www.overture.org/events/the-pigeon-gets-a-big-time-holiday-extravaganza/",
+  "date": "2026-11-28",
+  "cand": 58003,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "wisconsin-state-capitol-holiday-tree-lighting-madison-wi",
+  "name": "Wisconsin State Capitol Holiday Tree Lighting",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://doa.wi.gov/DFTS/GovEversHolidayOrnamentLetter2026.pdf",
+  "date": "2026-12-01",
+  "cand": 58004,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "visit-santa-at-hilldale-madison-wi",
+  "name": "Visit Santa at Hilldale",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://hilldale.com/event/visit-santa-2/",
+  "date": "2026-11-28",
+  "cand": 58005,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "breakfast-with-santa-at-henry-vilas-zoo-madison-wi",
+  "name": "Breakfast with Santa at Henry Vilas Zoo",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://www.henryvilaszoo.gov/event/breakfast-with-santa-3/",
+  "date": "2026-12-12",
+  "cand": 58006,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "holiday-tree-lighting-at-the-edgewater-madison-wi",
+  "name": "Holiday Tree Lighting at The Edgewater",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://www.theedgewater.com/events/holiday-tree-lighting-4/",
+  "date": "2026-11-27",
+  "cand": 58007,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "make-it-merry-at-the-wisconsin-historical-museum-madison-wi",
+  "name": "Make It Merry at the Wisconsin Historical Museum",
+  "city": "Madison",
+  "cc": "wi",
+  "url": "https://calendar.wisconsinhistory.org/event/make-it-merry-a-family-friends-crafting-event-12052026-1300/",
+  "date": "2026-12-05",
+  "cand": 58008,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "skate-with-santa-at-lake-ridge-bank-river-rink-monona-wi",
+  "name": "Skate with Santa at Lake Ridge Bank River Rink",
+  "city": "Monona",
+  "cc": "wi",
+  "url": "https://www.mymonona.com/1564/Skate-with-Santa",
+  "date": "2026-12-12",
+  "cand": 58009,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "holiday-parade-and-tree-lighting-at-johnson-park-in-maple-bluff-madison-wi",
+  "name": "Holiday Parade and Tree Lighting at Johnson Park in Maple Bluff",
+  "city": "Maple Bluff",
+  "cc": "wi",
+  "url": "https://villageofmaplebluff.com/event/holiday-parade-tree-lighting/",
+  "date": "2026-11-29",
+  "cand": 58010,
+  "page": "madison-wi"
+ },
+ {
+  "slug": "christmas-trees-and-memories-at-enchanted-valley-acres-cross-plains-wi",
+  "name": "Christmas Trees and Memories at Enchanted Valley Acres",
+  "city": "Cross Plains",
+  "cc": "wi",
+  "url": "https://www.visitmadison.com/event/christmas-trees-%26-memories/78390/",
+  "date": "2026-11-27",
+  "cand": 58050,
+  "page": "middleton-wi"
+ },
+ {
+  "slug": "santas-workshop-at-verona-community-center-wi",
+  "name": "Santa's Workshop at Verona Community Center",
+  "city": "Verona",
+  "cc": "wi",
+  "url": "https://business.veronawi.com/events/details/santa-s-workshop-6685",
+  "date": "2026-12-05",
+  "cand": 58100,
+  "page": "verona-wi"
+ },
+ {
+  "slug": "christkindlmarket-verona-at-century-school-park-wi",
+  "name": "Christkindlmarket Verona at Century School Park",
+  "city": "Verona",
+  "cc": "wi",
+  "url": "https://www.thechristkindlmarketwi.com/",
+  "date": "2026-12-11",
+  "cand": 58101,
+  "page": "verona-wi"
+ },
+ {
+  "slug": "mount-horeb-trollidays-wi",
+  "name": "Mount Horeb Trollidays",
+  "city": "Mount Horeb",
+  "cc": "wi",
+  "url": "https://www.mounthorebchamber.com/events/mounthorebtrollidays",
+  "date": "2026-12-01",
+  "cand": 58150,
+  "page": "mount-horeb-wi"
+ },
+ {
+  "slug": "santa-day-at-mount-horeb-public-library-wi",
+  "name": "Santa Day at Mount Horeb Public Library",
+  "city": "Mount Horeb",
+  "cc": "wi",
+  "url": "https://www.mhpl.org/santa-day",
+  "date": "2026-12-05",
+  "cand": 58151,
+  "page": "mount-horeb-wi"
+ },
+ {
+  "slug": "silent-parade-and-community-tree-lighting-in-mount-horeb-wi",
+  "name": "Silent Parade and Community Tree Lighting in Mount Horeb",
+  "city": "Mount Horeb",
+  "cc": "wi",
+  "url": "https://fdmh.org/department-news",
+  "date": "2026-12-05",
+  "cand": 58152,
+  "page": "mount-horeb-wi"
+ },
+ {
+  "slug": "cave-of-lights-at-cave-of-the-mounds-blue-mounds-wi",
+  "name": "Cave of Lights at Cave of the Mounds",
+  "city": "Blue Mounds",
+  "cc": "wi",
+  "url": "https://www.caveofthemounds.com/cave-of-lights-2026/",
+  "date": "2026-11-26",
+  "cand": 58153,
+  "page": "mount-horeb-wi"
+ },
+ {
+  "slug": "oregon-tree-lighting-at-triangle-park-wi",
+  "name": "Oregon Tree Lighting at Triangle Park",
+  "city": "Oregon",
+  "cc": "wi",
+  "url": "https://www.oregonareafireems.org/oregon-tree-lighting-2026/",
+  "date": "2026-12-04",
+  "cand": 58200,
+  "page": "fitchburg-wi"
+ },
+ {
+  "slug": "santa-saturdays-in-downtown-sun-prairie-wi",
+  "name": "Santa Saturdays in Downtown Sun Prairie",
+  "city": "Sun Prairie",
+  "cc": "wi",
+  "url": "https://visitsunprairie.com/event/santa-saturdays-2/2026-12-05/",
+  "date": "2026-11-28",
+  "cand": 58300,
+  "page": "sun-prairie-wi"
+ },
+ {
+  "slug": "christmas-in-the-grove-santa-visit-and-holiday-lights-parade-cottage-grove-wi",
+  "name": "Christmas in the Grove Santa Visit and Holiday Lights Parade",
+  "city": "Cottage Grove",
+  "cc": "wi",
+  "url": "https://travelcottagegrove.com/event/christmas-in-the-grove-4/",
+  "date": "2026-12-04",
+  "cand": 58301,
+  "page": "sun-prairie-wi"
+ },
+ {
+  "slug": "cpkc-holiday-train-in-columbus-wi",
+  "name": "CPKC Holiday Train in Columbus",
+  "city": "Columbus",
+  "cc": "wi",
+  "url": "https://gis.cpkcr.com/arcgis/rest/directories/arcgisoutput/HolidayTrain/U.S._Holiday_Train_Route.pdf",
+  "date": "2026-12-09",
+  "cand": 58302,
+  "page": "sun-prairie-wi"
+ },
+ {
+  "slug": "santa-express-and-holiday-flyer-train-rides-at-mid-continent-north-freedom-wi",
+  "name": "Santa Express and Holiday Flyer Train Rides at Mid-Continent Railway Museum",
+  "city": "North Freedom",
+  "cc": "wi",
+  "url": "https://www.museum.midcontinent.org/train-ride-information/santa-express/",
+  "date": "2026-11-28",
+  "cand": 58310,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "saturdays-with-santa-and-free-wagon-rides-in-downtown-baraboo-wi",
+  "name": "Saturdays with Santa and Free Wagon Rides in Downtown Baraboo",
+  "city": "Baraboo",
+  "cc": "wi",
+  "url": "https://www.downtownbaraboo.com/christmas/",
+  "date": "2026-11-28",
+  "cand": 58312,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "stories-from-the-north-pole-at-baraboo-childrens-museum-wi",
+  "name": "Stories from the North Pole at Baraboo Children's Museum",
+  "city": "Baraboo",
+  "cc": "wi",
+  "url": "https://www.baraboochildrensmuseum.org/stories-from-the-north-pole",
+  "date": "2026-12-12",
+  "cand": 58313,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "sensory-sensitive-evening-with-santa-at-baraboo-childrens-museum-wi",
+  "name": "Sensory Sensitive Evening with Santa at Baraboo Children's Museum",
+  "city": "Baraboo",
+  "cc": "wi",
+  "url": "https://www.baraboochildrensmuseum.org/a-sensory-sensitive-evening-with-santa",
+  "date": "2026-12-18",
+  "cand": 58314,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "tree-of-light-in-downtown-wisconsin-dells-wi",
+  "name": "Tree of Light in Downtown Wisconsin Dells",
+  "city": "Wisconsin Dells",
+  "cc": "wi",
+  "url": "https://www.wisdells.com/wisconsin-dells-events/Tree-of-Light",
+  "date": "2026-11-26",
+  "cand": 58315,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "cpkc-holiday-train-in-wisconsin-dells-wi",
+  "name": "CPKC Holiday Train in Wisconsin Dells",
+  "city": "Wisconsin Dells",
+  "cc": "wi",
+  "url": "https://gis.cpkcr.com/arcgis/rest/directories/arcgisoutput/HolidayTrain/U.S._Holiday_Train_Route.pdf",
+  "date": "2026-12-10",
+  "cand": 58316,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "cpkc-holiday-train-in-portage-wi",
+  "name": "CPKC Holiday Train in Portage",
+  "city": "Portage",
+  "cc": "wi",
+  "url": "https://gis.cpkcr.com/arcgis/rest/directories/arcgisoutput/HolidayTrain/U.S._Holiday_Train_Route.pdf",
+  "date": "2026-12-10",
+  "cand": 58317,
+  "page": "baraboo-wi"
+ },
+ {
+  "slug": "holiday-fire-truck-parade-and-pictures-with-santa-in-downtown-stoughton-wi",
+  "name": "Holiday Fire Truck Parade and Pictures with Santa in Downtown Stoughton",
+  "city": "Stoughton",
+  "cc": "wi",
+  "url": "https://www.downtownstoughton.com/victorianholiday",
+  "date": "2026-12-05",
+  "cand": 58330,
+  "page": "stoughton-wi"
+ },
+ {
+  "slug": "holiday-light-show-at-rotary-park-in-stoughton-wi",
+  "name": "Holiday Light Show at Rotary Park in Stoughton",
+  "city": "Stoughton",
+  "cc": "wi",
+  "url": "https://www.downtownstoughton.com/victorianholiday",
+  "date": "2026-12-04",
+  "cand": 58331,
+  "page": "stoughton-wi"
+ },
+ {
+  "slug": "rudolph-the-red-nosed-reindeer-at-stoughton-center-for-the-arts-wi",
+  "name": "Rudolph the Red-Nosed Reindeer at Stoughton Center for the Arts",
+  "city": "Stoughton",
+  "cc": "wi",
+  "url": "https://stoughtonholidayshow.com/",
+  "date": "2026-12-04",
+  "cand": 58333,
+  "page": "stoughton-wi"
+ },
+ {
+  "slug": "festival-choir-and-city-band-christmas-concert-at-stoughton-opera-house-wi",
+  "name": "Festival Choir and City Band Christmas Concert at Stoughton Opera House",
+  "city": "Stoughton",
+  "cc": "wi",
+  "url": "https://www.stoughtonoperahouse.com/events/2026/12/6/festival-choir-amp-city-band",
+  "date": "2026-12-06",
+  "cand": 58334,
+  "page": "stoughton-wi"
+ },
+ {
+  "slug": "live-nativity-at-good-shepherd-by-the-lake-church-in-stoughton-wi",
+  "name": "Live Nativity at Good Shepherd by the Lake Church in Stoughton",
+  "city": "Stoughton",
+  "cc": "wi",
+  "url": "https://www.downtownstoughton.com/victorianholiday",
+  "date": "2026-12-05",
+  "cand": 58335,
+  "page": "stoughton-wi"
+ },
+ {
+  "slug": "cambridge-christmas-with-santa-wagon-rides-and-tree-lighting-wi",
+  "name": "Cambridge Christmas with Santa, Wagon Rides and Tree Lighting",
+  "city": "Cambridge",
+  "cc": "wi",
+  "url": "https://www.visitmadison.com/event/cambridge-christmas-2026/79920/",
+  "date": "2026-12-04",
+  "cand": 58336,
+  "page": "stoughton-wi"
+ },
+ {
+  "slug": "deforest-community-holiday-tree-lighting-wi",
+  "name": "DeForest Community Holiday Tree Lighting",
+  "city": "DeForest",
+  "cc": "wi",
+  "url": "https://www.deforestwi.gov/calendar.aspx?PREVIEW=YES&EID=2938",
+  "date": "2026-12-03",
+  "cand": 58340,
+  "page": "deforest-wi"
+ },
+ {
+  "slug": "cinnamon-rolls-with-santa-and-library-programs-at-winterfest-in-deforest-wi",
+  "name": "Cinnamon Rolls with Santa and Library Programs at Winterfest in DeForest",
+  "city": "DeForest",
+  "cc": "wi",
+  "url": "https://www.deforestwi.gov/calendar.aspx?PREVIEW=YES&EID=2938",
+  "date": "2026-12-05",
+  "cand": 58341,
+  "page": "deforest-wi"
+ },
+ {
+  "slug": "windsor-wonderland-with-santa-live-reindeer-and-bonfires-wi",
+  "name": "Windsor Wonderland with Santa, Live Reindeer and Bonfires",
+  "city": "Windsor",
+  "cc": "wi",
+  "url": "https://windsorwi.govoffice2.com/vertical/Sites/%7BC1679B38-6BAE-4E0D-942E-C7A84C964C87%7D/uploads/windsor_wonderland_flyer.pdf",
+  "date": "2026-12-05",
+  "cand": 58343,
+  "page": "deforest-wi"
+ },
+ {
+  "slug": "new-glarus-holiday-tree-lighting-wi",
+  "name": "New Glarus Holiday Tree Lighting",
+  "city": "New Glarus",
+  "cc": "wi",
+  "url": "https://www.swisstown.com/events-ng/holidaytreelighting",
+  "date": "2026-12-01",
+  "cand": 58350,
+  "page": "new-glarus-wi"
+ },
+ {
+  "slug": "new-glarus-adventsfenster-life-size-advent-calendar-wi",
+  "name": "New Glarus Adventsfenster Life-Size Advent Calendar",
+  "city": "New Glarus",
+  "cc": "wi",
+  "url": "https://www.swisstown.com/events-ng/adventfenster",
+  "date": "2026-12-01",
+  "cand": 58351,
+  "page": "new-glarus-wi"
+ },
+ {
+  "slug": "visit-santa-and-mrs-claus-at-the-waunakee-village-center-wi",
+  "name": "Visit Santa and Mrs. Claus at the Waunakee Village Center",
+  "city": "Waunakee",
+  "cc": "wi",
+  "url": "https://waunakee.gov/m/calendar/event/detail/6372",
+  "date": "2026-12-05",
+  "cand": 58360,
+  "page": "waunakee-wi"
+ },
+ {
+  "slug": "holiday-light-parade-in-downtown-spring-green-wi",
+  "name": "Holiday Light Parade in Downtown Spring Green",
+  "city": "Spring Green",
+  "cc": "wi",
+  "url": "https://business.springgreen.com/events/details/country-christmas-holiday-light-parade-5700",
+  "date": "2026-12-04",
+  "cand": 58370,
+  "page": "spring-green-wi"
+ },
+ {
+  "slug": "breakfast-with-santa-santas-workshop-and-holiday-fireworks-in-spring-green-wi",
+  "name": "Breakfast with Santa, Santa's Workshop and Holiday Fireworks in Spring Green",
+  "city": "Spring Green",
+  "cc": "wi",
+  "url": "https://business.springgreen.com/events/details/country-christmas-breakfast-with-santa-2026-5701",
+  "date": "2026-12-05",
+  "cand": 58371,
+  "page": "spring-green-wi"
+ },
+ {
+  "slug": "stories-with-santa-at-spring-green-community-library-wi",
+  "name": "Stories with Santa at Spring Green Community Library",
+  "city": "Spring Green",
+  "cc": "wi",
+  "url": "https://www.springgreenlibrary.org/stories-santa-2",
+  "date": "2026-12-12",
+  "cand": 58373,
+  "page": "spring-green-wi"
+ },
+ {
+  "slug": "holly-jolly-sauk-prairie-all-aboard-the-holiday-express-wi",
+  "name": "Holly Jolly Sauk Prairie All Aboard the Holiday Express",
+  "city": "Sauk Prairie",
+  "cc": "wi",
+  "url": "https://members.saukprairie.com/events/details/holly-jolly-sauk-prairie-all-aboard-the-holiday-express-38884",
+  "date": "2026-12-05",
+  "cand": 58374,
+  "page": "spring-green-wi"
+ },
+ {
+  "slug": "free-crafts-n-snacks-with-santa-at-concordia-united-methodist-church-wi",
+  "name": "Free Crafts n Snacks with Santa at Concordia United Methodist Church in Prairie du Sac",
+  "city": "Prairie du Sac",
+  "cc": "wi",
+  "url": "https://members.saukprairie.com/events/details/free-crafts-n-snacks-with-santa-39121",
+  "date": "2026-12-06",
+  "cand": 58375,
+  "page": "spring-green-wi"
+ },
+ {
+  "slug": "santas-visit-and-light-up-livingston-in-livingston-wi",
+  "name": "Santa's Visit and Light Up Livingston in Livingston",
+  "city": "Livingston",
+  "cc": "wi",
+  "url": "https://business.dodgeville.com/events/details/santa-s-visit-light-up-livingston-1999725",
+  "date": "2026-12-05",
+  "cand": 58376,
+  "page": "spring-green-wi"
+ },
+ {
+  "slug": "little-stars-big-countdown-new-years-eve-kids-ball-drop-at-abc-supply-beloit-wi",
+  "name": "Little Stars, Big Countdown New Year's Eve Kids' Ball Drop at ABC Supply Stadium",
+  "city": "Beloit",
+  "cc": "wi",
+  "url": "https://www.milb.com/beloit/news/little-stars-big-countdown-sky-carp-to-host-new-year-s-eve-kids-ball-drop",
+  "date": "2026-12-31",
+  "cand": 58600,
+  "page": "beloit-wi"
+ },
+ {
+  "slug": "lighted-christmas-parade-in-downtown-monroe-wi",
+  "name": "Lighted Christmas Parade in Downtown Monroe",
+  "city": "Monroe",
+  "cc": "wi",
+  "url": "https://www.greencounty.org/organizer/main-street-monroe/",
+  "date": "2026-12-04",
+  "cand": 58610,
+  "page": "janesville-wi"
+ },
+ {
+  "slug": "hometown-christmas-at-leisure-lanes-of-monroe-wi",
+  "name": "Hometown Christmas at Leisure Lanes of Monroe",
+  "city": "Monroe",
+  "cc": "wi",
+  "url": "https://www.greencounty.org/event/hometown-christmas-at-leisure-lanes-of-monroe/",
+  "date": "2026-12-05",
+  "cand": 58611,
+  "page": "janesville-wi"
+ },
+ {
+  "slug": "milton-lighted-christmas-parade-wi",
+  "name": "Milton Lighted Christmas Parade",
+  "city": "Milton",
+  "cc": "wi",
+  "url": "https://www.opendoorsmilton.org/events-1/lighted-christmas-parade",
+  "date": "2026-12-04",
+  "cand": 58620,
+  "page": "milton-wi"
+ },
+ {
+  "slug": "afternoon-with-santa-and-milton-community-tree-lighting-wi",
+  "name": "Afternoon with Santa and Milton Community Tree Lighting",
+  "city": "Milton",
+  "cc": "wi",
+  "url": "https://milton-wi.gov/m/calendar/event/detail/5370",
+  "date": "2026-12-05",
+  "cand": 58621,
+  "page": "milton-wi"
+ },
+ {
+  "slug": "kandu-festive-forest-christmas-tree-display-in-milton-wi",
+  "name": "KANDU Festive Forest Christmas Tree Display in Milton",
+  "city": "Milton",
+  "cc": "wi",
+  "url": "https://www.kanduindustries.com/event/kandus-festive-forest-extravaganza-2026/",
+  "date": "2026-12-05",
+  "cand": 58622,
+  "page": "milton-wi"
+ },
+ {
+  "slug": "edgerton-home-for-the-holidays-lighted-parade-and-tree-lighting-wi",
+  "name": "Edgerton Home for the Holidays Lighted Parade and Tree Lighting",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/home-for-the-holidays-parade-day/",
+  "date": "2026-11-28",
+  "cand": 58630,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "home-for-the-holidays-crafts-and-ornaments-at-edgerton-public-library-wi",
+  "name": "Home for the Holidays Crafts and Ornaments at Edgerton Public Library and Sterling North Museum",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/home-for-the-holidays-at-the-library/",
+  "date": "2026-11-28",
+  "cand": 58631,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "lights-of-central-park-drive-through-display-in-edgerton-wi",
+  "name": "Lights of Central Park Drive-Through Display in Edgerton",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/lights-of-central-park/",
+  "date": "2026-11-26",
+  "cand": 58632,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "breakfast-with-santa-at-edgerton-hospital-wi",
+  "name": "Breakfast with Santa at Edgerton Hospital",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/breakfast-with-santa/",
+  "date": "2026-12-05",
+  "cand": 58633,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "coffee-with-santa-and-buddy-the-elf-at-the-coffee-depot-edgerton-wi",
+  "name": "Coffee with Santa and Buddy the Elf at The Coffee Depot",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/coffee-with-santa/",
+  "date": "2026-12-05",
+  "cand": 58634,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "santa-at-dam-paradise-in-edgerton-wi",
+  "name": "Santa at Dam Paradise in Edgerton",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/meet-santa/",
+  "date": "2026-12-11",
+  "cand": 58635,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "pictures-with-santa-at-lil-fashion-finds-and-consigns-in-edgerton-wi",
+  "name": "Pictures with Santa at Lil Fashion Finds and Consigns in Edgerton",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/pictures-with-santa/",
+  "date": "2026-12-13",
+  "cand": 58636,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "family-fun-night-cookie-decorating-at-edgerton-public-library-wi",
+  "name": "Family Fun Night Cookie Decorating at Edgerton Public Library",
+  "city": "Edgerton",
+  "cc": "wi",
+  "url": "https://visitedgertonwi.com/event/family-fun-night-cookie-decorating/",
+  "date": "2026-12-14",
+  "cand": 58637,
+  "page": "edgerton-wi"
+ },
+ {
+  "slug": "whitewater-parade-of-lights-wi",
+  "name": "Whitewater Parade of Lights",
+  "city": "Whitewater",
+  "cc": "wi",
+  "url": "https://www.wwparks.org/4thofjulyparade",
+  "date": "2026-12-04",
+  "cand": 58640,
+  "page": "whitewater-wi"
+ },
+ {
+  "slug": "christmas-at-cravath-light-display-at-cravath-lakefront-park-whitewater-wi",
+  "name": "Christmas at Cravath Light Display at Cravath Lakefront Park",
+  "city": "Whitewater",
+  "cc": "wi",
+  "url": "https://www.wwparks.org/4thofjulyparade",
+  "date": "2026-12-04",
+  "cand": 58641,
+  "page": "whitewater-wi"
+ },
+ {
+  "slug": "breakfast-for-dinner-with-santa-in-whitewater-wi",
+  "name": "Breakfast for Dinner with Santa in Whitewater",
+  "city": "Whitewater",
+  "cc": "wi",
+  "url": "https://www.wwparks.org/4thofjulyparade",
+  "date": "2026-12-05",
+  "cand": 58642,
+  "page": "whitewater-wi"
+ },
+ {
+  "slug": "decorate-cookies-and-milk-with-santa-in-whitewater-wi",
+  "name": "Decorate Cookies and Milk with Santa in Whitewater",
+  "city": "Whitewater",
+  "cc": "wi",
+  "url": "https://www.wwparks.org/4thofjulyparade",
+  "date": "2026-12-09",
+  "cand": 58643,
+  "page": "whitewater-wi"
+ },
+ {
+  "slug": "swim-with-santa-at-whitewater-aquatic-and-fitness-center-wi",
+  "name": "Swim with Santa at Whitewater Aquatic and Fitness Center",
+  "city": "Whitewater",
+  "cc": "wi",
+  "url": "https://www.wwparks.org/4thofjulyparade",
+  "date": "2026-12-12",
+  "cand": 58644,
+  "page": "whitewater-wi"
+ },
+ {
+  "slug": "real-reindeer-for-christmas-at-cravath-lakefront-park-whitewater-wi",
+  "name": "Real Reindeer for Christmas at Cravath Lakefront Park",
+  "city": "Whitewater",
+  "cc": "wi",
+  "url": "https://www.wwparks.org/4thofjulyparade",
+  "date": "2026-12-17",
+  "cand": 58645,
+  "page": "whitewater-wi"
+ },
+ {
+  "slug": "watertown-holiday-parade-of-lights-wi",
+  "name": "Watertown Holiday Parade of Lights",
+  "city": "Watertown",
+  "cc": "wi",
+  "url": "https://visitwatertownwi.com/events/christmas-parade-of-lights/",
+  "date": "2026-11-28",
+  "cand": 58650,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "santa-house-at-bentzin-family-town-square-in-watertown-wi",
+  "name": "Santa House at Bentzin Family Town Square in Watertown",
+  "city": "Watertown",
+  "cc": "wi",
+  "url": "https://www.watertownwi.gov/events/",
+  "date": "2026-11-28",
+  "cand": 58651,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "a-babes-in-toyland-christmas-holiday-play-at-the-octagon-house-watertown-wi",
+  "name": "A Babes in Toyland Christmas Holiday Play at the Octagon House Museum",
+  "city": "Watertown",
+  "cc": "wi",
+  "url": "https://www.octagonhousemuseum.org/events",
+  "date": "2026-11-28",
+  "cand": 58652,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "history-for-the-holiday-self-guided-christmas-tours-at-the-octagon-watertown-wi",
+  "name": "History for the Holiday Self-Guided Christmas Tours at the Octagon House Museum",
+  "city": "Watertown",
+  "cc": "wi",
+  "url": "https://www.octagonhousemuseum.org/events",
+  "date": "2026-12-12",
+  "cand": 58653,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "fort-atkinson-annual-lighted-holiday-parade-wi",
+  "name": "Fort Atkinson Annual Lighted Holiday Parade",
+  "city": "Fort Atkinson",
+  "cc": "wi",
+  "url": "https://www.fortchamber.com/event-calendar#!event/2026/12/6/annual-lighted-holiday-parade",
+  "date": "2026-12-06",
+  "cand": 58654,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "jefferson-30th-annual-holiday-parade-of-lights-wi",
+  "name": "Jefferson 30th Annual Holiday Parade of Lights",
+  "city": "Jefferson",
+  "cc": "wi",
+  "url": "https://business.jeffersonchamberwi.com/events/details/2026-30th-annual-holiday-parade-of-lights-presented-by-generac-9320",
+  "date": "2026-12-05",
+  "cand": 58655,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "johnson-creek-christmas-tree-lighting-at-veterans-park-wi",
+  "name": "Johnson Creek Christmas Tree Lighting at Veteran's Park",
+  "city": "Johnson Creek",
+  "cc": "wi",
+  "url": "https://vi.johnsoncreek.wi.gov/services/tourism-promotion/events-calendar/10th-annual-johnson-creek-christmas-tree-lighting/",
+  "date": "2026-11-29",
+  "cand": 58656,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "christmas-in-the-village-at-the-johnson-creek-historical-society-wi",
+  "name": "Christmas in the Village at the Johnson Creek Historical Society",
+  "city": "Johnson Creek",
+  "cc": "wi",
+  "url": "https://vi.johnsoncreek.wi.gov/services/tourism-promotion/events-calendar/christmas-in-the-village/",
+  "date": "2026-11-27",
+  "cand": 58657,
+  "page": "watertown-wi"
+ },
+ {
+  "slug": "daytime-christmas-trains-at-east-troy-railroad-museum-wi",
+  "name": "Daytime Christmas Trains at East Troy Railroad Museum",
+  "city": "East Troy",
+  "cc": "wi",
+  "url": "https://www.easttroyrr.org/daytime-christmas-trains1.html",
+  "date": "2026-11-28",
+  "cand": 58660,
+  "page": "east-troy-wi"
+ },
+ {
+  "slug": "santas-special-evening-christmas-trains-at-east-troy-railroad-museum-wi",
+  "name": "Santa's Special Evening Christmas Trains at East Troy Railroad Museum",
+  "city": "East Troy",
+  "cc": "wi",
+  "url": "https://www.easttroyrr.org/santas-special-evening-trains.html",
+  "date": "2026-11-28",
+  "cand": 58661,
+  "page": "east-troy-wi"
+ },
+ {
+  "slug": "east-troy-christmas-parade-train-and-village-square-tree-lighting-wi",
+  "name": "East Troy Christmas Parade Train and Village Square Tree Lighting",
+  "city": "East Troy",
+  "cc": "wi",
+  "url": "https://www.easttroyrr.org/christmas-parade-train.html",
+  "date": "2026-12-05",
+  "cand": 58662,
+  "page": "east-troy-wi"
+ },
+ {
+  "slug": "breakfast-with-santa-at-timber-ridge-lodge-in-lake-geneva-wi",
+  "name": "Breakfast with Santa at Timber Ridge Lodge in Lake Geneva",
+  "city": "Lake Geneva",
+  "cc": "wi",
+  "url": "https://www.timberridgelodge.com/play/christmas",
+  "date": "2026-11-27",
+  "cand": 58670,
+  "page": "lake-geneva-wi"
+ },
+ {
+  "slug": "tour-of-lights-trolley-ride-at-grand-geneva-resort-lake-geneva-wi",
+  "name": "Tour of Lights Trolley Ride at Grand Geneva Resort",
+  "city": "Lake Geneva",
+  "cc": "wi",
+  "url": "https://www.grandgeneva.com/trolley-tour-of-lights",
+  "date": "2026-11-23",
+  "cand": 58671,
+  "page": "lake-geneva-wi"
+ },
+ {
+  "slug": "gingerbread-house-walk-at-grand-geneva-resort-lake-geneva-wi",
+  "name": "Gingerbread House Walk at Grand Geneva Resort",
+  "city": "Lake Geneva",
+  "cc": "wi",
+  "url": "https://www.grandgeneva.com/gingerbread-house-walk",
+  "date": "2026-11-26",
+  "cand": 58672,
+  "page": "lake-geneva-wi"
+ },
+ {
+  "slug": "elkhorn-christmas-card-town-parade-wi",
+  "name": "Elkhorn Christmas Card Town Parade",
+  "city": "Elkhorn",
+  "cc": "wi",
+  "url": "https://www.elkhornchamber.com/christmas-card-town-parade/",
+  "date": "2026-12-05",
+  "cand": 58673,
+  "page": "lake-geneva-wi"
+ },
+ {
+  "slug": "delavan-christmas-tree-lighting-comet-caroling-and-parade-wi",
+  "name": "Delavan Christmas Tree Lighting, Comet Caroling and Parade",
+  "city": "Delavan",
+  "cc": "wi",
+  "url": "https://visitdelavanwi.com/events/2026-12-04/",
+  "date": "2026-12-04",
+  "cand": 58674,
+  "page": "lake-geneva-wi"
+ }
+]
