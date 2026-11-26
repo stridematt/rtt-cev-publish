@@ -1,0 +1,20 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Austin for 2026, and here is what he found: 68 family events, 23 of them free. The magic runs from November 13 through January 18, 2027, with the Austin Trail of Lights, Mozart's Festival of Lights (November 21 to January 3) and Peppermint in the Park at COTALAND (select dates from November 20 to January 3). New in this update: Peppermint in the Park at COTALAND (select dates, November 20 to January 3), Santa on the Terrace at the Long Center (Saturday, November 28) and Tinplate Trackers' holiday model train exhibit at Hill Country Galleria in Bee Cave (November 27 to January 3). We check every date on the host's own website, and each listing links straight there. For the rest of the state, see our <a href=\"/christmas-events/texas\">Texas Christmas events for kids guide</a>.</p><p>Planning Christmas Eve in Austin? Families look for candlelight and family services too, so see <a href=\"/christmas-eve-services/austin-tx\">Christmas Eve service times in Austin</a>.</p><h3>What Rally found in Austin</h3><ul><li>68 family events, 23 of them free</li><li>Meet Santa: Santa on the Terrace at the Long Center, Saturday, November 28; Santa on the Trail at Holly Fishing Pier, Saturday, December 5; Storytime with Santa at the Caswell House, Sunday, December 6; and Kids' Brunch with Santa at Fairmont Austin, December 13 and 19</li><li>Tree lightings and parades: Light Up the Plaza at Hill Country Galleria in Bee Cave (Saturday, November 28) and the Holiday Tree Lighting at Fairmont Austin (Tuesday, December 1)</li><li>Also on the list: 4 skating options, 6 Austin Public Library holiday programs, a holiday model train exhibit, boat rides and lights, plus Nutcracker and holiday stage shows</li><li>Season: November 13 to January 18, 2027</li><li>Every date checked on the host's own site on Nov 25</li></ul><h3>Christmas events near Austin</h3><p>Looking beyond the city? Rally also researched kids' Christmas events in nearby towns: <a href=\"/christmas-events/round-rock-tx\">Round Rock</a>, <a href=\"/christmas-events/cedar-park-tx\">Cedar Park</a>, <a href=\"/christmas-events/leander-tx\">Leander</a>, <a href=\"/christmas-events/pflugerville-tx\">Pflugerville</a>, <a href=\"/christmas-events/georgetown-tx\">Georgetown</a>, <a href=\"/christmas-events/hutto-tx\">Hutto</a>, <a href=\"/christmas-events/kyle-tx\">Kyle</a>, <a href=\"/christmas-events/san-marcos-tx\">San Marcos</a>, <a href=\"/christmas-events/buda-tx\">Buda</a>, <a href=\"/christmas-events/lakeway-tx\">Lakeway</a>, <a href=\"/christmas-events/manor-tx\">Manor</a>.</p>",
+ "seo_title": "Austin Christmas Events for Kids 2026: 68 Events, 23 Free",
+ "seo_description": "Austin Christmas events for kids in 2026: the Austin Trail of Lights and more. 23 of 68 are free.",
+ "counts": {
+  "total": 68,
+  "free": 23,
+  "new": 33,
+  "live_kept": 35,
+  "moved_in": 0,
+  "note": "recount via ?format=json after publish and fix N/F in intro_html, seo_title, seo_description"
+ },
+ "eve": {
+  "url": "/christmas-eve-services/austin-tx",
+  "churches": 31,
+  "faq_question": "Are there Christmas Eve services for families in Austin?",
+  "faq_answer": "Yes. Our <a href=\"/christmas-eve-services/austin-tx\">Christmas Eve services page for Austin</a> lists services and Masses at 31 churches for 2026, with family services and times as each church posts them."
+ },
+ "slug": "austin-tx"
+}

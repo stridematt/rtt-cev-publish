@@ -1,0 +1,20 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in San Marcos for 2026, and here is what he found: 5 family events, 4 of them free. The magic runs from Tuesday, December 1 through Thursday, December 17, with Sights and Sounds of Christmas (Thursday to Saturday, December 3 to 5 and 10 to 12), Merry on the Squarey in Downtown San Marcos (Saturday, December 5) and the Winter Holiday Celebration Family Fun Day at Spring Lake (Saturday, December 5). New in this update: Merry on the Squarey, Santa at the San Marcos Public Library (Tuesday, December 1) and the Winter Holiday Celebration at Spring Lake. We check every date on the host's own website, and each listing links straight there. For the rest of the state, see our <a href=\"/christmas-events/texas\">Texas Christmas events for kids guide</a>.</p><p>Planning a bigger day out? San Marcos families also use our guide to <a href=\"/christmas-events/austin-tx\">Christmas events for kids in Austin</a>, which covers the Austin Trail of Lights, the Zilker Holiday Tree, the North Pole Flyer train ride and dozens of free family events across the area.</p><p>Planning Christmas Eve in San Marcos? Families look for candlelight and family services too, so see <a href=\"/christmas-eve-services/san-marcos-tx\">Christmas Eve service times in San Marcos</a>.</p><h3>What Rally found in San Marcos</h3><ul><li>5 family events, 4 of them free</li><li>Meet Santa: Santa at the San Marcos Public Library, Tuesday, December 1</li><li>Also on the list: a downtown holiday trail with free crafts and an outdoor Christmas Story movie night on Thursday, December 17</li><li>Season: December 1 to December 17, 2026</li><li>Every date checked on the host's own site on Nov 25</li></ul>",
+ "seo_title": "San Marcos Christmas Events for Kids 2026: 5 Events, 4 Free",
+ "seo_description": "San Marcos Christmas events for kids in 2026: Sights and Sounds of Christmas and more. 4 of 5 are free.",
+ "counts": {
+  "total": 5,
+  "free": 4,
+  "new": 4,
+  "live_kept": 1,
+  "moved_in": 0,
+  "note": "recount via ?format=json after publish and fix N/F in intro_html, seo_title, seo_description"
+ },
+ "eve": {
+  "url": "/christmas-eve-services/san-marcos-tx",
+  "churches": 15,
+  "faq_question": "Are there Christmas Eve services for families in San Marcos?",
+  "faq_answer": "Yes. Our <a href=\"/christmas-eve-services/san-marcos-tx\">Christmas Eve services page for San Marcos</a> lists services and Masses at 15 churches for 2026, with family services and times as each church posts them."
+ },
+ "slug": "san-marcos-tx"
+}

@@ -1,0 +1,20 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Hutto for 2026, and here is what he found: 6 family events, 5 of them free. The magic runs from December 5 through Wednesday, December 23, with Light Up Your Night at Adam Orgain Park (December 9 to 23), Christmas at Hogwarts at The Story Emporium and Bookshop (Saturday, December 5) and the downtown tree lighting. New in this update: Light Up Your Night at Adam Orgain Park, Christmas at Hogwarts at The Story Emporium and Mugs and Melodies at the Hutto Family YMCA (Saturday, December 5). We check every date on the host's own website, and each listing links straight there. For the rest of the state, see our <a href=\"/christmas-events/texas\">Texas Christmas events for kids guide</a>.</p><p>Planning a bigger day out? Hutto families also use our guide to <a href=\"/christmas-events/austin-tx\">Christmas events for kids in Austin</a>, which covers the Austin Trail of Lights, the Zilker Holiday Tree, the North Pole Flyer train ride and dozens of free family events across the area.</p><p>Planning Christmas Eve in Hutto? Families look for candlelight and family services too, so see <a href=\"/christmas-eve-services/hutto-tx\">Christmas Eve service times in Hutto</a>.</p><h3>What Rally found in Hutto</h3><ul><li>6 family events, 5 of them free</li><li>Tree lightings and parades: the downtown tree lighting</li><li>Also on the list: a library stocking craft on Saturday, December 12 and a Harry Potter themed bookshop party</li><li>Season: through December 23, 2026</li><li>Every date checked on the host's own site on Nov 25</li></ul>",
+ "seo_title": "Hutto Christmas Events for Kids 2026: 6 Events, 5 Free",
+ "seo_description": "Hutto Christmas events for kids in 2026: Light Up Your Night at Adam Orgain Park and more. 5 of 6 are free.",
+ "counts": {
+  "total": 6,
+  "free": 5,
+  "new": 4,
+  "live_kept": 2,
+  "moved_in": 0,
+  "note": "recount via ?format=json after publish and fix N/F in intro_html, seo_title, seo_description"
+ },
+ "eve": {
+  "url": "/christmas-eve-services/hutto-tx",
+  "churches": 6,
+  "faq_question": "Are there Christmas Eve services for families in Hutto?",
+  "faq_answer": "Yes. Our <a href=\"/christmas-eve-services/hutto-tx\">Christmas Eve services page for Hutto</a> lists services and Masses at 6 churches for 2026, with family services and times as each church posts them."
+ },
+ "slug": "hutto-tx"
+}

@@ -1,0 +1,20 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Georgetown for 2026, and here is what he found: 13 family events, 5 of them free. The magic runs from Friday, November 27 through Tuesday, December 22, with the Lighting of the Square (Friday, November 27), the Hometown Christmas Stroll (Friday, December 4) and The Nutcracker at the Georgetown Palace Theatre (December 5 and 6). New in this update: Sunday with Santa at Garey House (November 29), ROCK Carriage Rides on the Square (December 8 to 20) and Movies in the Park: Elf at San Gabriel Park (Friday, December 18). We check every date on the host's own website, and each listing links straight there. For the rest of the state, see our <a href=\"/christmas-events/texas\">Texas Christmas events for kids guide</a>.</p><p>Planning a bigger day out? Georgetown families also use our guide to <a href=\"/christmas-events/austin-tx\">Christmas events for kids in Austin</a>, which covers the Austin Trail of Lights, the Zilker Holiday Tree, the North Pole Flyer train ride and dozens of free family events across the area.</p><p>Planning Christmas Eve in Georgetown? Families look for candlelight and family services too, so see <a href=\"/christmas-eve-services/georgetown-tx\">Christmas Eve service times in Georgetown</a>.</p><h3>What Rally found in Georgetown</h3><ul><li>13 family events, 5 of them free</li><li>Meet Santa: Sunday with Santa at Garey House, Sunday, November 29; Breakfast with Santa at the Georgetown Community Center, Saturday, December 19; and the Holiday Pajama Jam Sing-a-Long at the Georgetown Palace, December 21 and 22</li><li>Tree lightings and parades: the Lighting of the Square on Friday, November 27, and the Hometown Christmas Stroll on Friday, December 4</li><li>Also on the list: 3 shows and concerts, an Elf movie in the park, carriage rides and Cocoa with Cowboys at the Williamson Museum</li><li>Season: November 27 to December 22, 2026</li><li>Every date checked on the host's own site on Nov 25</li></ul>",
+ "seo_title": "Georgetown Christmas Events for Kids 2026: 13 Events, 5 Free",
+ "seo_description": "Georgetown Christmas events for kids in 2026: the Lighting of the Square and more. 5 of 13 are free.",
+ "counts": {
+  "total": 13,
+  "free": 5,
+  "new": 8,
+  "live_kept": 3,
+  "moved_in": 2,
+  "note": "recount via ?format=json after publish and fix N/F in intro_html, seo_title, seo_description"
+ },
+ "eve": {
+  "url": "/christmas-eve-services/georgetown-tx",
+  "churches": 27,
+  "faq_question": "Are there Christmas Eve services for families in Georgetown?",
+  "faq_answer": "Yes. Our <a href=\"/christmas-eve-services/georgetown-tx\">Christmas Eve services page for Georgetown</a> lists services and Masses at 27 churches for 2026, with family services and times as each church posts them."
+ },
+ "slug": "georgetown-tx"
+}
