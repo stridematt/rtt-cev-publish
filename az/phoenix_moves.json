@@ -1,0 +1,61 @@
+{
+ "_note": "Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move. 'drop' = same event already carded on the town page under another slug.",
+ "off_phoenix_to_mesa": [
+  "a-visit-with-mrs-claus-mesa-az (same slug already on Mesa page: just remove from Phoenix)",
+  "merry-main-street-kick-off-and-christmas-tree-lighting-mesa-az (duplicate of Mesa's merry-main-street-kick-off-tree-lighting-mesa-az: drop from Phoenix)"
+ ],
+ "off_phoenix_to_chandler": [
+  "kids-holiday-workshop-chandler-az",
+  "santas-house-chandler-az",
+  "tumbleweed-tree-lighting-ceremony-and-parade-of-lights-chandler-az",
+  "chandler-for-the-holidays-jacks-winter-wonderland-az",
+  "chandler-for-the-holidays-cookies-and-crafts-with-mrs-claus-az",
+  "family-bucket-drumming-holiday-celebration-chandler-az (all six already live on Chandler: just remove from Phoenix)"
+ ],
+ "off_phoenix_to_tempe": [
+  "christmas-carol-the-musical-storytime-with-azact-tempe-az",
+  "world-of-illumination-reindeer-road-tempe-az",
+  "fantasy-of-lights-street-parade-tree-lighting-tempe-az (duplicate of Tempe's fantasy-of-lights-street-parade-and-tree-lighting-tempe-az: drop)"
+ ],
+ "off_phoenix_to_scottsdale": [
+  "christmas-at-the-princess-scottsdale-az",
+  "holiday-lights-at-mccormick-stillman-railroad-park-scottsdale-az"
+ ],
+ "off_phoenix_to_surprise": [
+  "surprise-party-and-sparkling-surprise-az",
+  "the-desert-lights-festival-formerly-desert-farm-lights-surprise-az"
+ ],
+ "off_phoenix_to_glendale": [
+  "world-of-illumination-candy-rush-phoenix-az (Camelback Ranch, 10710 W Camelback Rd, is in Glendale; card says Phoenix: move and keep slug)",
+  "glendale-glitters-az (duplicate of Glendale kickoff card: drop)"
+ ],
+ "off_phoenix_to_queen_creek": [
+  "christmas-at-schnepf-farms-queen-creek-az"
+ ],
+ "off_phoenix_to_gilbert": [
+  "riparian-after-dark-holiday-light-trail-gilbert-az"
+ ],
+ "off_gilbert_to_queen_creek": [
+  "queen-creek-playdate-jammies-and-jingle-bells-az",
+  "limitless-cookies-with-santa-queen-creek-az"
+ ],
+ "off_casa_grande_to_maricopa": [
+  "merry-copa-maricopa-az"
+ ],
+ "off_surprise_to_litchfield_park": [
+  "las-posadas-in-litchfield-park-az"
+ ],
+ "off_surprise_to_avondale": [
+  "winterfest-at-avondale-civic-center-az"
+ ],
+ "off_surprise_to_buckeye": [
+  "lights-on-legend-candy-cane-stroll-buckeye-az"
+ ],
+ "stay_no_page": [
+  "casa-grande: christmas-in-the-park-and-christmas-light-parade-in-coolidge-az, hometown-holiday-light-parade-florence-az, joy-to-the-herd-stanfield-az, carols-in-the-park-at-arizona-city-park-az (Coolidge, Florence, Stanfield, Arizona City have no page; leave)",
+  "gilbert: holiday-flute-and-guitar-concert-in-sun-lakes-az (Sun Lakes; leave)"
+ ],
+ "expired": [
+  "tempe: holiday-tree-lighting-at-tempe-marketplace-az was Nov 25, already passed; remove or leave, Rally's call"
+ ]
+}
