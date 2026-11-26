@@ -1,0 +1,20 @@
+{
+ "moves": [
+  {
+   "from_page": "springfield-mo",
+   "to_page": "nixa-mo",
+   "card_slug": "cassidy-station-holiday-market-at-estes-farms-nixa-mo"
+  },
+  {
+   "from_page": "springfield-mo",
+   "to_page": "ozark-mo",
+   "card_slug": "dashing-through-the-glow-ozark-mo"
+  },
+  {
+   "from_page": "springfield-mo",
+   "to_page": "drop",
+   "card_slug": "ev-ozark-mayor-s-tree-lighting"
+  }
+ ],
+ "note": "Nixa already has a live page (nixa-mo, 2 cards), so Cassidy Station moves there. Ozark gets its own page (new, about 21,000 people): Dashing Through the Glow moves in. The Ozark Mayor's Tree Lighting card (ev-ozark-mayor-s-tree-lighting, Nov 20) has ended, so it drops; the 61st Ozark Christmas Parade (Nov 21) has ended too and should be dropped if it is carded on springfield-mo. The card id for the tree lighting is given because its slug was not visible in the scraped list. The ozark-christmas-traditions-ash-grove-mo card stays on springfield-mo (Ash Grove folds into Springfield)."
+}
