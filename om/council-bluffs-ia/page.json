@@ -1,0 +1,22 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Council Bluffs for 2026, and here is what he found: 13 family events, 4 of them free. The magic runs from November 28 (Holiday Greenscreen Photos) through December 23 (Syrup with Santa at Crescent Hill at Hitchcock), with Breakfast With Santa at the General Dodge House (December 5), the Polar Express at Watson Station (December 5) and the Santa and Mrs. Claus Jump Event (December 13) along the way. We check every date on the host's own website, and each listing links straight there.</p>\n<h2>What Rally found in Council Bluffs</h2>\n<ul><li>13 Christmas events for kids in Council Bluffs</li><li>4 free events, including Holiday Greenscreen Photos, the Polar Express at Watson Station, the Free Community Christmas Party and Syrup with Santa</li><li>Meet Santa: Breakfast With Santa at the General Dodge House (December 5), the YMCA Breakfast with Santa (December 5), Santa at McMullen Ford (December 5), the Santa and Mrs. Claus Jump Event (December 13)</li><li>Parades and tree lightings: none listed in Council Bluffs for the rest of the season; Winterfest at Bayliss Park was November 20</li><li>Trains: the Polar Express at Watson Station in Missouri Valley (December 5), about 20 miles north</li><li>Season: November 28 to December 23</li></ul>\n<p>Planning a bigger day out? Council Bluffs families also use our guide to Christmas activities for kids in Omaha, which covers Bright Nights at Lauritzen Gardens, Christmas at Union Station at the Durham Museum and Family Nights with Santa.</p>",
+ "seo_title": "Council Bluffs Christmas Events for Kids 2026: 13 Events, 4 Free",
+ "seo_description": "Christmas events for kids in Council Bluffs, Iowa for 2026: 13 family events, 4 free, with dates, times and addresses checked on each host's site.",
+ "slug": "council-bluffs-ia",
+ "name": "Council Bluffs",
+ "moves": {
+  "town": "council-bluffs-ia",
+  "existing_page": true,
+  "move_from_omaha": [
+   "holiday-greenscreen-photos-council-bluffs-ia",
+   "cinnamon-celebration-council-bluffs-ia"
+  ],
+  "new_cands": "72600-72607",
+  "also_folded_in": [
+   "missouri-valley-ia (Polar Express at Watson Station, cand 72602)",
+   "honey-creek-ia (Syrup with Santa, cand 72603)",
+   "glenwood-ia (none found)",
+   "carter-lake-ia (none found)"
+  ]
+ }
+}
