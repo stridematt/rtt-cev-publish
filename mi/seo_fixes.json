@@ -1,0 +1,21 @@
+{
+ "_note": "Search Console (last 28 days, 2026-11-25) click-through fixes for existing Miami-area pages. Apply title + SEO description + og/twitter title/description; set publish date and datePublished to today on each changed page.",
+ "winter-wonderland-experience-homestead-fl": {
+   "why": "729 impressions, 1.5% CTR, position 8. Searches: 'winter wonderland homestead', 'losner park winter wonderland', 'losner park tickets'.",
+   "seo_title": "Winter Wonderland at Losner Park, Homestead 2026: Free",
+   "seo_desc": "Homestead Winter Wonderland at Losner Park runs Nov 21, 2026 to Jan 10, 2027, open sunrise to 10 pm. Free, no tickets needed, with a free trolley."
+ },
+ "ripleys-believe-it-or-not-christmas-park-hialeah-fl": {
+   "why": "148 impressions, 0 clicks, position 8.6. Host is new for 2026 ('South Florida's newest holiday tradition'); title lacks park name and hours.",
+   "seo_title": "Ripley's Christmas Park at Amelia Earhart Park 2026: Hours",
+   "seo_desc": "Ripley's Believe It or Not Christmas Park at Amelia Earhart Park, Hialeah: Nov 12, 2026 to Jan 3, 2027, open nightly 5 pm to midnight. Rides, shows and Santa."
+ },
+ "miami-fl": {
+   "why": "2,392 impressions, 1.9% CTR, position 10.4. Title count will change after this run; keep the format with the new totals and lead with the top new train or Santa event found.",
+   "seo_title": "(set after build) Miami Christmas Events for Kids 2026: N Events, M Free"
+ },
+ "family-movie-day-the-polar-express-miami-fl": {
+   "why": "51 impressions, 0 clicks. Page says 'No price listed on the organizer's page', which breaks the house rule. Confirm free on mdpls.org or the library's own post, else take the card down.",
+   "action": "verify price"
+ }
+}

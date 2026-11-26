@@ -1,0 +1,119 @@
+{
+ "note": "Miami page: add 'Near Miami' (existing: Hialeah, Fort Lauderdale kept) and 'More Miami-area towns' pill blocks linking every new town page, same markup as Chicago's p.rb-n. Each new page links back to Miami via page.json nearby[0].",
+ "new_town_pages": [
+  {
+   "slug": "aventura-fl",
+   "name": "Aventura"
+  },
+  {
+   "slug": "cooper-city-fl",
+   "name": "Cooper City"
+  },
+  {
+   "slug": "coral-gables-fl",
+   "name": "Coral Gables"
+  },
+  {
+   "slug": "cutler-bay-fl",
+   "name": "Cutler Bay"
+  },
+  {
+   "slug": "dania-beach-fl",
+   "name": "Dania Beach"
+  },
+  {
+   "slug": "davie-fl",
+   "name": "Davie"
+  },
+  {
+   "slug": "doral-fl",
+   "name": "Doral"
+  },
+  {
+   "slug": "hallandale-beach-fl",
+   "name": "Hallandale Beach"
+  },
+  {
+   "slug": "hialeah-gardens-fl",
+   "name": "Hialeah Gardens"
+  },
+  {
+   "slug": "hollywood-fl",
+   "name": "Hollywood"
+  },
+  {
+   "slug": "kendall-fl",
+   "name": "Kendall"
+  },
+  {
+   "slug": "key-biscayne-fl",
+   "name": "Key Biscayne"
+  },
+  {
+   "slug": "miami-beach-fl",
+   "name": "Miami Beach"
+  },
+  {
+   "slug": "miami-gardens-fl",
+   "name": "Miami Gardens"
+  },
+  {
+   "slug": "miami-lakes-fl",
+   "name": "Miami Lakes"
+  },
+  {
+   "slug": "miami-springs-fl",
+   "name": "Miami Springs"
+  },
+  {
+   "slug": "miramar-fl",
+   "name": "Miramar"
+  },
+  {
+   "slug": "north-miami-beach-fl",
+   "name": "North Miami Beach"
+  },
+  {
+   "slug": "north-miami-fl",
+   "name": "North Miami"
+  },
+  {
+   "slug": "palmetto-bay-fl",
+   "name": "Palmetto Bay"
+  },
+  {
+   "slug": "pembroke-pines-fl",
+   "name": "Pembroke Pines"
+  },
+  {
+   "slug": "pinecrest-fl",
+   "name": "Pinecrest"
+  },
+  {
+   "slug": "plantation-fl",
+   "name": "Plantation"
+  },
+  {
+   "slug": "south-miami-fl",
+   "name": "South Miami"
+  },
+  {
+   "slug": "sunrise-fl",
+   "name": "Sunrise"
+  },
+  {
+   "slug": "weston-fl",
+   "name": "Weston"
+  }
+ ],
+ "also_link_existing": [
+  [
+   "hialeah-fl",
+   "Hialeah"
+  ],
+  [
+   "homestead-fl",
+   "Homestead"
+  ]
+ ]
+}

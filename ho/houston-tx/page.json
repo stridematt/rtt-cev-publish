@@ -1,0 +1,10 @@
+{
+ "intro_html": "<p>Rally the corgi has sniffed out the best Christmas events for kids in Houston for 2026, and here is what he found: {N} family events, {FREE} of them free. The magic runs from Thursday, November 26 (the H-E-B Thanksgiving Day Parade) through Sunday, January 3, 2027 (the Holiday Train on the Hermann Park Railroad), with Neighborhood Nights: Holiday Edition at Memorial Park (December 4), Deck the Hall at Hermann Square (December 5) and Holiday on the Harbor in Kingwood (December 20) along the way. We check every date on the host's own website, and each listing links straight there.</p>\n<h2>What Rally found in Houston</h2>\n<ul><li>{N} Christmas events for kids in Houston</li><li>{FREE} free events, including Deck the Hall at City Hall, Neighborhood Nights at Memorial Park, the Levy Park Holiday Festival and Holiday on the Harbor in Kingwood</li><li>Meet Santa: free photos at the Levy Park Holiday Festival (December 5 and 6), Memorial Park (December 4) and Kings Harbor (December 20)</li><li>Parades and tree lightings: the H-E-B Thanksgiving Day Parade and Deck the Hall, the Mayor's Holiday Tree Lighting with fireworks on December 5</li><li>Trains: the Holiday Train on the Hermann Park Railroad, a train ride at Neighborhood Nights, and the LITH Holiday Hayride in Woodland Heights on ten December nights</li><li>Season: November 26, 2026 to January 3, 2027</li></ul>",
+ "seo_title": "Houston Christmas Events for Kids 2026: Trains and Lights",
+ "seo_description": "Christmas events for kids in Houston, TX in 2026: dates, times, prices and addresses checked on each host's own site.",
+ "slug": "houston-tx",
+ "name": "Houston",
+ "existing_page": true,
+ "intro_needs_recount": "Replace {N} and {FREE} with the live card counts after the suburb moves and the 26 new Houston events are carded.",
+ "christmas_eve_page": "/christmas-eve-services/houston-tx"
+}

@@ -1,0 +1,634 @@
+{
+ "_note": "Rally rule (Nov 25): when a suburb gets its own page, move its events off /christmas-events/miami-fl onto the town page (same event page, same slug), and the Miami page links to the town instead. Never show on both. 'id' is the card's section id on the Miami page. For hialeah-fl (existing), first check whether the card is already on hialeah-fl; if so just remove it from Miami.",
+ "moves": [
+  {
+   "id": "ev-north-miami-beach-city-of-north-miami-beach-snow",
+   "slug": "city-of-north-miami-beach-snow-fest-fl",
+   "ty": "outing",
+   "fl": "free weekend",
+   "town": "Miami",
+   "addr_city": "North Miami Beach",
+   "name": "City of North Miami Beach Snow Fest",
+   "d": [
+    [
+     "2026-12-12",
+     "17:00",
+     "22:00",
+     ""
+    ]
+   ],
+   "to": "north-miami-beach-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-cutler-bay-holiday-golf-cart-parade-toy-drive",
+   "slug": "holiday-golf-cart-parade-toy-drive-and-winter-celebration-cutler-bay-fl",
+   "ty": "parade santa",
+   "fl": "free weekend",
+   "town": "Miami",
+   "addr_city": "Cutler Bay",
+   "name": "Holiday Golf Cart Parade, Toy Drive and Winter Celebration",
+   "d": [
+    [
+     "2026-12-19",
+     "17:00",
+     "21:00",
+     ""
+    ]
+   ],
+   "to": "cutler-bay-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-hialeah-stories-with-mrs-claus",
+   "slug": "stories-with-mrs-claus-hialeah-fl",
+   "ty": "santa story",
+   "fl": "free indoor",
+   "town": "Hialeah",
+   "addr_city": "Hialeah",
+   "name": "Stories with Mrs. Claus",
+   "d": [
+    [
+     "2026-12-03",
+     "16:00",
+     "17:00",
+     ""
+    ]
+   ],
+   "to": "hialeah-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-kendall-2nd-annual-winter-wonderland",
+   "slug": "2nd-annual-winter-wonderland-kendall-fl",
+   "ty": "story crafts",
+   "fl": "free weekend indoor",
+   "town": "Kendall",
+   "addr_city": "Kendall",
+   "name": "2nd Annual Winter Wonderland",
+   "d": [
+    [
+     "2026-12-12",
+     "13:00",
+     "16:00",
+     ""
+    ]
+   ],
+   "to": "kendall-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-kendall-here-comes-santa",
+   "slug": "here-comes-santa-kendall-fl",
+   "ty": "santa crafts",
+   "fl": "free weekend indoor",
+   "town": "Kendall",
+   "addr_city": "Kendall",
+   "name": "Here Comes Santa!",
+   "d": [
+    [
+     "2026-12-12",
+     "14:00",
+     "17:00",
+     ""
+    ]
+   ],
+   "to": "kendall-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-miami-beach-miami-beach-holiday-festival-of-lights",
+   "slug": "miami-beach-holiday-festival-of-lights-fl",
+   "ty": "lights show santa",
+   "fl": "free weekend",
+   "town": "Miami Beach",
+   "addr_city": "Miami Beach",
+   "name": "Miami Beach Holiday Festival of Lights",
+   "d": [
+    [
+     "2026-12-12",
+     "18:15",
+     "",
+     ""
+    ],
+    [
+     "2026-12-13",
+     "18:00",
+     "",
+     ""
+    ],
+    [
+     "2026-12-19",
+     "18:00",
+     "",
+     ""
+    ],
+    [
+     "2026-12-20",
+     "18:00",
+     "",
+     ""
+    ]
+   ],
+   "to": "miami-beach-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-miami-christmas-tree-lighting-at-the-plaza-coral-gables",
+   "slug": "christmas-tree-lighting-at-the-plaza-coral-gables-fl",
+   "ty": "lights santa",
+   "fl": "free",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "Christmas Tree Lighting at The Plaza Coral Gables",
+   "d": [
+    [
+     "2026-12-03",
+     "18:00",
+     "21:00",
+     ""
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-doral-downtown-doral-christmas-cinema",
+   "slug": "downtown-doral-christmas-cinema-fl",
+   "ty": "show santa",
+   "fl": "weekend",
+   "town": "Miami",
+   "addr_city": "Doral",
+   "name": "Downtown Doral Christmas Cinema",
+   "d": [
+    [
+     "2026-12-11",
+     "18:30",
+     "",
+     ""
+    ],
+    [
+     "2026-12-12",
+     "18:30",
+     "",
+     ""
+    ],
+    [
+     "2026-12-18",
+     "18:30",
+     "",
+     ""
+    ],
+    [
+     "2026-12-19",
+     "18:30",
+     "",
+     ""
+    ]
+   ],
+   "to": "doral-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-coral-gables-nightgarden-at-fairchild",
+   "slug": "nightgarden-at-fairchild-coral-gables-fl",
+   "ty": "lights outing",
+   "fl": "weekend",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "NightGarden at Fairchild",
+   "d": [
+    [
+     "2026-11-13",
+     "",
+     "",
+     "2027-01-03"
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-coral-gables-merrick-festival-caroling-competition",
+   "slug": "merrick-festival-caroling-competition-coral-gables-fl",
+   "ty": "show",
+   "fl": "weekend",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "Merrick Festival Caroling Competition",
+   "d": [
+    [
+     "2026-12-02",
+     "19:00",
+     "22:00",
+     "2026-12-06"
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-coral-gables-photos-with-santa",
+   "slug": "photos-with-santa-coral-gables-fl",
+   "ty": "santa",
+   "fl": "weekend",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "Photos With Santa",
+   "d": [
+    [
+     "2026-12-05",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-10",
+     "17:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-11",
+     "17:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-12",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-13",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-17",
+     "17:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-18",
+     "17:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-19",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-20",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-21",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-22",
+     "14:00",
+     "22:00",
+     ""
+    ],
+    [
+     "2026-12-23",
+     "14:00",
+     "22:00",
+     ""
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-miami-breakfast-and-dinner-with-santa-at-neiman-marcus-coral-gables",
+   "slug": "breakfast-and-dinner-with-santa-at-neiman-marcus-coral-gables-fl",
+   "ty": "santa food",
+   "fl": "weekend",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "Breakfast and Dinner with Santa at Neiman Marcus Coral Gables",
+   "d": [
+    [
+     "2026-12-05",
+     "09:00",
+     "10:00",
+     ""
+    ],
+    [
+     "2026-12-11",
+     "18:00",
+     "20:00",
+     ""
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-coral-gables-junior-orange-bowl-parade",
+   "slug": "junior-orange-bowl-parade-coral-gables-fl",
+   "ty": "parade santa",
+   "fl": "weekend",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "Junior Orange Bowl Parade",
+   "d": [
+    [
+     "2026-12-06",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-coral-gables-the-muppets-christmas-carol",
+   "slug": "the-muppets-christmas-carol-coral-gables-fl",
+   "ty": "show",
+   "fl": "weekend indoor",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "The Muppets Christmas Carol",
+   "d": [
+    [
+     "2026-12-12",
+     "11:00",
+     "",
+     ""
+    ],
+    [
+     "2026-12-13",
+     "11:00",
+     "",
+     ""
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-miami-cookies-with-santa-at-hotel-colonnade-coral-gables",
+   "slug": "cookies-with-santa-at-hotel-colonnade-coral-gables-fl",
+   "ty": "santa food",
+   "fl": "weekend",
+   "town": "Coral Gables",
+   "addr_city": "Coral Gables",
+   "name": "Cookies with Santa at Hotel Colonnade Coral Gables",
+   "d": [
+    [
+     "2026-12-13",
+     "11:00",
+     "13:00",
+     ""
+    ]
+   ],
+   "to": "coral-gables-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-hialeah-santa-s-snow-blast",
+   "slug": "santas-snow-blast-hialeah-fl",
+   "ty": "outing",
+   "fl": "weekend",
+   "town": "Hialeah",
+   "addr_city": "Hialeah",
+   "name": "Santa's Snow Blast",
+   "d": [
+    [
+     "2026-12-05",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "to": "hialeah-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-hialeah-ripley-s-believe-it-or-not",
+   "slug": "ripleys-believe-it-or-not-christmas-park-hialeah-fl",
+   "ty": "lights santa show outing",
+   "fl": "weekend",
+   "town": "Hialeah",
+   "addr_city": "Hialeah",
+   "name": "Ripley's Believe It or Not! Christmas Park",
+   "d": [
+    [
+     "2026-11-12",
+     "",
+     "",
+     "2027-01-03"
+    ]
+   ],
+   "to": "hialeah-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-palmetto-bay-story-time-photos-with",
+   "slug": "story-time-and-photos-with-santa-palmetto-bay-fl",
+   "ty": "santa story crafts market",
+   "fl": "weekend",
+   "town": "Palmetto Bay",
+   "addr_city": "Palmetto Bay",
+   "name": "Story-Time & Photos with Santa",
+   "d": [
+    [
+     "2026-12-05",
+     "10:00",
+     "16:00",
+     ""
+    ]
+   ],
+   "to": "palmetto-bay-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-palmetto-bay-historic-holidays-decor-tides-and-tidings",
+   "slug": "historic-holidays-decor-tides-and-tidings-palmetto-bay-fl",
+   "ty": "outing lights",
+   "fl": "weekend",
+   "town": "Palmetto Bay",
+   "addr_city": "Palmetto Bay",
+   "name": "Historic Holidays Decor: Tides and Tidings",
+   "d": [
+    [
+     "2026-11-27",
+     "10:00",
+     "16:00",
+     "2027-01-06"
+    ]
+   ],
+   "to": "palmetto-bay-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-palmetto-bay-light-up-your-holidays",
+   "slug": "light-up-your-holidays-palmetto-bay-fl",
+   "ty": "lights show",
+   "fl": "weekend",
+   "town": "Palmetto Bay",
+   "addr_city": "Palmetto Bay",
+   "name": "Light Up Your Holidays",
+   "d": [
+    [
+     "2026-12-05",
+     "18:00",
+     "21:00",
+     ""
+    ]
+   ],
+   "to": "palmetto-bay-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-palmetto-bay-holiday-house-tour-and-campfire",
+   "slug": "holiday-house-tour-and-campfire-palmetto-bay-fl",
+   "ty": "outing lights",
+   "fl": "",
+   "town": "Palmetto Bay",
+   "addr_city": "Palmetto Bay",
+   "name": "Holiday House Tour and Campfire",
+   "d": [
+    [
+     "2026-12-08",
+     "17:30",
+     "21:00",
+     ""
+    ],
+    [
+     "2026-12-16",
+     "17:30",
+     "21:00",
+     ""
+    ],
+    [
+     "2026-12-22",
+     "17:30",
+     "21:00",
+     ""
+    ]
+   ],
+   "to": "palmetto-bay-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-pinecrest-nights-of-lights",
+   "slug": "nights-of-lights-at-pinecrest-gardens-fl",
+   "ty": "santa lights story crafts market",
+   "fl": "weekend",
+   "town": "Pinecrest",
+   "addr_city": "Pinecrest",
+   "name": "Nights of Lights at Pinecrest Gardens",
+   "d": [
+    [
+     "2026-12-04",
+     "18:30",
+     "22:00",
+     "2026-12-27"
+    ]
+   ],
+   "to": "pinecrest-fl",
+   "cond": "only if the town page is built"
+  },
+  {
+   "id": "ev-miami-nutcracker-tea-party-with-arts-ballet-theatre-of-florida",
+   "slug": "nutcracker-tea-party-with-arts-ballet-theatre-of-florida-aventura-fl",
+   "ty": "show food",
+   "fl": "weekend",
+   "town": "Aventura",
+   "addr_city": "Aventura",
+   "name": "Nutcracker Tea Party with Arts Ballet Theatre of Florida",
+   "d": [
+    [
+     "2026-12-05",
+     "15:00",
+     "17:00",
+     ""
+    ]
+   ],
+   "to": "aventura-fl",
+   "cond": ""
+  },
+  {
+   "id": "ev-christmas-family-ball-fort-lauderdale-fl",
+   "slug": "christmas-family-ball-fort-lauderdale-fl",
+   "ty": "show",
+   "fl": "indoor",
+   "town": "Miami",
+   "addr_city": "Aventura",
+   "name": "Christmas Family Ball",
+   "d": [
+    [
+     "2026-12-20",
+     "12:00",
+     "13:30",
+     ""
+    ],
+    [
+     "2026-12-20",
+     "18:00",
+     "19:30",
+     ""
+    ],
+    [
+     "2026-12-29",
+     "18:00",
+     "19:30",
+     ""
+    ]
+   ],
+   "to": "aventura-fl",
+   "cond": ""
+  },
+  {
+   "slug": "winter-festival-at-the-berry-farm-miami-fl",
+   "ty": "lights outing",
+   "fl": "",
+   "town": "Miami",
+   "addr_city": "Homestead",
+   "name": "Winter Festival at The Berry Farm",
+   "d": [],
+   "to": "homestead-fl",
+   "cond": "address 13720 SW 216th St is Homestead area; Miami mailing address"
+  },
+  {
+   "slug": "holiday-open-house-dania-beach-fl",
+   "ty": "",
+   "fl": "",
+   "town": "Fort Lauderdale",
+   "addr_city": "Dania Beach",
+   "name": "Holiday Open House",
+   "d": [],
+   "to": "dania-beach-fl",
+   "from_page": "fort-lauderdale-fl",
+   "cond": "Coordinator decision Nov 26: move off fort-lauderdale-fl onto dania-beach-fl"
+  },
+  {
+   "slug": "cookies-and-cocoa-evening-storytime-dania-beach-fl",
+   "ty": "",
+   "fl": "",
+   "town": "Fort Lauderdale",
+   "addr_city": "Dania Beach",
+   "name": "Cookies and Cocoa Evening Storytime",
+   "d": [],
+   "to": "dania-beach-fl",
+   "from_page": "fort-lauderdale-fl",
+   "cond": "Coordinator decision Nov 26: move off fort-lauderdale-fl onto dania-beach-fl"
+  }
+ ]
+}
