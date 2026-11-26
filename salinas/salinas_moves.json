@@ -103,5 +103,5 @@
    "note": "Event is at 364 7th St, Hollister; Hollister gets a new page"
   }
  ],
- "note": "Master moves for the Salinas run (A+B+C merged, de-duplicated). Salinas-ca ends with no old cards: all 16 move or drop. Verify each source card exists live first. Also check live card holiday-tree-lighting-at-del-monte-center-monterey-ca (Monterey event, not on salinas-ca): move to monterey-ca if carded elsewhere. Remove dead planner rows afterwards."
+ "note": "Master moves for the Salinas run (A+B+C merged, de-duplicated). All 16 old salinas-ca cards move or drop. Verify each source card exists live first. Also: the 10 moved Monterey event pages, 2 Carmel pages, the wreathmaking page and the Seaside pages have breadcrumb and 'more near' links to salinas-ca; repoint them to the new parent page (monterey-ca, carmel-by-the-sea-ca, pacific-grove-ca, seaside-ca). holiday-tree-lighting-at-del-monte-center-monterey-ca: the event page is live but ended Nov 21, 2026, it is not carded on salinas-ca or any page checked, so do NOT card it; if it must stay, repoint its links from salinas-ca to monterey-ca. Remove dead planner rows afterwards."
 }
