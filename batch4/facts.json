@@ -1,0 +1,168 @@
+[
+ {
+  "cand": 41501,
+  "name": "Edinburg Tree Lighting Ceremony at Promenade Park Amphitheater",
+  "town": "Edinburg",
+  "venue": "Promenade Park Amphitheater",
+  "address": "212 W. McIntyre, Edinburg, TX 78539",
+  "times": [
+   [
+    "2026-12-03",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "City staff host activities from 6 to 9 pm, and the tree lights at 6:30 pm.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "City of Edinburg",
+  "url": "https://www.cityofedinburg.com/news_detail_T3_R150.php",
+  "kind": "lights",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The City of Edinburg lights its official Christmas tree on Thursday, December 3, 2026, at the Promenade Park Amphitheater, 212 W. McIntyre. The ceremony is at 6:30 pm, and city staff host activities from 6 to 9 pm.",
+   "The city lists live music, games, a petting zoo, food vendors and pictures with Santa. The tree lighting kicks off a two-day celebration, and the Night of Lights Parade follows the next evening on Closner Boulevard."
+  ],
+  "tip": "Check the city's flyer for the full activity list before you go."
+ },
+ {
+  "cand": 41502,
+  "name": "Edinburg Night of Lights Parade",
+  "town": "Edinburg",
+  "venue": "Closner Boulevard",
+  "address": "Closner Blvd., Edinburg, TX 78539",
+  "times": [
+   [
+    "2026-12-04",
+    "19:00",
+    "21:00"
+   ]
+  ],
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Edinburg Chamber of Commerce",
+  "url": "https://www.cityofedinburg.com/news_detail_T3_R150.php",
+  "kind": "parade",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The Edinburg Chamber of Commerce presents the Night of Lights Parade on Friday, December 4, 2026, starting at 7 pm along Closner Boulevard in downtown Edinburg. This year's theme is Christmas in the Toy Box.",
+   "The city says local organizations build the floats, and the theme draws on childhood favorites. The parade is the second night of a two-day holiday celebration that begins with the tree lighting on December 3."
+  ],
+  "tip": "Santa and Sirens runs the same evening at Promenade Park Amphitheater, so families can plan around both."
+ },
+ {
+  "cand": 41503,
+  "name": "Santa and Sirens at Promenade Park Amphitheater",
+  "town": "Edinburg",
+  "venue": "Promenade Park Amphitheater",
+  "address": "212 W. McIntyre, Edinburg, TX 78539",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "22:00"
+   ]
+  ],
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Edinburg Fire Department",
+  "url": "https://www.cityofedinburg.com/news_detail_T3_R150.php",
+  "kind": "santa",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The Edinburg Fire Department hosts Santa and Sirens on Friday, December 4, 2026, from 6 to 10 pm at the Promenade Park Amphitheater. The city describes it as the department's Firestoppers Festival, rescheduled from October.",
+   "The festival has festive rides, a petting zoo, carolers and educational activities on fire prevention, all at the amphitheater."
+  ],
+  "tip": "The Night of Lights Parade starts at 7 pm the same night on Closner Boulevard."
+ },
+ {
+  "cand": 41504,
+  "name": "Mayor's Annual Christmas Tree Lighting at Leo Pena Placita Park",
+  "town": "Mission",
+  "venue": "Leo Pena Placita Park",
+  "address": "Leo Pena Placita Park, Mission, TX 78572",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "The tree lights at 6:30 pm.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "City of Mission",
+  "url": "https://missiontexas.us/calendar.aspx?PREVIEW=YES&EID=655",
+  "kind": "lights",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The City of Mission holds the Mayor's Annual Christmas Tree Lighting on Friday, December 4, 2026, from 6 to 9 pm at Leo Pena Placita Park. The tree lights at 6:30 pm.",
+   "The city lists a visit with Santa, arts and crafts, student performances, food vendors, hot cocoa, sweet treats and bike raffles throughout the evening."
+  ],
+  "tip": "Parks and Recreation takes questions about the event at 956-580-8760."
+ },
+ {
+  "cand": 41505,
+  "name": "Winter Wonderland in Downtown Pharr",
+  "town": "Pharr",
+  "venue": "Downtown Pharr",
+  "address": "118 S. Cage Blvd., Pharr, TX 78577",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "22:30"
+   ]
+  ],
+  "when_note": "The tree lights at 7 pm.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "City of Pharr",
+  "url": "https://pharr-tx.gov/event/winter-wonderland-2026/",
+  "kind": "lights",
+  "indoor": false,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "The City of Pharr hosts Winter Wonderland 2026 in downtown Pharr on Friday, December 4, from 6 to 10:30 pm, at 118 S. Cage Blvd. The annual Christmas Tree Lighting Ceremony is at 7 pm.",
+   "The city lists festive entertainment, local shopping and holiday treats, and files the event under children's events."
+  ],
+  "tip": "Pharr's Christmas Night at the Library follows on December 15 for another family evening."
+ },
+ {
+  "cand": 41506,
+  "name": "Annual Christmas Night at the Library at Pharr Memorial Library",
+  "town": "Pharr",
+  "venue": "Pharr Memorial Library",
+  "address": "121 E. Cherokee Ave., Pharr, TX 78577",
+  "times": [
+   [
+    "2026-12-15",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Photos with Santa begin at 5 pm.",
+  "cost": "Price not listed",
+  "ages": "Kids and families",
+  "host": "City of Pharr",
+  "url": "https://pharr-tx.gov/event/annual-christmas-night-at-the-library/",
+  "kind": "santa",
+  "indoor": true,
+  "page": "mcallen-tx",
+  "page_name": "McAllen",
+  "paras": [
+   "Pharr Memorial Library holds its Annual Christmas Night at the Library on Tuesday, December 15, 2026, at 121 E. Cherokee Ave. The program starts at 6 pm, and photos with Santa begin at 5 pm.",
+   "The city lists storytime, live dance performances, hot chocolate and cookies, children's activities, a book giveaway and a toy raffle. The event is filed under children's events on the city's calendar."
+  ],
+  "tip": "Arrive by 5 pm if you want a photo with Santa before the 6 pm program."
+ }
+]
