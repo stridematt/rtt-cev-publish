@@ -1,0 +1,21 @@
+{
+ "bright-nights-at-forest-park-springfield-ma": {
+  "cand": 42001,
+  "kids": ["Drive through Seuss Land and Toy Land from the back seat","Spot the 50-foot Grand Christmas Tree and its music","Visit Santa in Santa's Magical Forest","Pick up treats and souvenirs","Tune the car radio to WELF 100.7 FM"],
+  "site": ["Drive-through lights","Seuss Land","Toy Land","Victorian Village","Grand Christmas Tree","Santa visits","Treats and souvenirs"],
+  "table": [["Host","Spirit of Springfield and the City of Springfield"],["Dates","November 25, 2026 to January 3, 2027, closed November 30 and December 1"],["Hours","5 to 9 pm Sunday to Thursday, 5 to 10 pm Friday, Saturday and Christmas Eve"],["Admission","$30 per car plus a $2 ticket fee; $20 plus the fee from December 28"]],
+  "about": ["It is run by the City of Springfield's Parks department and the nonprofit Spirit of Springfield, and the three-mile route has been a local tradition since 1995."],
+  "faq": [["How much is Bright Nights at Forest Park?","General admission is $30 per car plus a $2 ticket fee, and it covers everyone in the car. From December 28 through January 3 the price drops to $20 per car plus the fee."],
+          ["Do you need to buy Bright Nights tickets ahead?","Yes. Tickets are sold in advance online or at Big Y stores, and they are not date specific."],
+          ["Is Santa at Bright Nights?","Yes, Santa is in Santa's Magical Forest every night through Christmas Eve for photos."]]
+ },
+ "caroling-sing-a-long-and-tree-lighting-west-springfield-ma": {
+  "cand": 42002,
+  "kids": ["Sing carols with local elementary school students","Watch the trees light up","Drop an unwrapped toy in the Stuff-A-Cruiser"],
+  "site": ["Caroling","Tree lighting","Toy drive"],
+  "table": [["Host","West Springfield Park and Recreation Department"],["Date","Thursday, December 10, 2026"],["Hours","5:30 to 6:30 pm"],["Admission","Price not listed"]],
+  "about": ["West Springfield's schools take part each year, with four elementary schools singing and the School Department throwing the switch."],
+  "faq": [["Where is the West Springfield tree lighting?","It is outside Town Hall at 26 Central Street, on Thursday, December 10, 2026, starting at 5:30 pm."],
+          ["What is Stuff-A-Cruiser?","The West Springfield police host it at the same spot, collecting unwrapped toys for the Operation Santa program."]]
+ }
+}

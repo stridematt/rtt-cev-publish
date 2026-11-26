@@ -1,0 +1,16 @@
+[
+ {"cand":42001,"name":"Bright Nights at Forest Park","town":"Springfield","venue":"Forest Park","address":"295 Sumner Avenue, Springfield, MA 01108",
+  "range":["2026-11-25","2027-01-03","17:00","21:00"],
+  "when_note":"Open nightly except Monday, November 30 and Tuesday, December 1. Hours are 5 to 9 pm Sunday through Thursday and 5 to 10 pm on Fridays, Saturdays and Christmas Eve.",
+  "cost":"$30 per car plus a $2 ticket fee ($20 per car plus the fee from December 28)","ages":"All ages","host":"Spirit of Springfield and the City of Springfield","url":"https://www.brightnights.org/dates-rates","tickets":"https://brightnights.ticketspice.com/bright-nights-at-forest-park-2026",
+  "kind":"lights","indoor":false,"page":"springfield-ma","page_name":"Springfield",
+  "paras":["You stay in the car for this one, which is half the appeal with little kids. Bright Nights winds three miles through Forest Park past more than 750,000 lights, and the 2026 season runs from November 25 through January 3. It is closed on Monday, November 30 and Tuesday, December 1.",
+           "Watch for Seuss Land, Toy Land and the Victorian Village, then the 50-foot Grand Christmas Tree that moves to music. Santa is in Santa's Magical Forest every night through Christmas Eve, along with treats and photo spots. One ticket covers the whole car, and tickets have to be bought ahead online or at Big Y."],
+  "tip":"Buy tickets before you leave home, since they are sold in advance, and set the GPS to 295 Sumner Avenue, where the line forms."},
+ {"cand":42002,"name":"Caroling Sing-A-Long and Tree Lighting","town":"West Springfield","venue":"West Springfield Town Hall","address":"26 Central Street, West Springfield, MA 01089",
+  "times":[["2026-12-10","17:30","18:30"]],"cost":"Price not listed","ages":"All ages","host":"West Springfield Park and Recreation Department","url":"https://www.townofwestspringfield.org/Community-Resources/Events/Caroling-Sing-A-Long",
+  "kind":"parade","indoor":false,"page":"springfield-ma","page_name":"Springfield",
+  "paras":["West Springfield holds its 38th annual tree lighting outside Town Hall on Thursday, December 10, 2026, starting at 5:30 pm. City officials are introduced first, then students from Coburn, Tatham, Memorial and Fausey elementary schools lead the carols. The evening wraps up around 6:30 pm.",
+           "The trees light up at the end, when the West Springfield School Department throws the switch. The police department is running a Stuff-A-Cruiser toy drive at the same spot, so bring an unwrapped toy if you would like to give one to the Operation Santa program for local families."],
+  "tip":"It is a short evening, so get there a few minutes before 5:30 pm with an unwrapped toy for the cruiser."}
+]
