@@ -1,0 +1,346 @@
+[
+ {
+  "bundle": "D-extra/abington-pa/bundle.json.gz",
+  "card_pages": [
+   "abington-pa"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/abington-pa-D-bundle.json.gz"
+ },
+ {
+  "bundle": "D-extra/doylestown-pa/bundle.json.gz",
+  "card_pages": [
+   "doylestown-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/doylestown-pa-D-bundle.json.gz"
+ },
+ {
+  "bundle": "D-extra/lansdale-pa/bundle.json.gz",
+  "card_pages": [
+   "lansdale-pa"
+  ],
+  "events": 5,
+  "repo_file": "philadelphia/lansdale-pa-D-bundle.json.gz"
+ },
+ {
+  "bundle": "D-extra/levittown-pa/bundle.json.gz",
+  "card_pages": [
+   "levittown-pa"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/levittown-pa-D-bundle.json.gz"
+ },
+ {
+  "bundle": "D-extra/newtown-pa/bundle.json.gz",
+  "card_pages": [
+   "newtown-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/newtown-pa-D-bundle.json.gz"
+ },
+ {
+  "bundle": "D-extra/pottstown-pa/bundle.json.gz",
+  "card_pages": [
+   "pottstown-pa"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/pottstown-pa-D-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/berwyn-pa/bundle.json.gz",
+  "card_pages": [
+   "malvern-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/berwyn-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/exton-pa/bundle.json.gz",
+  "card_pages": [
+   "downingtown-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/exton-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/kennett-square-pa/bundle.json.gz",
+  "card_pages": [
+   "kennett-square-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/kennett-square-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/malvern-pa/bundle.json.gz",
+  "card_pages": [
+   "malvern-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/malvern-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/new-castle-de/bundle.json.gz",
+  "card_pages": [
+   "wilmington-de"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/new-castle-de-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/newtown-square-pa/bundle.json.gz",
+  "card_pages": [
+   "media-pa"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/newtown-square-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/oxford-pa/bundle.json.gz",
+  "card_pages": [
+   "kennett-square-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/oxford-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/springfield-pa/bundle.json.gz",
+  "card_pages": [
+   "media-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/springfield-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/wayne-pa/bundle.json.gz",
+  "card_pages": [
+   "wayne-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/wayne-pa-E-bundle.json.gz"
+ },
+ {
+  "bundle": "E-extra/wilmington-de/bundle.json.gz",
+  "card_pages": [
+   "wilmington-de"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/wilmington-de-E-bundle.json.gz"
+ },
+ {
+  "bundle": "abington-pa/bundle.json.gz",
+  "card_pages": [
+   "abington-pa"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/abington-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "camden-nj/bundle.json.gz",
+  "card_pages": [
+   "camden-nj"
+  ],
+  "events": 5,
+  "repo_file": "philadelphia/camden-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "chadds-ford-pa/bundle.json.gz",
+  "card_pages": [
+   "chadds-ford-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/chadds-ford-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "cherry-hill-nj/bundle.json.gz",
+  "card_pages": [
+   "cherry-hill-nj"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/cherry-hill-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "collingswood-nj/bundle.json.gz",
+  "card_pages": [
+   "collingswood-nj"
+  ],
+  "events": 4,
+  "repo_file": "philadelphia/collingswood-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "downingtown-pa/bundle.json.gz",
+  "card_pages": [
+   "downingtown-pa"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/downingtown-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "doylestown-pa/bundle.json.gz",
+  "card_pages": [
+   "doylestown-pa"
+  ],
+  "events": 4,
+  "repo_file": "philadelphia/doylestown-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "glassboro-nj/bundle.json.gz",
+  "card_pages": [
+   "glassboro-nj"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/glassboro-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "gloucester-township-nj/bundle.json.gz",
+  "card_pages": [
+   "gloucester-township-nj"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/gloucester-township-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "havertown-pa/bundle.json.gz",
+  "card_pages": [
+   "havertown-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/havertown-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "king-of-prussia-pa/bundle.json.gz",
+  "card_pages": [
+   "king-of-prussia-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/king-of-prussia-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "levittown-pa/bundle.json.gz",
+  "card_pages": [
+   "levittown-pa"
+  ],
+  "events": 5,
+  "repo_file": "philadelphia/levittown-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "media-pa/bundle.json.gz",
+  "card_pages": [
+   "media-pa"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/media-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "middletown-de/bundle.json.gz",
+  "card_pages": [
+   "middletown-de"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/middletown-de-bundle.json.gz"
+ },
+ {
+  "bundle": "mount-laurel-nj/bundle.json.gz",
+  "card_pages": [
+   "mount-laurel-nj"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/mount-laurel-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "new-hope-pa/bundle.json.gz",
+  "card_pages": [
+   "new-hope-pa"
+  ],
+  "events": 4,
+  "repo_file": "philadelphia/new-hope-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "newark-de/bundle.json.gz",
+  "card_pages": [
+   "newark-de"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/newark-de-bundle.json.gz"
+ },
+ {
+  "bundle": "norristown-pa/bundle.json.gz",
+  "card_pages": [
+   "norristown-pa"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/norristown-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "perkasie-pa/bundle.json.gz",
+  "card_pages": [
+   "perkasie-pa"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/perkasie-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "philadelphia-pa/bundle.json.gz",
+  "card_pages": [
+   "philadelphia-pa"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/philadelphia-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "pottstown-pa/bundle.json.gz",
+  "card_pages": [
+   "pottstown-pa"
+  ],
+  "events": 3,
+  "repo_file": "philadelphia/pottstown-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "sewell-nj/bundle.json.gz",
+  "card_pages": [
+   "sewell-nj"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/sewell-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "swedesboro-nj/bundle.json.gz",
+  "card_pages": [
+   "swedesboro-nj"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/swedesboro-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "vineland-nj/bundle.json.gz",
+  "card_pages": [
+   "vineland-nj"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/vineland-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "voorhees-nj/bundle.json.gz",
+  "card_pages": [
+   "voorhees-nj"
+  ],
+  "events": 2,
+  "repo_file": "philadelphia/voorhees-nj-bundle.json.gz"
+ },
+ {
+  "bundle": "west-chester-pa/bundle.json.gz",
+  "card_pages": [
+   "west-chester-pa"
+  ],
+  "events": 7,
+  "repo_file": "philadelphia/west-chester-pa-bundle.json.gz"
+ },
+ {
+  "bundle": "willingboro-nj/bundle.json.gz",
+  "card_pages": [
+   "willingboro-nj"
+  ],
+  "events": 1,
+  "repo_file": "philadelphia/willingboro-nj-bundle.json.gz"
+ }
+]
