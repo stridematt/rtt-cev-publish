@@ -1,0 +1,20 @@
+{
+ "moves": [
+  {
+   "from_page": "napa-ca",
+   "to_page": "st-helena-ca",
+   "card_slug": "christmas-carolers-at-meuse-gallery-st-helena-ca"
+  },
+  {
+   "from_page": "napa-ca",
+   "to_page": "fairfield-ca",
+   "card_slug": "the-merry-makeover-at-paradise-valley-golf-course-fairfield-ca"
+  },
+  {
+   "from_page": "napa-ca",
+   "to_page": "sonoma-ca",
+   "card_slug": "fairmont-sonoma-mission-inn-tree-lighting-ca"
+  }
+ ],
+ "note": "Meuse Gallery is in St. Helena (st-helena-ca built by helper B). Paradise Valley Golf Course is in Fairfield (fairfield-ca is built by helper C). Fairmont Sonoma Mission Inn is in Boyes Hot Springs (sonoma-ca built by helper B)."
+}
