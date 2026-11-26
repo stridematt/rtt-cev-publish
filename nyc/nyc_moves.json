@@ -1,0 +1,228 @@
+{
+ "moves": [
+  {
+   "from_page": "new-york-ny",
+   "to_page": "brooklyn-ny",
+   "card_slug": "the-united-european-ballet-company-the-nutcracker-brooklyn-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "drop",
+   "card_slug": "lightscape-brooklyn-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "bronx-ny",
+   "card_slug": "holiday-tree-lighting-bronx-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "bronx-ny",
+   "card_slug": "holiday-train-show-bronx-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "bronx-ny",
+   "card_slug": "holiday-train-show-family-party-bronx-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "bronx-ny",
+   "card_slug": "holiday-lights-at-the-bronx-zoo-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "bronx-ny",
+   "card_slug": "winter-haven-opening-weekend-bronx-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "queens-ny",
+   "card_slug": "joy-on-the-farm-queens-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "drop",
+   "card_slug": "winter-wonder-queens-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "drop",
+   "card_slug": "illuminate-the-farm-winter-lantern-festival-queens-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "drop",
+   "card_slug": "tree-lighting-at-historic-richmond-town-staten-island-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "drop",
+   "card_slug": "christmas-in-historic-richmond-town-staten-island-ny"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "morristown-nj",
+   "card_slug": "the-polar-express-train-ride-at-whippany-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "morristown-nj",
+   "card_slug": "new-jersey-ballets-the-nutcracker-with-new-jersey-symphony-morristown-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "drop",
+   "card_slug": "a-charlie-brown-christmas-live-on-stage-morristown-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "rahway-nj",
+   "card_slug": "two-nutcrackers-new-jersey-youth-symphony-rahway-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "rahway-nj",
+   "card_slug": "emmet-otters-jug-band-christmas-popcorn-and-pajamas-film-series-rahway-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "rahway-nj",
+   "card_slug": "the-polar-express-in-35mm-rahway-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "drop",
+   "card_slug": "santas-circus-rahway-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "drop",
+   "card_slug": "nj-ballets-the-nutcracker-sensory-friendly-performance-rahway-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "princeton-nj",
+   "card_slug": "a-christmas-carol-princeton-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "holiday-lights-at-turtle-back-zoo-west-orange-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "meet-and-greet-with-santa-at-turtle-back-zoo-west-orange-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "princess-holiday-sing-along-at-turtle-back-zoo-west-orange-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "dont-be-a-grinch-weekend-at-turtle-back-zoo-west-orange-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "elizabeth-nj",
+   "card_slug": "breakfast-with-santa-union-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "elizabeth-nj",
+   "card_slug": "santa-photos-at-the-mills-at-jersey-gardens-elizabeth-nj"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "asbury-park-nj",
+   "card_slug": "asbury-park-holiday-bazaar-nj"
+  },
+  {
+   "from_page": "fairfield-ct",
+   "to_page": "norwalk-ct",
+   "card_slug": "lockwood-mathews-mansion-holiday-open-house-norwalk-ct"
+  },
+  {
+   "from_page": "smithtown-ny",
+   "to_page": "port-jefferson-ny",
+   "card_slug": "a-christmas-carol-at-theatre-three-port-jefferson-ny"
+  },
+  {
+   "from_page": "stamford-ct",
+   "to_page": "greenwich-ct",
+   "card_slug": "18th-annual-greenwich-reindeer-festival-and-santas-workshop-ct"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "jersey-city-nj",
+   "card_slug": "holiday-tree-lighting-ceremony-jersey-city-nj"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "jersey-city-nj",
+   "card_slug": "4th-annual-holiday-extravaganza-caroling-in-the-park-jersey-city-nj"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "jersey-city-nj",
+   "card_slug": "holiday-pajama-party-jersey-city-nj"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "jersey-city-nj",
+   "card_slug": "christmas-tree-and-menorah-lighting-ceremony-jersey-city-nj"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "jersey-city-nj",
+   "card_slug": "happy-holiday-market-jersey-city-nj"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "freeport-ny",
+   "card_slug": "nutcracker-baby-ballet-freeport-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "rockville-centre-ny",
+   "card_slug": "holiday-sing-a-long-family-program-rockville-centre-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "rockville-centre-ny",
+   "card_slug": "letters-to-santa-and-visit-from-santa-lakeview-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "mineola-ny",
+   "card_slug": "childrens-christmas-party-old-westbury-ny"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "port-jefferson-ny",
+   "card_slug": "the-30th-annual-charles-dickens-festival-port-jefferson-ny",
+   "why": "new duplicate event 56258 removed from bundles; keep the live card"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "croton-falls-ny",
+   "card_slug": "holiday-electric-lights-parade-yorktown-heights-ny",
+   "why": "new duplicate event 56456 removed; keep the live card"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "hempstead-ny",
+   "card_slug": "luminocity-holiday-lights-festival-east-meadow-ny",
+   "why": "new duplicate event 56325 removed; keep the live card"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "wantagh-ny",
+   "card_slug": "family-gingerbread-house-wantagh-ny"
+  }
+ ],
+ "note": "Merged moves for the NYC run (A, B3, B5, B6, C, C2 plus lead moves of out-of-borough cards off new-york-ny). Drops are duplicates. Load each town's bundles before moving cards into it. Superseded (do NOT load): superseded/westbury-ny, superseded/southold-ny/bundle.json.gz (RMLI card is in riverhead-ny), superseded/stamford-ct/bundle.json.gz (Greenwich tree lighting is event 56489 on greenwich-ct), superseded/jersey-city-nj/bundle.json.gz (duplicate of live Jersey City tree and menorah card). Confirm the live rahway-nj sensory Nutcracker card exists before dropping it from newark-nj. Cards left on new-york-ny belong to towns without a page: Bayonne, Eastchester, Great Neck, plus Manhattan cards."
+}

@@ -1,0 +1,164 @@
+[
+ {
+  "key": "se",
+  "CID": "6aff33ef036ea169739d867e",
+  "COLL": "gudstjanst-julafton-sverige",
+  "CAT": "Gudstjänster på julafton i Sverige",
+  "files": [
+   "se_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "no",
+  "CID": "6aff34ae6bcc160203059fe4",
+  "COLL": "gudstjeneste-julaften-norge",
+  "CAT": "Gudstjenester på julaften i Norge",
+  "files": [
+   "no_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "dk",
+  "CID": "6aff354a57ceac7aafd7538b",
+  "COLL": "gudstjeneste-juleaften-danmark",
+  "CAT": "Gudstjenester juleaften i Danmark",
+  "files": [
+   "dk_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "fi",
+  "CID": "6aff35f368b9094cccce9cd8",
+  "COLL": "jouluaaton-jumalanpalvelukset-suomi",
+  "CAT": "Jouluaaton hartaudet ja jumalanpalvelukset Suomessa",
+  "files": [
+   "fi_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "de",
+  "CID": "6afcc1016db8160106605424",
+  "COLL": "gottesdienste-heiligabend-deutschland",
+  "CAT": "Gottesdienste an Heiligabend in Deutschland",
+  "files": [
+   "de_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "fr",
+  "CID": "6afcc146d79c3f797bf32669",
+  "COLL": "messes-de-noel-france",
+  "CAT": "Messes et cultes de Noël en France",
+  "files": [
+   "fr_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "gb",
+  "CID": "6afb803ca2d8012d3993e0e1",
+  "COLL": "christmas-eve-services-uk",
+  "CAT": "Christmas Eve Services in the UK",
+  "files": [
+   "gb_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "ca-en",
+  "CID": "6afba7846ef86c0785fc07d0",
+  "COLL": "christmas-eve-services-canada",
+  "CAT": "Christmas Eve Services in Canada",
+  "files": [
+   "ca-en_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "ca-fr",
+  "CID": "6afc043d46801c20ca807a8f",
+  "COLL": "messes-de-noel-quebec-canada",
+  "CAT": "Messes de la veille de Noël au Québec et au Canada français",
+  "files": [
+   "ca-fr_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "au",
+  "CID": "6afcbfc1609740622e6c1f30",
+  "COLL": "christmas-eve-services-australia",
+  "CAT": "Christmas Eve Services in Australia",
+  "files": [
+   "au_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "ie",
+  "CID": "6afcc0576788f92987604338",
+  "COLL": "christmas-eve-services-in-ireland",
+  "CAT": "Christmas Eve Services in Ireland",
+  "files": [
+   "ie_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "es",
+  "CID": "6afcf0400000e93adab2ea78",
+  "COLL": "misa-del-gallo-espana",
+  "CAT": "Misas de Nochebuena y Misa del Gallo en España",
+  "files": [
+   "es_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "mx",
+  "CID": "6afd0dca8cd0d01b25168c14",
+  "COLL": "misa-de-nochebuena-mexico",
+  "CAT": "Misas de Nochebuena en México",
+  "files": [
+   "mx_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "br",
+  "CID": "6afd966e7befac13de196c83",
+  "COLL": "missa-do-galo-brasil",
+  "CAT": "Missa do Galo e cultos de Natal no Brasil",
+  "files": [
+   "br_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "it",
+  "CID": "6afd487af5301f0a05443e3b",
+  "COLL": "messe-vigilia-di-natale-italia",
+  "CAT": "Messe della Vigilia di Natale in Italia",
+  "files": [
+   "it_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "pl",
+  "CID": "6afe1eeeec01152230ca81d9",
+  "COLL": "pasterka-wigilia-polska",
+  "CAT": "Pasterka i nabożeństwa wigilijne w Polsce",
+  "files": [
+   "pl_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "ro",
+  "CID": "6afcc0a81f346d46fd1e7e5d",
+  "COLL": "slujbe-de-craciun-romania",
+  "CAT": "Slujbe de Ajun și de Crăciun în România",
+  "files": [
+   "ro_city_1.json.gz"
+  ]
+ },
+ {
+  "key": "jp",
+  "CID": "6afd547ea01f0b16245fd965",
+  "COLL": "christmas-eve-reihai-japan",
+  "CAT": "クリスマスイブ礼拝・ミサ（日本）",
+  "files": [
+   "jp_city_1.json.gz"
+  ]
+ }
+]
