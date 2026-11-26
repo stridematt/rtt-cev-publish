@@ -1,0 +1,17 @@
+{
+ "moves": [
+  {
+   "from_page": "stamford-ct",
+   "to_page": "greenwich-ct",
+   "card_slug": "greenwich-reindeer-festival",
+   "note": "only if lead creates greenwich-ct"
+  },
+  {
+   "from_page": "stamford-ct",
+   "to_page": "greenwich-ct",
+   "card_slug": "greenwich-tree-lighting",
+   "note": "only if lead creates greenwich-ct"
+  }
+ ],
+ "note": "Greenwich NOT built by B4: Santas Holiday Village (Dec 5, $20, Cohen Eastern Greenwich Civic Center) is host-verified via search excerpt only (CivicPlus page renders Loading). Leave cards where they are unless Greenwich page is built. Westport and Trumbull cards stay on fairfield-ct."
+}

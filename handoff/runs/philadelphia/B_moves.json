@@ -1,0 +1,35 @@
+{
+ "moves": [
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "doylestown-pa",
+   "card_slug": "112th-annual-tree-lighting-doylestown-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "levittown-pa",
+   "card_slug": "a-very-furry-christmas-at-sesame-place-langhorne-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "newtown-pa",
+   "card_slug": "shady-brook-farm-holiday-light-show-yardley-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "newtown-pa",
+   "card_slug": "lolly-hopwood-kids-winter-concert-southampton-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "new-hope-pa",
+   "card_slug": "holly-jolly-weekend-new-hope-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "drop",
+   "card_slug": "wild-lights-at-elmwood-park-zoo-norristown-pa"
+  }
+ ],
+ "note": "Wild Lights at Elmwood Park Zoo is already live on norristown-pa, so the philadelphia-pa copy is a duplicate. oaks-christmas-market-pa left on the Philadelphia page (Oaks, near Collegeville; no page built). Philadelphia page also carries Princeton and Camden/Blackwood NJ cards that belong to helper C or the lead."
+}

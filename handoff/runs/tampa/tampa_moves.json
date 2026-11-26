@@ -1,0 +1,75 @@
+{
+ "note": "Cards on tampa-fl that belong to another town in this run. Stay on tampa-fl: Cracker Country at the Florida State Fairgrounds (Tampa address), Northbridge, Success on the Spectrum (Carrollwood), all Ybor, Water Street, Channelside, Curtis Hixon cards.",
+ "moves": [
+  {
+   "card": "crafty-creations-deck-the-halls-zephyrhills-fl",
+   "from": "tampa-fl",
+   "to": "zephyrhills-fl",
+   "owner": "helper C",
+   "reason": "Zephyrhills Public Library, Zephyrhills (Pasco)"
+  },
+  {
+   "card": "rocking-around-the-christmas-tree-zephyrhills-fl",
+   "from": "tampa-fl",
+   "to": "zephyrhills-fl",
+   "owner": "helper C",
+   "reason": "Zephyrhills (Pasco)"
+  },
+  {
+   "card": "breakfast-with-santa-zephyrhills-fl",
+   "from": "tampa-fl",
+   "to": "zephyrhills-fl",
+   "owner": "helper C",
+   "reason": "Zephyrhills City Hall, Zephyrhills (Pasco)"
+  },
+  {
+   "card": "christmas-storytime-at-south-holiday-library-fl",
+   "from": "tampa-fl",
+   "to": "helper C decides (Holiday, Pasco: New Port Richey page or fold)",
+   "owner": "helper C",
+   "reason": "South Holiday Branch Library, Holiday (Pasco)"
+  },
+  {
+   "card": "lakeland-christmas-parade-fl",
+   "from": "tampa-fl",
+   "to": "lakeland-fl",
+   "owner": "helper C",
+   "reason": "Downtown Lakeland (Polk), live page exists"
+  },
+  {
+   "card": "santa-claus-and-mrs-claus-holiday-storytime-special-wesley-chapel-fl",
+   "from": "tampa-fl",
+   "to": "wesley-chapel-fl",
+   "owner": "helper C",
+   "reason": "New River Branch Library, Wesley Chapel (Pasco)"
+  },
+  {
+   "card": "enchant-christmas-st-petersburg-fl",
+   "from": "tampa-fl",
+   "to": "st-petersburg-fl",
+   "owner": "helper B",
+   "reason": "Tropicana Field, St. Petersburg (Pinellas), live page exists"
+  },
+  {
+   "card": "free-pictures-with-santa-and-holiday-crafts-in-brandon-fl",
+   "from": "tampa-fl",
+   "to": "brandon-fl",
+   "owner": "helper A",
+   "reason": "2400 W Brandon Blvd, Brandon; Brandon is a NEW page in this run"
+  },
+  {
+   "card": "santas-carnival-at-tampa-bays-festival-of-lights-dover-fl",
+   "from": "tampa-fl",
+   "to": "brandon-fl",
+   "owner": "helper A",
+   "reason": "Hillsborough County Fairgrounds, Dover (folds into Brandon)"
+  },
+  {
+   "card": "alafia-lighted-boat-parade-at-riverview-civic-center-fl",
+   "from": "brandon-fl (pass 1 build, cand 69186)",
+   "to": "riverview-fl (cand 69300)",
+   "owner": "helper A",
+   "reason": "Riverview has its own new page; not a live card"
+  }
+ ]
+}

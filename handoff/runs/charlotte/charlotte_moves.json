@@ -1,0 +1,61 @@
+{
+ "from": "charlotte-nc",
+ "note": "Suburb cards on the live Charlotte page that belong to other towns (venue town decides). Charlotte core keeps the rest.",
+ "moves": {
+  "huntersville-nc": [
+   "family-gingerbread-house-contest-intergenerational-activity-huntersville-nc",
+   "letters-to-santa-writing-group-huntersville-nc",
+   "holiday-cookie-decorating-huntersville-nc",
+   "santa-at-birkdale-village-huntersville-nc"
+  ],
+  "concord-nc": [
+   "brunch-with-santa-at-another-broken-egg-cafe-in-concord-nc",
+   "speedway-christmas-concord-nc"
+  ],
+  "spencer-nc": [
+   "the-polar-express-train-ride-spencer-nc"
+  ],
+  "belmont-nc": [
+   "holidays-at-the-garden-belmont-nc"
+  ],
+  "mcadenville-nc": [
+   "christmas-town-u-s-a-mcadenville-nc"
+  ],
+  "rock-hill-sc": [
+   "christmasville-rock-hill-sc"
+  ],
+  "pineville-nc": [
+   "bilingual-holiday-concert-concierto-de-navidad-bilingue-pineville-nc"
+  ]
+ },
+ "owner": {
+  "huntersville-nc": "Helper A (page.json move_from_charlotte)",
+  "concord-nc": "Helper C",
+  "spencer-nc": "Helper C (Salisbury or own page)",
+  "belmont-nc": "Helper C",
+  "mcadenville-nc": "Helper C (Gaston County; fold to Gastonia or Cramerton)",
+  "rock-hill-sc": "Helper B",
+  "pineville-nc": "unassigned (Pineville has no page in any block)"
+ },
+ "stay_on_charlotte": [
+  "christmas-at-the-library-charlotte-nc",
+  "santa-brunch-weekend-at-dtr-plaza-midwood-charlotte-nc",
+  "play-and-create-photo-minis-with-santa-charlotte-nc",
+  "pattys-free-photos-with-santa-at-olde-providence-elementary-charlotte-nc",
+  "allegra-westbrooks-community-christmas-celebration-charlotte-nc",
+  "holiday-junk-journal-charlotte-nc",
+  "gingerbread-house-showdown-at-project-658-charlotte-nc",
+  "christmas-crafts-charlotte-nc",
+  "musical-family-storytime-with-opera-carolina-charlotte-nc",
+  "dr-seuss-how-the-grinch-stole-christmas-the-musical-charlotte-nc",
+  "light-the-knights-festival-charlotte-nc",
+  "winterfest-charlotte-nc",
+  "polar-express-pajama-brunch-at-urban-district-market-charlotte-nc",
+  "uptown-holiday-market-charlotte-nc",
+  "nutcracker-charlotte-nc",
+  "doggie-on-my-doorstep-a-holiday-tail-charlotte-nc",
+  "holiday-trees-for-wildlife-charlotte-nc",
+  "brunchmas-with-the-grinch-at-hornets-nest-park-charlotte-nc",
+  "holiday-pops-family-charlotte-nc"
+ ]
+}

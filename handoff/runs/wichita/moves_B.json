@@ -1,0 +1,21 @@
+{
+ "moves": [
+  {
+   "from_page": "wichita-ks",
+   "to_page": "towanda-ks",
+   "card_slug": "a-country-christmas-at-fulton-valley-farms-towanda-ks"
+  },
+  {
+   "from_page": "wichita-ks",
+   "to_page": "towanda-ks",
+   "card_slug": "pancakes-with-santa-at-fulton-valley-farms-towanda-ks"
+  }
+ ],
+ "no_move": [
+  {
+   "card_slug": "andover-hometown-christmas-ks",
+   "page": "wichita-ks",
+   "why": "Andover has only 1 verified event; no andover-ks page"
+  }
+ ]
+}

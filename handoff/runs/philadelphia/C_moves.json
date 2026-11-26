@@ -1,0 +1,15 @@
+{
+ "moves": [
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "camden-nj",
+   "card_slug": "christmas-underwater-at-adventure-aquarium-camden-nj"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "gloucester-township-nj",
+   "card_slug": "breakfast-with-santa-at-dave-and-busters-gloucester-blackwood-nj"
+  }
+ ],
+ "note": "Both cards are NJ events carded on the live Philadelphia page (checked Nov 26, 2026): Adventure Aquarium is in Camden and Dave and Buster's Gloucester is in Blackwood, Gloucester Township. Camden and Gloucester Township are new pages in this run. Two Princeton cards also sit on the Philadelphia page (palmer-square-annual-tree-lighting-princeton-nj and holiday-strolling-entertainment-christmas-carolers-and-santa-in-downtown-nj); Princeton is out of scope for helper C and the lead should decide whether they stay or go to princeton-nj."
+}

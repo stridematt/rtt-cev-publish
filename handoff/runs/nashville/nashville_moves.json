@@ -1,0 +1,37 @@
+{
+ "off_nashville_to_franklin": [
+  "craft-a-christmas-card-franklin-tn",
+  "reindeer-races-franklin-tn",
+  "visit-with-santa-franklin-tn",
+  "41st-annual-dickens-of-a-christmas-franklin-tn (duplicate of franklin-tn dickens-of-a-christmas-franklin-tn; keep one)"
+ ],
+ "off_nashville_to_nolensville": [
+  "toddler-story-time-with-santa-nolensville-tn"
+ ],
+ "off_nashville_to_fairview": [
+  "stories-with-santa-fairview-tn",
+  "gingerbread-house-craft-fairview-tn"
+ ],
+ "off_nashville_to_gallatin": [
+  "pro-wrestling-entertainment-christmas-for-kids-portland-tn (Portland folded into Gallatin)"
+ ],
+ "off_nashville_to_goodlettsville": [
+  "santas-holiday-party-goodlettsville-tn",
+  "tree-lighting-ceremony-goodlettsville-tn",
+  "goodlettsville-christmas-parade-tn"
+ ],
+ "off_nashville_to_springfield": [
+  "christmas-on-the-farm-with-santa-and-the-standardbreds-springfield-tn"
+ ],
+ "off_nashville_to_lebanon": [
+  "the-dancing-lights-of-christmas-lebanon-tn"
+ ],
+ "off_nashville_to_mount_juliet": [
+  "irish-christmas-party-and-toy-drive-mt-juliet-tn"
+ ],
+ "duplicate_drop_from_nashville": [
+  "holly-jolly-festival-of-lights-eagleville-tn (same as murfreesboro card holly-jolly-festival-of-lights-at-lucky-ladd-farms-eagleville-tn)"
+ ],
+ "count_note": "Nashville intro counts 30 events (28 after the 16 moves plus 2 Ashland City events built onto nashville-tn). Confirm counts after moves.",
+ "check": "Mount Juliet live Christmas in the Park at Charlie Daniels Park may be superseded by Christmas on Main Street at Circle P Ranch (Dec 1); Franklin Flashlight Candy Cane Hunt card says Dec 10-11, Visit Franklin says Dec 9."
+}

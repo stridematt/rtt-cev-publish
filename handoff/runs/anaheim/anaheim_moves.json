@@ -1,0 +1,163 @@
+{
+ "move_cards": [
+  {
+   "to": "fullerton-ca",
+   "from": "anaheim-ca",
+   "slugs": [
+    "holiday-festival-at-the-muckenthaler-fullerton-ca"
+   ]
+  },
+  {
+   "to": "orange-ca",
+   "from": "anaheim-ca",
+   "slugs": [
+    "christmas-train-at-irvine-park-railroad-orange-ca",
+    "carolers-and-crafts-villa-park-ca",
+    "crafty-hands-gumball-ornament-villa-park-ca"
+   ]
+  },
+  {
+   "to": "stanton-ca",
+   "from": "anaheim-ca",
+   "slugs": [
+    "family-fun-holiday-card-making-stanton-ca",
+    "mini-canvas-ornaments-stanton-ca",
+    "family-fun-hot-cocoa-and-snowball-bash-stanton-ca",
+    "carolers-and-crafts-stanton-ca"
+   ]
+  },
+  {
+   "to": "fountain-valley-ca",
+   "from": "anaheim-ca",
+   "slugs": [
+    "holiday-cookie-decorating-fountain-valley-ca"
+   ]
+  },
+  {
+   "to": "santa-ana-ca",
+   "from": "anaheim-ca",
+   "slugs": [
+    "christmas-by-candlelight-with-crystal-lewis-santa-ana-ca"
+   ]
+  },
+  {
+   "to": "costa-mesa-ca",
+   "from": "anaheim-ca",
+   "slugs": [
+    "actc-christmas-cabaret-at-the-lyceum-theater-costa-mesa-ca"
+   ]
+  },
+  {
+   "to": "newport-beach-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "30th-annual-tree-lighting-and-holiday-market-at-crystal-cove-newport-beach-ca",
+    "118th-newport-beach-christmas-boat-parade-and-ring-of-lights-ca",
+    "nights-of-coastal-lights-at-fashion-island-newport-beach-ca",
+    "photos-with-santa-at-fashion-island-newport-beach-ca"
+   ]
+  },
+  {
+   "to": "santa-ana-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "a-peanuts-christmas-with-the-john-reynolds-jazz-septet-santa-ana-ca"
+   ]
+  },
+  {
+   "to": "costa-mesa-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "winter-animal-crafts-costa-mesa-ca"
+   ]
+  },
+  {
+   "to": "huntington-beach-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "huntington-beach-christmas-market-oc"
+   ],
+   "note": "anchor only on irvine-ca; slug may not appear in links; find the card by title"
+  },
+  {
+   "to": "orange-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "irvine-park-railroad-christmas-train-orange-ca",
+    "train-of-lights-at-irvine-park-railroad-orange-ca"
+   ],
+   "note": "Orange Irvine Park Railroad cards seen on irvine-ca; check whether duplicates of the anaheim-ca christmas-train card"
+  },
+  {
+   "to": "lake-forest-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "cookie-decorating-at-el-toro-library-lake-forest-ca"
+   ]
+  },
+  {
+   "to": "mission-viejo-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "santas-arrival-and-lighting-ceremony-mission-viejo-ca"
+   ]
+  },
+  {
+   "to": "anaheim-ca",
+   "from": "irvine-ca",
+   "slugs": [
+    "oc-autism-breakfast-with-santa-and-resource-fair-garden-grove-ca"
+   ],
+   "note": "Garden Grove folded, no page; card may stay on irvine-ca, Rally's no-duplicate rule only"
+  },
+  {
+   "to": "san-juan-capistrano-ca",
+   "from": "dana-point-ca",
+   "slugs": [
+    "country-christmas-in-san-juan-capistrano-ca",
+    "capistrano-lights-at-mission-san-juan-capistrano-ca"
+   ]
+  },
+  {
+   "to": "seal-beach-ca",
+   "from": "long-beach-ca",
+   "slugs": [
+    "a-night-in-bethlehem-in-los-alamitos-ca"
+   ]
+  }
+ ],
+ "delete_cards": [
+  {
+   "page": "anaheim-ca",
+   "slugs": [
+    "buena-park-christmas-tree-lighting-ca",
+    "candy-caneland-and-craft-fair-buena-park-ca",
+    "knotts-merry-farm-buena-park-ca",
+    "tree-lighting-ceremony-brea-ca",
+    "christmas-tree-lighting-and-holiday-stroll-tustin-ca",
+    "holiday-crafternoon-fountain-valley-ca"
+   ],
+   "why": "already on their own live pages, or ended Nov 25"
+  },
+  {
+   "page": "irvine-ca",
+   "slugs": [
+    "christmas-tree-lighting-in-old-town-tustin-ca",
+    "breakfast-with-santa-in-tustin-ca"
+   ],
+   "why": "Tustin duplicates, already on tustin-ca"
+  },
+  {
+   "page": "anaheim-ca",
+   "slugs": [
+    "hikari-a-festival-of-lights-anaheim-ca",
+    "illuminate-irvine-ca"
+   ],
+   "why": "Irvine events carded on Anaheim; illuminate-irvine-ca is also on irvine-ca. Keep Irvine copies."
+  }
+ ],
+ "left_in_place": [
+  "photos-with-santa-at-california-grill-whittier-ca (Whittier, LA County, on anaheim-ca; belongs to the Los Angeles run)",
+  "winter-in-the-grove-garden-grove-ca and a-revolutionary-christmas-yorba-linda-ca stay on anaheim-ca (folded towns)"
+ ]
+}

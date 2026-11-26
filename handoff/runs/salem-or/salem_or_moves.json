@@ -1,0 +1,10 @@
+{
+ "moves": [
+  {
+   "from_page": "salem-or",
+   "to_page": "silverton-or",
+   "card_slug": "silverton-christmas-market-or"
+  }
+ ],
+ "note": "Only move: Silverton Christmas Market goes from salem-or to silverton-or. Blocks B and C move nothing."
+}

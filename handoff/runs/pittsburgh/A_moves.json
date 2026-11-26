@@ -1,0 +1,20 @@
+{
+ "moves": [
+  {
+   "from_page": "pittsburgh-pa",
+   "to_page": "bethel-park-pa",
+   "card_slug": "gingerbread-workshop-bethel-park-pa"
+  },
+  {
+   "from_page": "pittsburgh-pa",
+   "to_page": "bridgeville-pa",
+   "card_slug": "dance-the-story-featuring-the-nutcracker-with-pittsburgh-ballet-bridgeville-pa"
+  },
+  {
+   "from_page": "pittsburgh-pa",
+   "to_page": "drop",
+   "card_slug": "santa-trolley-at-the-pennsylvania-trolley-museum-washington-pa"
+  }
+ ],
+ "note": "Gingerbread Workshop (Bethel Park Public Library) moves to the new Bethel Park page. The Pittsburgh Ballet Nutcracker card (Bridgeville Public Library) moves to the existing Bridgeville page. The Pennsylvania Trolley Museum Santa Trolley is carded on BOTH pittsburgh-pa (santa-trolley-at-the-pennsylvania-trolley-museum-washington-pa) and washington-pa (santa-trolley-washington-pa): drop the pittsburgh-pa copy, keep Washington. Left on pittsburgh-pa on purpose: childrens-movie-matinee-a-charlie-brown-christmas (Crafton Public Library, Crafton has no page, Crafton events found were Facebook-only), christmas-light-up-at-clinton-park-pa (Clinton, no page), family-gingerbread-house-making (Whitehall Public Library), kennywood (West Mifflin, one event). Glenshaw gingerbread is B_moves (hampton-pa); Monroeville cards are C_moves."
+}

@@ -1,0 +1,46 @@
+{
+ "spring-hill-fl": {
+  "to": "brooksville-fl",
+  "cards": [
+   "family-sensory-christmas-celebration-brooksville-fl",
+   "the-fifth-annual-south-brooksville-avenue-christmas-stroll-fl",
+   "country-christmas-at-harvestmoon-fun-farm-brooksville-fl",
+   "christmas-on-main-brooksville-fl",
+   "night-of-lights-victorian-christmas-party-brooksville-fl",
+   "52nd-annual-brooksville-christmas-parade-fl",
+   "movie-night-polar-express-brooksville-fl"
+  ]
+ },
+ "tampa-fl": [
+  {
+   "card": "crafty-creations-deck-the-halls-zephyrhills-fl",
+   "to": "zephyrhills-fl"
+  },
+  {
+   "card": "rocking-around-the-christmas-tree-zephyrhills-fl",
+   "to": "zephyrhills-fl"
+  },
+  {
+   "card": "breakfast-with-santa-zephyrhills-fl",
+   "to": "zephyrhills-fl"
+  },
+  {
+   "card": "santa-claus-and-mrs-claus-holiday-storytime-special-wesley-chapel-fl",
+   "to": "wesley-chapel-fl"
+  },
+  {
+   "card": "christmas-storytime-at-south-holiday-library-fl",
+   "to": "new-port-richey-fl",
+   "note": "Holiday, Pasco County, folds into New Port Richey"
+  },
+  {
+   "card": "lakeland-christmas-parade-fl",
+   "to": "lakeland-fl",
+   "note": "already live on lakeland-fl; remove duplicate from tampa-fl"
+  }
+ ],
+ "stay": {
+  "spring-hill-fl": "annual-hernando-beach-christmas-boat-parade-supporting-toys-for-tots-fl (Hernando Beach has no page; stays with Spring Hill)",
+  "auburndale-fl": "havendale-christmas-parade-auburndale-fl (route runs Winter Haven to Auburndale; stays)"
+ }
+}

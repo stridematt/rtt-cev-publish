@@ -1,0 +1,125 @@
+{
+ "moves": [
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "west-chester-pa",
+   "card_slug": "chester-county-hospital-lights-up-holiday-weekends-in-west-chester-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "west-chester-pa",
+   "card_slug": "holiday-celebration-and-christmas-tree-lighting-west-chester-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "west-chester-pa",
+   "card_slug": "west-chester-christmas-parade-and-tree-lighting-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "west-chester-pa",
+   "card_slug": "coatesville-christmas-parade-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "kennett-square-pa",
+   "card_slug": "a-longwood-christmas-kennett-square-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "kennett-square-pa",
+   "card_slug": "holiday-storytime-with-local-author-lydia-cohen-kennett-square-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "wayne-pa",
+   "card_slug": "tree-lighting-celebration-wayne-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "malvern-pa",
+   "card_slug": "elf-on-shelf-and-winter-paintings-art-with-crafts-paoli-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "media-pa",
+   "card_slug": "christmasland-at-linvilla-orchards-media-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "drop",
+   "card_slug": "a-longwood-christmas-kennett-square-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "doylestown-pa",
+   "card_slug": "112th-annual-tree-lighting-doylestown-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "levittown-pa",
+   "card_slug": "a-very-furry-christmas-at-sesame-place-langhorne-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "newtown-pa",
+   "card_slug": "shady-brook-farm-holiday-light-show-yardley-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "newtown-pa",
+   "card_slug": "lolly-hopwood-kids-winter-concert-southampton-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "new-hope-pa",
+   "card_slug": "holly-jolly-weekend-new-hope-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "drop",
+   "card_slug": "wild-lights-at-elmwood-park-zoo-norristown-pa"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "camden-nj",
+   "card_slug": "christmas-underwater-at-adventure-aquarium-camden-nj"
+  },
+  {
+   "from_page": "philadelphia-pa",
+   "to_page": "gloucester-township-nj",
+   "card_slug": "breakfast-with-santa-at-dave-and-busters-gloucester-blackwood-nj"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "chadds-ford-pa",
+   "card_slug": "holidays-at-brandywine-brandywine-railroad-chadds-ford-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "chadds-ford-pa",
+   "card_slug": "breakfast-with-the-trains-chadds-ford-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "chadds-ford-pa",
+   "card_slug": "the-polar-express-read-aloud-pajama-night-chadds-ford-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "middletown-de",
+   "card_slug": "storybook-time-at-historic-odessa-de"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "middletown-de",
+   "card_slug": "an-american-colonial-revival-christmas-exhibit-odessa-de"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "middletown-de",
+   "card_slug": "zoo-lights-and-christmas-nights-townsend-de"
+  }
+ ],
+ "note": "Merged lead file for the Philadelphia run (A to E moves). Longwood card moves philadelphia-pa to kennett-square-pa and the wilmington-de copy is dropped. Strays left in place on purpose: Princeton cards (out of scope), oaks-christmas-market-pa, Upper Darby/Ridley Park/Yeadon cards. After the moves, remove planner dead rows on philadelphia-pa and wilmington-de.\nA: Longwood is carded on both philadelphia-pa and wilmington-de; it moves to kennett-square-pa and the wilmington-de copy is dropped. Strays left in place for other helpers (not mine to move): on philadelphia-pa, B towns: holly-jolly-weekend-new-hope-pa (new-hope-pa exists), oaks-christmas-market-pa, lolly-hopwood-kids-winter-concert-southampton-pa, 112th-annual-tree-lighting-doylestown-pa, shady-brook-farm-holiday-light-show-yardley-pa, a-very-furry-christmas-at-sesame-place-langhorne-pa, wild-lights-at-elmwood-park-zoo-norristown-pa (norristown-pa exists); C towns: christmas-underwater-at-adventure-aquarium-camden-nj, breakfast-with-santa-at-dave-and-busters-gloucester-blackwood-nj; out of scope: palmer-square-annual-tree-lighting-princeton-nj, holiday-strolling-entertainment-christmas-carolers-and-santa-in-downtown-nj (Princeton). Moves to media-pa and the other new page apply when the new page is published.\nB: Wild Lights at Elmwood Park Zoo is already live on norristown-pa, so the philadelphia-pa copy is a duplicate. oaks-christmas-market-pa left on the Philadelphia page (Oaks, near Collegeville; no page built). Philadelphia page also carries Princeton and Camden/Blackwood NJ cards that belong to helper C or the lead.\nC: Both cards are NJ events carded on the live Philadelphia page (checked Nov 26, 2026): Adventure Aquarium is in Camden and Dave and Buster's Gloucester is in Blackwood, Gloucester Township. Camden and Gloucester Township are new pages in this run. Two Princeton cards also sit on the Philadelphia page (palmer-square-annual-tree-lighting-princeton-nj and holiday-strolling-entertainment-christmas-carolers-and-santa-in-downtown-nj); Princeton is out of scope for helper C and the lead should decide whether they stay or go to princeton-nj.\nD: No cards found on the Philadelphia page, neighbor pages or earlier runs that belong to the D towns beyond the three strays helper B already moved (Doylestown 112th tree lighting, Sesame Place Langhorne, Shady Brook Yardley). Bensalem, Collegeville, Trappe, Souderton, Hatfield, Telford, Ambler, Jenkintown, Horsham had no live cards.\nE: Chadds Ford and Middletown DE are new pages; these live Wilmington cards belong there."
+}

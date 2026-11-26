@@ -1,0 +1,57 @@
+{
+ "_note": "Rally rule (Nov 25): when a suburb has its own page, move its events off the Austin page onto the town page (card removed from /christmas-events/austin-tx, card added on the town page; the event page itself stays at its URL). Austin page links to every town page instead. Check whether georgetown-tx and san-marcos-tx already show these cards before adding.",
+ "from": "austin-tx",
+ "moves": [
+  {
+   "slug": "lighting-of-the-square-georgetown-tx",
+   "to": "georgetown-tx"
+  },
+  {
+   "slug": "hometown-christmas-stroll-a-season-to-gather-georgetown-tx",
+   "to": "georgetown-tx"
+  },
+  {
+   "slug": "lights-on-lakeway-tx",
+   "to": "lakeway-tx"
+  },
+  {
+   "slug": "light-up-the-lake-round-rock-tx",
+   "to": "round-rock-tx"
+  },
+  {
+   "slug": "old-town-christmas-festival-leander-tx",
+   "to": "leander-tx"
+  },
+  {
+   "slug": "tree-lighting-cedar-park-tx",
+   "to": "cedar-park-tx"
+  },
+  {
+   "slug": "breakfast-with-santa-cedar-park-tx",
+   "to": "cedar-park-tx"
+  },
+  {
+   "slug": "photos-with-santa-cedar-park-tx",
+   "to": "cedar-park-tx"
+  },
+  {
+   "slug": "budafest-tx",
+   "to": "buda-tx"
+  },
+  {
+   "slug": "buda-holiday-lights-tx",
+   "to": "buda-tx"
+  },
+  {
+   "slug": "deck-the-park-christmas-tree-lighting-manor-tx",
+   "to": "manor-tx"
+  },
+  {
+   "slug": "sights-and-sounds-of-christmas-san-marcos-tx",
+   "to": "san-marcos-tx",
+   "remove_only": true,
+   "note": "Already carded on san-marcos-tx; only remove from Austin page."
+  }
+ ],
+ "stay_on_austin": "Bastrop, Wimberley, Bertram (North Pole Flyer), Liberty Hill, Marble Falls, Salado, Taylor events: no town page in this run."
+}

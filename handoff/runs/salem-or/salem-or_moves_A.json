@@ -1,0 +1,10 @@
+{
+ "moves": [
+  {
+   "from_page": "salem-or",
+   "to_page": "silverton-or",
+   "card_slug": "silverton-christmas-market-or"
+  }
+ ],
+ "note": "Silverton has its own page (Silverton Christmas Market plus Silver Falls, The Oregon Garden and the folded Mt. Angel Christkindlmarkt = 4 events), so the live Silverton Christmas Market card moves off salem-or and onto silverton-or."
+}

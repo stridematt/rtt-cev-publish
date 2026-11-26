@@ -1,0 +1,107 @@
+{
+ "moves": [
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "32nd-annual-holiday-tree-lighting-on-cannery-row-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "santas-toy-factory-on-cannery-row-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "10th-annual-christmas-on-the-wharf-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "traditional-tree-lighting-on-colton-hall-lawn-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "brighten-the-harbor-lighted-boat-parade-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "winter-wonderfest-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "ice-skating-by-the-bay-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "photos-with-santa-at-del-monte-center-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "42nd-annual-christmas-in-the-adobes-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "first-night-monterey-ca",
+   "note": "Monterey event; Monterey is a new 30,000-person page (block B)"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "carmel-by-the-sea-ca",
+   "card_slug": "carmel-holiday-celebration-carmel-by-the-sea-ca",
+   "note": "Carmel event; block B decides whether Carmel gets a page (3+ verified counting moved cards). If B folds Carmel, send to monterey-ca instead"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "carmel-by-the-sea-ca",
+   "card_slug": "the-nutcracker-by-monterey-peninsula-ballet-theatre-carmel-by-the-sea-ca",
+   "note": "Carmel event; block B decides whether Carmel gets a page (3+ verified counting moved cards). If B folds Carmel, send to monterey-ca instead"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "pacific-grove-ca",
+   "card_slug": "holiday-wreathmaking-at-the-pg-museum-pacific-grove-ca",
+   "note": "Pacific Grove Museum event, 165 Forest Ave; move to the existing Pacific Grove page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "drop",
+   "card_slug": "pacific-grove-holiday-parade-of-lights-ca",
+   "note": "Duplicate of holiday-parade-of-lights-pacific-grove-ca already on pacific-grove-ca; SeeMonterey lists the Pacific Grove Holiday Parade of Lights once, Thursday Dec 3 2026 at 6 pm, and pacific-grove-ca shows the same Dec 3 6 to 8 pm. Block B should confirm the surviving card's host date"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "drop",
+   "card_slug": "winter-wonderland-and-seaside-tree-lighting-ca",
+   "note": "Same slug already live on seaside-ca; keep it there"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "drop",
+   "card_slug": "cereal-with-santa-seaside-ca",
+   "note": "Same slug already live on seaside-ca; keep it there"
+  },
+  {
+   "from_page": "gilroy-ca",
+   "to_page": "hollister-ca",
+   "card_slug": "polar-express-movie-night-at-the-gardenshoppe-hollister-ca",
+   "note": "Event is at 364 7th St, Hollister; Hollister gets a new page"
+  }
+ ],
+ "note": "Master moves for the Salinas run (A+B+C merged, de-duplicated). All 16 old salinas-ca cards move or drop. Verify each source card exists live first. Also: the 10 moved Monterey event pages, 2 Carmel pages, the wreathmaking page and the Seaside pages have breadcrumb and 'more near' links to salinas-ca; repoint them to the new parent page (monterey-ca, carmel-by-the-sea-ca, pacific-grove-ca, seaside-ca). holiday-tree-lighting-at-del-monte-center-monterey-ca: the event page is live but ended Nov 21, 2026, it is not carded on salinas-ca or any page checked, so do NOT card it; if it must stay, repoint its links from salinas-ca to monterey-ca. Remove dead planner rows afterwards."
+}

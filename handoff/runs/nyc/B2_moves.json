@@ -1,0 +1,10 @@
+{
+ "moves": [
+  {
+   "from_page": "southold-ny",
+   "to_page": "riverhead-ny",
+   "card_slug": "open-house-with-santa-at-the-railroad-museum-of-long-island-in-riverhead-ny"
+  }
+ ],
+ "note": "B's RMLI Riverhead open house (cand 56260) now lives on the new riverhead-ny page (bundle.json.gz there includes its page); southold-ny/bundle_B2.json.gz replaces B's southold bundle. Hicks Nurseries (Westbury) and Christmas at Westbury House (Old Westbury) cards are built on mineola-ny, not on any other page. STRAY for the lead: the LIRR Holiday Lights Train (MTA press release, runs Nov 23 into January on all electric branches) is system-wide, not a town event; helper A or the lead may use it on the New York City or LIRR guides. Not scanned: the new-york-ny core page for cards of Hempstead, Garden City, Levittown, Rockville Centre, Huntington or Riverhead events (Nassau Coliseum, Jones Beach, Long Island Aquarium), so the lead should confirm none sit there."
+}

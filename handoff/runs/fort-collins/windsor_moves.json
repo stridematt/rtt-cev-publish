@@ -1,0 +1,10 @@
+{
+ "moves": [
+  {
+   "from_page": "greeley-co",
+   "to_page": "windsor-co",
+   "card_slug": "breakfast-with-santa-windsor-co"
+  }
+ ],
+ "note": "Breakfast with Santa is at The Hearth Restaurant and Pub, 205 1/2 4th Street, downtown Windsor (tickets $16 adults, $8 children per the card), so it belongs on the Windsor page, not Greeley. The Windsor intro in windsor-co/intro.json counts it (9 events, 2 free)."
+}

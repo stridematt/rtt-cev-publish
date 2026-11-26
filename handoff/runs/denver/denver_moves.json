@@ -1,0 +1,19 @@
+{
+ "_note": "Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move. 'drop' = same event already carded on the town page under another slug.",
+ "off_denver_to_littleton": ["holiday-open-house-littleton-co", "winter-break-fun-grinch-slime-littleton-co", "trail-of-lights-littleton-co"],
+ "off_denver_to_centennial": ["winter-crafts-centennial-co"],
+ "off_denver_to_englewood": ["pictures-with-santa-at-zara-rhythmic-gymnastics-englewood-co", "salvation-army-christmas-concert-cherry-hills-village-co (Cherry Hills Village folds into Englewood)"],
+ "off_denver_to_highlands_ranch": ["highlands-ranch-hometown-holiday-co"],
+ "off_denver_to_aurora": ["christmas-at-gaylord-rockies-aurora-co", "visit-santa-on-the-trolley-aurora-co (same slug already on Aurora: just remove from Denver)"],
+ "off_denver_to_lakewood": ["kids-club-craft-wood-peg-elves-lakewood-co", "holiday-open-house-festival-of-trees-lakewood-co", "holiday-open-house-edgewater-co (Edgewater has no page; folds into Lakewood)"],
+ "off_denver_to_golden": ["the-polar-express-train-ride-golden-co"],
+ "off_denver_to_wheat_ridge": ["jingle-bells-and-joeys-at-kangaroo-ranch-wheat-ridge-co", "gingerbread-house-party-at-hashtag-wheat-ridge-co"],
+ "off_denver_to_arvada": ["family-christmas-wreath-workshop-at-teelee-floral-arvada-co"],
+ "off_lone_tree_to_englewood": ["grand-polar-express-movie-night-with-santa-at-the-barn-englewood-co"],
+ "off_lone_tree_to_highlands_ranch": ["hashtag-gingerbread-house-party-highlands-ranch-co"],
+ "off_broomfield_to_erie": ["the-nutcracker-in-a-nutshell-by-zikr-dance-ensemble-erie-co"],
+ "off_boulder_to_longmont": ["crafts-and-cocoa-at-the-library-longmont-co", "best-books-of-storytime-longmont-co", "noon-years-party-longmont-co"],
+ "off_boulder_to_louisville": ["parade-of-lights-treat-bag-giveaway-louisville-co", "snowed-in-first-friday-at-the-library-louisville-co", "winter-fest-louisville-co", "new-years-eve-crafts-and-cocoa-louisville-co", "noon-years-eve-louisville-co (check overlap of winter-fest and treat-bag cards with the new Louisville Chamber Parade of Lights)"],
+ "drop_from_boulder_duplicates_on_longmont": ["the two Callahan House cards", "Longmont Lights parade card"],
+ "check": "christmas-party-at-cherry-creek-state-park-greenwood-village-co sits on the Aurora page with a Greenwood Village slug; Greenwood Village has no page (under 3 verified events), left in place. Two Aurora anchor cards (aurora-santa-s-grand-arrival, aurora-holiday-hometown-parade-and-tree) slugs unknown, not moved."
+}

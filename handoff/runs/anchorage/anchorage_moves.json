@@ -1,0 +1,45 @@
+{
+ "moves": [
+  {
+   "from_page": "anchorage-ak",
+   "to_page": "girdwood-ak",
+   "card_slug": "skate-with-santa-at-alyeska-resort-girdwood-ak"
+  },
+  {
+   "from_page": "anchorage-ak",
+   "to_page": "girdwood-ak",
+   "card_slug": "santa-skis-free-day-at-alyeska-resort-girdwood-ak"
+  },
+  {
+   "from_page": "anchorage-ak",
+   "to_page": "girdwood-ak",
+   "card_slug": "santa-fire-truck-parade-in-girdwood-ak"
+  },
+  {
+   "from_page": "anchorage-ak",
+   "to_page": "eagle-river-ak",
+   "card_slug": "community-christmas-concert-in-eagle-river-ak"
+  },
+  {
+   "from_page": "anchorage-ak",
+   "to_page": "eagle-river-ak",
+   "card_slug": "the-grinch-slime-night-at-birch-and-bloom-eagle-river-ak"
+  },
+  {
+   "from_page": "anchorage-ak",
+   "to_page": "drop",
+   "card_slug": "dr-seusss-how-the-grinch-stole-christmas-the-musical-palmer-ak"
+  }
+ ],
+ "note": "Girdwood (3 Alyeska/fire truck cards) and Eagle River (concert, Grinch slime night) get their own pages and keep their events, so the five cards move off anchorage-ak. The Palmer Grinch musical card (dr-seusss-how-the-grinch-stole-christmas-the-musical-palmer-ak, Nov 6 to 8, already ended) is linked from the Anchorage page footer and belongs to Palmer (Block B); it is not moved here. Grinch card (ended Nov 8) is now an explicit drop move.",
+ "fixes": [
+  {
+   "page": "seward-ak",
+   "card_slug": "community-holiday-party-at-the-alaska-sealife-center-seward-ak",
+   "set_date": "2026-12-03",
+   "time": "6:00 pm - 8:00 pm",
+   "source": "https://www.alaskasealife.org/calendar_detail/204",
+   "note": "Host page says Thursday December 3, 2026; live card says Dec 2. Free."
+  }
+ ]
+}

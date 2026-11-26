@@ -1,0 +1,59 @@
+{
+ "from": "cleveland-oh",
+ "moves": [
+  {
+   "card": "winter-wonderland-south-euclid-oh",
+   "to": "south-euclid-oh"
+  },
+  {
+   "card": "lighting-of-the-greens-chagrin-falls-oh",
+   "to": "chagrin-falls-oh"
+  },
+  {
+   "card": "cookies-with-mrs-claus-parma-oh",
+   "to": "parma-oh"
+  },
+  {
+   "card": "polar-express-at-the-library-north-olmsted-oh",
+   "to": "north-olmsted-oh"
+  },
+  {
+   "card": "polar-express-brook-park-oh",
+   "to": "brook-park-oh"
+  },
+  {
+   "card": "cozy-cookies-and-cocoa-middleburg-heights-oh",
+   "to": "middleburg-heights-oh"
+  },
+  {
+   "card": "polar-express-storytime-olmsted-falls-oh",
+   "to": "olmsted-falls-oh"
+  },
+  {
+   "card": "holiday-tree-craft-and-storytime-brecksville-oh",
+   "to": "north-royalton-oh"
+  },
+  {
+   "card": "candy-land-wild-about-winter-kirtland-oh",
+   "to": "kirtland-oh"
+  },
+  {
+   "card": "holiday-ice-and-lights-festival-kirtland-oh",
+   "to": "kirtland-oh"
+  },
+  {
+   "card": "country-lights-drive-thru-kirtland-oh",
+   "to": "kirtland-oh"
+  }
+ ],
+ "delete_past": [
+  "medina-candlelight-walk (anchor ev-medina-medina-candlelight-walk)",
+  "santa-parade-and-50th-anniversary-celebration-north-olmsted-oh",
+  "crocker-park-tree-lighting-westlake-oh"
+ ],
+ "stay_on_cleveland": [
+  "all-aboard-the-polar-express-brooklyn-oh (Brooklyn folded)",
+  "north-pole-adventure-independence-oh (Independence folded)",
+  "holiday-lantern-tours-bath-oh (also live on akron-oh: duplicate, keep one)"
+ ]
+}

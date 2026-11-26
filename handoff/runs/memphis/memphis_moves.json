@@ -1,0 +1,40 @@
+{
+ "run": "memphis",
+ "date": "2026-11-26",
+ "remove_from_memphis": [
+  {
+   "slug": "bartlett-christmas-parade-tn",
+   "reason": "Bartlett parade; already live on bartlett-tn, remove from memphis-tn only"
+  }
+ ],
+ "suburb_cards_moving_to_new_pages": [],
+ "duplicates": [
+  {
+   "slug": "bartlett-christmas-parade-tn",
+   "pages": [
+    "memphis-tn",
+    "bartlett-tn"
+   ]
+  }
+ ],
+ "neighbor_moves": [],
+ "built_new_events": {
+  "memphis-tn": 8,
+  "germantown-tn": 9,
+  "collierville-tn": 7,
+  "arlington-tn": 3
+ },
+ "belongs_to_other_towns_or_notes": [
+  {
+   "event": "Madeline's Christmas, Germantown Community Theatre",
+   "town": "germantown-tn",
+   "status": "held, no times or prices on host page"
+  },
+  {
+   "event": "Madeline's Christmas story time at Novel",
+   "town": "memphis-tn",
+   "status": "built as 81007"
+  }
+ ],
+ "count_discrepancy": "Brief says memphis-tn has 23 events, memphis_existing_cards.txt lists 22 slugs. intro.json for Memphis uses 22 minus the Bartlett parade plus 8 new = 29 (written as about 30 and 10 free); lead should confirm against live page."
+}

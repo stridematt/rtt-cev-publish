@@ -1,0 +1,39 @@
+{
+ "off_kansas_city_to_independence": [
+  "how-the-grinch-stole-storytime-independence-mo",
+  "a-victorian-fashionable-christmas-at-vaile-mansion-independence-mo"
+ ],
+ "off_kansas_city_to_lees_summit": [
+  "a-visit-with-santa-claus-lees-summit-mo",
+  "christmas-in-the-park-lees-summit-mo (duplicate of 39th-annual-christmas-in-the-park-lees-summit-mo; drop)",
+  "evergy-festival-of-lights-kingsville-mo (duplicate of evergy-festival-of-lights-at-powell-gardens-kingsville-mo; drop)"
+ ],
+ "neighbor_moves_other_helpers": {
+  "excelsior-springs-mo": [
+   "hall-of-trees",
+   "lane-of-lights"
+  ],
+  "parkville-mo": [
+   "christmas-on-the-river-parkville-mo"
+  ],
+  "gladstone-mo": [
+   "storytime-with-santa-and-mrs-claus-gladstone-mo"
+  ],
+  "lenexa-ks": [
+   "sar-ko-aglow-lighting-ceremony-lenexa-ks"
+  ],
+  "leawood-ks": [
+   "graham-cracker-cottages-leawood-ks"
+  ],
+  "overland-park-ks": [
+   "luminary-walk-overland-park-ks"
+  ],
+  "kansas-city-ks": [
+   "holiday-open-house-with-santa-family-and-pet-friendly-kansas-city-ks"
+  ]
+ },
+ "unassigned_stay_and_flag": [
+  "colonial-santa-raytown-mo (Raytown has no page and no owner)",
+  "Warrensburg, Moberly, Arrow Rock cards are out of metro"
+ ]
+}

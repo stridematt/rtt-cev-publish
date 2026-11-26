@@ -1,0 +1,10 @@
+{
+ "moves": [
+  {
+   "from_page": "fairfield-ct",
+   "to_page": "norwalk-ct",
+   "card_slug": "lockwood-mathews-mansion-holiday-open-house-norwalk-ct"
+  }
+ ],
+ "note": "The card is physically in Norwalk (295 West Avenue) and sits on the live fairfield-ct page; helper B built norwalk-ct as a NEW page, so the card moves there. Westport (Santa's Holiday Brunch at the Clubhouse) and Trumbull (Santa's Arrival Celebration) cards stay on fairfield-ct, since neither town has a page. Not checked: philadelphia-run, boston-run, pittsburgh-run folders and the new-york-ny core page for cards of my towns."
+}

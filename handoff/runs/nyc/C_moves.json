@@ -1,0 +1,64 @@
+{
+ "moves": [
+  {
+   "from_page": "newark-nj",
+   "to_page": "morristown-nj",
+   "card_slug": "the-polar-express-train-ride-at-whippany-nj",
+   "why": "Whippany (Hanover Township, Morris County) has no page; nearest larger page is Morristown"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "morristown-nj",
+   "card_slug": "new-jersey-ballets-the-nutcracker-with-new-jersey-symphony-morristown-nj",
+   "why": "Mayo Performing Arts Center, Morristown"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "drop",
+   "card_slug": "a-charlie-brown-christmas-live-on-stage-morristown-nj",
+   "why": "duplicate: same slug is already live on morristown-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "rahway-nj",
+   "card_slug": "two-nutcrackers-new-jersey-youth-symphony-rahway-nj",
+   "why": "UCPAC, Rahway"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "rahway-nj",
+   "card_slug": "emmet-otters-jug-band-christmas-popcorn-and-pajamas-film-series-rahway-nj",
+   "why": "UCPAC Hamilton Stage, Rahway"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "rahway-nj",
+   "card_slug": "the-polar-express-in-35mm-rahway-nj",
+   "why": "Rahway (UCPAC), listed on newark-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "drop",
+   "card_slug": "santas-circus-rahway-nj",
+   "why": "duplicate: rahway-nj already carries Santa's Circus (slug live on rahway-nj)"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "drop",
+   "card_slug": "nj-ballets-the-nutcracker-sensory-friendly-performance-rahway-nj",
+   "why": "duplicate: rahway-nj already carries the NJ Ballet sensory friendly Nutcracker (UCPAC nj-ballet-nutcracker-sft-2026); publisher should confirm the live rahway card exists before dropping, else move instead"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "princeton-nj",
+   "card_slug": "a-christmas-carol-princeton-nj",
+   "why": "McCarter Theatre, Princeton; out of my block but the card is on the wrong page. If princeton-nj already holds it, drop instead"
+  }
+ ],
+ "no_move_yet": {
+  "west-orange-nj": "4 Turtle Back Zoo cards stay on newark-nj (holiday-lights-at-turtle-back-zoo-west-orange-nj, meet-and-greet-with-santa-at-turtle-back-zoo-west-orange-nj, princess-holiday-sing-along-at-turtle-back-zoo-west-orange-nj, dont-be-a-grinch-weekend-at-turtle-back-zoo-west-orange-nj). West Orange (48k) qualifies for its own page; no page built this pass, so they stay until a second pass builds it.",
+  "union-nj": "breakfast-with-santa-union-nj (Liberty Hall Museum) stays on newark-nj until a Union page exists",
+  "elizabeth-nj": "santa-photos-at-the-mills-at-jersey-gardens-elizabeth-nj stays on newark-nj until an Elizabeth page exists"
+ },
+ "note": "Newark's page is acting as the north Jersey catch-all: 19 cards, of which about 11 belong to other towns. Cards enumerated from the live newark-nj page links 2026-11-26. Rahway page live cards: NJ Ballet sensory Nutcracker and Santa's Circus."
+}

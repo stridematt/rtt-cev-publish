@@ -1,0 +1,19 @@
+{
+ "moves": [
+  {
+   "card": "the-spirit-of-christmas-at-destrehan-plantation-la",
+   "from": "new-orleans-la",
+   "to": "laplace-la",
+   "note": "Destrehan folded into LaPlace"
+  },
+  {
+   "card": "a-candy-cane-celebration-destrehan-la",
+   "from": "new-orleans-la",
+   "to": "laplace-la",
+   "note": "Destrehan folded into LaPlace"
+  }
+ ],
+ "no_move": [
+  "jingle-bell-breakfast-in-thibodaux-la stays on houma-la (Thibodaux folded into Houma)"
+ ]
+}

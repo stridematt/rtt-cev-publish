@@ -1,0 +1,26 @@
+{
+ "off_jacksonville_to_jacksonville_beach": [
+  "deck-the-chairs-jacksonville-beach-fl",
+  "brunch-with-santa-at-tulua-jax-beach-jacksonville-beach-fl"
+ ],
+ "off_jacksonville_to_st_augustine": [
+  "christmas-parade-st-augustine-fl",
+  "st-augustine-nights-of-lights-fl"
+ ],
+ "off_jacksonville_to_ponte_vedra": [
+  "visit-with-santa-in-ponte-vedra-beach-palm-valley-fl",
+  "polar-express-family-holiday-challenge-ponte-vedra-beach-fl",
+  "christmas-concert-at-the-link-in-nocatee-ponte-vedra-fl"
+ ],
+ "off_jacksonville_to_fernandina_beach": [
+  "santas-storybook-tea-amelia-island-fl"
+ ],
+ "note": "All four targets got pages, so all 8 moves apply. Each target page.json lists them in move_from_jacksonville.",
+ "confirmed_targets": [
+  "jacksonville-beach-fl",
+  "st-augustine-fl",
+  "ponte-vedra-fl",
+  "fernandina-beach-fl"
+ ],
+ "middleburg-fl": "No cards move; Oakleaf parade is unincorporated Clay County, built new on middleburg-fl."
+}

@@ -1,0 +1,40 @@
+{
+ "moves": [
+  {
+   "from_page": "janesville-wi",
+   "to_page": "beloit-wi",
+   "card_slug": "home-run-holiday-lights-at-abc-supply-stadium-beloit-wi"
+  },
+  {
+   "from_page": "janesville-wi",
+   "to_page": "beloit-wi",
+   "card_slug": "story-time-with-santa-at-beloit-public-library-wi"
+  },
+  {
+   "from_page": "janesville-wi",
+   "to_page": "beloit-wi",
+   "card_slug": "gingerbread-build-at-beloit-public-library-wi"
+  },
+  {
+   "from_page": "janesville-wi",
+   "to_page": "drop",
+   "card_slug": "downtown-beloit-grand-lighted-holiday-parade-and-tree-lighting-wi"
+  },
+  {
+   "from_page": "janesville-wi",
+   "to_page": "milton-wi",
+   "card_slug": "christmas-traditions-twilight-tours-at-the-milton-house-museum-wi"
+  },
+  {
+   "from_page": "janesville-wi",
+   "to_page": "milton-wi",
+   "card_slug": "merry-milton-weekend-wi"
+  },
+  {
+   "from_page": "chicago-il",
+   "to_page": "lake-geneva-wi",
+   "card_slug": "51st-annual-lake-geneva-electric-christmas-parade-wi"
+  }
+ ],
+ "note": "Beloit and Milton cards sit on janesville-wi; Beloit has its own live page and Milton gets a new page. The drop removes the janesville copy of the Beloit Grand Lighted Holiday Parade because beloit-wi already carries the same event as grand-lighted-holiday-parade-and-tree-lighting-beloit-wi (Nov 27). The Lake Geneva Electric Christmas Parade card lives on chicago-il and moves to the new lake-geneva-wi page. Merry Milton Weekend (Dec 3 to 6) is an umbrella card that overlaps the three new Milton events; keep both unless Rally prefers one."
+}

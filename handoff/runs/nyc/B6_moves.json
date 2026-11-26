@@ -1,0 +1,17 @@
+{
+ "moves": [
+  {
+   "from_page": "stamford-ct",
+   "to_page": "greenwich-ct",
+   "card_slug": "18th-annual-greenwich-reindeer-festival-and-santas-workshop-ct",
+   "note": "live card; Reindeer Festival is at Sam Bridge Nursery, 437 North Street, Greenwich"
+  },
+  {
+   "from_page": "stamford-ct",
+   "to_page": "drop",
+   "card_slug": "greenwich-holiday-tree-lighting-at-town-hall-ct",
+   "note": "B's cand 56256 (not yet live) duplicates B6 cand 56489 built on greenwich-ct; publish only one"
+  }
+ ],
+ "note": "greenwich-ct is a NEW page (4 events). The B4_moves.json slug greenwich-tree-lighting did not exist. Westport tree lighting (56486) is added to fairfield-ct. The stamford-ct folded.json line saying Greenwich folds into Stamford is superseded."
+}

@@ -1,0 +1,44 @@
+{
+ "from": "raleigh-nc",
+ "note": "Suburb cards on the live Raleigh page that belong to other towns (venue town decides). Raleigh core keeps its own 14 cards plus the 9 new ones. The Raleigh Christmas Parade anchor (Nov 21, past) has no card page and should be dropped. New Hope Valley Railway goes to Apex as Helper C decided (apex-nc/moves.txt). Light the Springs is also on holly-springs-nc and should come off Raleigh.",
+ "moves": {
+  "knightdale-nc": [
+   "knightdale-tree-lighting-nc",
+   "knightdale-christmas-parade-nc",
+   "santas-workshop-at-haven-farm-knightdale-nc"
+  ],
+  "garner-nc": [
+   "christmas-town-festival-in-garner-nc"
+  ],
+  "clayton-nc": [
+   "story-time-with-santa-at-mannings-clayton-nc"
+  ],
+  "apex-nc": [
+   "apex-rotary-christmas-parade-nc",
+   "santa-express-new-hope-valley-railway-new-hill-nc"
+  ],
+  "holly-springs-nc": [
+   "light-the-springs-holly-springs-nc"
+  ],
+  "cary-nc": [
+   "nc-chinese-lantern-festival-cary-nc",
+   "sensory-friendly-winter-fest-and-cary-christmas-parade-watch-party-nc",
+   "christmas-cantata-hope-has-come-cary-nc",
+   "candlelight-christmas-eve-worship-at-genesis-umc-cary-nc"
+  ],
+  "fuquay-varina-nc": [
+   "breakfast-with-santa-in-fuquay-varina-nc"
+  ],
+  "wake-forest-nc": [
+   "lighting-of-wake-forest-nc",
+   "pictures-with-santa-wake-forest-nc",
+   "evening-holiday-walk-at-joyner-park-wake-forest-nc"
+  ],
+  "durham-nc": [
+   "a-very-merry-cookie-craft-durham-nc",
+   "nutcracker-storytime-with-barriskill-ballerinas-southwest-durham-nc",
+   "cookies-cocoa-and-a-movie-durham-nc",
+   "holiday-cookie-house-extravaganza-durham-nc"
+  ]
+ }
+}

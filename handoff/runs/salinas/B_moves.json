@@ -1,0 +1,101 @@
+{
+ "moves": [
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "32nd-annual-holiday-tree-lighting-on-cannery-row-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "santas-toy-factory-on-cannery-row-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "10th-annual-christmas-on-the-wharf-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "traditional-tree-lighting-on-colton-hall-lawn-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "brighten-the-harbor-lighted-boat-parade-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "winter-wonderfest-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "ice-skating-by-the-bay-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "photos-with-santa-at-del-monte-center-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "42nd-annual-christmas-in-the-adobes-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "monterey-ca",
+   "card_slug": "first-night-monterey-ca",
+   "note": "Monterey card moves to the new Monterey page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "carmel-by-the-sea-ca",
+   "card_slug": "carmel-holiday-celebration-carmel-by-the-sea-ca",
+   "note": "Carmel card moves to the new Carmel-by-the-Sea page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "carmel-by-the-sea-ca",
+   "card_slug": "the-nutcracker-by-monterey-peninsula-ballet-theatre-carmel-by-the-sea-ca",
+   "note": "Carmel card moves to the new Carmel-by-the-Sea page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "drop",
+   "card_slug": "pacific-grove-holiday-parade-of-lights-ca",
+   "note": "Duplicate of holiday-parade-of-lights-pacific-grove-ca, which stays on pacific-grove-ca"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "pacific-grove-ca",
+   "card_slug": "holiday-wreathmaking-at-the-pg-museum-pacific-grove-ca",
+   "note": "Pacific Grove card moves to the existing Pacific Grove page"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "drop",
+   "card_slug": "winter-wonderland-and-seaside-tree-lighting-ca",
+   "note": "Same card already on seaside-ca; stays there"
+  },
+  {
+   "from_page": "salinas-ca",
+   "to_page": "drop",
+   "card_slug": "cereal-with-santa-seaside-ca",
+   "note": "Same card already on seaside-ca; stays there"
+  }
+ ],
+ "note": "10 Monterey and 2 Carmel cards move off salinas-ca onto new pages; wreathmaking moves to pacific-grove-ca; the duplicate PG parade and the two Seaside cards are dropped from salinas-ca because those cards already live on pacific-grove-ca and seaside-ca. Sand City, Del Rey Oaks, Carmel Valley, Pebble Beach and Big Sur have no pages."
+}

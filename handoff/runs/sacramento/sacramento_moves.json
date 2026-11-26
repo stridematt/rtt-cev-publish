@@ -1,0 +1,72 @@
+{
+ "run": "sacramento",
+ "date": "2026-11-26",
+ "move_from_sacramento": {
+  "fair-oaks-tree-lighting-ca": "fair-oaks-ca",
+  "breakfast-with-santa-rancho-cordova-ca": "rancho-cordova-ca",
+  "old-fashioned-christmas-elk-grove-ca": "elk-grove-ca",
+  "breakfast-with-santa-elk-grove-ca": "elk-grove-ca",
+  "santas-workshop-roseville-ca": "roseville-ca",
+  "free-pictures-with-santa-in-folsom-ca": "folsom-ca",
+  "a-jazzy-little-christmas-in-folsom-ca": "folsom-ca",
+  "photos-with-santa-and-vendor-fair-in-rocklin-ca": "rocklin-ca",
+  "breakfast-with-santa-in-rocklin-ca": "rocklin-ca",
+  "christmas-gift-bazaar-at-gold-country-fairgrounds-auburn-ca": "auburn-ca",
+  "placer-theatre-ballet-the-nutcracker-auburn-ca": "auburn-ca",
+  "davis-food-co-op-christmas-eve-holiday-meal-ca": "davis-ca",
+  "christmas-down-on-the-farm-davis-ca": "davis-ca"
+ },
+ "remove_from_sacramento_only": {
+  "orangevale-community-tree-lighting-ca": {
+   "target": "orangevale-ca",
+   "reason": "already on orangevale-ca"
+  },
+  "sunrise-lights-the-night-citrus-heights-ca": {
+   "target": "citrus-heights-ca",
+   "reason": "already on citrus-heights-ca"
+  },
+  "dickens-street-faire-elk-grove-ca": {
+   "target": "elk-grove-ca",
+   "reason": "duplicate of inline Dickens card on elk-grove-ca"
+  },
+  "illumination-holiday-festival-elk-grove-ca": {
+   "target": "elk-grove-ca",
+   "reason": "duplicate of inline Illumination card on elk-grove-ca"
+  },
+  "parade-of-lights-elk-grove-ca": {
+   "target": "elk-grove-ca",
+   "reason": "duplicate of inline parade card on elk-grove-ca"
+  },
+  "downtown-holiday-celebration-christmas-tree-lighting-roseville-ca": {
+   "target": "roseville-ca",
+   "reason": "duplicate of christmas-tree-lighting-roseville-ca already on roseville-ca"
+  },
+  "neighborhood-santa-roseville-ca": {
+   "target": "roseville-ca",
+   "reason": "already on roseville-ca"
+  },
+  "breakfast-with-santa-roseville-ca": {
+   "target": "roseville-ca",
+   "reason": "already on roseville-ca"
+  },
+  "milk-and-cookies-with-santa-roseville-ca": {
+   "target": "roseville-ca",
+   "reason": "already on roseville-ca"
+  },
+  "gingerbread-house-factory-roseville-ca": {
+   "target": "roseville-ca",
+   "reason": "already on roseville-ca"
+  },
+  "community-christmas-tree-lighting-folsom-ca": {
+   "target": "folsom-ca",
+   "reason": "already on folsom-ca"
+  }
+ },
+ "no_home_stay_on_sacramento": [
+  "brunch-with-santa-at-jelly-belly-fairfield-ca"
+ ],
+ "move_between_other_pages": {
+  "the-rocklin-great-gingerbread-build-off-ca": "roseville-ca -> rocklin-ca"
+ },
+ "note": "If a move target does not already carry the card, add it there; if it does, only remove from Sacramento. Never show on two pages."
+}

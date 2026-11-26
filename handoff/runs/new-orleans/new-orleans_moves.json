@@ -1,0 +1,77 @@
+{
+ "_note": "Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move. Helper A scope; Destrehan cards belong to Helper C (LaPlace/Destrehan page), listed for them.",
+ "moves": [
+  {
+   "card": "lighting-of-the-oaks-gretna-la",
+   "from": "new-orleans-la",
+   "to": "gretna-la"
+  },
+  {
+   "card": "olde-gretna-christmas-market-la",
+   "from": "new-orleans-la",
+   "to": "gretna-la"
+  },
+  {
+   "card": "gretna-christmas-parade-and-tree-lighting-la",
+   "from": "new-orleans-la",
+   "to": "gretna-la"
+  },
+  {
+   "card": "kitchen-kids-christmas-gumbo-cookie-party-terrytown-la",
+   "from": "new-orleans-la",
+   "to": "gretna-la",
+   "note": "Terrytown folds into Gretna"
+  },
+  {
+   "card": "christmas-in-lafreniere-park-metairie-la",
+   "from": "new-orleans-la",
+   "to": "metairie-la"
+  },
+  {
+   "card": "rudolph-the-red-nosed-reindeer-metairie-la",
+   "from": "new-orleans-la",
+   "to": "metairie-la",
+   "note": "already live on metairie-la: just delete the duplicate card from new-orleans-la"
+  },
+  {
+   "card": "kenners-magical-christmas-village-la",
+   "from": "new-orleans-la",
+   "to": "kenner-la",
+   "note": "duplicate of the two Magical Christmas Village cards already on kenner-la: delete from new-orleans-la"
+  },
+  {
+   "card": "harahan-tales-for-tots-rudolph-story-and-handprint-craft-la",
+   "from": "new-orleans-la",
+   "to": "metairie-la",
+   "note": "Harahan folds into Metairie (Jefferson Parish); verify in harahan folded.json"
+  },
+  {
+   "card": "harahan-tales-for-tots-the-night-before-christmas-santa-craft-la",
+   "from": "new-orleans-la",
+   "to": "metairie-la",
+   "note": "Harahan folds into Metairie"
+  },
+  {
+   "card": "harahan-crafts-for-kids-holiday-beading-ornaments-activity-la",
+   "from": "new-orleans-la",
+   "to": "metairie-la",
+   "note": "Harahan folds into Metairie"
+  },
+  {
+   "card": "nutcracker-tea-at-the-maumus-center-and-planetarium-arabi-la",
+   "from": "new-orleans-la",
+   "to": "chalmette-la",
+   "note": "chalmette-la is now a NEW page (3 own events); this card moves there"
+  },
+  {
+   "card": "the-spirit-of-christmas-at-destrehan-plantation-la",
+   "from": "new-orleans-la",
+   "to": "HELPER_C_destrehan/la-place-la"
+  },
+  {
+   "card": "a-candy-cane-celebration-destrehan-la",
+   "from": "new-orleans-la",
+   "to": "HELPER_C_destrehan/la-place-la"
+  }
+ ]
+}

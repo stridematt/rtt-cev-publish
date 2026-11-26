@@ -1,0 +1,18 @@
+{"_note": "Rally rule 2026-11-25: when a suburb has its own page, its events move OFF the Houston page onto the town page; Houston links to the town instead. Event pages stay; only the card moves. Lead verifies which already appear on the town page.",
+ "katy-tx": ["storytime-with-santa-special-program-read-and-rhyme-preschool-story-time-katy-tx","holiday-open-house-a-frosty-holiday-katy-tx","2nd-annual-tubachristmas-katy-tx","christmas-at-the-park-katy-tx"],
+ "conroe-tx": ["christmas-around-the-square-conroe-tx","downtown-conroe-christmas-parade-tx"],
+ "pearland-tx": ["nutcracker-market-pearland-tx","hometown-christmas-parade-pearland-tx"],
+ "tomball-tx": ["tomball-german-christmas-market-tx"],
+ "humble-tx": ["holly-jolly-holiday-party-humble-tx"],
+ "la-porte-tx": ["little-readers-the-grinch-visits-story-time-la-porte-tx"],
+ "league-city-tx": ["nutcracker-in-the-park-league-city-tx"],
+ "the-woodlands-tx": ["market-street-in-lights-the-woodlands-tx","holiday-on-the-waterway-the-woodlands-tx"],
+ "galveston-tx": ["holiday-in-the-gardens-galveston-tx","the-polar-express-train-ride-galveston-tx","dickens-on-the-strand-galveston-tx"],
+ "sugar-land-tx": ["sugar-land-holiday-lights-tx"],
+ "baytown-tx": ["baytown-christmas-parade-stars-stripes-and-christmas-lights-tx"],
+ "kemah-tx": ["christmas-boat-parade-on-clear-lake-kemah-tx"],
+ "bryan-tx": ["holiday-magic-bryan-tx","holiday-stroll-in-historic-downtown-bryan-tx"],
+ "college-station-tx": ["college-station-christmas-parade-tx"],
+ "beaumont-tx": ["city-of-beaumont-christmas-tree-lighting-tx"],
+ "_stay_on_houston": ["free-santa-photos-jacinto-city-tx (no Jacinto City page)","nederland-lighted-parade-tx (no Nederland page)","creative-connection-cozy-winter-creations-houston-tx (Mission Bend, Houston address)"]
+}

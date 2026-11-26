@@ -1,0 +1,39 @@
+{
+ "overland-park-ks": {
+  "to_kansas-city-mo": [
+   "country-club-plaza-lighting-ceremony-kansas-city-mo",
+   "the-pigeon-gets-a-big-time-holiday-extravaganza-kansas-city-mo",
+   "glowild-hidden-treasure-kansas-city-mo",
+   "holiday-reflections-at-union-station-kansas-city-mo",
+   "kansas-city-ballet-the-nutcracker-mo",
+   "sugar-plum-fairy-childrens-ball-kansas-city-mo"
+  ],
+  "to_kansas-city-ks": [
+   "breakfast-with-santa-at-chateau-avalon-kansas-city-ks"
+  ],
+  "to_prairie-village-ks": [
+   "christmas-in-the-courtyard-merriam-ks",
+   "santa-saturday-at-the-shops-of-prairie-village-ks"
+  ],
+  "to_lenexa-ks": [
+   "graham-cracker-cottages-at-lenexa-city-center-library-ks"
+  ],
+  "to_olathe-ks": [
+   "kc-winter-wonderland-olathe-ks",
+   "woodland-tales-with-santa-claus-olathe-ks",
+   "santas-nature-storytime-olathe-ks",
+   "winter-solstice-celebration-olathe-ks"
+  ],
+  "drop_duplicate": [
+   "sar-ko-aglow-lighting-ceremony-lenexa-ks"
+  ]
+ },
+ "kansas-city-mo": {
+  "to_leawood-ks": [
+   "graham-cracker-cottages-leawood-ks"
+  ],
+  "drop_duplicate": [
+   "luminary-walk-overland-park-ks"
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "moves": [
+  {
+   "from_page": "charleston-sc",
+   "to_page": "summerville-sc",
+   "card_slug": "old-time-christmas-tree-celebration-summerville-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "summerville-sc",
+   "card_slug": "summerville-christmas-parade-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "summerville-sc",
+   "card_slug": "pjs-with-santa-summerville-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "summerville-sc",
+   "card_slug": "breakfast-with-santa-summerville-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "drop",
+   "card_slug": "christmas-tree-lighting-north-charleston-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "drop",
+   "card_slug": "cookies-and-cocoa-with-santa-north-charleston-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "drop",
+   "card_slug": "christmas-parade-and-festival-north-charleston-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "mount-pleasant-sc",
+   "card_slug": "karaoke-and-coloring-mount-pleasant-sc"
+  },
+  {
+   "from_page": "charleston-sc",
+   "to_page": "mount-pleasant-sc",
+   "card_slug": "ornament-craft-mount-pleasant-sc"
+  }
+ ],
+ "note": "Merged: helper A draft agrees with moves.txt from helpers B and C (north-charleston, summerville, goose-creek none, mount-pleasant). Venue town decides. The three North Charleston cards are already on north-charleston-sc (same slugs), so they are dropped from charleston-sc as duplicates. Summerville and Mount Pleasant cards move to those existing pages. Charleston core keeps 8 library and venue cards in Charleston and Johns Island."
+}

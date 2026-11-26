@@ -1,0 +1,31 @@
+{
+ "run": "albuquerque",
+ "date": "2026-11-26",
+ "remove_from_albuquerque": [
+  {
+   "slug": "noche-de-luces-corrales-nm",
+   "to": "corrales-nm",
+   "reason": "Venue Casa San Ysidro is at 973 Old Church Road, Corrales NM 87048; Corrales has its own page"
+  }
+ ],
+ "neighbor_moves": [],
+ "neighbor_notes": "Checked rio-rancho-nm (2 cards, both Rio Rancho) and santa-fe-nm (5 cards, all Santa Fe): nothing belongs to Albuquerque, Los Ranchos, Corrales or the East Mountains.",
+ "built_new_events": {
+  "albuquerque-nm": 10,
+  "corrales-nm": 3,
+  "edgewood-nm": 4
+ },
+ "folded": [
+  {
+   "event": "Los Ranchos Holiday in the Village (cand 79250)",
+   "into": "albuquerque-nm"
+  },
+  {
+   "event": "Luminaria de Abo, Mountainair (cand 79333)",
+   "into": "edgewood-nm"
+  }
+ ],
+ "flags": [
+  "albuquerque-nm live page still lists ABQ RIDE Luminaria Tour on Dec 24 (card abq-ride-luminaria-tour-albuquerque-nm) while the same page FAQ says the city announced ABQ RIDE would stop running it; verify and fix or drop the card"
+ ]
+}

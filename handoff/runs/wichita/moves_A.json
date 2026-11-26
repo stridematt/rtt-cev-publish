@@ -1,0 +1,21 @@
+{
+ "moves": [],
+ "no_move": [
+  {
+   "card_slug": "a-country-christmas-at-fulton-valley-farms-towanda-ks",
+   "page": "wichita-ks",
+   "why": "Belongs to Towanda; Helper B moves it to towanda-ks (see moves_B.json)"
+  },
+  {
+   "card_slug": "pancakes-with-santa-at-fulton-valley-farms-towanda-ks",
+   "page": "wichita-ks",
+   "why": "Belongs to Towanda; Helper B moves it to towanda-ks (see moves_B.json)"
+  },
+  {
+   "card_slug": "andover-hometown-christmas-ks",
+   "page": "wichita-ks",
+   "why": "Andover has only 1 verified event; no andover-ks page (Helper B)"
+  }
+ ],
+ "note": "All other 19 live wichita-ks cards are inside Wichita city limits and stay. derby-ks cards all stay."
+}

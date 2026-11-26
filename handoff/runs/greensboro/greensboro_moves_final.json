@@ -1,0 +1,116 @@
+[
+ {
+  "card": "kernersvilles-hometown-christmas-nc",
+  "from": "winston-salem-nc",
+  "to": "kernersville-nc",
+  "duplicate": true
+ },
+ {
+  "card": "spectacular-holiday-blooms-kernersville-nc",
+  "from": "winston-salem-nc",
+  "to": "kernersville-nc",
+  "duplicate": false
+ },
+ {
+  "card": "german-christmas-market-at-korners-folly-kernersville-nc",
+  "from": "winston-salem-nc",
+  "to": "kernersville-nc",
+  "duplicate": false
+ },
+ {
+  "card": "kernersville-yuletide-nc",
+  "from": "winston-salem-nc",
+  "to": "kernersville-nc",
+  "duplicate": false
+ },
+ {
+  "card": "tanglewood-festival-of-lights-clemmons-nc",
+  "from": "winston-salem-nc",
+  "to": "clemmons-nc",
+  "duplicate": true
+ },
+ {
+  "card": "kernersvilles-hometown-christmas-nc",
+  "from": "greensboro-nc",
+  "to": "kernersville-nc",
+  "duplicate": true
+ },
+ {
+  "card": "tanglewood-festival-of-lights-clemmons-nc",
+  "from": "greensboro-nc",
+  "to": "clemmons-nc",
+  "duplicate": true
+ },
+ {
+  "card": "books-and-snacks-a-book-club-for-kids-clemmons-nc",
+  "from": "greensboro-nc",
+  "to": "clemmons-nc",
+  "duplicate": false
+ },
+ {
+  "card": "storytime-with-santa-clemmons-nc",
+  "from": "greensboro-nc",
+  "to": "clemmons-nc",
+  "duplicate": false
+ },
+ {
+  "card": "grinch-day-clemmons-nc",
+  "from": "greensboro-nc",
+  "to": "clemmons-nc",
+  "duplicate": false
+ },
+ {
+  "card": "uncsa-the-nutcracker-winston-salem-nc",
+  "from": "greensboro-nc",
+  "to": "winston-salem-nc",
+  "duplicate": false
+ },
+ {
+  "card": "scavenger-hunt-holiday-goodies-winston-salem-nc",
+  "from": "greensboro-nc",
+  "to": "winston-salem-nc",
+  "duplicate": true
+ },
+ {
+  "card": "scavenger-hunt-reindeer-edition-winston-salem-nc",
+  "from": "greensboro-nc",
+  "to": "winston-salem-nc",
+  "duplicate": true
+ },
+ {
+  "card": "winter-holidays-around-the-world-winston-salem-nc",
+  "from": "greensboro-nc",
+  "to": "winston-salem-nc",
+  "duplicate": true
+ },
+ {
+  "card": "st-nick-at-old-salem-and-the-moravian-market-winston-salem-nc",
+  "from": "greensboro-nc",
+  "to": "winston-salem-nc",
+  "duplicate": true
+ },
+ {
+  "card": "st-nick-returns-to-salem-winston-salem-nc",
+  "from": "greensboro-nc",
+  "to": "winston-salem-nc",
+  "duplicate": true
+ },
+ {
+  "card": "christmas-in-the-park-burlington-nc",
+  "from": "greensboro-nc",
+  "to": "burlington-nc",
+  "duplicate": false
+ },
+ {
+  "card": "cookies-with-mrs-claus-at-summerfield-farms-nc",
+  "from": "greensboro-nc",
+  "to": "summerfield-nc",
+  "duplicate": false
+ },
+ {
+  "card": "54th-annual-holiday-open-house-high-point-nc",
+  "from": "greensboro-nc",
+  "to": "high-point-nc",
+  "duplicate": true
+ }
+]

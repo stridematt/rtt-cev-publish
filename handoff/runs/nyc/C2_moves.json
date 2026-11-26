@@ -1,0 +1,50 @@
+{
+ "moves": [
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "holiday-lights-at-turtle-back-zoo-west-orange-nj",
+   "why": "Turtle Back Zoo is in West Orange, which now has its own page"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "meet-and-greet-with-santa-at-turtle-back-zoo-west-orange-nj",
+   "why": "Turtle Back Zoo is in West Orange, which now has its own page"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "princess-holiday-sing-along-at-turtle-back-zoo-west-orange-nj",
+   "why": "Turtle Back Zoo is in West Orange, which now has its own page"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "west-orange-nj",
+   "card_slug": "dont-be-a-grinch-weekend-at-turtle-back-zoo-west-orange-nj",
+   "why": "Turtle Back Zoo is in West Orange, which now has its own page"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "elizabeth-nj",
+   "card_slug": "breakfast-with-santa-union-nj",
+   "why": "Liberty Hall Museum, Union; Union folds into elizabeth-nj"
+  },
+  {
+   "from_page": "newark-nj",
+   "to_page": "elizabeth-nj",
+   "card_slug": "santa-photos-at-the-mills-at-jersey-gardens-elizabeth-nj",
+   "why": "The Mills at Jersey Gardens is in Elizabeth"
+  },
+  {
+   "from_page": "new-york-ny",
+   "to_page": "asbury-park-nj",
+   "card_slug": "asbury-park-holiday-bazaar-nj",
+   "why": "Convention Hall, Asbury Park; Asbury Park now has its own page"
+  }
+ ],
+ "no_move": [
+  "C's Hackensack tree lighting (cand 56552) stays on paramus-nj; Hackensack has only 2 verified events"
+ ],
+ "fold_notes": "Union and Linden fold into elizabeth-nj; Verona into west-orange-nj; Wall Township into asbury-park-nj; Madison, Chatham, Summit into morristown-nj; Kearny into jersey-city-nj; Augusta and Sparta into wantage-nj"
+}

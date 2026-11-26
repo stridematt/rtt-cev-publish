@@ -1,0 +1,15 @@
+{
+ "from": "virginia-beach-va",
+ "note": "Cards on live pages that belong to another town or are duplicates or past.",
+ "moves": {
+  "norfolk-va": ["winterfest-on-the-wisconsin-norfolk-va"],
+  "chesapeake-va": ["chesapeake-rotary-christmas-parade-virginia-beach-va"],
+  "hampton-va (from newport-news-va)": ["winter-whimsy-at-the-hampton-carousel-va", "hampton-holly-days-parade-va", "pjs-and-pancakes-with-the-grinch-hampton-va"],
+  "yorktown-va (from newport-news-va)": ["yorktown-christmas-tree-lighting-va", "yorktown-lighted-boat-parade-va", "christmas-market-on-main-yorktown-va", "cookies-with-santa-yorktown-va", "breakfast-with-santa-yorktown-va", "yorktown-market-days-mistletoe-market-and-toyland-parade-va"]
+ },
+ "drop_duplicates": {
+  "virginia-beach-va": ["dominion-energy-garden-of-lights-norfolk-va", "holidays-in-the-wild-holiday-market-norfolk-va", "holidays-in-the-wild-holiday-market-norfolk-va-2 (anchor)"],
+  "newport-news-va": ["downtown-hampton-lighted-boat-parade-va (same event as lighted-boat-parade-and-santas-boathouse-hampton-va on hampton-va)"]
+ },
+ "drop_past": {"norfolk-va": ["40th Annual Grand Illumination Parade anchor (Nov 21)"]}
+}

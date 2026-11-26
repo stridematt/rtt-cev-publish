@@ -1,0 +1,11 @@
+{"moves":[
+{"from_page":"norco-ca","to_page":"corona-ca","card_slug":"dos-lagos-tree-lighting-and-holiday-concert-corona-ca"},
+{"from_page":"fontana-ca","to_page":"rialto-ca","card_slug":"nsg-christmas-toy-giveaway-in-rialto-ca"},
+{"from_page":"riverside-ca","to_page":"fontana-ca","card_slug":"fontana-christmas-parade-toys-in-action-ca"},
+{"from_page":"riverside-ca","to_page":"drop","card_slug":"pictures-with-santa-fontana-ca","note":"only if fontana-ca already cards it (it does per Nov 26 scrape)"},
+{"from_page":"riverside-ca","to_page":"drop","card_slug":"festival-of-winter-fontana-ca","note":"only if fontana-ca already cards it (it does per Nov 26 scrape)"},
+{"from_page":"riverside-ca","to_page":"drop","card_slug":"norco-christmas-festival-ca","note":"duplicate of christmas-festival-and-parade-of-lights-norco-ca on norco-ca"},
+{"from_page":"riverside-ca","to_page":"drop","card_slug":"norco-parade-of-lights-ca","note":"duplicate of christmas-festival-and-parade-of-lights-norco-ca on norco-ca"},
+{"from_page":"riverside-ca","to_page":"drop","card_slug":"holiday-tree-lighting-ceremony-moreno-valley-ca","note":"duplicate of moreno-valley-holiday-tree-lighting-ceremony-ca"},
+{"from_page":"hemet-ca","to_page":"moreno-valley-ca","card_slug":"menifee-christmas-tree-lighting-and-holiday-bazaar-ca","note":"optional; Menifee is folded into Moreno Valley and hemet-ca belongs to another run"}
+],"note":"Master moves for the Rancho Cucamonga run. Cards a town page keeps are not listed. Verify each source card exists live before moving."}

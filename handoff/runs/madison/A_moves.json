@@ -1,0 +1,25 @@
+{
+ "moves": [
+  {
+   "from_page": "madison-wi",
+   "to_page": "verona-wi",
+   "card_slug": "hometown-holidays-kick-off-verona-wi"
+  },
+  {
+   "from_page": "madison-wi",
+   "to_page": "verona-wi",
+   "card_slug": "holiday-concert-the-madison-flute-club-verona-wi"
+  },
+  {
+   "from_page": "madison-wi",
+   "to_page": "verona-wi",
+   "card_slug": "breakfast-with-santa-verona-wi"
+  },
+  {
+   "from_page": "madison-wi",
+   "to_page": "middleton-wi",
+   "card_slug": "nutcracker-storytime-with-madison-ballet-middleton-wi"
+  }
+ ],
+ "note": "Verona gets its own page (5 events), so its 3 live cards leave Madison. The Middleton storytime moves to the Middleton page. New Glarus (new-glarus-christkindli-market-wi) and Sun Prairie (fire-and-lights-holiday-parade-and-tree-lighting-sun-prairie-wi) are still on madison-wi: helper B moves them if those towns get pages. Madison intro counts assume those two have moved (20 events, 8 free). The ended North Pole Party (north-pole-party-and-tree-lighting-madison-wi, Nov 22) and Holiday Makers Market / Light the Green (Middleton, Nov 21-22) should be dropped by the publisher if still live. Madison live page holiday-fantasy-in-lights-madison-wi has no card anchor."
+}

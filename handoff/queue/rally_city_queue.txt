@@ -1,0 +1,203 @@
+# Rally's city queue (sent Nov 26 09:13Z): "one more at a time until you run out of usage". Order as given. Footnote markers removed.
+# Many are suburbs already covered by a finished metro (e.g. Aurora IL, Naperville, Joliet, Elgin = Chicago; Garden Grove, Fullerton, Orange, Costa Mesa = Anaheim run; Lee's Summit, Independence, Olathe = Kansas City; Lakeland, Clearwater, Largo = Tampa). When a city already has a page built tonight, tell Rally it's covered and skip, unless it needs more events.
+# Also queued before this list: Pittsburgh, Anchorage, Madison, Philadelphia, New York City, Longmont CO.
+Salem OR
+Aurora IL
+Santa Rosa CA
+Eugene OR
+Rancho Cucamonga CA
+Pembroke Pines FL
+Shreveport LA
+Surprise AZ
+Fort Collins CO
+Murfreesboro TN
+Oceanside CA
+Garden Grove CA
+Lancaster CA
+Springfield MO
+Denton TX
+Roseville CA
+Killeen TX
+Palmdale CA
+Paterson NJ
+Corona CA
+Alexandria VA
+Charleston SC
+Salinas CA
+Kansas City KS
+Macon GA
+Hayward CA
+Hollywood FL
+Lakewood CO
+Sunnyvale CA
+Springfield MA
+Bellevue WA
+Naperville IL
+Bridgeport CT
+Joliet IL
+Mesquite TX
+McAllen TX
+Olathe KS
+Savannah GA
+Gainesville FL
+Pasadena TX
+Palm Bay FL
+Pomona CA
+Waco TX
+Thornton CO
+Midland TX
+Rockford IL
+Columbia SC
+Visalia CA
+Escondido CA
+Syracuse NY
+Lakewood NJ
+Meridian ID
+Miramar FL
+Elizabeth NJ
+Victorville CA
+Round Rock TX
+Jackson MS
+Stamford CT
+Lewisville TX
+Coral Springs FL
+New Haven CT
+Fullerton CA
+Torrance CA
+Orange CA
+Cedar Rapids IA
+West Valley City UT
+Hampton VA
+Warren MI
+Dayton OH
+Fargo ND
+Pasadena CA
+Kent WA
+Carrollton TX
+Sterling Heights MI
+Santa Clara CA
+Abilene TX
+Norman OK
+Columbia MO
+Pearland TX
+Clovis CA
+North Charleston SC
+Athens GA
+College Station TX
+West Palm Beach FL
+Wilmington NC
+Allentown PA
+Topeka KS
+Lakeland FL
+Buckeye AZ
+Goodyear AZ
+Broken Arrow OK
+Simi Valley CA
+Rochester MN
+Lafayette LA
+Vallejo CA
+Concord CA
+Arvada CO
+Odessa TX
+Cambridge MA
+New Braunfels TX
+Fairfield CA
+Ann Arbor MI
+Thousand Oaks CA
+Hartford CT
+Berkeley CA
+Independence MO
+Billings MT
+High Point NC
+Nampa ID
+Lowell MA
+League City TX
+Conroe TX
+Antioch CA
+Menifee CA
+Richardson TX
+Pompano Beach FL
+Las Cruces NM
+Manchester NH
+West Jordan UT
+Westminster CO
+Evansville IN
+Waterbury CT
+Elgin IL
+Greeley CO
+Temecula CA
+Richmond CA
+Concord NC
+Provo UT
+Rio Rancho NM
+Clearwater FL
+Tuscaloosa AL
+Murrieta CA
+Lansing MI
+Tyler TX
+Miami Gardens FL
+Everett WA
+Allen TX
+Springfield IL
+Beaumont TX
+South Fulton GA
+Carlsbad CA
+Sparks NV
+Gresham OR
+Santa Maria CA
+Hillsboro OR
+Peoria IL
+Davie FL
+Edinburg TX
+Pueblo CO
+Ventura CA
+Palm Coast FL
+Edison NJ
+Costa Mesa CA
+St. George UT
+Centennial CO
+Downey CA
+Spokane Valley WA
+Sugar Land TX
+Lee's Summit MO
+Bend OR
+Jurupa Valley CA
+Georgetown TX
+Green Bay WI
+Fayetteville AR
+Rialto CA
+Brockton MA
+Boulder CO
+Carmel IN
+Dearborn MI
+West Covina CA
+Yuma AZ
+Chico CA
+El Monte CA
+Sandy Springs GA
+Renton WA
+Fishers IN
+Woodbridge NJ
+Suffolk VA
+Lynn MA
+Vacaville CA
+San Mateo CA
+South Bend IN
+Quincy MA
+Burbank CA
+Hesperia CA
+Wichita Falls TX
+Tracy CA
+New Bedford MA
+El Cajon CA
+Albany NY
+Inglewood CA
+Boca Raton FL
+Fort Myers FL
+Clinton MI
+Daly City CA
+Avondale AZ
+Toms River NJ
+San Angelo TX
+Edmond OK
+Davenport IA

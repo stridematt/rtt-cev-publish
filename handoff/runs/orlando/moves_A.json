@@ -1,0 +1,111 @@
+{
+ "_note": "Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move. Helper A (Orlando core + Orange County). Folded towns: Windermere and Oakland into winter-garden-fl, Eatonville into maitland-fl.",
+ "moves": [
+  {
+   "card": "now-snowing-nightly-in-celebration-fl",
+   "from": "orlando-fl",
+   "to": "celebration-fl",
+   "note": "Celebration has no live page; target is helper C's NEW celebration-fl, otherwise it stays on orlando-fl or goes to kissimmee-fl"
+  },
+  {
+   "card": "holiday-nights-celebration-kissimmee-fl",
+   "from": "orlando-fl",
+   "to": "kissimmee-fl"
+  },
+  {
+   "card": "christmas-at-gaylord-palms-kissimmee-fl",
+   "from": "orlando-fl",
+   "to": "kissimmee-fl"
+  },
+  {
+   "card": "pomp-snow-and-cirqueumstance-kissimmee-fl",
+   "from": "orlando-fl",
+   "to": "kissimmee-fl"
+  },
+  {
+   "card": "light-up-sanford-fl",
+   "from": "orlando-fl",
+   "to": "sanford-fl"
+  },
+  {
+   "card": "5th-annual-holly-jolly-holiday-market-sanford-fl",
+   "from": "orlando-fl",
+   "to": "sanford-fl"
+  },
+  {
+   "card": "holiday-night-market-and-entertainment-winter-garden-fl",
+   "from": "orlando-fl",
+   "to": "winter-garden-fl"
+  },
+  {
+   "card": "holiday-cookie-decorating-winter-garden-fl",
+   "from": "orlando-fl",
+   "to": "winter-garden-fl"
+  },
+  {
+   "card": "winter-on-the-avenue-winter-park-fl",
+   "from": "orlando-fl",
+   "to": "winter-park-fl",
+   "note": "duplicate: same slug is already live on winter-park-fl, just delete from orlando-fl"
+  },
+  {
+   "card": "74th-annual-winter-park-christmas-parade-fl",
+   "from": "orlando-fl",
+   "to": "winter-park-fl",
+   "note": "duplicate of winter-park-ye-olde-hometown-christmas-parade-fl already live on winter-park-fl, just delete from orlando-fl"
+  },
+  {
+   "card": "light-up-clermont-fl",
+   "from": "orlando-fl",
+   "to": "clermont-fl"
+  },
+  {
+   "card": "family-fun-ornament-painting-eatonville-fl",
+   "from": "orlando-fl",
+   "to": "maitland-fl",
+   "note": "Eatonville folds into Maitland (adjacent, 1 event)"
+  },
+  {
+   "card": "mount-dora-lighted-boat-christmas-parade-fl",
+   "from": "orlando-fl",
+   "to": "mount-dora-fl",
+   "note": "helper C NEW town mount-dora-fl; if no page, move to a Lake County page"
+  },
+  {
+   "card": "movie-and-a-craft-windermere-fl",
+   "from": "orlando-fl",
+   "to": "winter-garden-fl",
+   "note": "Windermere folds into Winter Garden (3 events not verified)"
+  },
+  {
+   "card": "legoland-christmas-bricktacular-winter-haven-fl",
+   "from": "orlando-fl",
+   "to": "winter-haven-fl",
+   "note": "Tampa run page winter-haven-fl"
+  },
+  {
+   "card": "universals-holiday-parade-featuring-macys-orlando-fl",
+   "from": "winter-garden-fl",
+   "to": "orlando-fl",
+   "note": "Universal Studios Florida is in Orlando"
+  },
+  {
+   "card": "ice-featuring-the-polar-express-at-gaylord-palms-kissimmee-fl",
+   "from": "winter-garden-fl",
+   "to": "kissimmee-fl",
+   "note": "Gaylord Palms is in Kissimmee; check kissimmee-fl for a duplicate (christmas-at-gaylord-palms-kissimmee-fl is a different card)"
+  },
+  {
+   "card": "seaworld-orlando-christmas-celebration-fl",
+   "from": "winter-garden-fl",
+   "to": "orlando-fl",
+   "note": "duplicate of seaworlds-christmas-celebration-orlando-fl already live on orlando-fl: just delete from winter-garden-fl"
+  },
+  {
+   "card": "mickeys-very-merry-christmas-party-lake-buena-vista-fl",
+   "from": "winter-garden-fl",
+   "to": "orlando-fl",
+   "note": "duplicate: same slug already live on orlando-fl: just delete from winter-garden-fl"
+  }
+ ]
+}

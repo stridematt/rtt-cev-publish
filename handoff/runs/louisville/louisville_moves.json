@@ -1,0 +1,87 @@
+{
+ "from": "louisville-ky",
+ "moves": [
+  {
+   "slug": "toddler-storytime-christmas-clarksville-in",
+   "to": "clarksville-in",
+   "town": "Clarksville IN",
+   "venue": "Clarksville Library, 1312 Eastern Blvd, Clarksville, IN 47129",
+   "note": "venue city decides"
+  },
+  {
+   "slug": "a-christmas-story-the-musical-clarksville-in",
+   "to": "clarksville-in",
+   "town": "Clarksville IN",
+   "venue": "Derby Dinner Playhouse, 525 Marriott Dr, Clarksville, IN 47129",
+   "note": "venue city decides"
+  },
+  {
+   "slug": "christmas-in-candyland-clarksville-in",
+   "to": "clarksville-in",
+   "town": "Clarksville IN",
+   "venue": "Derby Dinner Playhouse, 525 Marriott Dr, Clarksville, IN 47129",
+   "note": "venue city decides"
+  },
+  {
+   "slug": "gingerbread-extraveganza-new-albany-in",
+   "to": "new-albany-in",
+   "town": "New Albany IN",
+   "venue": "New Albany Main Library, 180 W Spring St, New Albany, IN 47150",
+   "note": "venue city decides"
+  },
+  {
+   "slug": "christmas-in-charlestown-charlestowns-christmas-city-in",
+   "to": "charlestown-in",
+   "town": "Charlestown IN",
+   "venue": "Greenway Park, City Square and Family Activities Park, Charlestown, IN 47111",
+   "note": "own page only if Helper C reaches 3+ events, else fold into the nearest larger IN town (Sellersburg/Clarksville); lead decides"
+  },
+  {
+   "slug": "light-up-la-grange-ky",
+   "to": "la-grange-ky",
+   "town": "La Grange KY",
+   "venue": "Main Street La Grange, 208 E Main St, La Grange, KY 40031",
+   "note": "la-grange-ky is already a live page"
+  },
+  {
+   "slug": "yuletide-at-yew-dell-crestwood-ky",
+   "to": "crestwood-ky",
+   "town": "Crestwood KY",
+   "venue": "Yew Dell Botanical Gardens, Crestwood, KY",
+   "note": "crestwood-ky is already live and already lists this event, so on Louisville it is a duplicate: remove from Louisville only"
+  },
+  {
+   "slug": "nutcracker-family-storytime-with-louisville-ballet-ky",
+   "to": "saint-matthews-ky",
+   "town": "Saint Matthews",
+   "venue": "St. Matthews Library, 3940 Grandview Ave, Louisville, KY 40207",
+   "note": "Dec 2, free; brief assigns St. Matthews Library to St. Matthews; saint-matthews-ky is live"
+  },
+  {
+   "slug": "pet-night-with-santa-louisville-ky",
+   "to": "saint-matthews-ky",
+   "town": "Saint Matthews",
+   "venue": "Oxmoor Center, 7900 Shelbyville Rd, Louisville, KY 40222",
+   "note": "brief assigns Oxmoor Center to St. Matthews; saint-matthews-ky is live"
+  }
+ ],
+ "keep_on_louisville": [
+  {
+   "slug": "heartland-music-together-holiday-mini-session-louisville-ky",
+   "note": "split venue (Immanuel UCC, 2300 Taylorsville Rd, Highlands; St. Matthews Episcopal Church, 330 N Hubbards Ln, St. Matthews). Recommended: keep on Louisville. Lead may move if only the Episcopal venue is wanted on St. Matthews."
+  },
+  {
+   "slug": "photos-with-santa-at-jefferson-mall-louisville-ky",
+   "note": "stays on Louisville per brief"
+  }
+ ],
+ "count_after": {
+  "live_cards": 37,
+  "moved_out": 9,
+  "kept": 28,
+  "new_built": 11,
+  "total": 39,
+  "free": 13,
+  "free_note": "16 free live minus 4 free moved (Clarksville toddler storytime, La Grange, Gingerbread Extraveganza, Nutcracker storytime at St. Matthews Library) = 12, plus Bardstown Road Aglow = 13"
+ }
+}

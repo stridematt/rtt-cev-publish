@@ -1,0 +1,17 @@
+{
+ "moves": [
+  {
+   "from_page": "smithtown-ny",
+   "to_page": "port-jefferson-ny",
+   "card_slug": "charles-dickens-festival-in-port-jefferson-ny",
+   "card_id": "ev-smithtown-charles-dickens-festival-in-port-jefferson"
+  },
+  {
+   "from_page": "smithtown-ny",
+   "to_page": "port-jefferson-ny",
+   "card_slug": "a-christmas-carol-at-theatre-three-port-jefferson-ny",
+   "card_id": "ev-smithtown-a-christmas-carol-at-theatre-three"
+  }
+ ],
+ "note": "Port Jefferson is a new page (4 new events + these 2). Stray events: the Hamptons (Southampton, Greenport) cards sit on southold-ny; LIRR train on mineola-ny. Mineola, Southold and West Islip use *_B5 files, never overwriting."
+}

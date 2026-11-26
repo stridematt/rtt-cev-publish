@@ -1,0 +1,20 @@
+{
+ "moves": [
+  {
+   "from_page": "eugene-or",
+   "to_page": "springfield-or",
+   "card_slug": "ugly-sweater-skate-party-springfield-or"
+  },
+  {
+   "from_page": "eugene-or",
+   "to_page": "springfield-or",
+   "card_slug": "holiday-tea-springfield-or"
+  },
+  {
+   "from_page": "eugene-or",
+   "to_page": "springfield-or",
+   "card_slug": "winter-solstice-celebration-springfield-or"
+  }
+ ],
+ "note": "Three Springfield cards move off eugene-or to the new springfield-or page (block B builds it). Eugene count after moves: 17 - 3 + 9 new = 23."
+}

@@ -1,0 +1,126 @@
+{
+ "helper": "C",
+ "note": "Card slugs are as live 2026-11-26. 'to' is the target page slug.",
+ "moves": [
+  {
+   "card": "mount-dora-christmas-walk-fl",
+   "from": "the-villages-fl",
+   "to": "mount-dora-fl"
+  },
+  {
+   "card": "mount-dora-christmas-parade-fl",
+   "from": "the-villages-fl",
+   "to": "mount-dora-fl"
+  },
+  {
+   "card": "snow-in-the-park-mount-dora-fl",
+   "from": "the-villages-fl",
+   "to": "mount-dora-fl"
+  },
+  {
+   "card": "mount-dora-lighted-boat-christmas-parade-fl",
+   "from": "the-villages-fl",
+   "to": "mount-dora-fl"
+  },
+  {
+   "card": "mount-dora-lighted-boat-christmas-parade-fl",
+   "from": "orlando-fl",
+   "to": "DELETE (duplicate of the card moving to mount-dora-fl)"
+  },
+  {
+   "card": "santa-story-time-at-leesburg-public-library-fl",
+   "from": "the-villages-fl",
+   "to": "leesburg-fl"
+  },
+  {
+   "card": "every-christmas-story-ever-told-and-then-some-leesburg-fl",
+   "from": "the-villages-fl",
+   "to": "leesburg-fl"
+  },
+  {
+   "card": "light-up-venetian-gardens-and-leesburg-christmas-boat-parade-fl",
+   "from": "the-villages-fl",
+   "to": "leesburg-fl"
+  },
+  {
+   "card": "leesburg-christmas-festival-and-59th-annual-christmas-parade-fl",
+   "from": "the-villages-fl",
+   "to": "leesburg-fl"
+  },
+  {
+   "card": "tavares-christmas-parade-and-festival-fl",
+   "from": "the-villages-fl",
+   "to": "tavares-fl"
+  },
+  {
+   "card": "fruitland-park-hometown-christmas-fl",
+   "from": "the-villages-fl",
+   "to": "fruitland-park-fl"
+  },
+  {
+   "card": "elf-university-at-cottom-farms-christmas-village-lady-lake-fl",
+   "from": "the-villages-fl",
+   "to": "lady-lake-fl"
+  },
+  {
+   "card": "light-up-clermont-fl",
+   "from": "orlando-fl",
+   "to": "clermont-fl"
+  },
+  {
+   "card": "now-snowing-nightly-in-celebration-fl",
+   "from": "orlando-fl",
+   "to": "celebration-fl (own page, built by C2)"
+  },
+  {
+   "card": "holiday-nights-celebration-kissimmee-fl",
+   "from": "orlando-fl",
+   "to": "kissimmee-fl (confirmed: Promenade at Sunset Walk, 3251 Margaritaville Blvd, Kissimmee 34747; not Celebration)"
+  },
+  {
+   "card": "christmas-at-gaylord-palms-kissimmee-fl",
+   "from": "orlando-fl",
+   "to": "kissimmee-fl (Gaylord Palms is at 6000 W Osceola Pkwy, Kissimmee)"
+  },
+  {
+   "card": "pomp-snow-and-cirqueumstance-kissimmee-fl",
+   "from": "orlando-fl",
+   "to": "kissimmee-fl"
+  },
+  {
+   "card": "northbridge-university-winter-festival-orlando-fl",
+   "from": "orlando-fl",
+   "to": "DELETE (duplicate of northbridge-university-winter-festival-kissimmee-fl on kissimmee-fl)"
+  },
+  {
+   "card": "frontyard-holiday-festival-orlando-fl",
+   "from": "kissimmee-fl",
+   "to": "orlando-fl (Dr. Phillips Center, Orlando)"
+  },
+  {
+   "card": "holidays-at-universal-orlando-resort-fl",
+   "from": "kissimmee-fl",
+   "to": "DELETE (already on orlando-fl)"
+  },
+  {
+   "card": "epcot-international-festival-of-the-holidays-lake-buena-vista-fl",
+   "from": "kissimmee-fl",
+   "to": "DELETE (already on orlando-fl)"
+  },
+  {
+   "card": "gatorlands-holiday-ho-ho-ho-down-orlando-fl",
+   "from": "kissimmee-fl",
+   "to": "DELETE (already on orlando-fl)"
+  },
+  {
+   "card": "st-cloud-annual-tree-lighting-ceremony-at-city-hall-fl",
+   "from": "kissimmee bundle (cand 63840, not yet live)",
+   "to": "st-cloud-fl (own page, built by C2)"
+  }
+ ],
+ "stay": [
+  "cookies-with-santa-wildwood-fl and the-magic-of-christmas-at-the-orange-blossom-opry-weirsdale-fl stay on the-villages-fl (no page for Wildwood or Weirsdale)",
+  "movie-and-a-craft-windermere-fl belongs to helper A (Windermere)"
+ ],
+ "c2_note": "C2 2026-11-26: st-cloud-fl, celebration-fl, davenport-fl are NEW pages (not folds). kissimmee-fl bundle now holds 5 new events (63850 to 63854) and no longer holds the St. Cloud card. The earlier folded.json files for those three towns were removed."
+}

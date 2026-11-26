@@ -1,0 +1,35 @@
+{
+ "moves": [
+  {
+   "from_page": "wilmington-de",
+   "to_page": "chadds-ford-pa",
+   "card_slug": "holidays-at-brandywine-brandywine-railroad-chadds-ford-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "chadds-ford-pa",
+   "card_slug": "breakfast-with-the-trains-chadds-ford-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "chadds-ford-pa",
+   "card_slug": "the-polar-express-read-aloud-pajama-night-chadds-ford-pa"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "middletown-de",
+   "card_slug": "storybook-time-at-historic-odessa-de"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "middletown-de",
+   "card_slug": "an-american-colonial-revival-christmas-exhibit-odessa-de"
+  },
+  {
+   "from_page": "wilmington-de",
+   "to_page": "middletown-de",
+   "card_slug": "zoo-lights-and-christmas-nights-townsend-de"
+  }
+ ],
+ "note": "Chadds Ford and Middletown DE are new pages; these live Wilmington cards belong there."
+}

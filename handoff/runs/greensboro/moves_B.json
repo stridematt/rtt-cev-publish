@@ -1,0 +1,100 @@
+{
+ "moves": [
+  {
+   "from_page": "winston-salem-nc",
+   "to_page": "kernersville-nc",
+   "card_slug": "kernersvilles-hometown-christmas-nc",
+   "note": "already live on kernersville-nc; delete the duplicate"
+  },
+  {
+   "from_page": "winston-salem-nc",
+   "to_page": "kernersville-nc",
+   "card_slug": "spectacular-holiday-blooms-kernersville-nc"
+  },
+  {
+   "from_page": "winston-salem-nc",
+   "to_page": "kernersville-nc",
+   "card_slug": "german-christmas-market-at-korners-folly-kernersville-nc"
+  },
+  {
+   "from_page": "winston-salem-nc",
+   "to_page": "kernersville-nc",
+   "card_slug": "kernersville-yuletide-nc"
+  },
+  {
+   "from_page": "winston-salem-nc",
+   "to_page": "clemmons-nc",
+   "card_slug": "tanglewood-festival-of-lights-clemmons-nc",
+   "note": "already live on clemmons-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "kernersville-nc",
+   "card_slug": "kernersvilles-hometown-christmas-nc",
+   "note": "already live on kernersville-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "clemmons-nc",
+   "card_slug": "tanglewood-festival-of-lights-clemmons-nc",
+   "note": "already live on clemmons-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "clemmons-nc",
+   "card_slug": "books-and-snacks-a-book-club-for-kids-clemmons-nc"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "clemmons-nc",
+   "card_slug": "storytime-with-santa-clemmons-nc"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "clemmons-nc",
+   "card_slug": "grinch-day-clemmons-nc"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "winston-salem-nc",
+   "card_slug": "uncsa-the-nutcracker-winston-salem-nc",
+   "note": "R.J. Reynolds Auditorium, Winston-Salem; only on the Greensboro page"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "winston-salem-nc",
+   "card_slug": "scavenger-hunt-holiday-goodies-winston-salem-nc",
+   "note": "already live on winston-salem-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "winston-salem-nc",
+   "card_slug": "scavenger-hunt-reindeer-edition-winston-salem-nc",
+   "note": "already live on winston-salem-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "winston-salem-nc",
+   "card_slug": "winter-holidays-around-the-world-winston-salem-nc",
+   "note": "already live on winston-salem-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "winston-salem-nc",
+   "card_slug": "st-nick-at-old-salem-and-the-moravian-market-winston-salem-nc",
+   "note": "already live on winston-salem-nc; delete the duplicate"
+  },
+  {
+   "from_page": "greensboro-nc",
+   "to_page": "winston-salem-nc",
+   "card_slug": "st-nick-returns-to-salem-winston-salem-nc",
+   "note": "already live on winston-salem-nc; delete the duplicate"
+  }
+ ],
+ "stray_not_mine": [
+  "the-polar-express-train-ride-spencer-nc (Spencer, Rowan County; carded on winston-salem-nc and greensboro-nc; Salisbury run)",
+  "cookies-with-mrs-claus-at-summerfield-farms-nc, 54th-annual-holiday-open-house-high-point-nc (Helper A towns, on greensboro-nc, leave)",
+  "christmas-in-the-park-burlington-nc (Helper C, Burlington; on greensboro-nc, should move to burlington-nc)"
+ ],
+ "note": "Kernersville, Clemmons and Winston-Salem keep their own events; moves above also remove duplicates so no card is on two pages. Moves arriving at each page are not rebuilt in my bundles."
+}

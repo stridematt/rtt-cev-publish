@@ -1,0 +1,91 @@
+{
+ "off_detroit_to": {
+  "dearborn-mi": [
+   "light-and-joy-in-the-holiday-season-dearborn-mi",
+   "holiday-nights-in-greenfield-village-dearborn-mi",
+   "supper-with-santa-dearborn-mi"
+  ],
+  "westland-mi": [
+   "wayne-county-lightfest-westland-mi"
+  ],
+  "grosse-pointe-mi": [
+   "home-for-the-holidays-at-ford-house-grosse-pointe-shores-mi (Shores has no page; folded into Grosse Pointe)"
+  ],
+  "grosse-pointe-farms-mi": [
+   "bedtime-stories-with-santa-grosse-pointe-farms-mi",
+   "breakfast-with-santa-grosse-pointe-farms-mi"
+  ],
+  "northville": [
+   "winter-extravaganza-northville-mi (no Northville page; leave on Detroit only if Rally prefers, otherwise move to livonia-mi or plymouth-mi)"
+  ],
+  "birmingham-mi": [
+   "birmingham-santa-walk-mi",
+   "santa-house-birmingham-mi",
+   "winter-markt-and-tree-lighting-birmingham-mi"
+  ],
+  "southfield-mi": [
+   "southfield-tree-lighting-ceremony-and-holiday-market-mi",
+   "hot-cocoa-and-photos-with-santa-at-hey-lay-lai-in-southfield-mi"
+  ],
+  "rochester-mi": [
+   "the-big-bright-light-show-rochester-mi",
+   "santa-saturdays-rochester-mi",
+   "winter-wonder-lights-rochester-mi (duplicate, also live on Rochester: just remove from Detroit)"
+  ],
+  "lake-orion-mi": [
+   "holiday-stroll-lake-orion-mi"
+  ],
+  "royal-oak-mi": [
+   "wild-lights-royal-oak-mi (duplicate of wild-lights-at-the-detroit-zoo-royal-oak-mi: remove from Detroit and keep one on Royal Oak)"
+  ],
+  "ann-arbor-mi": [
+   "pjs-and-stories-with-santa-saline-mi (Saline folded into Ann Arbor)"
+  ],
+  "REMOVE_outside_metro": [
+   "santa-express-at-the-southern-michigan-railroad-clinton-mi (Clinton, Lenawee County; but Monroe page mentions Southern Michigan Railroad, check)"
+  ]
+ },
+ "off_canton_to_plymouth-mi": [
+  "photos-with-santa-at-social-house-in-downtown-plymouth-mi",
+  "santas-sweet-list-sugar-cookie-class-at-studio-neue-in-plymouth-mi"
+ ],
+ "off_dearborn_to_dearborn-heights-mi": [
+  "winter-wonderland-at-hype-athletics-in-dearborn-heights-mi"
+ ],
+ "off_sterling_heights_to": {
+  "warren-mi": [
+   "cookies-and-hot-chocolate-with-santa-at-j-and-b-event-space-warren-mi"
+  ],
+  "shelby-township-mi": [
+   "breakfast-with-santa-at-the-shelby-township-activities-center-mi"
+  ],
+  "clinton-township-mi": [
+   "re-max-first-santa-event-and-toys-for-tots-drive-clinton-township-mi",
+   "breakfast-with-santa-at-the-italian-american-cultural-clinton-township-mi"
+  ]
+ },
+ "off_troy_to_birmingham-mi": [
+  "holiday-kids-movie-night-at-the-kingsley-bloomfield-hills-mi"
+ ],
+ "off_novi_to": {
+  "commerce-township-mi": [
+   "bowl-with-santa-at-wonderland-lanes-commerce-township-mi"
+  ],
+  "northville (no page)": [
+   "free-photos-with-santa-at-northville-pickleball-club-mi"
+  ],
+  "south-lyon (no page)": [
+   "candy-cane-hunt-at-mchattie-park-in-south-lyon-mi"
+  ]
+ },
+ "off_pontiac_to_auburn-hills-mi": [
+  "breakfast-with-santa-at-rainforest-cafe-great-lakes-crossing-auburn-hills-mi"
+ ],
+ "other_town_cards_left_in_place": [
+  "believe-the-magic-of-christmas-by-studio-detroit-dance-center-madison-heights-mi (on Royal Oak)",
+  "lunch-with-santa-at-the-hazel-park-recreation-department-mi (on Royal Oak)",
+  "laker-family-holiday-brunch-rochester-mi (maybe GVSU, verify)",
+  "4th Tavern brunch on Pontiac (Waterford)"
+ ],
+ "note": "Slugs for existing cards were read from live page anchors by helpers; verify each exists live before moving."
+}

@@ -1,0 +1,55 @@
+{
+ "moves": [
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "macon-ga",
+   "card_slug": "festival-of-trees-at-the-museum-of-arts-and-sciences-macon-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "macon-ga",
+   "card_slug": "public-ice-skating-at-the-macon-coliseum-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "macon-ga",
+   "card_slug": "macon-pops-christmas-spectacular-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "macon-ga",
+   "card_slug": "marche-de-noel-macon-christmas-market-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "macon-ga",
+   "card_slug": "christmas-at-the-creek-macon-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "drop",
+   "card_slug": "macon-christmas-light-extravaganza-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "drop",
+   "card_slug": "nutcracker-of-middle-georgia-macon-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "drop",
+   "card_slug": "santa-at-hay-house-macon-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "perry-ga",
+   "card_slug": "small-business-saturday-and-tree-lighting-ceremony-perry-ga"
+  },
+  {
+   "from_page": "warner-robins-ga",
+   "to_page": "perry-ga",
+   "card_slug": "perry-christmas-parade-ga"
+  }
+ ],
+ "note": "Merged Nov 26 by helper A. The warner-robins-ga page carries Macon-venue cards: 5 move to macon-ga (Festival of Trees at MAS, Public Ice Skating at the Macon Coliseum, Macon Pops Christmas Spectacular, Marche de Noel, Christmas at the Creek). macon-christmas-light-extravaganza-ga and nutcracker-of-middle-georgia-macon-ga are already carded on macon-ga, so the warner-robins-ga copies are dropped (duplicates). santa-at-hay-house-macon-ga ended Nov 22; drop it from warner-robins-ga if it is carded there (it was not in the Nov 26 link scan of that page, helper B reported it). Perry: 2 cards move from warner-robins-ga to perry-ga (helper B). Byron and Centerville cards stay on warner-robins-ga (folded, no page). Forsyth, Gray and others: no cards elsewhere, nothing to move. Helpers B and C moves.txt files merged; C towns (Milledgeville, Gray, Eatonton, Dublin, central-ga) report none."
+}

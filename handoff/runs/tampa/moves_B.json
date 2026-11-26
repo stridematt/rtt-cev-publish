@@ -1,0 +1,25 @@
+{
+ "moves": [
+  {
+   "from_page": "st-petersburg-fl",
+   "to_page": "largo-fl",
+   "card_slug": "holiday-lights-and-carnival-rides-in-largo-central-park-fl"
+  },
+  {
+   "from_page": "st-petersburg-fl",
+   "to_page": "largo-fl",
+   "card_slug": "holiday-lights-in-the-gardens-largo-fl"
+  },
+  {
+   "from_page": "st-petersburg-fl",
+   "to_page": "gulfport-fl",
+   "card_slug": "boca-ciega-yacht-club-holiday-boat-parade-gulfport-fl"
+  },
+  {
+   "from_page": "st-petersburg-fl",
+   "to_page": "gulfport-fl",
+   "card_slug": "breakfast-with-santa-in-gulfport-fl"
+  }
+ ],
+ "note": "Both are physically in Largo (Largo Central Park, Florida Botanical Gardens Largo). All other St. Pete page cards are in St. Petersburg or are Gulf beach towns folded into it. Checked neighbor pages: clearwater, dunedin, palm-harbor, safety-harbor, pinellas-park and seminole cards all belong to their own towns. Gulfport (own page, 5 events): boca-ciega-yacht-club-holiday-boat-parade-gulfport-fl and breakfast-with-santa-in-gulfport-fl move from st-petersburg-fl."
+}

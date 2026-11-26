@@ -1,0 +1,31 @@
+{
+ "_note": "Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move.",
+ "off_tucson_to_marana": [
+  "live-nativity-and-creche-festival-in-marana-az",
+  "marana-holiday-festival-and-tree-lighting-marana-az (already live on Marana: just remove from Tucson)"
+ ],
+ "off_tucson_to_oro_valley": [
+  "oro-valley-festival-of-the-arts-and-holiday-tree-lighting-az"
+ ],
+ "off_tucson_to_sahuarita": [
+  "make-your-own-cards-sahuarita-az"
+ ],
+ "remove_from_tucson_expired": [
+  "Downtown Tucson Holiday Tree Lighting (Nov 20, anchor ev-tucson-downtown-tucson-holiday-tree-lighting)"
+ ],
+ "link_tucson_to_new_towns": [
+  "oro-valley-az",
+  "green-valley-az",
+  "vail-az",
+  "benson-az",
+  "sierra-vista-az",
+  "nogales-az",
+  "bisbee-az",
+  "tombstone-az",
+  "safford-az"
+ ],
+ "christmas_eve_services_page": {
+  "tucson-az": "exists",
+  "others": "sierra-vista, douglas, nogales, oro-valley return 404; green-valley, vail, benson, bisbee, tombstone, safford unchecked (assume none)"
+ }
+}

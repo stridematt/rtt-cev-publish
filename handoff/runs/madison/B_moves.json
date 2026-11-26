@@ -1,0 +1,15 @@
+{
+ "moves": [
+  {
+   "from_page": "madison-wi",
+   "to_page": "sun-prairie-wi",
+   "card_slug": "fire-and-lights-holiday-parade-and-tree-lighting-sun-prairie-wi"
+  },
+  {
+   "from_page": "madison-wi",
+   "to_page": "new-glarus-wi",
+   "card_slug": "new-glarus-christkindli-market-wi"
+  }
+ ],
+ "note": "Helper B. Checked madison-wi, waunakee-wi: only these two cards belong to towns with their own B pages. waunakee-wi keeps its two cards. Sun Prairie page (NEW, 4 events) and New Glarus page (NEW, 3 events) receive them."
+}

@@ -1,0 +1,20 @@
+{
+ "moves": [
+  {
+   "from_page": "eugene-or",
+   "to_page": "springfield-or",
+   "card_slug": "ugly-sweater-skate-party-springfield-or"
+  },
+  {
+   "from_page": "eugene-or",
+   "to_page": "springfield-or",
+   "card_slug": "holiday-tea-springfield-or"
+  },
+  {
+   "from_page": "eugene-or",
+   "to_page": "springfield-or",
+   "card_slug": "winter-solstice-celebration-springfield-or"
+  }
+ ],
+ "note": "Springfield gets its own page (Willamalane's Springfield events plus the Springfield Christmas Parade). The three Springfield cards on eugene-or move to springfield-or so no event shows on two pages. springfield-or counts: 11 events (3 moved + 8 new), 3 free among the new cards. Cottage Grove has no live cards to move."
+}

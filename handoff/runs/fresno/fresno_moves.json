@@ -1,0 +1,158 @@
+{
+ "run": "fresno",
+ "date": "2026-11-26",
+ "remove_from_fresno": [
+  {
+   "slug": "childrens-electric-christmas-parade-clovis-ca",
+   "reason": "Clovis parade, moves to clovis-ca"
+  },
+  {
+   "slug": "annual-christmas-tree-lighting-at-city-hall-clovis-ca",
+   "reason": "Duplicate of city-hall-christmas-tree-lighting-clovis-ca already live on clovis-ca; remove from fresno-ca only"
+  },
+  {
+   "slug": "santa-visit-at-fowlers-hometown-christmas-tree-lot-ca",
+   "reason": "Fowler event, moves to fowler-ca"
+  },
+  {
+   "slug": "fowler-christmas-party-family-night-ca",
+   "reason": "Fowler event, moves to fowler-ca"
+  },
+  {
+   "slug": "gingerbread-house-family-competition-in-fowler-ca",
+   "reason": "Fowler event, moves to fowler-ca"
+  },
+  {
+   "slug": "kingsburg-kids-craft-gingerbread-train-ca",
+   "reason": "Kingsburg Library event, moves to kingsburg-ca"
+  },
+  {
+   "slug": "reedley-visit-with-santa-ca",
+   "reason": "Reedley event, moves to reedley-ca"
+  }
+ ],
+ "suburb_cards_moving_to_new_pages": [
+  {
+   "to": "clovis-ca",
+   "slugs": [
+    "childrens-electric-christmas-parade-clovis-ca"
+   ]
+  },
+  {
+   "to": "fowler-ca",
+   "slugs": [
+    "santa-visit-at-fowlers-hometown-christmas-tree-lot-ca",
+    "fowler-christmas-party-family-night-ca",
+    "gingerbread-house-family-competition-in-fowler-ca"
+   ]
+  },
+  {
+   "to": "kingsburg-ca",
+   "slugs": [
+    "kingsburg-kids-craft-gingerbread-train-ca"
+   ]
+  },
+  {
+   "to": "reedley-ca",
+   "slugs": [
+    "reedley-visit-with-santa-ca"
+   ]
+  }
+ ],
+ "duplicates": [
+  {
+   "slug": "annual-christmas-tree-lighting-at-city-hall-clovis-ca",
+   "same_event_as": "city-hall-christmas-tree-lighting-clovis-ca",
+   "pages": [
+    "fresno-ca",
+    "clovis-ca"
+   ]
+  }
+ ],
+ "neighbor_moves": [],
+ "built_new_events": {
+  "fresno-ca": 9,
+  "clovis-ca": 1,
+  "madera-ca": 1,
+  "oakhurst-ca": 11
+ },
+ "fresno_page_after_moves": "22 live cards minus 7 leaving = 15, plus 9 new = 24 cards, 12 free (Riverdale Santa Visit stays on Fresno)",
+ "belongs_to_other_towns_or_notes": [
+  {
+   "event": "Madera page lists two Dec 4 light parade cards (Madera Christmas Light Parade and Tree Lighting; Downtown Madera Christmas Light Parade)",
+   "town": "madera-ca",
+   "status": "possible duplicate on the live Madera page, lead to check"
+  },
+  {
+   "event": "Tesoro Viejo 9th Annual Christmas Tree Lighting",
+   "town": "madera-ca",
+   "status": "built as 78230"
+  },
+  {
+   "event": "Sensory Santa, We Rock The Spectrum Clovis",
+   "town": "clovis-ca",
+   "status": "built as 78150"
+  },
+  {
+   "event": "Storyland Winter Wonderland, Roeding Park",
+   "town": "fresno-ca",
+   "status": "held, host page date has a wrong year weekday"
+  },
+  {
+   "event": "City of Fresno tree lighting",
+   "town": "fresno-ca",
+   "status": "held, no official 2026 page found"
+  },
+  {
+   "event": "Simonian Farms, Fresno Discovery Center",
+   "town": "fresno-ca",
+   "status": "held, host pages returned nothing readable"
+  },
+  {
+   "event": "Santa's Winter Wonderland, Mountain Youth Clubs",
+   "town": "oakhurst-ca",
+   "status": "held, host page date has a wrong year weekday"
+  },
+  {
+   "event": "Madera Christmas in the Park",
+   "town": "madera-ca",
+   "status": "held, Facebook and Instagram only"
+  },
+  {
+   "event": "Chowchilla hometown Christmas parade and tree lighting",
+   "town": "madera-ca",
+   "status": "held, Facebook only"
+  },
+  {
+   "event": "Mendota Christmas celebration and toy giveaway (Dec 4)",
+   "town": "fresno-ca",
+   "status": "held, Facebook only"
+  }
+ ],
+ "other_page_moves": [
+  {
+   "from": "porterville-ca",
+   "to": "exeter-ca",
+   "slugs": [
+    "downtown-exeter-christmas-open-house-ca",
+    "the-holiday-market-at-kaweah-oaks-preserve-exeter-ca"
+   ]
+  },
+  {
+   "from": "porterville-ca",
+   "to": "tulare-ca",
+   "slugs": [
+    "tulare-county-sheriffs-winter-wonderland-ca",
+    "the-north-pole-market-at-the-international-agri-center-tulare-ca"
+   ]
+  },
+  {
+   "from": "visalia-ca",
+   "to": "hanford-ca",
+   "slugs": [
+    "downtown-lemoore-jingle-and-mingle-and-tree-lighting-ca"
+   ]
+  }
+ ],
+ "all_moves_summary": "Every move is a card removed from its old page and added to the new page's cards (cards already live; do not rebuild). Duplicate annual-christmas-tree-lighting-at-city-hall-clovis-ca is removed from fresno-ca only."
+}

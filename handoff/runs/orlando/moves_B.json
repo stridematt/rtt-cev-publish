@@ -1,0 +1,26 @@
+{
+ "moves": [
+  {
+   "from_page": "orlando-fl",
+   "to_page": "sanford-fl",
+   "card_slug": "5th-annual-holly-jolly-holiday-market-sanford-fl"
+  },
+  {
+   "from_page": "orlando-fl",
+   "to_page": "sanford-fl",
+   "card_slug": "light-up-sanford-fl",
+   "note": "Likely duplicate of live sanford-fl card light-up-sanford-tree-lighting-fl (same Light Up Sanford event). Delete from Orlando instead of moving, after confirming."
+  },
+  {
+   "from_page": "deltona-fl",
+   "to_page": "orange-city-fl",
+   "card_slug": "light-up-orange-city-tree-lighting-and-ice-rink-fl"
+  },
+  {
+   "from_page": "deltona-fl",
+   "to_page": "orange-city-fl",
+   "card_slug": "orange-city-christmas-parade-lights-camera-christmas-fl"
+  }
+ ],
+ "note": "Checked live pages sanford, lake-mary, oviedo, altamonte-springs, casselberry, debary, deltona, deland: all other cards belong to their own towns. deltona-fl is a placeholder with no Deltona cards; its only cards are the two Orange City ones. DeLeon Springs (Santa Blu) belongs to deland-fl. Lake Buena Vista and Orlando-address cards are helper A's."
+}

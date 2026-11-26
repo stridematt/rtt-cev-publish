@@ -1,0 +1,8 @@
+{"_note":"Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move.",
+"off_omaha_to_council_bluffs":["holiday-greenscreen-photos-council-bluffs-ia","cinnamon-celebration-council-bluffs-ia"],
+"off_omaha_to_la_vista":["santas-sleigh-ride-and-tree-lighting-la-vista-ne"],
+"elkhorn_stays_on_omaha":["winter-wonderland-elkhorn-ne"],
+"link_omaha_to_new_towns":["bellevue-ne","papillion-ne","fremont-ne","nebraska-city-ne","council-bluffs-ia","la-vista-ne","lincoln-ne"],
+"link_new_towns_back_to_omaha":true,
+"christmas_eve_services_page":{"omaha-ne":"exists (200)","others":"bellevue, papillion, la-vista return 404; the rest unchecked, assume none"},
+"check_after_publish":"remove expired cards (e.g. Nov 20-25 events) via the live date audit"}

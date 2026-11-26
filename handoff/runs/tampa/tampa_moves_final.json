@@ -1,0 +1,111 @@
+{
+ "_note": "Rally rule: a town with its own page keeps its events; never on two pages. Event pages stay; only cards move.",
+ "moves": [
+  {
+   "card": "crafty-creations-deck-the-halls-zephyrhills-fl",
+   "from": "tampa-fl",
+   "to": "zephyrhills-fl"
+  },
+  {
+   "card": "rocking-around-the-christmas-tree-zephyrhills-fl",
+   "from": "tampa-fl",
+   "to": "zephyrhills-fl"
+  },
+  {
+   "card": "breakfast-with-santa-zephyrhills-fl",
+   "from": "tampa-fl",
+   "to": "zephyrhills-fl"
+  },
+  {
+   "card": "christmas-storytime-at-south-holiday-library-fl",
+   "from": "tampa-fl",
+   "to": "new-port-richey-fl"
+  },
+  {
+   "card": "lakeland-christmas-parade-fl",
+   "from": "tampa-fl",
+   "to": "lakeland-fl",
+   "note": "already live on lakeland-fl: just delete the duplicate card from tampa-fl"
+  },
+  {
+   "card": "santa-claus-and-mrs-claus-holiday-storytime-special-wesley-chapel-fl",
+   "from": "tampa-fl",
+   "to": "wesley-chapel-fl"
+  },
+  {
+   "card": "enchant-christmas-st-petersburg-fl",
+   "from": "tampa-fl",
+   "to": "st-petersburg-fl"
+  },
+  {
+   "card": "free-pictures-with-santa-and-holiday-crafts-in-brandon-fl",
+   "from": "tampa-fl",
+   "to": "brandon-fl"
+  },
+  {
+   "card": "santas-carnival-at-tampa-bays-festival-of-lights-dover-fl",
+   "from": "tampa-fl",
+   "to": "brandon-fl"
+  },
+  {
+   "card": "holiday-lights-and-carnival-rides-in-largo-central-park-fl",
+   "from": "st-petersburg-fl",
+   "to": "largo-fl"
+  },
+  {
+   "card": "holiday-lights-in-the-gardens-largo-fl",
+   "from": "st-petersburg-fl",
+   "to": "largo-fl"
+  },
+  {
+   "card": "boca-ciega-yacht-club-holiday-boat-parade-gulfport-fl",
+   "from": "st-petersburg-fl",
+   "to": "gulfport-fl"
+  },
+  {
+   "card": "breakfast-with-santa-in-gulfport-fl",
+   "from": "st-petersburg-fl",
+   "to": "gulfport-fl"
+  },
+  {
+   "card": "family-sensory-christmas-celebration-brooksville-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  },
+  {
+   "card": "the-fifth-annual-south-brooksville-avenue-christmas-stroll-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  },
+  {
+   "card": "country-christmas-at-harvestmoon-fun-farm-brooksville-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  },
+  {
+   "card": "christmas-on-main-brooksville-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  },
+  {
+   "card": "night-of-lights-victorian-christmas-party-brooksville-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  },
+  {
+   "card": "52nd-annual-brooksville-christmas-parade-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  },
+  {
+   "card": "movie-night-polar-express-brooksville-fl",
+   "from": "spring-hill-fl",
+   "to": "brooksville-fl"
+  }
+ ],
+ "stay": {
+  "tampa-fl": "Cracker Country, Northbridge, Success on the Spectrum and all Ybor, Water Street, Channelside, Curtis Hixon cards",
+  "spring-hill-fl": "annual-hernando-beach-christmas-boat-parade-supporting-toys-for-tots-fl",
+  "auburndale-fl": "havendale-christmas-parade-auburndale-fl"
+ }
+}

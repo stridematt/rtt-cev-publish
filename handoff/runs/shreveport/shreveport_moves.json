@@ -1,0 +1,35 @@
+{
+ "moves": [
+  {
+   "from_page": "shreveport-la",
+   "to_page": "haughton-la",
+   "card_slug": "glitter-mickey-ornaments-haughton-la"
+  },
+  {
+   "from_page": "shreveport-la",
+   "to_page": "haughton-la",
+   "card_slug": "santa-visit-haughton-la"
+  },
+  {
+   "from_page": "shreveport-la",
+   "to_page": "belcher-la",
+   "card_slug": "holiday-crafts-for-all-ages-belcher-la"
+  },
+  {
+   "from_page": "shreveport-la",
+   "to_page": "belcher-la",
+   "card_slug": "christmas-candy-trains-belcher-la"
+  },
+  {
+   "from_page": "shreveport-la",
+   "to_page": "gilliam-la",
+   "card_slug": "christmas-story-time-gilliam-la"
+  },
+  {
+   "from_page": "shreveport-la",
+   "to_page": "plain-dealing-la",
+   "card_slug": "mr-and-ms-claus-and-shreveport-symphony-plain-dealing-la"
+  }
+ ],
+ "note": "All six suburb cards leave the Shreveport page; Shreveport keeps only events inside Shreveport. to_page values are defaults (own town page). Block B decides which of Haughton, Belcher, Gilliam and Plain Dealing get pages; where B folds a town, retarget that move to the page it folds into (B's folded.json) or to bossier-city-la/haughton-la per the brief. Never leave a card on two pages. Shreveport after moves: 17 staying plus 10 new events = 27 events, 5 free."
+}

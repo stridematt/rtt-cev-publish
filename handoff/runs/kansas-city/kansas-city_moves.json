@@ -1,0 +1,142 @@
+{
+ "moves": [
+  {
+   "slug": "how-the-grinch-stole-storytime-independence-mo",
+   "from": "kansas-city-mo",
+   "to": "independence-mo"
+  },
+  {
+   "slug": "a-victorian-fashionable-christmas-at-vaile-mansion-independence-mo",
+   "from": "kansas-city-mo",
+   "to": "independence-mo"
+  },
+  {
+   "slug": "a-visit-with-santa-claus-lees-summit-mo",
+   "from": "kansas-city-mo",
+   "to": "lees-summit-mo"
+  },
+  {
+   "slug": "storytime-with-santa-and-mrs-claus-gladstone-mo",
+   "from": "kansas-city-mo",
+   "to": "gladstone-mo"
+  },
+  {
+   "slug": "christmas-on-the-river-parkville-mo",
+   "from": "kansas-city-mo",
+   "to": "parkville-mo"
+  },
+  {
+   "slug": "hall-of-trees-excelsior-springs-mo",
+   "from": "kansas-city-mo",
+   "to": "excelsior-springs-mo"
+  },
+  {
+   "slug": "lane-of-lights-excelsior-springs-mo",
+   "from": "kansas-city-mo",
+   "to": "excelsior-springs-mo"
+  },
+  {
+   "slug": "holiday-open-house-with-santa-family-and-pet-friendly-kansas-city-ks",
+   "from": "kansas-city-mo",
+   "to": "kansas-city-ks"
+  },
+  {
+   "slug": "graham-cracker-cottages-leawood-ks",
+   "from": "kansas-city-mo",
+   "to": "leawood-ks"
+  },
+  {
+   "slug": "country-club-plaza-lighting-ceremony-kansas-city-mo",
+   "from": "overland-park-ks",
+   "to": "kansas-city-mo"
+  },
+  {
+   "slug": "the-pigeon-gets-a-big-time-holiday-extravaganza-kansas-city-mo",
+   "from": "overland-park-ks",
+   "to": "kansas-city-mo"
+  },
+  {
+   "slug": "glowild-hidden-treasure-kansas-city-mo",
+   "from": "overland-park-ks",
+   "to": "kansas-city-mo"
+  },
+  {
+   "slug": "holiday-reflections-at-union-station-kansas-city-mo",
+   "from": "overland-park-ks",
+   "to": "kansas-city-mo"
+  },
+  {
+   "slug": "kansas-city-ballet-the-nutcracker-mo",
+   "from": "overland-park-ks",
+   "to": "kansas-city-mo"
+  },
+  {
+   "slug": "sugar-plum-fairy-childrens-ball-kansas-city-mo",
+   "from": "overland-park-ks",
+   "to": "kansas-city-mo"
+  },
+  {
+   "slug": "breakfast-with-santa-at-chateau-avalon-kansas-city-ks",
+   "from": "overland-park-ks",
+   "to": "kansas-city-ks"
+  },
+  {
+   "slug": "christmas-in-the-courtyard-merriam-ks",
+   "from": "overland-park-ks",
+   "to": "prairie-village-ks"
+  },
+  {
+   "slug": "santa-saturday-at-the-shops-of-prairie-village-ks",
+   "from": "overland-park-ks",
+   "to": "prairie-village-ks"
+  },
+  {
+   "slug": "graham-cracker-cottages-at-lenexa-city-center-library-ks",
+   "from": "overland-park-ks",
+   "to": "lenexa-ks"
+  },
+  {
+   "slug": "kc-winter-wonderland-olathe-ks",
+   "from": "overland-park-ks",
+   "to": "olathe-ks"
+  },
+  {
+   "slug": "woodland-tales-with-santa-claus-olathe-ks",
+   "from": "overland-park-ks",
+   "to": "olathe-ks"
+  },
+  {
+   "slug": "santas-nature-storytime-olathe-ks",
+   "from": "overland-park-ks",
+   "to": "olathe-ks"
+  },
+  {
+   "slug": "winter-solstice-celebration-olathe-ks",
+   "from": "overland-park-ks",
+   "to": "olathe-ks"
+  }
+ ],
+ "drop_duplicates": [
+  {
+   "slug": "sar-ko-aglow-lighting-ceremony-lenexa-ks",
+   "from": "overland-park-ks",
+   "why": "duplicate of live Lenexa card"
+  },
+  {
+   "slug": "luminary-walk-overland-park-ks",
+   "from": "kansas-city-mo",
+   "why": "duplicate"
+  },
+  {
+   "slug": "christmas-in-the-park-lees-summit-mo",
+   "from": "kansas-city-mo",
+   "why": "duplicate of 39th-annual-christmas-in-the-park-lees-summit-mo"
+  },
+  {
+   "slug": "evergy-festival-of-lights-kingsville-mo",
+   "from": "kansas-city-mo",
+   "why": "duplicate of evergy-festival-of-lights-at-powell-gardens-kingsville-mo"
+  }
+ ],
+ "note": "Move = card leaves \"from\" page and is added to \"to\" page. Never show on two pages. Unowned: colonial-santa-raytown-mo stays on kansas-city-mo (Raytown folded into KC). Out of metro, untouched: Warrensburg, Moberly, Arrow Rock cards."
+}

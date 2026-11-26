@@ -1,0 +1,223 @@
+[
+ {
+  "card": "now-snowing-nightly-in-celebration-fl",
+  "from": "orlando-fl",
+  "to": "celebration-fl",
+  "note": "Celebration has no live page; target is helper C's NEW celebration-fl, otherwise it stays on orlando-fl or goes to kissimmee-fl"
+ },
+ {
+  "card": "holiday-nights-celebration-kissimmee-fl",
+  "from": "orlando-fl",
+  "to": "kissimmee-fl"
+ },
+ {
+  "card": "christmas-at-gaylord-palms-kissimmee-fl",
+  "from": "orlando-fl",
+  "to": "kissimmee-fl"
+ },
+ {
+  "card": "pomp-snow-and-cirqueumstance-kissimmee-fl",
+  "from": "orlando-fl",
+  "to": "kissimmee-fl"
+ },
+ {
+  "card": "light-up-sanford-fl",
+  "from": "orlando-fl",
+  "to": "sanford-fl"
+ },
+ {
+  "card": "5th-annual-holly-jolly-holiday-market-sanford-fl",
+  "from": "orlando-fl",
+  "to": "sanford-fl"
+ },
+ {
+  "card": "holiday-night-market-and-entertainment-winter-garden-fl",
+  "from": "orlando-fl",
+  "to": "winter-garden-fl"
+ },
+ {
+  "card": "holiday-cookie-decorating-winter-garden-fl",
+  "from": "orlando-fl",
+  "to": "winter-garden-fl"
+ },
+ {
+  "card": "winter-on-the-avenue-winter-park-fl",
+  "from": "orlando-fl",
+  "to": "winter-park-fl",
+  "note": "duplicate: same slug is already live on winter-park-fl, just delete from orlando-fl"
+ },
+ {
+  "card": "74th-annual-winter-park-christmas-parade-fl",
+  "from": "orlando-fl",
+  "to": "winter-park-fl",
+  "note": "duplicate of winter-park-ye-olde-hometown-christmas-parade-fl already live on winter-park-fl, just delete from orlando-fl"
+ },
+ {
+  "card": "light-up-clermont-fl",
+  "from": "orlando-fl",
+  "to": "clermont-fl"
+ },
+ {
+  "card": "family-fun-ornament-painting-eatonville-fl",
+  "from": "orlando-fl",
+  "to": "maitland-fl",
+  "note": "Eatonville folds into Maitland (adjacent, 1 event)"
+ },
+ {
+  "card": "mount-dora-lighted-boat-christmas-parade-fl",
+  "from": "orlando-fl",
+  "to": "mount-dora-fl",
+  "note": "helper C NEW town mount-dora-fl; if no page, move to a Lake County page"
+ },
+ {
+  "card": "movie-and-a-craft-windermere-fl",
+  "from": "orlando-fl",
+  "to": "winter-garden-fl",
+  "note": "Windermere folds into Winter Garden (3 events not verified)"
+ },
+ {
+  "card": "legoland-christmas-bricktacular-winter-haven-fl",
+  "from": "orlando-fl",
+  "to": "winter-haven-fl",
+  "note": "Tampa run page winter-haven-fl"
+ },
+ {
+  "card": "universals-holiday-parade-featuring-macys-orlando-fl",
+  "from": "winter-garden-fl",
+  "to": "orlando-fl",
+  "note": "Universal Studios Florida is in Orlando"
+ },
+ {
+  "card": "ice-featuring-the-polar-express-at-gaylord-palms-kissimmee-fl",
+  "from": "winter-garden-fl",
+  "to": "kissimmee-fl",
+  "note": "Gaylord Palms is in Kissimmee; check kissimmee-fl for a duplicate (christmas-at-gaylord-palms-kissimmee-fl is a different card)"
+ },
+ {
+  "card": "seaworld-orlando-christmas-celebration-fl",
+  "from": "winter-garden-fl",
+  "to": "orlando-fl",
+  "note": "duplicate of seaworlds-christmas-celebration-orlando-fl already live on orlando-fl: just delete from winter-garden-fl"
+ },
+ {
+  "card": "mickeys-very-merry-christmas-party-lake-buena-vista-fl",
+  "from": "winter-garden-fl",
+  "to": "orlando-fl",
+  "note": "duplicate: same slug already live on orlando-fl: just delete from winter-garden-fl"
+ },
+ {
+  "card": "light-up-orange-city-tree-lighting-and-ice-rink-fl",
+  "from": "deltona-fl",
+  "to": "orange-city-fl"
+ },
+ {
+  "card": "orange-city-christmas-parade-lights-camera-christmas-fl",
+  "from": "deltona-fl",
+  "to": "orange-city-fl"
+ },
+ {
+  "card": "mount-dora-christmas-walk-fl",
+  "from": "the-villages-fl",
+  "to": "mount-dora-fl"
+ },
+ {
+  "card": "mount-dora-christmas-parade-fl",
+  "from": "the-villages-fl",
+  "to": "mount-dora-fl"
+ },
+ {
+  "card": "snow-in-the-park-mount-dora-fl",
+  "from": "the-villages-fl",
+  "to": "mount-dora-fl"
+ },
+ {
+  "card": "mount-dora-lighted-boat-christmas-parade-fl",
+  "from": "the-villages-fl",
+  "to": "mount-dora-fl"
+ },
+ {
+  "card": "mount-dora-lighted-boat-christmas-parade-fl",
+  "from": "orlando-fl",
+  "to": "DELETE (duplicate of the card moving to mount-dora-fl)"
+ },
+ {
+  "card": "santa-story-time-at-leesburg-public-library-fl",
+  "from": "the-villages-fl",
+  "to": "leesburg-fl"
+ },
+ {
+  "card": "every-christmas-story-ever-told-and-then-some-leesburg-fl",
+  "from": "the-villages-fl",
+  "to": "leesburg-fl"
+ },
+ {
+  "card": "light-up-venetian-gardens-and-leesburg-christmas-boat-parade-fl",
+  "from": "the-villages-fl",
+  "to": "leesburg-fl"
+ },
+ {
+  "card": "leesburg-christmas-festival-and-59th-annual-christmas-parade-fl",
+  "from": "the-villages-fl",
+  "to": "leesburg-fl"
+ },
+ {
+  "card": "tavares-christmas-parade-and-festival-fl",
+  "from": "the-villages-fl",
+  "to": "tavares-fl"
+ },
+ {
+  "card": "fruitland-park-hometown-christmas-fl",
+  "from": "the-villages-fl",
+  "to": "fruitland-park-fl"
+ },
+ {
+  "card": "elf-university-at-cottom-farms-christmas-village-lady-lake-fl",
+  "from": "the-villages-fl",
+  "to": "lady-lake-fl"
+ },
+ {
+  "card": "now-snowing-nightly-in-celebration-fl",
+  "from": "orlando-fl",
+  "to": "celebration-fl (own page, built by C2)"
+ },
+ {
+  "card": "holiday-nights-celebration-kissimmee-fl",
+  "from": "orlando-fl",
+  "to": "kissimmee-fl (confirmed: Promenade at Sunset Walk, 3251 Margaritaville Blvd, Kissimmee 34747; not Celebration)"
+ },
+ {
+  "card": "christmas-at-gaylord-palms-kissimmee-fl",
+  "from": "orlando-fl",
+  "to": "kissimmee-fl (Gaylord Palms is at 6000 W Osceola Pkwy, Kissimmee)"
+ },
+ {
+  "card": "northbridge-university-winter-festival-orlando-fl",
+  "from": "orlando-fl",
+  "to": "DELETE (duplicate of northbridge-university-winter-festival-kissimmee-fl on kissimmee-fl)"
+ },
+ {
+  "card": "frontyard-holiday-festival-orlando-fl",
+  "from": "kissimmee-fl",
+  "to": "orlando-fl (Dr. Phillips Center, Orlando)"
+ },
+ {
+  "card": "holidays-at-universal-orlando-resort-fl",
+  "from": "kissimmee-fl",
+  "to": "DELETE (already on orlando-fl)"
+ },
+ {
+  "card": "epcot-international-festival-of-the-holidays-lake-buena-vista-fl",
+  "from": "kissimmee-fl",
+  "to": "DELETE (already on orlando-fl)"
+ },
+ {
+  "card": "gatorlands-holiday-ho-ho-ho-down-orlando-fl",
+  "from": "kissimmee-fl",
+  "to": "DELETE (already on orlando-fl)"
+ },
+ {
+  "card": "st-cloud-annual-tree-lighting-ceremony-at-city-hall-fl",
+  "from": "kissimmee bundle (cand 63840, not yet live)",
+  "to": "st-cloud-fl (own page, built by C2)"
+ }
+]

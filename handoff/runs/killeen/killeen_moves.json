@@ -1,0 +1,66 @@
+{
+ "moves": [
+  {
+   "from_page": "killeen-tx",
+   "to_page": "harker-heights-tx",
+   "card_slug": "frost-fest-harker-heights-tx",
+   "why": "Harker Heights Community Park, 1605 Knights Way, Harker Heights"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "harker-heights-tx",
+   "card_slug": "cookies-and-cocoa-with-city-council-and-christmas-tree-harker-heights-tx",
+   "why": "Harker Heights City Hall lawn, 305 Millers Crossing, Harker Heights"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "drop",
+   "card_slug": "krist-kindl-markt-copperas-cove-tx",
+   "why": "duplicate of krist-kindl-markt-with-santa-copperas-cove-tx already on copperas-cove-tx (same Dec 4 to 6 Krist Kindl Markt, Downtown Copperas Cove)"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "temple-tx",
+   "card_slug": "jingle-jam-temple-tx",
+   "why": "Downtown Temple (helper B decides final slug match)"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "temple-tx",
+   "card_slug": "rink-on-the-rails-downtown-temple-tx",
+   "why": "MLK Festival Grounds, Temple"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "drop",
+   "card_slug": "santa-at-the-depot-temple-tx",
+   "why": "same slug is already a card on temple-tx"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "drop",
+   "card_slug": "christmas-at-the-plaza-downtown-temple-tx",
+   "why": "duplicate of christmas-at-the-plaza-tree-lighting-and-holiday-market-temple-tx already on temple-tx (Santa Fe Plaza, Temple)"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "drop",
+   "card_slug": "80th-annual-christmas-parade-temple-tx",
+   "why": "duplicate of 80th-annual-temple-christmas-parade-tx already on temple-tx"
+  },
+  {
+   "from_page": "killeen-tx",
+   "to_page": "temple-tx",
+   "card_slug": "christmas-on-the-chisholm-trail-belton-tx",
+   "why": "Downtown Belton; Belton has 1 verified event so no own page, folded into Temple (nearest existing page). Live card needs Paid pill removed (Price not listed)."
+  }
+ ],
+ "stays_on_killeen": [
+  "letters-to-santa-killeen-tx",
+  "tree-lighting-festival-killeen-tx",
+  "63rd-annual-christmas-parade-killeen-tx",
+  "nature-in-lights-fort-hood-tx (Fort Hood base, folded into Killeen)",
+  "meet-me-at-the-corner-grinch-fest-and-night-market-nolanville-tx (Nolanville has 1 verified event, folded into Killeen)"
+ ],
+ "note": "Rally rule: a town with its own page keeps its events. harker-heights-tx and temple-tx are existing pages; Belton is folded into temple-tx; copperas-cove-tx already carries the Krist Kindl cards. Temple and Belton entries are for helper B to confirm against the Temple page (Temple already carries santa-at-the-depot-temple-tx, a plaza card and an 80th parade card under different slugs). Killeen keeps 5 live cards plus 3 new = 8 events, 4 free."
+}

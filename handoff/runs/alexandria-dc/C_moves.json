@@ -1,0 +1,169 @@
+{
+ "moves": [
+  {
+   "from_page": "washington-dc",
+   "to_page": "drop",
+   "card_slug": "stem-explorers-create-your-own-gingerbread-house-gaithersburg-md"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "drop",
+   "card_slug": "all-aboard-with-santa-gaithersburg-md"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "drop",
+   "card_slug": "garden-of-lights-at-brookside-gardens-wheaton-md"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "rockville-md",
+   "card_slug": "decorate-a-gingerbread-house-rockville-md"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "hyattsville-md",
+   "card_slug": "movie-elf-pg-and-hot-cocoa-bar-hyattsville-md"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "silver-spring-md",
+   "card_slug": "festival-of-lights-kensington-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "gaithersburg-md",
+   "card_slug": "jingle-jubilee-and-tree-lighting-gaithersburg-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "gaithersburg-md",
+   "card_slug": "light-up-the-lakefront-at-rio-gaithersburg-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "gaithersburg-md",
+   "card_slug": "winter-lights-festival-gaithersburg-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "gaithersburg-md",
+   "card_slug": "create-your-own-gingerbread-house-at-quince-orchard-library-gaithersburg-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "gaithersburg-md",
+   "card_slug": "winter-family-storytime-and-craft-at-quince-orchard-library-gaithersburg-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "gaithersburg-md",
+   "card_slug": "noon-years-eve-at-gaithersburg-library-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "drop",
+   "card_slug": "santas-enchanted-visit-at-kentlands-mansion-gaithersburg-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "drop",
+   "card_slug": "all-aboard-with-santa-at-gaithersburg-community-museum-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "drop",
+   "card_slug": "garden-of-lights-at-brookside-gardens-wheaton-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "wheaton-md",
+   "card_slug": "garden-railway-at-brookside-gardens-conservatory-wheaton-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "bethesda-md",
+   "card_slug": "photos-with-santa-at-westfield-montgomery-bethesda-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "bethesda-md",
+   "card_slug": "brunch-with-santa-at-westfield-montgomery-bethesda-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "bethesda-md",
+   "card_slug": "santa-cares-sensory-friendly-santa-visit-at-westfield-montgomery-bethesda-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "silver-spring-md",
+   "card_slug": "the-mini-nut-by-maryland-youth-ballet-silver-spring-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "rockville-md",
+   "card_slug": "the-nutcracker-by-maryland-youth-ballet-rockville-md"
+  },
+  {
+   "from_page": "rockville-md",
+   "to_page": "silver-spring-md",
+   "card_slug": "akhmedova-ballet-academy-mini-nutcracker-and-holiday-highlights-silver-spring-md"
+  },
+  {
+   "from_page": "rockville-md",
+   "to_page": "bethesda-md",
+   "card_slug": "pictures-with-santa-at-the-collection-at-chevy-chase-md"
+  },
+  {
+   "from_page": "gaithersburg-md",
+   "to_page": "drop",
+   "card_slug": "all-aboard-with-santa-gaithersburg-md-2"
+  }
+ ],
+ "note": "Block C moves. Two NEW pages: bethesda-md and silver-spring-md. drop = the card slug is already carded on the destination page (Gaithersburg, Wheaton), delete the copy on the source page only. washington-dc and germantown-md had become catch-all pages for Montgomery County; every card moves to the page of the town where it physically is. Not executed by C, for the Frederick builder or lead: other_block_moves (Frederick cards on germantown-md; frederick-md exists) and block_A_suggestions (Virginia cards on washington-dc). National Harbor cards (tree lighting and fireworks, ICE at Gaylord) stay on washington-dc: only 2 verified events, no page. Review: gaithersburg-md also carries all-aboard-with-santa-gaithersburg-md-2, possibly a second session of the same event. Damascus Noon Year's Eve stays on germantown-md. Second pass: the city's holiday page lists All Aboard with Santa on Dec 5 (4 to 6 pm) and Dec 6 (2:30 to 5:30 pm), two sessions of one event, so drop the -2 card and make the remaining all-aboard-with-santa-gaithersburg-md card list both dates. The city lists Santa's Enchanted Visit (Dec 5) as Sold Out: publisher should review santas-enchanted-visit-gaithersburg-md.",
+ "other_block_moves": [
+  {
+   "from_page": "germantown-md",
+   "to_page": "frederick-md",
+   "card_slug": "sailing-through-the-winter-solstice-frederick-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "frederick-md",
+   "card_slug": "museums-by-candlelight-frederick-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "frederick-md",
+   "card_slug": "frosty-friday-in-downtown-frederick-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "frederick-md",
+   "card_slug": "december-saturdays-in-downtown-frederick-md"
+  },
+  {
+   "from_page": "germantown-md",
+   "to_page": "frederick-md",
+   "card_slug": "kris-kringle-procession-frederick-md"
+  }
+ ],
+ "block_A_suggestions": [
+  {
+   "from_page": "washington-dc",
+   "to_page": "alexandria-va",
+   "card_slug": "old-town-alexandria-christmas-market-and-holiday-craft-show-va"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "fairfax-va",
+   "card_slug": "the-nutcracker-with-the-fairfax-symphony-and-fairfax-ballet-va"
+  },
+  {
+   "from_page": "washington-dc",
+   "to_page": "(block A decides: Mount Vernon)",
+   "card_slug": "mount-vernon-by-candlelight-va"
+  }
+ ]
+}
