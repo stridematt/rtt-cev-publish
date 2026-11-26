@@ -1,0 +1,16 @@
+#!/bin/bash
+# Minneapolis run registry adds, part 8 of 10 (no set -e: refused duplicates do not stop the run). Source ./.env first. Run each part once; re-runs add duplicates.
+A=0;R=0;REF=""
+add(){ if python3 registry.py add "$@"; then A=$((A+1)); else R=$((R+1)); REF="$REF ${2}"; fi; }
+add --slug noon-years-eve-dance-party-at-the-eagan-community-center-mn --name 'Noon-Years Eve Dance Party at the Eagan Community Center' --city Eagan --cc mn --url https://cityofeagan.com/events --date 2026-12-31 --status live --confirm-new || true
+add --slug twin-cities-ballet-a-minnesota-nutcracker-at-the-ames-center-burnsville-mn --name 'Twin Cities Ballet: A Minnesota Nutcracker at the Ames Center' --city Burnsville --cc mn --url https://www.ames-center.com/events/2026/twin-cities-ballet-a-minnesota-nutcracker --date 2026-12-11 --status live --confirm-new || true
+add --slug the-community-nutcracker-event-at-the-mraz-center-burnsville-mn --name 'The Community Nutcracker Event at the Mraz Center' --city Burnsville --cc mn --url https://www.instagram.com/p/DgFwm0NCOzW/ --date 2026-12-05 --status live --confirm-new || true
+add --slug winterfest-in-downtown-white-bear-lake-mn --name 'WinterFest in Downtown White Bear Lake' --city 'White Bear Lake' --cc mn --url https://www.facebook.com/events/4701-hwy-61-white-bear-lake-mn-united-states-minnesota-55110/winterfest-in-downtown-white-bear-lake/1961237808168767/ --date 2026-12-05 --status live --confirm-new || true
+add --slug santas-coming-to-breakfast-at-tinsel-tavern-lakeville-mn --name 'Santa'"'"'s Coming to Breakfast at Tinsel Tavern' --city Lakeville --cc mn --url https://www.eventbrite.com/e/santas-coming-to-breakfast-at-tinsel-tavern-tickets-2005097877728 --date 2026-12-12 --status live --confirm-new || true
+add --slug holiday-on-main-tree-lighting-ceremony-in-downtown-lakeville-mn --name 'Holiday on Main Tree Lighting Ceremony in Downtown Lakeville' --city Lakeville --cc mn --url https://www.instagram.com/reel/DgGTXIkB7_U/ --date 2026-12-04 --status live --confirm-new || true
+add --slug winter-walk-in-downtown-northfield-mn --name 'Winter Walk in Downtown Northfield' --city Northfield --cc mn --url https://northfieldchamber.com/winter-walk/ --date 2026-12-10 --status live --confirm-new || true
+add --slug tuba-christmas-in-northfield-at-skinner-memorial-chapel-mn --name 'Tuba Christmas in Northfield at Skinner Memorial Chapel' --city Northfield --cc mn --url https://www.visitnorthfield.com/winter-events --date 2026-12-05 --status live --confirm-new || true
+add --slug hometown-holidays-with-santa-at-the-buckham-center-faribault-mn --name 'Hometown Holidays with Santa at the Buckham Center' --city Faribault --cc mn --url https://members.faribaultmn.org/events/details/winterfest-2026-20564 --date 2026-12-03 --status live --confirm-new || true
+add --slug tree-lighting-meet-the-grinch-and-carriage-rides-at-viaduct-park-faribault-mn --name 'Tree Lighting, Meet the Grinch and Carriage Rides at Viaduct Park' --city Faribault --cc mn --url https://members.faribaultmn.org/events/details/winterfest-2026-20564 --date 2026-12-04 --status live --confirm-new || true
+echo "added $A, refused $R"; [ "$R" -gt 0 ] && echo "refused slugs:$REF"
+exit 0
