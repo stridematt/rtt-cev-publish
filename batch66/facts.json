@@ -1,0 +1,69 @@
+[
+ {
+  "cand": 44108,
+  "name": "The Sunkicks: Home for the Holidays at Central Park Performing Arts Center",
+  "town": "Largo",
+  "venue": "Central Park Performing Arts Center",
+  "address": "105 Central Park Dr, Largo, FL 33771",
+  "times": [
+   [
+    "2026-11-27",
+    "20:00",
+    "22:00"
+   ],
+   [
+    "2026-11-28",
+    "14:00",
+    "16:00"
+   ],
+   [
+    "2026-11-28",
+    "20:00",
+    "22:00"
+   ]
+  ],
+  "when_note": "Fri Nov 27 at 8 PM, Sat Nov 28 at 2 PM and 8 PM (the Nov 29 show is sold out)",
+  "cost": "$30 to $45, plus fees",
+  "host": "Central Park Performing Arts Center",
+  "url": "https://www.largoarts.com/news_detail_T11_R88.php",
+  "tickets": "https://centralparkpac.thundertix.com/events/267683",
+  "kind": "show",
+  "indoor": true,
+  "paras": [
+   "The Central Park Performing Arts Center in Largo presents The Sunkicks: Home for the Holidays, a high-kicking Christmas show, on November 27 and 28, 2026. Performances are Friday at 8 PM and Saturday at 2 PM and 8 PM. The Sunday, November 29 matinee has sold out.",
+   "The show features precision kickline dancing, powerhouse vocals, stunning costumes, holiday favorites and an original Christmas story, and the venue describes it as Christmas magic for audiences of all ages. Tickets range from $30 to $45 plus applicable fees, with reserved full house seating, and the box office takes calls at (727) 587-6793."
+  ],
+  "tip": "The Saturday 2 PM show suits young children best, but it has very few tickets left.",
+  "page": "largo-fl",
+  "page_name": "Largo",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44109,
+  "name": "Christmas Poetry Walk at McGough Nature Park",
+  "town": "Largo",
+  "venue": "McGough Nature Park",
+  "address": "11901 146th St N, Largo, FL 33774",
+  "times": [
+   [
+    "2026-12-19",
+    "09:00",
+    "17:00"
+   ]
+  ],
+  "when_note": "Open 9 AM to 5 PM, walk the trails at your own pace",
+  "cost": "Price not listed",
+  "host": "Largo Recreation, Parks and Arts",
+  "url": "https://www.playlargo.com/nature.php",
+  "kind": "outing",
+  "indoor": false,
+  "paras": [
+   "Largo Recreation, Parks and Arts holds a Christmas Poetry Walk at McGough Nature Park on Saturday, December 19, 2026, from 9 AM to 5 PM. The program is listed for all ages.",
+   "Visitors walk the park and its trails and read Christmas themed poetry posted around the route. It is a self paced outing, so families can stop at each poem and head back out along the trails when they are ready."
+  ],
+  "tip": "Dogs are not permitted at McGough Nature Park, so leave pets at home.",
+  "page": "largo-fl",
+  "page_name": "Largo",
+  "ages": "All ages"
+ }
+]
