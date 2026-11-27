@@ -1,0 +1,114 @@
+[
+ {
+  "cand": 44070,
+  "name": "Downtown Fort Walton Beach Holiday Market and Light Up the Night",
+  "venue": "Fort Walton Beach Landing",
+  "address": "131 Brooks Street SE, Fort Walton Beach, FL 32548",
+  "times": [
+   [
+    "2026-11-28",
+    "11:00",
+    "18:00"
+   ]
+  ],
+  "when_note": "Tree lighting at 5:30 PM",
+  "cost": "Price not listed",
+  "host": "City of Fort Walton Beach",
+  "url": "https://fwb.org/Calendar.aspx?EID=1261",
+  "kind": "market lights santa",
+  "indoor": false,
+  "paras": [
+   "The City of Fort Walton Beach lists the Downtown Holiday Market and Light Up the Night Tree Lighting for Saturday, November 28, 2026, from 11 AM to 6 PM at the Fort Walton Beach Landing, 131 Brooks Street SE.",
+   "The city describes more than 100 local vendors, live music, food trucks, cookie decorating and a visit by Santa and Mrs. Claus. The Landing has new Christmas displays this year, including new lighting, a new tree and a Santa's Workshop, and the Fort Walton Beach Community Chorus carols before the tree lighting at 5:30 PM. The city page does not print a price."
+  ],
+  "tip": "Stay for the 5:30 PM tree lighting, which starts promptly.",
+  "page": "fort-walton-beach-fl",
+  "page_name": "Fort Walton Beach",
+  "town": "Fort Walton Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44071,
+  "name": "A Beachy Little Christmas at The Island",
+  "venue": "The Island Resort and Convention Center",
+  "address": "The Island Resort and Convention Center, Fort Walton Beach, FL",
+  "times": [
+   [
+    "2026-12-12",
+    "12:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Noon to 4 PM on the beach",
+  "cost": "Free",
+  "host": "The Island Resort and Convention Center",
+  "url": "https://www.theislandfl.com/experience/events/beachy-little-christmas/",
+  "kind": "santa crafts outing",
+  "indoor": false,
+  "paras": [
+   "The Island Resort and Convention Center lists A Beachy Little Christmas on Saturday, December 12, 2026, from noon to 4 PM on the beach. The resort says the event is free and open to the public.",
+   "Families can meet Santa Claus and Misty the Mermaid for photos and build Christmas themed sandcastles. The resort page does not print a street address."
+  ],
+  "tip": "Bring a small bucket and shovel for the Christmas sandcastles.",
+  "page": "fort-walton-beach-fl",
+  "page_name": "Fort Walton Beach",
+  "town": "Fort Walton Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44072,
+  "name": "Emerald Coast Christmas Miracle Fiesta",
+  "venue": "Fort Walton Beach Recreation Center",
+  "address": "132 Jet Drive, Fort Walton Beach, FL 32548",
+  "times": [
+   [
+    "2026-12-20",
+    "12:00",
+    "18:00"
+   ]
+  ],
+  "when_note": "Noon to 1 PM is for families of children with special needs; everyone welcome from 1 PM",
+  "cost": "Free",
+  "host": "United for a Good Cause",
+  "url": "https://www.unitedforagoodcause.org/programs/christmas-miracle-fiesta/",
+  "kind": "service show",
+  "indoor": true,
+  "paras": [
+   "United for a Good Cause hosts a free Christmas Fiesta on Sunday, December 20, 2026, from noon to 6 PM at the Fort Walton Beach Recreation Center, 132 Jet Drive. The group says every child goes home with a gift.",
+   "The first hour, noon to 1 PM, is open only to families of children with special needs so they can enjoy it at a calmer pace, and everyone is welcome from 1 PM. The event includes entertainment, food for families, activity tables from partner agencies and giveaways of toys, bikes and presents. Families can register ahead, and walk-ins are welcome."
+  ],
+  "tip": "Families with special needs can use the quieter noon to 1 PM hour.",
+  "page": "fort-walton-beach-fl",
+  "page_name": "Fort Walton Beach",
+  "town": "Fort Walton Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44073,
+  "name": "Christmas Party with Santa at the Fort Walton Beach Library",
+  "venue": "Fort Walton Beach Library",
+  "address": "Fort Walton Beach Library, Fort Walton Beach, FL",
+  "times": [
+   [
+    "2026-12-10",
+    "17:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Drop in, no registration required",
+  "cost": "Price not listed",
+  "host": "Okaloosa County Public Library Cooperative",
+  "url": "https://okaloosa.librarycalendar.com/event/christmas-party-83123",
+  "kind": "santa story crafts",
+  "indoor": true,
+  "paras": [
+   "The Okaloosa County Public Library Cooperative lists a Christmas Party with Santa at the Fort Walton Beach Library on Thursday, December 10, 2026, from 5 PM to 7 PM. It is a drop in event for all ages, and no registration is required.",
+   "Santa reads a story and children can take photos with him. The library also lists gingerbread house judging, crafts and hot cocoa. The listing does not print a price or a street address."
+  ],
+  "tip": "Arrive early for the story, then stay for photos and cocoa.",
+  "page": "fort-walton-beach-fl",
+  "page_name": "Fort Walton Beach",
+  "town": "Fort Walton Beach",
+  "ages": "All ages"
+ }
+]
