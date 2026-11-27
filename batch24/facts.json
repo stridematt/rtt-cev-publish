@@ -1,0 +1,24 @@
+[
+ {
+  "cand": 43501,
+  "name": "Hewitt Christmas Tree Lighting at Warren Park",
+  "town": "Hewitt",
+  "venue": "Warren Park",
+  "address": "450 S Old Temple Rd, Hewitt, TX 76643",
+  "times": [["2026-12-03","17:30","19:00"]],
+  "when_note": "It runs on a Thursday evening.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Greater Hewitt Chamber of Commerce",
+  "url": "https://hewittchamber.com/christmas/",
+  "kind": "lights santa market",
+  "indoor": false,
+  "page": "hewitt-tx",
+  "page_name": "Hewitt",
+  "paras": [
+   "The Greater Hewitt Chamber of Commerce lights the city Christmas tree at Warren Park on a Thursday evening, presented by Christ Our Refuge Lutheran Church. Midway ISD carolers sing while vendors and food trucks set up around the park, and Santa makes an appearance.",
+   "The chamber expects more than 1,500 people to come and go through the evening. Parking is free, and Toys for Tots collects new, unwrapped toys at the event."
+  ],
+  "tip": "Bring a new, unwrapped toy for the Toys for Tots collection and come early for the vendors before the lighting."
+ }
+]
