@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44224,
+  "name": "Bonita Springs Holly Jolly Santa Visit at the Public Library",
+  "page": "bonita-springs-fl",
+  "page_name": "Bonita Springs",
+  "town": "Bonita Springs",
+  "host": "Lee County Library System",
+  "venue": "Bonita Springs Public Library",
+  "address": "10560 Reynolds Street, Bonita Springs, FL 34135",
+  "times": [
+   [
+    "2026-12-15",
+    "17:00",
+    "18:30"
+   ]
+  ],
+  "when_note": "Tuesday, December 15, 5 to 6:30 PM",
+  "cost": "Price not listed",
+  "ages": "Birth to 11",
+  "url": "https://leelibrary.librarymarket.com/event/holly-jolly-santa-visit-146827",
+  "kind": "Santa visit",
+  "indoor": true,
+  "paras": [
+   "The Lee County Library System lists a Holly Jolly Santa Visit at the Bonita Springs Public Library, 10560 Reynolds Street, on Tuesday, December 15, 2026, from 5 to 6:30 PM. The library says no registration is required.",
+   "The program is for children from birth to age 11 with their caregivers. The library describes Santa photos, crafts and Christmas activities, with all supplies available while they last.",
+   "Questions about the Bonita Springs branch go to (239) 533-4860."
+  ],
+  "tip": "Arrive early in the window because craft supplies are first come, first served."
+ },
+ {
+  "cand": 44225,
+  "name": "Lehigh Acres Winter Celebration with Santa at East County Library",
+  "page": "fort-myers-fl",
+  "page_name": "Fort Myers",
+  "town": "Lehigh Acres",
+  "host": "Lee County Library System",
+  "venue": "East County Regional Library, Meeting Room",
+  "address": "881 Gunnery Road N, Lehigh Acres, FL 33971",
+  "times": [
+   [
+    "2026-12-14",
+    "18:00",
+    "18:30"
+   ]
+  ],
+  "when_note": "Monday, December 14, 6 to 6:30 PM",
+  "cost": "Price not listed",
+  "ages": "Birth to 11",
+  "url": "https://leelibrary.librarymarket.com/event/celebrate-create-with-Santa-139910",
+  "kind": "Santa visit",
+  "indoor": true,
+  "paras": [
+   "The Lee County Library System lists a Winter Celebration with Santa at the East County Regional Library, 881 Gunnery Road N in Lehigh Acres, on Monday, December 14, 2026, from 6 to 6:30 PM in the Meeting Room.",
+   "The library describes card making, cookie decorating and pictures with Santa. No registration is required, and activities are available while supplies last on a first come, first served basis.",
+   "The program is open to families with children from birth to age 11. The library asks adults to stay and take part with their child, and drop offs are not permitted. The branch phone is (239) 533-4200."
+  ],
+  "tip": "The program runs only 30 minutes, so be at the Meeting Room when it opens."
+ }
+]
