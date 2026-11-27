@@ -1,0 +1,31 @@
+[
+ {
+  "cand": 44231,
+  "name": "Palm Beach Holiday Boat Parade Finale at Jupiter Inlet Lighthouse",
+  "page": "jupiter-fl",
+  "page_name": "Jupiter",
+  "town": "Jupiter",
+  "host": "Marine Industries Association of Palm Beach County",
+  "venue": "Intracoastal Waterway, North Palm Beach to Jupiter Inlet Lighthouse",
+  "address": "Jupiter Inlet Lighthouse, Jupiter, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, from 6 PM in North Palm Beach, arriving in Jupiter around 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.marinepbc.org/boat-parade/",
+  "kind": "boat parade",
+  "indoor": false,
+  "paras": [
+   "The Marine Industries Association of Palm Beach County presents the 32nd Annual Palm Beach Holiday Boat Parade on Saturday, December 5. The parade begins at 6 PM in North Palm Beach and reaches Jupiter at about 8 PM, where the grand finale takes place at the Jupiter Lighthouse.",
+   "A Zambelli traveling fireworks display leads the boats up the Intracoastal Waterway. Decorated boats compete on lights, enthusiasm and themed decor, and the association lists cash prizes for the top boats.",
+   "The association names open-to-the-public viewing sites from North Palm Beach to Jupiter, including Bert Winters Park, Sawfish Bay Park, Lighthouse Park and the Riverwalk. Guests are asked to bring a new, unwrapped toy for the Toys for Tots and Little Smiles drive."
+  ],
+  "tip": "Bring a new unwrapped toy for the toy drive collected at the finale."
+ }
+]
