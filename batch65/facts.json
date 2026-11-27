@@ -1,0 +1,180 @@
+[
+ {
+  "cand": 44105,
+  "name": "Camellia Christmas at Maclay Gardens",
+  "town": "Tallahassee",
+  "venue": "Alfred B. Maclay Gardens State Park",
+  "address": "3540 Thomasville Road, Tallahassee, FL 32309",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "6 to 9 PM",
+  "cost": "Free",
+  "host": "Florida State Parks",
+  "url": "https://www.floridastateparks.org/events/camellia-christmas-3",
+  "kind": "santa food show outing",
+  "indoor": false,
+  "paras": [
+   "Alfred B. Maclay Gardens State Park holds Camellia Christmas on Friday, December 4, 2026, from 6 to 9 PM. Florida State Parks lists it as a free community event, and the Friends of Maclay Gardens accept donations.",
+   "Once a year only the historic Maclay House is decorated with fresh Christmas greenery and crisp white camellias. Visitors can tour the house, enjoy hot cider and cookies from the Friends of Maclay Gardens, visit with Santa, browse the silent auction and listen to live music."
+  ],
+  "tip": "The park lists maclayeventcoordinator@floridadep.gov for questions before you go.",
+  "page": "tallahassee-fl",
+  "page_name": "Tallahassee",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44106,
+  "name": "Candlelight Tours at Villa Zorayda Museum",
+  "town": "St. Augustine",
+  "venue": "Villa Zorayda Museum",
+  "address": "83 King Street, St. Augustine, FL 32084",
+  "times": [
+   [
+    "2026-12-04",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-04",
+    "19:00",
+    "20:00"
+   ],
+   [
+    "2026-12-08",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-11",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-11",
+    "19:00",
+    "20:00"
+   ],
+   [
+    "2026-12-14",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-14",
+    "19:00",
+    "20:00"
+   ],
+   [
+    "2026-12-18",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-18",
+    "19:00",
+    "20:00"
+   ],
+   [
+    "2026-12-21",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-21",
+    "19:00",
+    "20:00"
+   ],
+   [
+    "2026-12-28",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-28",
+    "19:00",
+    "20:00"
+   ],
+   [
+    "2026-12-30",
+    "17:30",
+    "18:30"
+   ],
+   [
+    "2026-12-30",
+    "19:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "5:30 PM and 7 PM tours, about 60 minutes (Dec 8 has only the 5:30 PM tour)",
+  "cost": "$26.99 adults, $14.99 ages 6 to 12, plus 6.5% sales tax",
+  "host": "Villa Zorayda Museum",
+  "url": "https://villazorayda.com/candlelight-tours-nights-of-lights/",
+  "tickets": "https://villazorayda.com/holidaytours/",
+  "kind": "lights show food outing",
+  "indoor": true,
+  "paras": [
+   "Villa Zorayda Museum offers Candlelight Tours on select evenings during St. Augustine's Nights of Lights. The 2026 dates are December 4, 8, 11, 14, 18, 21, 28 and 30, with tours at 5:30 PM and 7 PM. The December 8 tour at 7 PM has sold out.",
+   "The museum is decorated with Victorian and traditional Christmas decorations, with a large tree in the Court of Lions and over 100 candles glowing throughout. Guests take an audio guided tour of the former home, then gather on the balconies as the museum goes dark and the tree lighting brings each floor back to light. The tour ends with a complimentary beverage and cookie.",
+   "The museum does not recommend the tour for children ages 5 and under because it lasts about 60 minutes of standing and walking. Tickets are nonrefundable and there is no elevator, with two levels connected by one stairway."
+  ],
+  "tip": "Stay for the whole tour, since the tree lighting and the cookies come at the end.",
+  "page": "st-augustine-fl",
+  "page_name": "St. Augustine",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44107,
+  "name": "Holiday Evening Tours at Villa Zorayda Museum",
+  "town": "St. Augustine",
+  "venue": "Villa Zorayda Museum",
+  "address": "83 King Street, St. Augustine, FL 32084",
+  "times": [
+   [
+    "2026-11-28",
+    "17:15",
+    "20:00"
+   ],
+   [
+    "2026-12-05",
+    "17:15",
+    "20:00"
+   ],
+   [
+    "2026-12-12",
+    "17:15",
+    "20:00"
+   ],
+   [
+    "2026-12-19",
+    "17:15",
+    "20:00"
+   ],
+   [
+    "2026-12-26",
+    "17:15",
+    "20:00"
+   ]
+  ],
+  "when_note": "Doors open 5:15 to 7 PM for admission, museum closes at 8 PM",
+  "cost": "$19.00 adults, $12.00 ages 5 to 12, free for ages 4 and under, plus 6.5% sales tax",
+  "host": "Villa Zorayda Museum",
+  "url": "https://villazorayda.com/holiday-evening-tours-night-of-lights/",
+  "tickets": "https://villazorayda.com/holidaytours/",
+  "kind": "lights outing",
+  "indoor": true,
+  "paras": [
+   "Villa Zorayda Museum opens after hours on select Saturdays during Nights of Lights. The 2026 Holiday Evenings are November 28 and December 5, 12, 19 and 26. Guests may enter between 5:15 and 7 PM, and the museum closes at 8 PM.",
+   "Visitors explore the decorated museum after dark on a self guided audio tour, offered in English, Spanish and French. The tour typically runs 45 minutes, and the museum suggests allowing 1 hour.",
+   "The museum points families who want to go at their own pace to this option instead of the scheduled Candlelight Tours. Children 4 and under are free."
+  ],
+  "tip": "Pick this one for little kids, since there is no fixed start time and you can move at your own pace.",
+  "page": "st-augustine-fl",
+  "page_name": "St. Augustine",
+  "ages": "All ages"
+ }
+]
