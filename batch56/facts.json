@@ -1,0 +1,31 @@
+[
+ {
+  "cand": 44086,
+  "name": "Holiday POPS Concert and POPS Pop-Up",
+  "town": "Boca Raton",
+  "venue": "Mizner Park Amphitheater",
+  "address": "Mizner Park Amphitheater, Boca Raton, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Doors and the kids' POPS Pop-Up at 6 PM, concert at 7 PM",
+  "cost": "$25 to $60 per person; POPS Pop-Up free with concert admission",
+  "host": "The Symphonia",
+  "url": "https://thesymphonia.org/attend/calendar/holiday-pops-with-the-symphonia1/",
+  "tickets": "https://app.arts-people.com/index.php?show=315722",
+  "kind": "show santa crafts",
+  "indoor": false,
+  "paras": [
+   "The City of Boca Raton presents the third annual Holiday POPS Concert on Saturday, December 5, 2026, at Mizner Park Amphitheater. The Symphonia Boca Raton plays holiday classics under conductor John Devlin, joined by the FAU Chamber Singers and Schola Cantorum of Florida. Doors open at 6 PM and the concert starts at 7 PM.",
+   "New this year, the POPS Pop-Up fills the hour before the show with pre-show activities for kids, including Nutcracker characters, cookie decorating and glitter tattoos, and the city's lineup also lists visits with Santa and face painting. The Pop-Up is free with concert admission, and tickets run $25 to $60 per person according to the city's holiday lineup."
+  ],
+  "tip": "Arrive at 6 PM when doors open so the kids can do the Pop-Up before the music starts.",
+  "page": "boca-raton-fl",
+  "page_name": "Boca Raton",
+  "ages": "All ages"
+ }
+]
