@@ -1,0 +1,188 @@
+[
+ {
+  "cand": 44076,
+  "name": "The Snowman Experience at Dania Pointe",
+  "venue": "The Lawn at Dania Pointe",
+  "address": "150 Sunset Drive, Dania Beach, FL 33004",
+  "times": [
+   [
+    "2026-11-28",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-11-29",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-05",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-06",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-12",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-13",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-19",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-20",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-26",
+    "15:00",
+    "20:00"
+   ],
+   [
+    "2026-12-27",
+    "15:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturdays and Sundays from November 28 to December 27, 3 to 8 PM",
+  "cost": "Price not listed",
+  "host": "Dania Pointe",
+  "url": "https://www.daniapointe.com/events",
+  "kind": "lights outing",
+  "indoor": false,
+  "paras": [
+   "Dania Pointe lists The Snowman Experience on Saturdays and Sundays from November 28 to December 27, 2026, from 3 PM to 8 PM on The Lawn at 150 Sunset Drive.",
+   "Families can take festive photos alongside real snowmen. The shopping center describes it as a way to celebrate the season, and its events page does not print a price."
+  ],
+  "tip": "Go late afternoon on a weekend so you can stay for the evening snowfall.",
+  "page": "dania-beach-fl",
+  "page_name": "Dania Beach",
+  "town": "Dania Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44077,
+  "name": "Let It Snow at Dania Pointe",
+  "venue": "The Lawn at Dania Pointe",
+  "address": "150 Sunset Drive, Dania Beach, FL 33004",
+  "times": [
+   [
+    "2026-11-27",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-11-28",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-11-29",
+    "19:00",
+    "19:15"
+   ],
+   [
+    "2026-12-04",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-05",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-06",
+    "19:00",
+    "19:15"
+   ],
+   [
+    "2026-12-11",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-12",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-13",
+    "19:00",
+    "19:15"
+   ],
+   [
+    "2026-12-18",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-19",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-20",
+    "19:00",
+    "19:15"
+   ],
+   [
+    "2026-12-21",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-22",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-23",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-24",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-26",
+    "19:00",
+    "20:45"
+   ],
+   [
+    "2026-12-27",
+    "19:00",
+    "19:15"
+   ]
+  ],
+  "when_note": "Fridays and Saturdays 7 and 8:30 PM, Sundays 7 PM, with bonus shows December 21 to 24, 26 and 27",
+  "cost": "Price not listed",
+  "host": "Dania Pointe",
+  "url": "https://www.daniapointe.com/events",
+  "kind": "lights show outing",
+  "indoor": false,
+  "paras": [
+   "Dania Pointe lists Let It Snow as a 15 minute snowfall on The Lawn every weekend from November 27 through December 20, 2026. Showtimes are 7 PM and 8:30 PM on Fridays and Saturdays and 7 PM on Sundays.",
+   "Bonus shows run at 7 PM and 8:30 PM on December 21 to 24 and December 26, and at 7 PM on December 27. The events page does not print a price."
+  ],
+  "tip": "Pick the 7 PM show if little ones go to bed early.",
+  "page": "dania-beach-fl",
+  "page_name": "Dania Beach",
+  "town": "Dania Beach",
+  "ages": "All ages"
+ }
+]
