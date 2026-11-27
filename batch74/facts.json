@@ -1,0 +1,131 @@
+[
+ {
+  "cand": 44131,
+  "name": "Sailor Circus Holiday Show",
+  "town": "Sarasota",
+  "page": "sarasota-fl",
+  "page_name": "Sarasota",
+  "host": "Circus Arts Conservatory",
+  "venue": "Sailor Circus Arena, Circus Arts Conservatory",
+  "address": "Sarasota, FL",
+  "times": [
+   [
+    "2026-12-26",
+    "14:00",
+    "15:30"
+   ],
+   [
+    "2026-12-26",
+    "19:00",
+    "20:30"
+   ],
+   [
+    "2026-12-27",
+    "13:00",
+    "14:30"
+   ],
+   [
+    "2026-12-27",
+    "17:00",
+    "18:30"
+   ],
+   [
+    "2026-12-28",
+    "14:00",
+    "15:30"
+   ],
+   [
+    "2026-12-28",
+    "19:00",
+    "20:30"
+   ],
+   [
+    "2026-12-29",
+    "14:00",
+    "15:30"
+   ],
+   [
+    "2026-12-29",
+    "19:00",
+    "20:30"
+   ]
+  ],
+  "when_note": "December 26 to 29, shows at 2 PM and 7 PM, with 1 PM and 5 PM on December 27",
+  "cost": "Price not listed",
+  "url": "https://circusarts.org/performances/sailor-circus-holiday-show/",
+  "tickets": "https://tickets.circusarts.org/events/cmu2swjql09pfgjqyubaaon6h",
+  "kind": "show",
+  "indoor": true,
+  "paras": [
+   "The Circus Arts Conservatory presents the Sailor Circus Holiday Show, called Stars, Stripes and Snowflakes, from December 26 to 29, 2026 at the Sailor Circus Arena in Sarasota.",
+   "Performers are students between ages 6 and 18 who fly, flip and clown through aerial, acrobatic and comedic acts. The conservatory describes Sailor Circus as America's longest running youth circus, known as the Greatest Little Show on Earth.",
+   "Showtimes are 2 PM and 7 PM on December 26, 1 PM and 5 PM on December 27, and 2 PM and 7 PM on December 28 and 29.",
+   "All ticket sales are final with no refunds or exchanges. The conservatory asks patrons to buy directly from it, since resold or third party tickets may not be honored, and lists 941-355-9805 for help."
+  ],
+  "tip": "Buy tickets only from the Circus Arts Conservatory, since it says resold tickets may not be honored.",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44132,
+  "name": "Holidays at The Bay",
+  "town": "Sarasota",
+  "page": "sarasota-fl",
+  "page_name": "Sarasota",
+  "host": "The Bay Sarasota",
+  "venue": "The Bay Park",
+  "address": "1055 Boulevard of the Arts, Sarasota, FL 34236",
+  "times": [
+   [
+    "2026-12-12",
+    "16:00",
+    "19:45"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 4:00 to 7:45 PM",
+  "cost": "Free",
+  "url": "https://www.thebaysarasota.org/event/holidays-at-the-bay-community-celebration/",
+  "tickets": "https://www.eventbrite.com/e/holidays-at-the-bay-community-celebration-tickets-2002840295238",
+  "kind": "santa crafts story show outing",
+  "indoor": false,
+  "paras": [
+   "The Bay Sarasota hosts the fifth annual Holidays at The Bay Community Celebration on December 12, 2026. The event is free, and ugly holiday sweaters and festive attire are encouraged.",
+   "From 4 to 6 PM families can get a free photo with Santa, join make-and-take holiday crafts with Sarasota Performing Arts Foundation teaching artists, browse the Sarasota County Pop-Up Library and get face painting from Pixie Painting.",
+   "Mr. Stevey reads a story of the season from 5 to 5:30 PM, and Santa's Frosty Follies performs a holiday showcase from 5:30 to 6 PM.",
+   "A family showing of Toy Story 5 (PG) runs from 6 to 7:45 PM. Food trucks Florida Pops, Mr. Bulgogi and Wingz N Thingz serve food, and The Nest Cafe offers frozen candy cane lemonade.",
+   "The first 300 children to visit the Sarasota Performing Arts Foundation tent receive a goodie bag and a free book. Guests can also bring gently used children's books for the park's lending libraries."
+  ],
+  "tip": "In inclement weather the event is cancelled, with updates posted up to one hour before the start on The Bay calendar, Eventbrite, Facebook and Instagram.",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44133,
+  "name": "Christmas in Cortez",
+  "town": "Cortez",
+  "page": "bradenton-fl",
+  "page_name": "Bradenton",
+  "host": "Florida Maritime Museum",
+  "venue": "Florida Maritime Museum grounds, Cortez",
+  "address": "Cortez, FL",
+  "times": [
+   [
+    "2026-12-12",
+    "12:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, noon to 3 PM",
+  "cost": "Free",
+  "url": "https://www.floridamaritimemuseum.org/christmas-in-cortez",
+  "kind": "santa crafts outing show food",
+  "indoor": false,
+  "paras": [
+   "The Florida Maritime Museum holds Christmas in Cortez on December 12, 2026 from noon to 3 PM. Admission, parking and all activities are free, with no reservations required.",
+   "Activities include a bounce house, make-and-take holiday crafts and lawn games. Free visits with Santa take place inside the Cortez Cultural Center, thanks to the Cortez Village Historical Society.",
+   "The Anna Maria Island Privateers give out gifts and offer face painting. Student performances run through the event, and Music on the Porch musicians play live music starting at 2 PM.",
+   "Food trucks sell meals for a fee. The event is geared toward families with young children but is open to visitors of all ages.",
+   "The museum itself is not open during the event because of a structural rehabilitation of its historic building. Overflow parking is at the F.I.S.H. Preserve on Cortez Road, at 4411 116th St W in Bradenton."
+  ],
+  "tip": "Search FISH Parking, Cortez, FL in Google or Apple Maps for the overflow lot.",
+  "ages": "All ages"
+ }
+]
