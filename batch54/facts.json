@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 44082,
+  "name": "Plant City Merry Market",
+  "venue": "Plant City High School",
+  "address": "1 Raider Place, Plant City, FL 33563",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Doors open at 10 AM and the market runs to 3 PM, with Grinch photos from 11 AM to 1:30 PM",
+  "cost": "Free admission with a free ticket, $5 for Santa photos",
+  "host": "Plant City High School PTSA",
+  "url": "https://plantcitymerrymarket.com/",
+  "kind": "santa market crafts outing",
+  "indoor": true,
+  "paras": [
+   "The Plant City High School PTSA hosts the Plant City Merry Market on Saturday, December 5, 2026, at Plant City High School on Raider Place. The organizers call it the community's largest annual holiday gift market, and admission and parking are free. Families register for free tickets on the market's website, and the proceeds go to student programs at the school.",
+   "Kids have their own agenda inside the school. The Little Paws Petting Zoo runs from 10 AM to 3 PM, the Grinch poses for free photos from 11 AM to 1:30 PM, and the school's musical theater group performs holiday numbers from 11 AM to 1 PM. Pictures with Santa are listed on the agenda from 12:30 to 2:30 PM and carry a $5 picture fee. The raffle results are announced at 2 PM."
+  ],
+  "tip": "Register for the free tickets first and come before the Grinch window ends at 1:30 PM.",
+  "page": "plant-city-fl",
+  "page_name": "Plant City",
+  "town": "Plant City",
+  "ages": "All ages"
+ }
+]
