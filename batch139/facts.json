@@ -1,0 +1,165 @@
+[
+ {
+  "cand": 44288,
+  "name": "Breakfast with Santa at Outlets at Castle Rock",
+  "page": "castle-rock-co",
+  "page_name": "Castle Rock",
+  "town": "Castle Rock",
+  "host": "Outlets at Castle Rock",
+  "venue": "Outlets at Castle Rock, Suite 350",
+  "address": "5050 Factory Shops Blvd, Suite 350, Castle Rock, CO 80108",
+  "times": [
+   [
+    "2026-12-05",
+    "09:30",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 9:30 to 11 AM",
+  "cost": "$5 per person, or bring a new unwrapped toy (guests over age 3)",
+  "ages": "All ages",
+  "url": "https://www.outletsatcastlerock.com/event/45521-breakfast-with-santa",
+  "tickets": "https://www.eventbrite.com/e/breakfast-with-santa-tickets-2004249218365",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Outlets at Castle Rock hosts Breakfast with Santa on Saturday, December 5, 2026, from 9:30 to 11 AM in Suite 350 at 5050 Factory Shops Blvd, between HEYDUDE and Rally House. The pancake breakfast costs $5 per person, or guests over age 3 can bring a new, unwrapped toy instead.",
+   "Kids can share wish lists with Santa, take holiday photos, hear storytime with Mrs. Claus and meet holiday characters. Toys collected support Cancer Fighters to the Rescue and the kids at Children's Hospital Colorado, and an RSVP is requested through Eventbrite."
+  ],
+  "tip": "RSVP on Eventbrite first, and pack a new toy if you would rather donate than pay the $5."
+ },
+ {
+  "cand": 44289,
+  "name": "Breakfast with Santa at Cottonwood Lodge",
+  "page": "westminster-co",
+  "page_name": "Westminster",
+  "town": "Westminster",
+  "host": "Hyland Hills Park and Recreation District",
+  "venue": "Cottonwood Lodge at Hyland Hills",
+  "address": "9650 Sheridan Blvd, Westminster, CO 80031",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 9 to 11 AM",
+  "cost": "Registration required for each person age 3 and up, see the Hyland Hills listing for the price",
+  "ages": "All ages",
+  "url": "https://www.hylandhills.gov/2026/10/22/reserve-your-spot-for-breakfast-with-santa/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Hyland Hills Park and Recreation District brings Santa to the Cottonwood Lodge at 9650 Sheridan Blvd in Westminster on Saturday, December 5, 2026. Families enjoy a breakfast buffet, then photos with Santa and performances from the Original Dickens Carolers.",
+   "Registration is required for each person age 3 and up, online through the Hyland Hills registration page or by calling 303-428-7488. The event runs from 9 to 11 AM according to local event listings."
+  ],
+  "tip": "Register early, since a seat is needed for every guest age 3 and older."
+ },
+ {
+  "cand": 44290,
+  "name": "Free Santa Visits at Stanley Marketplace",
+  "page": "aurora-co",
+  "page_name": "Aurora",
+  "town": "Aurora",
+  "host": "Stanley Marketplace",
+  "venue": "Stanley Marketplace, southeast entrance",
+  "address": "2501 Dallas St, Aurora, CO 80010",
+  "times": [
+   [
+    "2026-11-28",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-11-29",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-05",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-06",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-13",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-19",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-20",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Weekends from November 28 to December 20, 2026, 11 AM to 1 PM",
+  "cost": "Free, no reservation",
+  "ages": "All ages",
+  "url": "https://www.stanleymarketplace.com/holidays/santa",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Stanley Marketplace in Aurora hosts a different Santa every weekend from November 28 through December 20, 2026, from 11 AM to 1 PM. Visits are free and walk up, near Denver Biscuit Company at the southeast entrance, and a photographer is on site.",
+   "The lineup includes Old St. Nick and a Sensory Santa on November 28, Vietnamese Santa, Native American Santa, Santa en Espanol on December 12, ASL Santa on December 13 and Black Santa on December 19. Kids can also follow Stanley Bear's Scavenger Hunt and play at LuBird's Light Playground, and Santa Paws for dogs runs December 5."
+  ],
+  "tip": "Go to the southeast lot, which is closest to Santa, and pick the weekend whose Santa fits your family."
+ },
+ {
+  "cand": 44291,
+  "name": "Santa Claus at Edgewater Public Market",
+  "page": "denver-co",
+  "page_name": "Denver",
+  "town": "Edgewater",
+  "host": "Edgewater Public Market",
+  "venue": "Edgewater Public Market",
+  "address": "5505 W 20th Ave, Edgewater, CO 80214",
+  "times": [
+   [
+    "2026-11-28",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-05",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-19",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturdays November 28, December 5, 12 and 19, 2026, 11 AM to 2 PM",
+  "cost": "Free, reservations not required",
+  "ages": "All ages",
+  "url": "https://www.edgewaterpublicmarket.com/events/729-210/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa Claus returns to Edgewater Public Market, just west of Sloan's Lake, on four Saturdays: November 28 and December 5, 12 and 19, 2026, from 11 AM to 2 PM. Visits are free for kids and adults, and reservations are not required.",
+   "Santa sits inside the market hall, usually in front of the Shops This Way sign across from Happy Cones. Pets are not allowed inside the market hall, so leave the dog at home for this one."
+  ],
+  "tip": "Look for the Shops This Way sign across from Happy Cones, and treat the kids to ice cream afterward."
+ }
+]
