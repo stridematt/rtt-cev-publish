@@ -1,0 +1,491 @@
+[
+ {
+  "cand": 44292,
+  "name": "Tweetsie Christmas at Tweetsie Railroad",
+  "page": "lenoir-nc",
+  "page_name": "Lenoir",
+  "town": "Blowing Rock",
+  "host": "Tweetsie Railroad",
+  "venue": "Tweetsie Railroad",
+  "address": "300 Tweetsie Railroad Lane, Blowing Rock, NC 28605",
+  "times": [
+   [
+    "2026-11-28",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-11-29",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-04",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-05",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-06",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-11",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-12",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-13",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-18",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-19",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-20",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-21",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-22",
+    "17:00",
+    "21:30"
+   ],
+   [
+    "2026-12-23",
+    "17:00",
+    "21:30"
+   ]
+  ],
+  "when_note": "Select evenings from November 28 to December 23, 2026, 5 to 9:30 PM, with more nights through December 30",
+  "cost": "$65 adults 13 and up, $45 children 3 to 12, free ages 2 and under",
+  "ages": "All ages",
+  "url": "https://tweetsie.com/special-events/tweetsie-christmas",
+  "tickets": "https://tickets.tweetsie.com/webstore/shop/viewItems.aspx?cg=trb&c=6",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Tweetsie Railroad in Blowing Rock turns into a Wild West Christmas town on select evenings from November 27 through December 30, 2026, from 5 to 9:30 PM. Each ticket includes one reserved open-air ride of about 20 minutes on the Christmas train, four amusement rides, live entertainment and a visit to Santa's Gingerbread House.",
+   "Santa appears through December 23, and kids can write him a letter to drop in the mailbox. Tickets are $65 for adults 13 and up and $45 for children 3 to 12, with ages 2 and under free, and each ticket is tied to a date and train time. Parking is free, and the train is open air, so dress warmly."
+  ],
+  "tip": "Book a date and train time early, since nights do sell out, and arrive at 5 PM to ride the amusement rides before your train."
+ },
+ {
+  "cand": 44293,
+  "name": "Holiday Train and Light Spectacular at Wilmington Railroad Museum",
+  "page": "wilmington-nc",
+  "page_name": "Wilmington",
+  "town": "Wilmington",
+  "host": "Wilmington Railroad Museum",
+  "venue": "Wilmington Railroad Museum",
+  "address": "505 Nutt St, Wilmington, NC 28401",
+  "times": [
+   [
+    "2026-12-11",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-12",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-13",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-18",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-19",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-20",
+    "18:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "December 11 to 13 and 18 to 20, 2026, 6:30 to 8 PM",
+  "cost": "$5 per person, under 2 free, tickets at the door only",
+  "ages": "All ages",
+  "url": "https://www.wrrm.org/events-and-tours.html",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "The Wilmington Railroad Museum at 505 Nutt Street becomes a winter wonderland for the Holiday Train and Light Spectacular on December 11 to 13 and 18 to 20, 2026, from 6:30 to 8 PM. More than 35,000 lights, musical animations and twilight model train displays fill the grounds.",
+   "Kids can visit Santa and sip cider, and tickets are $5 per person with children under 2 free. Tickets are sold at the door only."
+  ],
+  "tip": "Come at 6:30 PM when the lights first glow, and bring cash or a card for the door."
+ },
+ {
+  "cand": 44294,
+  "name": "Breakfast with Santa at The Dunhill Hotel",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "The Dunhill Hotel and The Asbury",
+  "venue": "The Dunhill Hotel",
+  "address": "237 N Tryon St, Charlotte, NC 28202",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "11:00"
+   ],
+   [
+    "2026-12-13",
+    "09:00",
+    "11:00"
+   ],
+   [
+    "2026-12-19",
+    "09:00",
+    "11:00"
+   ],
+   [
+    "2026-12-20",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "December 12, 13, 19 and 20, 2026, 9 to 11 AM",
+  "cost": "$50 per adult, $30 per child under 12, children 3 and under free",
+  "ages": "All ages",
+  "url": "https://www.theasbury.com/events/breakfast-with-santa/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Dunhill Hotel in uptown Charlotte hosts Breakfast with Santa on December 12 and 13 and December 19 and 20, 2026, from 9 to 11 AM. Guests meet Santa in a private event space overlooking Tryon Street, then enjoy a family breakfast buffet from The Asbury kitchen.",
+   "The buffet includes French toast sticks, chicken and waffles, scrambled eggs, bacon, biscuits and gravy, an oatmeal bar and yogurt parfaits. Each family gets a private moment with Santa by the fireplace in the Wine Room for photos and wishes. Tickets are $50 per adult and $30 per child under 12, and children 3 and under are free."
+  ],
+  "tip": "Extra dates were added because this one sells out fast, so book your date as soon as you can."
+ },
+ {
+  "cand": 44295,
+  "name": "Tea with Santa at The Umstead Hotel and Spa",
+  "page": "cary-nc",
+  "page_name": "Cary",
+  "town": "Cary",
+  "host": "The Umstead Hotel and Spa",
+  "venue": "The Umstead Hotel and Spa",
+  "address": "100 Woodland Pond Dr, Cary, NC 27518",
+  "times": [
+   [
+    "2026-11-28",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-11-28",
+    "15:00",
+    "16:30"
+   ],
+   [
+    "2026-11-29",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-11-29",
+    "15:00",
+    "16:30"
+   ],
+   [
+    "2026-12-06",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-12-06",
+    "15:00",
+    "16:30"
+   ],
+   [
+    "2026-12-12",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-12-13",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-12-13",
+    "15:00",
+    "16:30"
+   ],
+   [
+    "2026-12-19",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-12-20",
+    "10:30",
+    "12:00"
+   ],
+   [
+    "2026-12-20",
+    "15:00",
+    "16:30"
+   ]
+  ],
+  "when_note": "Select days from November 28 to December 20, 2026, at 10:30 AM and 3 PM, with only the 10:30 AM tea on December 12 and 19",
+  "cost": "$125 per person plus tax and service fee",
+  "ages": "Children ages 10 and under",
+  "url": "https://www.theumstead.com/",
+  "kind": "meal",
+  "indoor": true,
+  "paras": [
+   "The Umstead Hotel and Spa in Cary serves Tea with Santa for children ages 10 and under on select days from November 28 through December 20, 2026. Seatings are at 10:30 AM and 3 PM, and only the 10:30 AM tea is offered on December 12 and 19.",
+   "The price is $125 per person plus tax and service fee and includes photography, a small gift, and hot chocolate with savory and sweet morsels. Reservations are by phone at 919-447-4050, each booking holds up to eight guests, and payment is due in full when you book."
+  ],
+  "tip": "Call early and be ready for a long hold, since hanging up loses your place in the queue."
+ },
+ {
+  "cand": 44296,
+  "name": "Breakfast with Santa at South Greenville Recreation Center",
+  "page": "rocky-mount-nc",
+  "page_name": "Rocky Mount",
+  "town": "Greenville",
+  "host": "Greenville Recreation and Parks",
+  "venue": "South Greenville Recreation Center",
+  "address": "851 Howell St, Greenville, NC 27834",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 10 AM to noon",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.visitgreenvillenc.com/event/breakfast-with-santa/25918/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The South Greenville Recreation Center at 851 Howell Street hosts Breakfast with Santa on Saturday, December 5, 2026, from 10 AM to noon. Santa and his elves are there to hear Christmas lists, and the morning includes apple cider and prizes.",
+   "The Greenville visitor listing shows no price, so call the center at 252-215-9090 before you go. The center sits on the south side of town, close to downtown Greenville."
+  ],
+  "tip": "Bring the Christmas list your child wants to read out loud, since Santa and the elves listen to each one."
+ },
+ {
+  "cand": 44297,
+  "name": "Santa's Workshop at River Park North",
+  "page": "rocky-mount-nc",
+  "page_name": "Rocky Mount",
+  "town": "Greenville",
+  "host": "Greenville Recreation and Parks",
+  "venue": "River Park North",
+  "address": "1000 Mumford Rd, Greenville, NC 27858",
+  "times": [
+   [
+    "2026-12-12",
+    "17:00",
+    "18:30"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 5 to 6:30 PM",
+  "cost": "$12 per child, $10 for Greenville residents",
+  "ages": "All ages with an adult",
+  "url": "https://www.visitgreenvillenc.com/event/santas-workshop/26152/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa has a secret workshop at River Park North, 1000 Mumford Road in Greenville, on Saturday, December 12, 2026, from 5 to 6:30 PM. The evening has campfire marshmallows, hot chocolate, festive activities and a meet and greet with Santa himself.",
+   "Activities are both indoors and outdoors, so dress for the weather, and an adult comes with every child. The fee is $12 per child, or $10 per child for Greenville residents, and questions go to the park at 252-329-4560."
+  ],
+  "tip": "Wear warm layers and bring a stick-friendly appetite for the campfire marshmallows."
+ },
+ {
+  "cand": 44298,
+  "name": "Greenville Christmas Parade: Rockin' Around the Christmas Tree",
+  "page": "rocky-mount-nc",
+  "page_name": "Rocky Mount",
+  "town": "Greenville",
+  "host": "Greenville Jaycees",
+  "venue": "Evans Street, Uptown Greenville",
+  "address": "Evans St from First St to Five Points Plaza, Greenville, NC 27858",
+  "times": [
+   [
+    "2026-12-05",
+    "17:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 5 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.visitgreenvillenc.com/event/greenville-jaycees-christmas-parade/26461/",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Greenville Christmas Parade, themed Rockin' Around the Christmas Tree, rolls down Evans Street on Saturday, December 5, 2026, at 5 PM. Floats, costumes, bands and music head from First Street toward Five Points Plaza in uptown Greenville, and Santa rides at the end.",
+   "Watching the parade is free. Greenville also hosts Merry and Bright Night downtown the evening before, with local vendors, music and a visit from Santa."
+  ],
+  "tip": "Claim a curb spot near Five Points Plaza early, and bring blankets for the 5 PM start."
+ },
+ {
+  "cand": 44299,
+  "name": "Ayden Christmas Town, Parade of Lights and Santa's Village",
+  "page": "rocky-mount-nc",
+  "page_name": "Rocky Mount",
+  "town": "Ayden",
+  "host": "Town of Ayden",
+  "venue": "Downtown Ayden",
+  "address": "Downtown Ayden, NC 28513",
+  "times": [
+   [
+    "2026-12-03",
+    "16:00",
+    "18:00"
+   ],
+   [
+    "2026-12-03",
+    "18:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "Thursday, December 3, 2026, Santa's Village 4 to 6 PM, parade at 6:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.visitgreenvillenc.com/event/ayden-christmas-town/26120/",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "Downtown Ayden hosts Christmas Town, Santa's Village and a lighted Parade of Lights on Thursday, December 3, 2026. Santa's Village is open from 4 to 6 PM, with more than 50 local vendors, hot cocoa and a chance to meet Santa and Mrs. Claus.",
+   "The Parade of Lights steps off at 6:30 PM. Ayden is about 20 minutes south of Greenville."
+  ],
+  "tip": "Arrive by 4 PM for Santa's Village, then stay put for the 6:30 PM lighted parade."
+ },
+ {
+  "cand": 44300,
+  "name": "Breakfast with Santa at the Garner Optimist Christmas Tree Lot",
+  "page": "garner-nc",
+  "page_name": "Garner",
+  "town": "Garner",
+  "host": "Optimist Club of Garner",
+  "venue": "Garner Optimist Christmas Tree Lot",
+  "address": "2110 Vandora Springs Rd, Garner, NC 27529",
+  "times": [
+   [
+    "2026-11-28",
+    "10:30",
+    "11:45"
+   ]
+  ],
+  "when_note": "Saturday, November 28, 2026, 10:30 to 11:45 AM",
+  "cost": "$5 per person, online reservation",
+  "ages": "All ages",
+  "url": "https://www.zeffy.com/en-US/ticketing/breakfast-with-santa-170",
+  "kind": "breakfast",
+  "indoor": false,
+  "paras": [
+   "The Optimist Club of Garner serves Breakfast with Santa at its Christmas tree lot, 2110 Vandora Springs Road, on Saturday, November 28, 2026, from 10:30 to 11:45 AM. The breakfast is scrambled eggs, sausage, a warm waffle with syrup, coffee and apple juice.",
+   "Kids sit and chat with Santa about their Christmas lists, and parents can take photos on their own phones. Spots are very limited, tickets are $5 and come by online reservation, and every family gets 10 percent off a Fraser fir tree from the lot."
+  ],
+  "tip": "Eat first and see Santa second, since the elves keep the line moving that way."
+ },
+ {
+  "cand": 44301,
+  "name": "Santa Event at Piney Town Playhouse",
+  "page": "fuquay-varina-nc",
+  "page_name": "Fuquay-Varina",
+  "town": "Fuquay-Varina",
+  "host": "Piney Town",
+  "venue": "Piney Town Playhouse",
+  "address": "1520 Broad St, Fuquay-Varina, NC 27526",
+  "times": [
+   [
+    "2026-11-28",
+    "16:30",
+    "18:00"
+   ]
+  ],
+  "when_note": "Select dates from November 28 to December 20, 2026, first session Saturday, November 28, 4:30 to 6 PM",
+  "cost": "$45 per ticket",
+  "ages": "All ages",
+  "url": "https://pineytown.com/events/santa",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Piney Town Playhouse at 1520 Broad Street in Fuquay-Varina offers private Santa visits on select dates from November 28 through December 20, 2026. The first session is Saturday, November 28, from 4:30 to 6 PM, and the website lists the other dates.",
+   "Each $45 ticket covers an hour and a half of play time, a private visit with Santa, a Christmas story read by Santa, hot cocoa, crafts and a treat for every child. There is no professional photographer this year, so families take unlimited photos on their own devices or use the tripod."
+  ],
+  "tip": "Reserve your time slot on the Piney Town website, since each family gets its own visit."
+ },
+ {
+  "cand": 44302,
+  "name": "Santa at Lake Myra Christmas Lights",
+  "page": "raleigh-nc",
+  "page_name": "Raleigh",
+  "town": "Wendell",
+  "host": "Lake Myra Christmas Lights",
+  "venue": "Lake Myra",
+  "address": "10 S Cypress St, Wendell, NC 27591",
+  "times": [
+   [
+    "2026-11-28",
+    "19:00",
+    "21:00"
+   ],
+   [
+    "2026-12-05",
+    "19:00",
+    "21:00"
+   ],
+   [
+    "2026-12-12",
+    "19:00",
+    "21:00"
+   ],
+   [
+    "2026-12-19",
+    "19:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Saturdays November 28 to December 19, 2026, 7 to 9 PM",
+  "cost": "Free, donations accepted",
+  "ages": "All ages",
+  "url": "https://www.facebook.com/LakeMyraChristmasLights",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Lake Myra Christmas Lights in Wendell has Santa on Saturday nights from November 28 through December 19, 2026, from 7 to 9 PM. A walkway circles the light display, which is programmed to music, and visitors can also bring chairs and watch from the lawn.",
+   "Admission is free and the show runs on donations, with boxes around the grounds and a QR code. This is the final season for the display, and the show runs only in dry weather, so check the Facebook page before you drive. Leashed dogs are welcome."
+  ],
+  "tip": "Bring folding chairs, check Facebook for weather cancellations, and visit Santa early in the evening."
+ }
+]
