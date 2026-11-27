@@ -1,0 +1,91 @@
+[
+ {
+  "cand": 44419,
+  "name": "Family Fun Candy Cane Crawl at the Manitowoc-Two Rivers YMCA",
+  "page": "manitowoc-wi",
+  "page_name": "Manitowoc",
+  "town": "Manitowoc",
+  "host": "Manitowoc-Two Rivers YMCA",
+  "venue": "Manitowoc-Two Rivers YMCA",
+  "address": "205 Maritime Dr., Manitowoc, WI 54220",
+  "times": [
+   [
+    "2026-12-05",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 2 to 4 PM; swimming with Santa 3 to 4 PM",
+  "cost": "$10 per family for YMCA members; $20 per family for nonmembers",
+  "ages": "Whole family",
+  "url": "https://www.mtrymca.org/events/family-fun-candy-cane-crawl",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Manitowoc-Two Rivers YMCA hosts its Family Fun Candy Cane Crawl on Saturday, December 5, 2026, from 2 to 4 PM at 205 Maritime Dr. in Manitowoc.",
+   "Families try gymnastics and festive activities, decorate holiday cookies, warm up at a cocoa bar and take photos with Santa. Santa also goes swimming with the kids from 3 to 4 PM. The cost is $10 per family for YMCA members and $20 per family for nonmembers."
+  ],
+  "tip": "Pack swim gear for the 3 PM swim with Santa."
+ },
+ {
+  "cand": 44420,
+  "name": "Living Windows in Downtown Two Rivers",
+  "page": "manitowoc-wi",
+  "page_name": "Manitowoc",
+  "town": "Two Rivers",
+  "host": "Downtown Two Rivers",
+  "venue": "Downtown Two Rivers",
+  "address": "1422 Washington St., Two Rivers, WI 54241",
+  "times": [
+   [
+    "2026-11-28",
+    "15:00",
+    "17:30"
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, November 28, 3 to 5:30 PM, and Saturday, December 12, 11 AM to 1 PM, 2026",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.visitmanitowoc.com/event/living-windows-in-downtown-two-rivers/4702/",
+  "kind": "show",
+  "indoor": false,
+  "paras": [
+   "Living Windows turns the storefront windows of downtown Two Rivers into Christmas scenes with live actors and music. It runs on Saturday, November 28, 2026, from 3 to 5:30 PM before the Lakeshore Holiday Parade, and again on Saturday, December 12, from 11 AM to 1 PM during Cool City Christmas.",
+   "Families stroll downtown to watch each window come to life, and the fun is free for all ages."
+  ],
+  "tip": "Bundle up for the walk between windows."
+ },
+ {
+  "cand": 44421,
+  "name": "Cool City Christmas in Downtown Two Rivers",
+  "page": "manitowoc-wi",
+  "page_name": "Manitowoc",
+  "town": "Two Rivers",
+  "host": "Downtown Two Rivers",
+  "venue": "Downtown Two Rivers",
+  "address": "The Washington House, 1622 Jefferson St., Two Rivers, WI 54241",
+  "times": [
+   [
+    "2026-12-12",
+    "10:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 10 AM to 2 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.htrnews.com/story/entertainment/events/2026/11/20/manitowoc-two-rivers-holiday-events-2026-parades-lights-markets/92866278007/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The fourth annual Cool City Christmas fills downtown Two Rivers on Saturday, December 12, 2026, from 10 AM to 2 PM, with stops at the Community House, Central Park and The Washington House.",
+   "Most events are free, and the Living Windows storefront scenes run from 11 AM to 1 PM the same day, so families can see both in one outing."
+  ],
+  "tip": "Pair it with the Living Windows scenes at 11 AM."
+ }
+]
