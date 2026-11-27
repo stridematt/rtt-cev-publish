@@ -1,0 +1,63 @@
+[
+ {
+  "cand": 44284,
+  "name": "Milk and Cookies with Santa at Parker Fieldhouse",
+  "page": "parker-co",
+  "page_name": "Parker",
+  "town": "Parker",
+  "host": "Parker Recreation",
+  "venue": "Parker Fieldhouse",
+  "address": "18700 E Plaza Dr, Parker, CO 80134",
+  "times": [
+   [
+    "2026-12-13",
+    "12:45",
+    "13:45"
+   ],
+   [
+    "2026-12-13",
+    "14:15",
+    "15:15"
+   ]
+  ],
+  "when_note": "Sunday, December 13, 2026, two sessions: 12:45 to 1:45 PM and 2:15 to 3:15 PM",
+  "cost": "$16 for Parker residents, $18 for non-residents",
+  "ages": "Kids' Zone ages 3 to 6 with family",
+  "url": "https://www.parkerrec.com/calendar.aspx?EID=7076",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Parker Recreation hosts Milk and Cookies with Santa at the Parker Fieldhouse, 18700 E Plaza Dr, on Sunday, December 13, 2026. Two one-hour sessions run, 12:45 to 1:45 PM and 2:15 to 3:15 PM, and it is part of the Kids' Zone holiday lineup for children ages 3 to 6.",
+   "Registration is $16 for Parker residents and $18 for non-residents, and space is limited. Kids enjoy milk, cookies and a visit with Santa, so register early through Parker Recreation."
+  ],
+  "tip": "Pick the first session for preschoolers who nap in the afternoon."
+ },
+ {
+  "cand": 44285,
+  "name": "Winter Wonderland with Santa at The Learning Experience",
+  "page": "parker-co",
+  "page_name": "Parker",
+  "town": "Parker",
+  "host": "The Learning Experience Parker",
+  "venue": "The Learning Experience",
+  "address": "12215 Pardee St, Parker, CO 80134",
+  "times": [
+   [
+    "2026-12-16",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Wednesday, December 16, 2026, 6 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://allevents.in/parker/winter-wonderland-with-santa/200031048265159",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Learning Experience in Parker opens its doors to the public for a free Winter Wonderland with Santa on Wednesday, December 16, 2026, from 6 to 8 PM at 12215 Pardee St. Families can meet Santa and take photos, then settle in for a holiday storytime read-aloud.",
+   "Kids can decorate cookies with their family, make reindeer food, try festive crafts and visit a temporary tattoo station, with a special appearance by Bubbles. Admission is free and the evening is open to everyone."
+  ],
+  "tip": "Come in the first hour for shorter Santa photo lines and take the reindeer food home to sprinkle outside."
+ }
+]
