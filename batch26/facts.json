@@ -1,0 +1,86 @@
+[
+ {
+  "cand": 43701,
+  "name": "Rockton Christmas Walk Saturday with Santa and Lighted Parade",
+  "town": "Rockton",
+  "venue": "Rockton Village Hall and Main Street",
+  "address": "110 E Main St, Rockton, IL 61072",
+  "times": [
+   [
+    "2026-12-05",
+    "12:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Pictures with Santa run from noon to 4 PM, carriage rides end at 3:30 PM, and the lighted parade starts at 6 PM.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Rockton Christmas Walk",
+  "url": "https://www.rocktonchristmas.com/saturday/",
+  "kind": "santa parade lights outing",
+  "indoor": false,
+  "page": "rockford-il",
+  "page_name": "Rockford",
+  "paras": [
+   "Saturday is the busiest day of the Rockton Christmas Walk. Families get free pictures with Santa at the Village Hall, free horse drawn carriage rides in front of the Peterson Homes office, and a spot to write a letter to Santa that is mailed to the North Pole.",
+   "Katie's Tree is lit at 5 PM after a choir performance, and the lighted Christmas Parade comes down Main Street at 6 PM. A storyteller reads Christmas classics at the Talcott Free Library at 9:30 AM, 11:30 AM and 1:30 PM, and that program is free but needs a ticket from the Rockton Parks portal."
+  ],
+  "tip": "Reserve the free storyteller tickets early because space is limited, then save your spot on Main Street before the 6 PM parade."
+ },
+ {
+  "cand": 43702,
+  "name": "Pancake Breakfast with Santa at the Rockton American Legion",
+  "town": "Rockton",
+  "venue": "Rockton American Legion",
+  "address": "Rockton, IL 61072",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "It is the first event of the Christmas Walk Saturday.",
+  "cost": "Free with a donation",
+  "ages": "All ages",
+  "host": "Rockton Lions Club",
+  "url": "https://www.rocktonchristmas.com/saturday/",
+  "kind": "food santa",
+  "indoor": true,
+  "page": "rockford-il",
+  "page_name": "Rockford",
+  "paras": [
+   "The Rockton Lions Club serves pancakes, sausage and drinks at the American Legion while Santa visits tables from 9 to 11 AM. The meal is offered free with a donation, and the Lions ask for a gift for teens that supports their Wimpy's Fund.",
+   "The Wimpy's Fund helps the club give Christmas gifts and food to about 300 local children, and its auction follows the lighted parade that evening."
+  ],
+  "tip": "Bring a donation or a teen gift, then walk to Village Hall for the noon Santa pictures."
+ },
+ {
+  "cand": 43703,
+  "name": "Rockton Hot Cocoa Crawl",
+  "town": "Rockton",
+  "venue": "Rockton Village Hall and downtown shops",
+  "address": "110 E Main St, Rockton, IL 61072",
+  "times": [
+   [
+    "2026-12-06",
+    "12:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "The crawl starts at Village Hall and runs through downtown on Sunday afternoon.",
+  "cost": "$12 per ticket",
+  "ages": "All ages",
+  "host": "Rockton Christmas Walk",
+  "url": "https://www.rocktonchristmas.com/sunday/",
+  "kind": "food outing",
+  "indoor": false,
+  "page": "rockford-il",
+  "page_name": "Rockford",
+  "paras": [
+   "Each $12 ticket comes with a keepsake mug and a stop at eight downtown Rockton locations, all within walking distance of each other. Every stop pours a different hot cocoa, and walkers vote for a favorite at Village Hall when they finish.",
+   "The organizers say the crawl sells out, so tickets are sold ahead through the Rockton Parks portal. It closes out the Christmas Walk weekend, and the Homes for the Holidays tour follows from 4 to 7 PM."
+  ],
+  "tip": "Buy tickets ahead since the crawl sells out, and carry the mug between stops."
+ }
+]
