@@ -1,0 +1,115 @@
+[
+ {
+  "cand": 44092,
+  "name": "Yuletide on Atlantic Parade",
+  "venue": "East Atlantic Boulevard",
+  "address": "East Atlantic Blvd, Pompano Beach, FL 33062",
+  "times": [
+   [
+    "2026-12-03",
+    "18:30",
+    "21:00"
+   ]
+  ],
+  "when_note": "Parade starts at 6:30 PM at Riverside Drive",
+  "cost": "Free",
+  "host": "City of Pompano Beach",
+  "url": "https://www.pompanobeachfl.gov/events/yuletide-on-atlantic",
+  "kind": "parade santa",
+  "indoor": false,
+  "paras": [
+   "The City of Pompano Beach holds its annual Yuletide on Atlantic holiday parade on Thursday, December 3, 2026, from 6:30 PM to 9 PM, and admission is free. The city describes dazzling floats, lively performances and joyful music, plus a visit from Santa.",
+   "The parade starts at Riverside Drive, heads west on Atlantic Boulevard and ends at SE 24th Avenue. Performances and the judges' stand are at Harbor Drive and Atlantic Boulevard, where the MCs announce each parade unit. East Atlantic Boulevard closes at 4:30 PM, the bridge is locked down from 6 to 9:30 PM and North Riverside Drive is closed from East Atlantic to 7th Street. Parking is at 2400 East Atlantic Blvd."
+  ],
+  "tip": "Arrive early for a seat, since East Atlantic Boulevard closes at 4:30 PM.",
+  "page": "pompano-beach-fl",
+  "page_name": "Pompano Beach",
+  "town": "Pompano Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44093,
+  "name": "Donuts with Santa at the Emma Lou Olson Civic Center",
+  "venue": "Emma Lou Olson Civic Center",
+  "address": "1801 NE 6th St, Pompano Beach, FL 33060",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "9 to 11 AM, tickets required for ages 3 and up",
+  "cost": "$7 per ticket, required for ages 3 and up",
+  "host": "Pompano Beach Parks and Recreation",
+  "url": "https://parks.pompanobeachfl.gov/events/donuts-with-santa",
+  "tickets": "https://secure.rec1.com/FL/pompano-beach-fl/catalog?filter=c2VhcmNoPTQ1MTU5NTg=",
+  "kind": "santa food crafts",
+  "indoor": true,
+  "paras": [
+   "Pompano Beach Parks and Recreation hosts Donuts with Santa on Saturday, December 12, 2026, from 9 AM to 11 AM at the Emma Lou Olson Civic Center. The city's page promises donuts and pastries, an interactive holiday game show and a visit from Santa.",
+   "Tickets cost $7 each and are required for everyone ages 3 and up. They went on sale November 2 through the city's recreation registration site. Call 954-786-4111 for more information."
+  ],
+  "tip": "Buy the $7 tickets ahead on the city's registration site, since everyone ages 3 and up needs one.",
+  "page": "pompano-beach-fl",
+  "page_name": "Pompano Beach",
+  "town": "Pompano Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44094,
+  "name": "Greater Pompano Beach Holiday Boat Parade",
+  "venue": "Intracoastal Waterway",
+  "address": "Harbor's Edge Park, 1240 NE 28th Ave, Pompano Beach, FL 33062",
+  "times": [
+   [
+    "2026-12-11",
+    "18:00",
+    "21:30"
+   ]
+  ],
+  "when_note": "Parade begins at 6 PM",
+  "cost": "Free",
+  "host": "Greater Pompano Beach Chamber of Commerce",
+  "url": "https://www.pompanobeachfl.gov/events/the-greater-pompano-beach-holiday-boat-parade",
+  "kind": "parade lights",
+  "indoor": false,
+  "paras": [
+   "The 64th Annual Greater Pompano Beach Chamber of Commerce Holiday Boat Parade runs along the Intracoastal Waterway on Friday, December 11, 2026, from 6 PM to 9:30 PM. The city's event page expects more than 50 boats under the theme A Party in the U.S.A.",
+   "The Chamber sells a Chamber Boat Experience at $200 per person with an open bar, and a VIP Viewing Party at The Cove in Deerfield Beach at $100 per person. The parade is also livestreamed on Facebook and YouTube for families who watch from home."
+  ],
+  "tip": "Pick a waterfront spot early, since viewing areas near Atlantic Boulevard fill quickly.",
+  "page": "pompano-beach-fl",
+  "page_name": "Pompano Beach",
+  "town": "Pompano Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44095,
+  "name": "Old Town Untapped Holiday Edition and Tree Lighting",
+  "venue": "Old Town Square",
+  "address": "NE 1st St and N Flagler Ave, Pompano Beach, FL 33060",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "22:00"
+   ]
+  ],
+  "when_note": "Tree lighting at 7 PM",
+  "cost": "Free",
+  "host": "Bailey Contemporary Arts",
+  "url": "https://www.pompanobeacharts.org/events/untapped",
+  "kind": "lights santa crafts food",
+  "indoor": false,
+  "paras": [
+   "The City of Pompano Beach brings its monthly Old Town Untapped block party to a holiday theme on Friday, December 4, 2026, from 6 PM to 10 PM at Old Town Square next to Bailey Contemporary Arts Center. The city calls it a free, family friendly celebration.",
+   "The Christmas Tree Lighting Ceremony is at 7 PM. Families can make holiday arts and crafts, visit Santa Claus, hear the Jeff Lloyd Band and find food trucks. Guests are encouraged to bring chairs and blankets."
+  ],
+  "tip": "Bring chairs and blankets and plan to be in the square before the 7 PM tree lighting.",
+  "page": "pompano-beach-fl",
+  "page_name": "Pompano Beach",
+  "town": "Pompano Beach",
+  "ages": "All ages"
+ }
+]
