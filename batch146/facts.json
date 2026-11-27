@@ -1,0 +1,391 @@
+[
+ {
+  "cand": 44319,
+  "name": "Santa's Workshop at Huntersville American Legion Post 321",
+  "page": "huntersville-nc",
+  "page_name": "Huntersville",
+  "town": "Huntersville",
+  "host": "Huntersville American Legion Post 321",
+  "venue": "American Legion Post 321",
+  "address": "107 Main St, Huntersville, NC 28078",
+  "times": [
+   [
+    "2026-12-10",
+    "17:00",
+    "20:00"
+   ],
+   [
+    "2026-12-11",
+    "17:00",
+    "20:00"
+   ],
+   [
+    "2026-12-12",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "December 10, 11 and 12, 2026, 5 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/santas-workshop-huntersville/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "American Legion Post 321 on Main Street in Huntersville hosts Santa's Workshop on December 10, 11 and 12, 2026, from 5 to 8 PM. The event is free. Families take the secret elevator up to Santa's Workshop to meet Santa.",
+   "Kids get crafts and interactive activities, and hot chocolate is free thanks to a local sponsor. Extra sweet treats are sold. The experience is outdoors, so dress warmly."
+  ],
+  "tip": "Dress warmly, because the workshop is an outdoor experience."
+ },
+ {
+  "cand": 44320,
+  "name": "Christmas in Davidson",
+  "page": "huntersville-nc",
+  "page_name": "Huntersville",
+  "town": "Davidson",
+  "host": "Town of Davidson",
+  "venue": "Downtown Davidson",
+  "address": "Main Street, Davidson, NC 28036",
+  "times": [
+   [
+    "2026-12-03",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-04",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Thursday to Saturday, December 3 to 5, 2026, 6 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/christmas-davidson/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Town of Davidson celebrates Christmas in Davidson on December 3, 4 and 5, 2026, from 6 to 9 PM each night. Opening ceremonies, Santa's arrival and the tree lighting kick things off on Thursday, December 3.",
+   "Past years have included a visit with Santa and Mrs. Claus, a live nativity at Davidson United Methodist Church, a children's craft area, a holiday light show and a doggy fashion show. The official schedule was still to be posted, so check the town calendar for each night."
+  ],
+  "tip": "Check the town schedule, since the final activity list was still being posted."
+ },
+ {
+  "cand": 44321,
+  "name": "Deck the Hall at The Grand Hall in Mount Holly",
+  "page": "gastonia-nc",
+  "page_name": "Gastonia",
+  "town": "Mount Holly",
+  "host": "City of Mount Holly",
+  "venue": "The Grand Hall",
+  "address": "400 E Central Ave, Mount Holly, NC 28120",
+  "times": [
+   [
+    "2026-12-04",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 2026, 5 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/mount-holly-nc-christmas/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Grand Hall in Mount Holly hosts Deck the Hall on Friday, December 4, 2026, from 5 to 8 PM. Admission is free.",
+   "The annual tree lighting ceremony is at 5:30 PM, with appearances by Santa and Mrs. Claus, live music from the Yuletides, local vendors, food trucks and kids activities."
+  ],
+  "tip": "Arrive before 5:30 PM to see the tree lighting."
+ },
+ {
+  "cand": 44322,
+  "name": "Holiday Open House at the Gaston County Museum",
+  "page": "gastonia-nc",
+  "page_name": "Gastonia",
+  "town": "Dallas",
+  "host": "Gaston County Museum",
+  "venue": "Gaston County Museum",
+  "address": "131 W Main St, Dallas, NC 28034",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 2026, 6 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/holiday-open-house-gaston-county-museum/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Gaston County Museum holds its annual Holiday Open House on Friday, December 4, 2026, from 6 to 9 PM on the Historic Court Square in Dallas. The event is free.",
+   "Highlights are free carriage rides, free visits with Santa, a North Pole Post Box, crafts, guaranteed snow and refreshments around the fire pit. The museum galleries stay open until 8 PM."
+  ],
+  "tip": "Ride the carriage early, because the line builds after dark."
+ },
+ {
+  "cand": 44323,
+  "name": "Cocoa with Santa at Optimist Hall",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "Optimist Hall",
+  "venue": "Optimist Hall",
+  "address": "1115 N Brevard St, Charlotte, NC 28206",
+  "times": [
+   [
+    "2026-12-12",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 10 AM to 12 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/santa-optimist-hall/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Optimist Hall in Charlotte's NoDa area welcomes Santa on Saturday, December 12, 2026, from 10 AM to 12 PM. Photos with Santa are free.",
+   "A hot cocoa bar from Undercurrent Coffee has toppings, and festive music plays through the morning."
+  ],
+  "tip": "Santa arrives at 10 AM, so the first half hour is the quietest."
+ },
+ {
+  "cand": 44324,
+  "name": "Merry Midtown with Santa and the Grinch at Metropolitan",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "Metropolitan",
+  "venue": "Metropolitan greenway entrance",
+  "address": "1111 Metropolitan Ave, Charlotte, NC 28204",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 11 AM to 2 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/santa-metropolitan/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Metropolitan in Charlotte's Midtown hosts Merry Midtown on Saturday, December 12, 2026, from 11 AM to 2 PM. Free photos with Santa and with the Grinch are on offer.",
+   "Face painting and other activities run alongside. The event is first come, first served, at the Metropolitan greenway entrance between Dressler's Restaurant and Clean Your Dirty Face."
+  ],
+  "tip": "Look for the greenway entrance between the two shops."
+ },
+ {
+  "cand": 44325,
+  "name": "Santa at Piedmont Social House",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "Piedmont Social House",
+  "venue": "Piedmont Social House",
+  "address": "2135 Ayrsley Town Blvd, Charlotte, NC 28273",
+  "times": [
+   [
+    "2026-12-12",
+    "13:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 1 to 3 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/piedmont-social-house/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Piedmont Social House in the Ayrsley area of Charlotte hosts a Santa visit on Saturday, December 12, 2026, from 1 to 3 PM. Families should bring a camera for photos.",
+   "The venue is a bar and grill with indoor and outdoor seating and gaming areas, so there is room to settle in after meeting Santa."
+  ],
+  "tip": "Bring your own camera for the Santa photo."
+ },
+ {
+  "cand": 44326,
+  "name": "Santa at StoneCrest at Piper Glen",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "StoneCrest at Piper Glen",
+  "venue": "StoneCrest at Piper Glen",
+  "address": "7800 Rea Rd, Charlotte, NC 28277",
+  "times": [
+   [
+    "2026-11-29",
+    "09:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Sunday, November 29, 2026, 9 AM to 1 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/santa-stonecrest/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "StoneCrest at Piper Glen in south Charlotte hosts a free family Santa event on Sunday, November 29, 2026, from 9 AM to 1 PM. Bring your own camera for free photos with Santa.",
+   "Kids can also write letters to Santa and make fun crafts."
+  ],
+  "tip": "Bring your own camera and a finished wish list."
+ },
+ {
+  "cand": 44327,
+  "name": "Treats with Santa at Jeremiah's Italian Ice",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "Jeremiah's Italian Ice",
+  "venue": "Jeremiah's Italian Ice",
+  "address": "3842 Corning Pl, Charlotte, NC 28216",
+  "times": [
+   [
+    "2026-12-06",
+    "17:30",
+    "19:30"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, 5:30 to 7:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/jeremiahs-ice-santa/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Jeremiah's Italian Ice in Charlotte hosts Treats with Santa on Sunday, December 6, 2026, from 5:30 to 7:30 PM. Entry is free, and Italian ice and other treats are sold.",
+   "There are holiday crafts, festive music and stocking stuffer deals. A new, unwrapped toy for the Soul Journers Toy Drive earns a free small treat on a future visit."
+  ],
+  "tip": "Bring a new, unwrapped toy for the toy drive."
+ },
+ {
+  "cand": 44328,
+  "name": "Festival of Trees with Santa at The Hut in Pineville",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Pineville",
+  "host": "Pineville Neighbors Place",
+  "venue": "The Hut",
+  "address": "413 Johnston Dr, Pineville, NC 28134",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "11:00"
+   ],
+   [
+    "2026-12-06",
+    "13:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 10 to 11 AM, and Sunday, December 6, 1 to 3 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/festival-of-trees-pineville/",
+  "kind": "festival",
+  "indoor": true,
+  "paras": [
+   "Pineville Neighbors Place hosts Festival of Trees at The Hut on December 5 and 6, 2026. Twelve decorated Christmas trees with gifts underneath are raffled to support neighbors in crisis.",
+   "Saturday from 10 to 11 AM kids meet Santa, write him a letter and get free photos, with free hot cocoa, cookies, face painting and coloring. On Sunday from 1 to 3 PM, Santa visits again during Sunday Fun Day. The Saturday evening cocktail night is for ages 21 and up."
+  ],
+  "tip": "Go Saturday at 10 AM for the free Santa hour."
+ },
+ {
+  "cand": 44329,
+  "name": "Ballantyne Holiday Spectacular",
+  "page": "charlotte-nc",
+  "page_name": "Charlotte",
+  "town": "Charlotte",
+  "host": "Ballantyne Village",
+  "venue": "Ballantyne Village",
+  "address": "14825 Ballantyne Village Way, Charlotte, NC 28277",
+  "times": [
+   [
+    "2026-12-05",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 11 AM to 2 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/holiday-spectacular-ballantyne-village/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "Ballantyne Village in Charlotte hosts its Holiday Spectacular on Saturday, December 5, 2026, from 11 AM to 2 PM. Admission is free.",
+   "The list includes a visit from Santa, trackless train rides, cookie and ornament decorating, hot cocoa, a balloon artist, face painting, a caricature artist and live holiday music. There is snow in the plaza and a giant Christmas tree for family photos."
+  ],
+  "tip": "Do the trackless train first, since lines grow by noon."
+ },
+ {
+  "cand": 44330,
+  "name": "Free Santa Pictures at The Percantile and Creamery",
+  "page": "concord-nc",
+  "page_name": "Concord",
+  "town": "Concord",
+  "host": "The Percantile and Creamery",
+  "venue": "The Percantile and Creamery",
+  "address": "8635 Concord Mills Blvd, Concord, NC 28027",
+  "times": [
+   [
+    "2026-12-05",
+    "12:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 12 to 3 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.charlotteonthecheap.com/percantile-creamery-concord/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Percantile and Creamery, a 1920s themed coffee and ice cream shop next to Concord Mills, offers free pictures with Santa on Saturday, December 5, 2026, from 12 to 3 PM.",
+   "The shop serves coffee, ice cream, pastries and chocolates, so families can make a treat stop part of the visit."
+  ],
+  "tip": "Plan a treat stop, since the shop serves ice cream and pastries."
+ },
+ {
+  "cand": 44331,
+  "name": "Kersey Valley Christmas",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Archdale",
+  "host": "Kersey Valley",
+  "venue": "Kersey Valley",
+  "address": "6948 Cecil Farm Rd, Archdale, NC 27263",
+  "times": [
+   [
+    "2026-11-27",
+    "17:30",
+    "21:00"
+   ]
+  ],
+  "when_note": "Select nights November 27 to December 23, 2026, from 5:30 PM; opening night 5:30 to 9 PM",
+  "cost": "$25 ages 4 and up, $15 seniors",
+  "ages": "All ages",
+  "url": "https://www.kerseyvalleychristmas.com/",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Kersey Valley Christmas in Archdale runs on select nights from November 27 to December 23, 2026. Opening night on Friday, November 27 runs from 5:30 to 9 PM, and nightly capacity is limited, with most nights selling out.",
+   "Admission covers more than a million lights, unlimited rides and attractions, Christmas characters and fire pits. Santa photo packages are reserved separately online, and food costs extra. Tickets are valid for the selected night and listed at $25 for ages 4 and up and $15 for seniors."
+  ],
+  "tip": "Buy a ticket for a specific night in advance, since most nights sell out."
+ }
+]
