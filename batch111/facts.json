@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44234,
+  "name": "Winterfest at the Mansion at Tuckahoe",
+  "page": "stuart-fl",
+  "page_name": "Stuart",
+  "town": "Jensen Beach",
+  "host": "Martin County Parks and Recreation",
+  "venue": "The Mansion at Tuckahoe, Indian Riverside Park",
+  "address": "1707 NE Indian River Drive, Jensen Beach, FL",
+  "times": [
+   [
+    "2026-12-11",
+    "17:30",
+    "21:00"
+   ]
+  ],
+  "when_note": "Friday, December 11, 5:30 to 9 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.martin.fl.us/PRDEvents",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "Martin County Parks and Recreation hosts Winterfest on Friday, December 11, from 5:30 to 9 PM at The Mansion at Tuckahoe in Indian Riverside Park, 1707 NE Indian River Drive, Jensen Beach. The county describes it as an all-in-one festive celebration with live entertainment, games, vendors and plenty of holiday spirit.",
+   "The county's sponsor page lists a variety of talent, a visit from Santa, arts and crafts, face painting and food trucks, and reports a turnout of more than 1,000 people at the festival. Guests are invited to bring friends and family and wear their best festive attire.",
+   "The Children's Services Council of Martin County supports the event, which is held at the outdoor amphitheater at the Mansion at Tuckahoe."
+  ],
+  "tip": "Wear festive attire, since the county invites it."
+ },
+ {
+  "cand": 44235,
+  "name": "Community Movie Night: Home Alone at Wojcieszak Park",
+  "page": "stuart-fl",
+  "page_name": "Stuart",
+  "town": "Stuart",
+  "host": "Martin County Parks and Recreation",
+  "venue": "Wojcieszak Park",
+  "address": "4733 SE Group Ave, Stuart, FL 34997",
+  "times": [
+   [
+    "2026-12-18",
+    "17:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "Friday, December 18, 5:30 to 8 PM, with the movie at 6 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.martin.fl.us/PRDEvents",
+  "kind": "movie",
+  "indoor": false,
+  "paras": [
+   "Martin County Parks and Recreation shows Home Alone on a 20-foot LED screen at Wojcieszak Park, 4733 SE Group Ave, Stuart, on Friday, December 18. The county lists the evening from 5:30 to 8 PM for all ages.",
+   "Food trucks open at 5:30 PM and the movie starts at 6 PM. Families bring blankets or lawn chairs and settle in for a relaxed outdoor movie night.",
+   "The county runs six community movie nights at different parks in Martin County, using the same 20-foot LED screen for family-friendly films."
+  ],
+  "tip": "Bring a blanket or lawn chairs and arrive near 5:30 PM when the food trucks open."
+ }
+]
