@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 44280,
+  "name": "Breakfast with Santa at Dave & Buster's Westminster",
+  "page": "westminster-co",
+  "page_name": "Westminster",
+  "town": "Westminster",
+  "host": "Dave & Buster's",
+  "venue": "Dave & Buster's Westminster",
+  "address": "10667 Westminster Blvd Unit 100, Westminster, CO 80020",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 9 to 11 AM, arrive by 9 AM",
+  "cost": "From $27.94 per ticket, sold through Fever",
+  "ages": "All ages, tickets required for ages 2 and up",
+  "url": "https://feverup.com/m/819882",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Dave & Buster's Westminster opens its doors early on Saturday, December 12, 2026 for a ticketed Breakfast with Santa, running 9 to 11 AM at 10667 Westminster Blvd. Families get the arcade and dining room before the public arrives.",
+   "A ticket covers a breakfast banquet with pancakes, eggs, bacon and fruit, unlimited non-alcoholic drinks, kid-friendly crafts and a personal photo with Santa. Santa's Ultimate Workshop tickets add a $10 Power Card with 3 hours of unlimited video game play. Everyone age 2 and older needs a ticket, and tickets are not sold at the door."
+  ],
+  "tip": "Buy tickets online ahead of time and buy them in one order if you want to sit together at the shared tables."
+ }
+]
