@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 44463,
+  "name": "Santa's Art Shop at the Springville Museum of Art",
+  "page": "springville-ut",
+  "page_name": "Springville",
+  "town": "Springville",
+  "host": "Springville Museum of Art",
+  "venue": "Springville Museum of Art",
+  "address": "126 E. 400 S., Springville, UT 84663",
+  "times": [
+   [
+    "2026-12-10",
+    "17:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Thursday, December 10, 2026, 5 to 7 PM",
+  "cost": "Free; no pre-registration",
+  "ages": "Families with children",
+  "url": "https://www.smofa.org/santas-art-shop",
+  "kind": "crafts",
+  "indoor": true,
+  "paras": [
+   "The Springville Museum of Art hosts Santa's Art Shop on Thursday, December 10, 2026, from 5 to 7 PM at 126 E. 400 S. Admission is free and no registration is needed.",
+   "Kids meet Santa, enjoy cookies and milk, and make a variety of art projects. The museum plans activities for all ability levels, and Santa is on hand to oversee the work."
+  ],
+  "tip": "Just walk in, since there is no sign-up to hold a spot."
+ }
+]
