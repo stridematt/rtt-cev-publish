@@ -411,6 +411,14 @@
    [
     "Is there a Christmas market that day?",
     "Yes, from 10 AM to 4 PM."
+   ],
+   [
+    "Which time groups are offered?",
+    "Six half hour groups, labeled A through F, from 11 AM to 2 PM."
+   ],
+   [
+    "Does the price include the photos?",
+    "The listing names professional photography as part of the $50 family price."
    ]
   ]
  }
