@@ -1,0 +1,29 @@
+[
+ {
+  "cand": 43201,
+  "name": "High Springs Museum Christmas Train Event",
+  "town": "High Springs",
+  "venue": "St. Bartholomew's Church Hall",
+  "address": "18615 NW 238th St, High Springs, FL 32643",
+  "times": [
+   ["2026-12-04","17:00","20:00"],
+   ["2026-12-05","11:00","16:00"],
+   ["2026-12-11","17:00","20:00"],
+   ["2026-12-12","11:00","16:00"]
+  ],
+  "when_note": "It runs on two Friday evenings and two Saturdays, with a free toy train drawing for children 12 and under on December 12 at 4 PM.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "High Springs Historical Society Museum",
+  "url": "https://www.highspringsmuseum.com/events.html",
+  "kind": "train santa show",
+  "indoor": true,
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "paras": [
+   "The High Springs Historical Society Museum and St. Bartholomew's host their fourth annual Christmas toy train event in the church hall next to City Hall. Several separate layout tables hold running toy trains, including a Polar Express display, and one table has buttons and switches that children can press to start the trains and accessories.",
+   "Santa Claus makes surprise visits and hands out small gifts to younger children. Admission is free. Kids 12 and under can enter a drawing for a toy train set, and entrants do not need to be present at the December 12 drawing to win."
+  ],
+  "tip": "Come on a Saturday for the longest window, and enter the train drawing at the door before the 4 PM draw."
+ }
+]
