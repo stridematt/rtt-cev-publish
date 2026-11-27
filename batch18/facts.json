@@ -1,0 +1,95 @@
+[
+ {
+  "cand": 42901,
+  "name": "Santa's House at Mittineague Park",
+  "town": "West Springfield",
+  "venue": "Santa's House at Mittineague Park",
+  "address": "1695 Westfield St, West Springfield, MA 01089",
+  "times": [
+   [
+    "2026-12-13",
+    "14:00",
+    "16:00"
+   ],
+   [
+    "2026-12-13",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-14",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-15",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-16",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-17",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-18",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-19",
+    "14:30",
+    "16:00"
+   ],
+   [
+    "2026-12-19",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-20",
+    "14:30",
+    "16:00"
+   ],
+   [
+    "2026-12-20",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-21",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-22",
+    "17:30",
+    "19:30"
+   ],
+   [
+    "2026-12-23",
+    "17:30",
+    "19:30"
+   ]
+  ],
+  "when_note": "Santa arrives by fire truck on Sunday, December 13 at 2 pm. After that he visits on weekends from 2:30 to 4 pm and 5:30 to 7:30 pm, and on weekdays from 5:30 to 7:30 pm, through December 23.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "West Springfield Park and Recreation Department",
+  "url": "https://www.townofwestspringfield.org/Community-Resources/Events/Santas-House-2026",
+  "kind": "santa",
+  "indoor": false,
+  "page": "springfield-ma",
+  "page_name": "Springfield",
+  "paras": [
+   "The West Springfield Park and Recreation Department has run Santa's House at Mittineague Park since 1980. Santa arrives by fire truck on Sunday, December 13, 2026, at 2 pm, then meets children each day through December 23.",
+   "The town lists no admission fee and asks only for donations, which go to Operation Santa for local families in need. Kids can drop a letter in Santa's mailbox, and families should bring their own cameras for photos."
+  ],
+  "tip": "Weekday visits run only from 5:30 to 7:30 pm, so weekends give the most choice of times."
+ }
+]
