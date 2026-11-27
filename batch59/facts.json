@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 44089,
+  "name": "Christmas Market and Santa Visit at Bullfrog Creek Brewing",
+  "town": "Valrico",
+  "venue": "Bullfrog Creek Brewing Co.",
+  "address": "3632 Lithia Pinecrest Rd, Valrico, FL 33596",
+  "times": [
+   [
+    "2026-12-13",
+    "12:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Market 12 to 4 PM, Santa's Gingerbread Workshop at noon, pictures with Santa at 1 PM",
+  "cost": "Free",
+  "host": "Bullfrog Creek Brewing Co.",
+  "url": "https://bullfrogcreekbrewing.com/calendar/",
+  "kind": "santa market crafts",
+  "indoor": false,
+  "paras": [
+   "Bullfrog Creek Brewing Co. in Valrico hosts a Christmas Market on Sunday, December 13, 2026, and the brewery's own calendar lists the market and Santa's Gingerbread Workshop together at noon that day. According to the Fun 4 Brandon Kids listing, the market runs from noon to 4 PM with free admission, local vendors, live music, a bounce house for kids and pictures with Santa at 1 PM.",
+   "Santa's Gingerbread Workshop starts at noon. The Tampa Calendar listing says the brewery supplies the candy, gumdrops and icing while families bring their own gingerbread houses, with the workshop running until 2 PM. The listing describes the afternoon as family friendly and dog friendly."
+  ],
+  "tip": "Bring a gingerbread house to decorate and plan to be there by 1 PM for the Santa pictures.",
+  "page": "brandon-fl",
+  "page_name": "Brandon",
+  "ages": "All ages"
+ }
+]
