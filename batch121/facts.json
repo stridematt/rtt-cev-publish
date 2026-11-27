@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44253,
+  "name": "Santa in the Train Station at the Hilliard Historical Village",
+  "page": "hilliard-oh",
+  "page_name": "Hilliard",
+  "town": "Hilliard",
+  "host": "Destination Hilliard",
+  "venue": "Historical Village and Museum at Weaver Park",
+  "address": "4021 Main St, Hilliard, OH 43026",
+  "times": [
+   [
+    "2026-12-13",
+    "14:00",
+    "17:00"
+   ]
+  ],
+  "when_note": "Sunday, December 13, 2 to 5 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.destinationhilliard.org/event/santa-mrs-claus-in-the-train-station",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Destination Hilliard lists Santa in the Train Station at the Historical Village and Museum at Weaver Park on Sunday, December 13, from 2 to 5 PM. The village sits in downtown Hilliard at 4021 Main St, and admission is free with donations welcome.",
+   "Children share their Christmas wishes with Santa and Mrs. Claus at the village train station and red caboose. A horse drawn wagon ride and live holiday music add to the afternoon.",
+   "Inside the museum, kids walk through rooms decorated for Christmas, make a craft in the one room school and browse the gift shop. Every guest can pick up a complimentary cup of hot chocolate and a donut."
+  ],
+  "tip": "Dress for the outdoors, since the wagon ride and the train station visit take place outside."
+ },
+ {
+  "cand": 44254,
+  "name": "Santa in the Park at Bridge Park",
+  "page": "dublin-oh",
+  "page_name": "Dublin",
+  "town": "Dublin",
+  "host": "City of Dublin",
+  "venue": "Pocket Park next to Rebol, Bridge Park",
+  "address": "6568 Longshore St, Dublin, OH 43017",
+  "times": [
+   [
+    "2026-12-05",
+    "12:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 12 to 3 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://dublinohiousa.gov/calendar-events/santa-in-the-park/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "The City of Dublin calendar lists Santa in the Park at Bridge Park on Saturday, December 5, from noon to 3 PM. Families visit the Pocket Park next to Rebol at 6568 Longshore St.",
+   "Kids and parents can take a free photo with Santa Claus and Mrs. Claus in the park.",
+   "Bridge Park also has North Pole mailboxes placed around the district, so children can drop off a letter to Santa while they are there."
+  ],
+  "tip": "Bring a letter for Santa and drop it in one of the North Pole mailboxes around Bridge Park."
+ }
+]
