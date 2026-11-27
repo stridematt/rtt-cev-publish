@@ -1,0 +1,408 @@
+[
+ {
+  "cand": 44033,
+  "name": "Holly Hill Christmas Parade",
+  "town": "Holly Hill",
+  "venue": "Ridgewood Ave (US 1)",
+  "address": "1065 Ridgewood Ave, Holly Hill, FL 32117",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Holly Hill",
+  "url": "https://www.daytonabeach.com/event/67th-annual-holly-hill-christmas-parade/56043/",
+  "kind": "parade",
+  "indoor": false,
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "paras": [
+   "Holly Hill holds its 67th annual Christmas Parade on Saturday morning, December 5, with the theme Holly Jolly Hollydays. The Daytona Beach area tourism calendar lists it as free.",
+   "The parade begins on Ridgewood Avenue (US 1) at 5th Street and heads north, ending at Holly Hill City Hall. Both sides of US 1 close during the parade, so plan to walk in."
+  ],
+  "tip": "Bring a comfortable chair or blanket and arrive early to claim a spot, as the host suggests."
+ },
+ {
+  "cand": 44034,
+  "name": "Ponce Inlet Christmas Parade and Breakfast with Santa",
+  "town": "Ponce Inlet",
+  "venue": "Ponce Inlet Community Center",
+  "address": "4670 S. Peninsula Dr., Ponce Inlet, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    ""
+   ],
+   [
+    "2026-12-05",
+    "14:00",
+    ""
+   ]
+  ],
+  "when_note": "Breakfast with Santa at 9 AM, parade at 2 PM",
+  "cost": "Parade free; Breakfast with Santa $5",
+  "ages": "All ages",
+  "host": "Town of Ponce Inlet",
+  "url": "https://www.daytonabeach.com/event/town-of-ponce-inlet-christmas-parade-%26-breakfast-with-santa/55893/",
+  "kind": "santa parade food",
+  "indoor": null,
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "paras": [
+   "The Ponce Inlet Veterans Memorial Association hosts Breakfast with Santa at 9 AM at the Ponce Inlet Community Center. The listing says the $5 fee benefits the association, and the parade itself is free.",
+   "The annual Christmas Parade begins at 2 PM and heads north along South Peninsula Drive from Davies Park to Harbour Village Boulevard."
+  ],
+  "tip": "The $5 fee covers breakfast only, so you can watch the parade without paying."
+ },
+ {
+  "cand": 44035,
+  "name": "Panama City Christmas Parade",
+  "town": "Panama City",
+  "venue": "Harrison Avenue",
+  "address": "Harrison Ave, Downtown Panama City, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    ""
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Panama City",
+  "url": "https://www.panamacity.gov/CivicAlerts.aspx?AID=797",
+  "kind": "parade santa",
+  "indoor": false,
+  "page": "panama-city-fl",
+  "page_name": "Panama City",
+  "paras": [
+   "The City of Panama City brings back its Downtown Christmas Parade on Saturday, December 5 at 6 PM. The city describes festive floats, marching groups and decorated vehicles rolling up Harrison Avenue.",
+   "The route runs from the Downtown City Marina up Harrison Avenue and into Tommy Oliver Stadium. Parade participation questions go to Parks, Culture and Recreation at (850) 872-3199."
+  ],
+  "tip": "Santa is expected at the parade, so bring the little ones who want to wave."
+ },
+ {
+  "cand": 44036,
+  "name": "Christmas at Harders Park",
+  "town": "Panama City",
+  "venue": "H.G. Harders Park",
+  "address": "8110 John Pitts Road, Panama City, FL 32401",
+  "times": [
+   [
+    "2026-12-12",
+    "16:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Santa arrives by helicopter at 4:30 PM, weather permitting",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Bay County Parks and Recreation",
+  "url": "https://www.baycountyfl.gov/Calendar.aspx?EID=1749",
+  "kind": "santa crafts food",
+  "indoor": false,
+  "page": "panama-city-fl",
+  "page_name": "Panama City",
+  "paras": [
+   "Bay County Parks and Recreation hosts its free, family-friendly Christmas at Harders Park on Saturday, December 12 from 4 to 8 PM. Kids get photos with Santa, free face painting, a snow area and a station to write letters to Santa.",
+   "Santa is scheduled to make an entrance at 4:30 PM aboard a Bay County Sheriff's Office helicopter, weather permitting. Food trucks sell food and refreshments on site."
+  ],
+  "tip": "Bring a camera for the 4:30 PM helicopter arrival, since the host says families will want photos."
+ },
+ {
+  "cand": 44037,
+  "name": "Fairgrounds Festival of Lights Drive-Thru",
+  "town": "Fort Pierce",
+  "venue": "St. Lucie County Fairgrounds",
+  "address": "15601 West Midway Road, Fort Pierce, FL 34945",
+  "times": [
+   [
+    "2026-11-27",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-11-28",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-11-29",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-02",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-03",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-04",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-06",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-09",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-10",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-13",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-16",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-17",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-19",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-20",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-21",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-22",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-23",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-24",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-25",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-26",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-27",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Wed, Thu and Sun 6 to 9 PM; Fri and Sat 6 to 10 PM; open nightly Dec 16 to 27",
+  "cost": "$35 per car load",
+  "ages": "All ages",
+  "host": "St. Lucie County Fair Association",
+  "url": "https://www.stluciecountyfair.org/festival-of-lights",
+  "tickets": "https://stluciecountyfairassociationin.ticketspice.com/festival-of-lights-2026",
+  "kind": "lights santa outing",
+  "indoor": false,
+  "page": "fort-pierce-fl",
+  "page_name": "Fort Pierce",
+  "paras": [
+   "The St. Lucie County Fair Association runs its Festival of Lights as a drive-thru holiday light display at the fairgrounds, from Thanksgiving night through December 27. Admission is $35 per car load.",
+   "The host's page pairs the lights with interactive Christmas fun, food and family photos. Hours are 6 to 9 PM Wednesday, Thursday and Sunday and 6 to 10 PM Friday and Saturday."
+  ],
+  "tip": "Tickets are sold online through the fair's ticket page, so check there before you drive out."
+ },
+ {
+  "cand": 44038,
+  "name": "St. Lucie County Christmas Boat Parade",
+  "town": "Fort Pierce",
+  "venue": "Causeway Park",
+  "address": "2000 Seaway Dr, Fort Pierce, FL 34949",
+  "times": [
+   [
+    "2026-12-12",
+    "18:00",
+    ""
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Fort Pierce Yacht Club",
+  "url": "https://fortpierceyachtclub.com/SLC-Christmas-Boat-Parade/",
+  "kind": "parade lights",
+  "indoor": false,
+  "page": "fort-pierce-fl",
+  "page_name": "Fort Pierce",
+  "paras": [
+   "The Fort Pierce Yacht Club lists the St. Lucie County Christmas Boat Parade for Saturday, December 12 at 6 PM, and shows it as free. Decorated boats start just north of the Fort Pierce North Bridge and head south past the Village Green.",
+   "The host's viewing list includes Causeway Park at 2000 Seaway Dr in Fort Pierce, plus spots in Stuart and Jensen Beach along the route."
+  ],
+  "tip": "Causeway Park is the Fort Pierce viewing spot on the host's list."
+ },
+ {
+  "cand": 44039,
+  "name": "Stuart Christmas Parade",
+  "town": "Stuart",
+  "venue": "Downtown Stuart",
+  "address": "Downtown Stuart, FL",
+  "times": [
+   [
+    "2026-12-04",
+    "19:00",
+    ""
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Stuart Christmas Parade",
+  "url": "https://stuartchristmasparade.com/",
+  "kind": "parade",
+  "indoor": false,
+  "page": "stuart-fl",
+  "page_name": "Stuart",
+  "paras": [
+   "The 65th annual Stuart Christmas Parade is set for Friday, December 4 at 7 PM, with the 2026 theme Santa's Stuart Vacation. The parade site calls it a Martin County tradition since 1960.",
+   "The site does not post a route or a price, and parades on public streets are free to watch."
+  ],
+  "tip": "Check the parade site closer to the date for the route before choosing a spot."
+ },
+ {
+  "cand": 44040,
+  "name": "Christmas on Main and Stuart Tree Lighting",
+  "town": "Stuart",
+  "venue": "Riverwalk Stage",
+  "address": "Riverwalk Stage, Historic Downtown Stuart, FL",
+  "times": [
+   [
+    "2026-11-27",
+    "16:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Stuart Main Street",
+  "url": "https://stuartmainstreet.org/events/christmas-on-main/",
+  "kind": "santa lights crafts food",
+  "indoor": false,
+  "page": "stuart-fl",
+  "page_name": "Stuart",
+  "paras": [
+   "Stuart Main Street kicks off the season on Friday, November 27 from 4 to 7 PM with free admission. The host lists snowfall in Historic Downtown Stuart, DIY photos with Santa and Mrs. Claus, and Santa's sleigh rides.",
+   "The evening also has live holiday music and performances, festive arts and crafts, cookies and cocoa, and local food."
+  ],
+  "tip": "Plan to stay for the tree lighting, which the event title says is part of the evening."
+ },
+ {
+  "cand": 44041,
+  "name": "Holidays on Central",
+  "town": "Winter Haven",
+  "venue": "Central Park",
+  "address": "Central Park, Downtown Winter Haven, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Visit Central Florida",
+  "url": "https://visitcentralflorida.org/events/holidays-on-central/",
+  "kind": "market santa crafts food",
+  "indoor": false,
+  "page": "winter-haven-fl",
+  "page_name": "Winter Haven",
+  "paras": [
+   "Holidays on Central fills Central Park in Downtown Winter Haven on Saturday, December 5 from 10 AM to 4 PM. The listing mentions more than 100 local vendors, live entertainment on the BayCare stage and food trucks.",
+   "Families get free photos with Santa, a complimentary photo booth and a kids craft tent hosted by Heartland Church. An information booth hands out festive giveaways such as ornaments and craft kits."
+  ],
+  "tip": "Stop by the information booth for the giveaways the host lists."
+ },
+ {
+  "cand": 44042,
+  "name": "Downtown Saturday Matinee: The Polar Express",
+  "town": "Winter Haven",
+  "venue": "Winter Haven Public Library, Multipurpose Room",
+  "address": "325 Ave A NW, Winter Haven, FL 33881",
+  "times": [
+   [
+    "2026-12-19",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "ages": "All ages (rated G)",
+  "host": "City of Winter Haven",
+  "url": "https://www.mywinterhaven.com/Calendar.aspx?EID=4652",
+  "kind": "show story",
+  "indoor": true,
+  "page": "winter-haven-fl",
+  "page_name": "Winter Haven",
+  "paras": [
+   "The City of Winter Haven's Saturday Matinee series shows The Polar Express (rated G) on December 19 from 2 to 4 PM in the Winter Haven Public Library Multipurpose Room.",
+   "The calendar describes the film as a holiday tale of a young boy who doubts Santa exists until a magical train appears on Christmas Eve."
+  ],
+  "tip": "It is an indoor showing, a good pick if the weather turns."
+ }
+]
