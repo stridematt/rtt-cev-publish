@@ -1,0 +1,59 @@
+[
+ {
+  "cand": 44090,
+  "name": "Light Up City Hall",
+  "town": "Plantation",
+  "venue": "Plantation City Hall",
+  "address": "400 NW 73rd Ave, Plantation, FL 33317",
+  "times": [
+   [
+    "2026-12-05",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "5 to 9 PM",
+  "cost": "Price not listed",
+  "host": "City of Plantation",
+  "url": "https://www.plantation.org/Home/Components/Calendar/Event/6909/276",
+  "kind": "santa lights crafts food",
+  "indoor": false,
+  "paras": [
+   "The City of Plantation invites families to Light Up City Hall on Saturday, December 5, 2026, from 5 PM to 9 PM at Plantation City Hall. The city's calendar describes a gathering with loved ones to celebrate the holiday season.",
+   "The city lists selfies with Santa, ice skating, snow, vocal groups, food trucks, crafts and many photo opportunities. The announcement of the winner of the There's Snow Place Like Plantation contest is also part of the evening. Call Parks and Recreation at (954) 452-2510 with questions."
+  ],
+  "tip": "Call (954) 452-2510 before you go if you need details, since the city's listing does not print a price.",
+  "page": "plantation-fl",
+  "page_name": "Plantation",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44091,
+  "name": "Santa's Toy Drive Car and Truck Show at Plantation Walk",
+  "town": "Plantation",
+  "venue": "Plantation Walk",
+  "address": "321 N University Dr, Plantation, FL 33322",
+  "times": [
+   [
+    "2026-12-13",
+    "11:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "11 AM to 3 PM, rain or shine",
+  "cost": "Free admission and parking; two new unwrapped toys suggested",
+  "host": "Plantation Walk",
+  "url": "https://plantationwalk.com/events/santas-toy-drive-car-and-truck-show/",
+  "tickets": "https://www.eventbrite.com/e/plantation-walk-plantation-police-dept-1st-annual-santas-toy-drive-car-truck-show-tickets-1030126515137",
+  "kind": "santa show service",
+  "indoor": false,
+  "paras": [
+   "Plantation Walk teams up with the City of Plantation Police Department for Santa's Toy Drive Car and Truck Show on Sunday, December 13, 2026, from 11 AM to 3 PM. Santa Claus makes special appearances throughout the event.",
+   "Admission and parking are free and the public is welcome, and pets are allowed. Plantation Walk suggests two new, unwrapped toys from every car and truck owner and spectator for children at Joe DiMaggio Children's Hospital. The day also has music by DJ K, raffle prizes for show car owners and Top 5 Merchant's Choice trophies, with more than 20 restaurants, shops and services on site. No outside food, drinks or coolers are allowed."
+  ],
+  "tip": "Bring two new, unwrapped toys to donate, and leave coolers at home.",
+  "page": "plantation-fl",
+  "page_name": "Plantation",
+  "ages": "All ages"
+ }
+]
