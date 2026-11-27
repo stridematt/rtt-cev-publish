@@ -1,0 +1,86 @@
+[
+ {
+  "cand": 44334,
+  "name": "Denton Christmas Parade and Santa Day at Harrison Park",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Denton",
+  "host": "Town of Denton",
+  "venue": "Harrison Park and downtown Denton",
+  "address": "Downtown Denton, NC",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, breakfast with Santa at 9 AM, parade at noon",
+  "cost": "Free to watch",
+  "ages": "All ages",
+  "url": "https://www.townofdenton.com/community/parks-rec/",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "Denton fills the first weekend of December with Christmas events, and Saturday, December 5, 2026 is the big day. The morning starts at 9 AM with breakfast with Santa and a Christmas vendors' market at Harrison Park, and the Denton Christmas Parade follows at noon.",
+   "The parade starts downtown at South Main Street and East Peacock Avenue, continues onto West Salisbury Street and ends at Hulin Street. Caroling in the park and photos with Santa are part of the day. Families can also visit Denton Farm Park to ride the Christmas train, a 20 minute steam train ride that stops at the Gingerbread House for a cookie and hot cocoa. The tree lighting and Love Lights Service is the night before, Friday, December 4, at 6 PM in Harrison Park."
+  ],
+  "tip": "Start with the 9 AM Santa breakfast, then find a curb spot on Main Street before noon."
+ },
+ {
+  "cand": 44335,
+  "name": "Lexington Christmas Parade",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Lexington",
+  "host": "Uptown Lexington",
+  "venue": "Uptown Lexington",
+  "address": "Uptown Lexington, NC",
+  "times": [
+   [
+    "2026-12-07",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Monday, December 7, 2026, 6 PM",
+  "cost": "Free to watch",
+  "ages": "All ages",
+  "url": "https://www.facebook.com/events/1565782685324419",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Lexington Christmas Parade rolls through Uptown Lexington on Monday, December 7, 2026, at 6 PM. It is the centerpiece of the town's holiday calendar and draws thousands of spectators.",
+   "Many families stay after the parade for local barbecue, holiday pop-up markets and the official lighting of the town tree. It is a weeknight evening event, so plan for dinner and bundle up."
+  ],
+  "tip": "Eat in Uptown before the 6 PM start so you can stay for the tree lighting."
+ },
+ {
+  "cand": 44336,
+  "name": "Mocksville Hometown Christmas Parade",
+  "page": "winston-salem-nc",
+  "page_name": "Winston-Salem",
+  "town": "Mocksville",
+  "host": "Town of Mocksville",
+  "venue": "Downtown Mocksville",
+  "address": "Main St, Mocksville, NC 27028",
+  "times": [
+   [
+    "2026-12-05",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 2 PM, rain or shine",
+  "cost": "Free to watch",
+  "ages": "All ages",
+  "url": "https://www.mocksvillenc.gov/1273/Mocksville-Christmas-Parade",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Mocksville Hometown Christmas Parade steps off on Saturday, December 5, 2026, at 2 PM, rain or shine. This year's theme is Whoville.",
+   "The route uses Main, Depot, Park and Poplar streets, which close to all traffic by 1:15 PM so the parade can start on time. Arrive early to park and claim a spot."
+  ],
+  "tip": "Arrive before 1:15 PM, when the parade streets close to traffic."
+ }
+]
