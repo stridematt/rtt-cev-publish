@@ -1,0 +1,90 @@
+[
+ {
+  "cand": 44185,
+  "name": "Palm Beach Gardens Tree Lighting Celebration",
+  "page": "palm-beach-gardens-fl",
+  "page_name": "Palm Beach Gardens",
+  "town": "Palm Beach Gardens",
+  "host": "the City of Palm Beach Gardens",
+  "venue": "Gardens North County District Park",
+  "address": "5101 117th Court North, Palm Beach Gardens, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "16:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 4 to 8 PM, with the tree lit at 5:45 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.pbgfl.gov/CivicAlerts.aspx?AID=2071",
+  "kind": "lights santa skating music",
+  "indoor": false,
+  "paras": [
+   "The City of Palm Beach Gardens announced its annual Tree Lighting Celebration for Saturday, December 5, 2026, from 4 to 8 PM at the Gardens North County District Park, 5101 117th Court North. The city calls the event free and open to all ages.",
+   "Families can glide around on a synthetic ice skating rink, get a photo with Santa and Mrs. Claus, and enjoy live music. Santa lights the tree at 5:45 PM, and photos with him follow after the main event.",
+   "The city asks guests to leave pets at home and points to its Tree Lighting webpage for the full list of activities and vendors."
+  ],
+  "tip": "Arrive before 5:45 PM to watch Santa light the tree, then join the photo line afterward."
+ },
+ {
+  "cand": 44186,
+  "name": "North Palm Beach Annual Tree Lighting Ceremony",
+  "page": "palm-beach-gardens-fl",
+  "page_name": "Palm Beach Gardens",
+  "town": "North Palm Beach",
+  "host": "the Village of North Palm Beach",
+  "venue": "Veterans Memorial Park",
+  "address": "303 Anchorage Drive, North Palm Beach, FL 33408",
+  "times": [
+   [
+    "2026-12-02",
+    "19:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Wednesday, December 2, 7 to 8 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.village-npb.org/Calendar.aspx?EID=11274",
+  "kind": "lights music",
+  "indoor": false,
+  "paras": [
+   "North Palm Beach opens its holiday season with the annual Tree Lighting Ceremony on Wednesday, December 2, 2026, from 7 to 8 PM. The ceremony is held at 303 Anchorage Drive.",
+   "The evening features a music performance by the North Palm Youth Symphony, followed by the official tree lighting with the Mayor to kick off the holiday season.",
+   "Organizers call it the official start of the holiday season, and the ceremony is also posted in the Parks and Recreation special events section."
+  ],
+  "tip": "Arrive a little before 7 PM for the youth symphony set ahead of the tree lighting."
+ },
+ {
+  "cand": 44187,
+  "name": "Santa's Trolley Rides in North Palm Beach",
+  "page": "palm-beach-gardens-fl",
+  "page_name": "Palm Beach Gardens",
+  "town": "North Palm Beach",
+  "host": "North Palm Beach Parks and Recreation",
+  "venue": "Veterans Memorial Park",
+  "address": "303 Anchorage Drive, North Palm Beach, FL 33408",
+  "times": [
+   [
+    "2026-12-18",
+    "18:30",
+    "20:30"
+   ]
+  ],
+  "when_note": "Friday, December 18, 6:30 to 8:30 PM",
+  "cost": "$1 per person or $5 per family, cash only",
+  "ages": "All ages",
+  "url": "https://www.village-npb.org/calendar.aspx?EID=11277",
+  "kind": "lights santa trolley photos",
+  "indoor": false,
+  "paras": [
+   "North Palm Beach Parks and Recreation brings back Santa's Trolley Rides on Friday evening, December 18, 2026, from 6:30 to 8:30 PM. Riders board at Veterans Memorial Park. The department calls it a treasured North Palm tradition for the whole family.",
+   "The trolley travels around the village so riders can enjoy neighbors' holiday lights and decorations.",
+   "Fares are $1 per person or $5 per family, paid in cash only at the park.",
+   "Afterward, families can visit Santa and Mrs. Claus and enjoy treats at the North Palm Beach Library, take pictures with Santa and see the snow machine."
+  ],
+  "tip": "Bring small bills, since rides are cash only."
+ }
+]
