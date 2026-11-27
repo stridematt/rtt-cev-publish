@@ -1,0 +1,114 @@
+[
+ {
+  "cand": 44043,
+  "name": "Winter Haven Tree Lighting Ceremony",
+  "venue": "Central Park",
+  "address": "Central Park, 4th Street Northwest, Winter Haven, FL",
+  "times": [
+   [
+    "2026-12-03",
+    "18:00",
+    "19:30"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "host": "City of Winter Haven",
+  "url": "https://events.mywinterhaven.com/winterhavenfl/260217577",
+  "kind": "lights show",
+  "indoor": false,
+  "paras": [
+   "The Winter Haven community calendar lists the Annual Tree Lighting Celebration in Central Park on Thursday, December 3, from 6 PM to 7:30 PM, with no admission charge. A local Polk County holiday guide adds that live entertainment starts at 6 PM and the tree is lit at 7 PM.",
+   "Central Park sits on 4th Street Northwest in downtown Winter Haven. The same park hosts Holidays on Central two days later, so families can plan a first weekend of December around downtown."
+  ],
+  "tip": "Arrive before 7 PM so the little ones are in place when the tree lights up.",
+  "page": "winter-haven-fl",
+  "page_name": "Winter Haven",
+  "town": "Winter Haven",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44044,
+  "name": "Winter Haven Winter Wonderland",
+  "venue": "Central Park",
+  "address": "Central Park, 4th Street Northwest, Winter Haven, FL",
+  "times": [
+   [
+    "2026-12-11",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "host": "City of Winter Haven",
+  "url": "https://events.mywinterhaven.com/winterhavenfl/260217575",
+  "kind": "santa crafts outing food",
+  "indoor": false,
+  "paras": [
+   "This free evening in Central Park runs 6 PM to 9 PM on Friday, December 11. The city calendar lists a holiday movie under the stars, inflatables to bounce on, local food trucks and holiday crafts.",
+   "Santa is available for photos from 6:30 PM to 8:30 PM, according to the host listing. Bring a blanket or chairs for the outdoor movie."
+  ],
+  "tip": "Santa photos wrap up at 8:30 PM, so head to him before the movie starts.",
+  "page": "winter-haven-fl",
+  "page_name": "Winter Haven",
+  "town": "Winter Haven",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44045,
+  "name": "Winter Haven Chain of Lakes Christmas Boat Parade",
+  "venue": "Lake May and Lake Howard",
+  "address": "Lake May, Winter Haven, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "18:30",
+    ""
+   ]
+  ],
+  "when_note": "Begins promptly at 6:30 PM",
+  "cost": "Free",
+  "host": "Visit Central Florida",
+  "url": "https://visitcentralflorida.org/events/winter-haven-chain-of-lakes-boat-parade/",
+  "kind": "parade lights",
+  "indoor": false,
+  "paras": [
+   "Decorated boats travel from Lake May to Lake Howard, back to Lake May, then onto Lake Shipp on Saturday, December 5, starting promptly at 6:30 PM, based on the Visit Central Florida listing.",
+   "The listing names four waterfront spots for watching: Harborside Restaurant, Tanner's Lakeside Bar and Grill, Old Man Franks and the Twisted Prop. It does not give street addresses, so check each venue before you go."
+  ],
+  "tip": "Waterfront restaurants are the listed viewing spots, so book a table or arrive early.",
+  "page": "winter-haven-fl",
+  "page_name": "Winter Haven",
+  "town": "Winter Haven",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44046,
+  "name": "Havendale Christmas Parade",
+  "venue": "Havendale Boulevard NW",
+  "address": "Havendale Blvd NW, Winter Haven, FL",
+  "times": [
+   [
+    "2026-12-04",
+    "19:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "host": "City of Winter Haven",
+  "url": "https://events.mywinterhaven.com/winterhavenfl/260214640",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Havendale Christmas Parade rolls on Friday, December 4, from 7 PM to 9 PM. The listing describes a route of about 3.1 miles along Havendale Boulevard, starting near 14th Street and heading west toward Auburndale, ending just before 42nd Street.",
+   "The $50 per unit fee on the listing is the parade entry registration for floats and groups, not a charge for watching from the roadside."
+  ],
+  "tip": "Pick a spot along Havendale Boulevard and bring layers for the evening.",
+  "page": "winter-haven-fl",
+  "page_name": "Winter Haven",
+  "town": "Winter Haven",
+  "ages": "All ages"
+ }
+]
