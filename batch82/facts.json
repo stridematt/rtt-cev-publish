@@ -1,0 +1,111 @@
+[
+ {
+  "cand": 44155,
+  "name": "Fireside Nights at Fruit and Spice Park",
+  "host": "Fruit and Spice Park",
+  "venue": "Fruit and Spice Park",
+  "address": "24801 SW 187th Ave, Homestead, FL 33031",
+  "times": [
+   [
+    "2026-11-28",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-19",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-26",
+    "18:00",
+    "22:00"
+   ]
+  ],
+  "when_note": "Saturdays, November 28 to December 26, 6 to 10 PM",
+  "cost": "Adults $10, kids 6 to 11 $5, ages 5 and under free",
+  "ages": "All ages",
+  "url": "https://www.miamidade.gov/fruitandspicepark/eventDetail.page?id=332",
+  "tickets": "https://miamidadeparks.com/FL/miami-dade-county-parks-recreation/catalog/index/5ed2c665d110163345d2781714b465e9?filter=c2VhcmNoPWZpcmVzaWRl",
+  "kind": "lights food outing",
+  "indoor": false,
+  "paras": [
+   "Fruit and Spice Park lists Fireside Nights on five Saturday evenings in 2026: November 28 and December 5, 12, 19 and 26, each from 6 to 10 PM.",
+   "The park describes its garden turning into a holiday wonderland, with guests invited to bring blankets and lawn chairs, sip hot cocoa, eat cookies and take holiday photos.",
+   "A first come, first served Nocturnal Tour of the Garden is part of the evening.",
+   "Admission is $10 for ages 12 and up, $5 for ages 6 to 11 and free for ages 5 and under, bought at the door or in advance online. Pets are not allowed, and complimentary passes and coupons are not accepted for this event."
+  ],
+  "tip": "",
+  "page": "homestead-fl",
+  "page_name": "Homestead",
+  "town": "Homestead"
+ },
+ {
+  "cand": 44156,
+  "name": "Merry in Mizner Meet and Greet with Surf's Up Santa",
+  "host": "City of Boca Raton Recreation Services",
+  "venue": "Downtown Boca Adirondack Chair, Mizner Park",
+  "address": "Federal Highway and Mizner Boulevard, Boca Raton, FL 33432",
+  "times": [
+   [
+    "2026-12-08",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Tuesday, December 8, 6 to 8 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.myboca.us/Calendar.aspx?EID=16149&month=12&year=2026&day=1&calType=0",
+  "kind": "santa outing",
+  "indoor": false,
+  "paras": [
+   "The City of Boca Raton lists a Merry in Mizner Meet and Greet with Surf's Up Santa on Tuesday, December 8, 2026 from 6 to 8 PM at Mizner Park.",
+   "Santa trades his snow boots for flip-flops, and the city says to stop by the giant Downtown Boca Adirondack chair for a family photo with a Florida-style Santa in a festive Hawaiian shirt and board shorts.",
+   "The listing is part of the city's Merry in Mizner series, which Recreation Services publishes on its Community Events pages."
+  ],
+  "tip": "",
+  "page": "boca-raton-fl",
+  "page_name": "Boca Raton",
+  "town": "Boca Raton"
+ },
+ {
+  "cand": 44157,
+  "name": "Merry in Mizner Stuff-A-Plush",
+  "host": "Boca Raton Parks and Recreation",
+  "venue": "Mizner Park South Gazebo",
+  "address": "Federal Highway and Mizner Boulevard, Boca Raton, FL 33432",
+  "times": [
+   [
+    "2026-12-15",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Tuesday, December 15, 6 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.myboca.us/Calendar.aspx?EID=16150",
+  "kind": "crafts outing",
+  "indoor": false,
+  "paras": [
+   "Boca Raton lists Merry in Mizner's Stuff-A-Plush on Tuesday, December 15, 2026 at 6 PM at the Mizner Park South Gazebo.",
+   "Kids and families make their own plush winter critter. The city lists the activity as free, limited to the first 200 attendees on a first come, first served basis.",
+   "It is one of several December Merry in Mizner events on the city calendar."
+  ],
+  "tip": "",
+  "page": "boca-raton-fl",
+  "page_name": "Boca Raton",
+  "town": "Boca Raton"
+ }
+]
