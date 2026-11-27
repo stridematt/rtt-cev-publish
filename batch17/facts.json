@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 42801,
+  "name": "Holiday Traditions Family Day at the Davenport House Museum",
+  "town": "Savannah",
+  "venue": "Davenport House Museum",
+  "address": "323 E Broughton St, Savannah, GA 31401",
+  "times": [
+   [
+    "2026-12-13",
+    "10:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Davenport House Museum",
+  "url": "https://davenporthousemuseum.org/public-programs/artisan-spotlight-bead-embroidery-workshop-with-fox-fish-dj5yr-759sd-3j59b-f522y-g8cea-gdg6m-3g8ja",
+  "kind": "other crafts story",
+  "indoor": true,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "The Davenport House Museum opens its historic house and grounds on Sunday, December 13, 2026, from 10 am to 2 pm for a Family Day about winter holiday traditions across cultures and centuries. The museum says the day is free and open to the public.",
+   "Families take self-guided house tours, hear a live read-aloud of 'Twas the Night Before Christmas and join hands-on activities for all ages. Local chefs also demonstrate holiday foods, including Gullah Geechee and Jewish heritage dishes."
+  ],
+  "tip": "The house tours are self-guided, so kids can go at their own pace between the read-aloud and the activity tables."
+ }
+]
