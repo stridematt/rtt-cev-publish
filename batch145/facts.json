@@ -1,0 +1,121 @@
+[
+ {
+  "cand": 44316,
+  "name": "Meet Santa in Memorial Park",
+  "page": "lenoir-nc",
+  "page_name": "Lenoir",
+  "town": "Blowing Rock",
+  "host": "Town of Blowing Rock",
+  "venue": "Memorial Park",
+  "address": "1038 Main St, Blowing Rock, NC 28605",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "20:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "20:00"
+   ],
+   [
+    "2026-12-11",
+    "18:00",
+    "20:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "20:00"
+   ],
+   [
+    "2026-12-18",
+    "18:00",
+    "20:00"
+   ],
+   [
+    "2026-12-19",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Fridays and Saturdays through December 19, 2026, 6 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://blowingrock.com/events/e/meet-santa-in-memorial-park-6adb824a804a9862ba99f4d4/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Memorial Park in downtown Blowing Rock hosts Meet Santa on Fridays and Saturdays in December through December 19, 2026, from 6 to 8 PM. That covers December 4, 5, 11, 12, 18 and 19.",
+   "Santa is usually in the Gazebo waiting to hear wishes. The park sits on Main Street, so families can pair the visit with the downtown holiday shops and a walk past the town lights."
+  ],
+  "tip": "Dress warmly, because the park is outdoors and evenings in the mountains run cold."
+ },
+ {
+  "cand": 44317,
+  "name": "Visit with Santa at Haven in Chetola Resort",
+  "page": "lenoir-nc",
+  "page_name": "Lenoir",
+  "town": "Blowing Rock",
+  "host": "Chetola Resort",
+  "venue": "Haven at Chetola Resort",
+  "address": "Chetola Resort, Blowing Rock, NC",
+  "times": [
+   [
+    "2026-12-05",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    "13:00"
+   ],
+   [
+    "2026-12-19",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturdays December 5, 12 and 19, 2026, 11 AM to 1 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.carolinacountry.com/events/visit-with-santa-at-haven",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Haven at Chetola Resort in Blowing Rock hosts Visit with Santa on three Saturdays, December 5, 12 and 19, 2026, from 11 AM to 1 PM. The event is free and open to the public.",
+   "Kids get complimentary hot chocolate, gingerbread cookie decorating and a chance to visit with Santa. It pairs well with the evening Santa visits at Memorial Park on the same weekends."
+  ],
+  "tip": "Come at 11 AM for the shortest wait."
+ },
+ {
+  "cand": 44318,
+  "name": "Merry Municipal Hot Cocoa with Santa",
+  "page": "raleigh-nc",
+  "page_name": "Raleigh",
+  "town": "Clayton",
+  "host": "Town of Clayton",
+  "venue": "Clayton Municipal Park",
+  "address": "325 McCuller's Dr, Clayton, NC 27520",
+  "times": [
+   [
+    "2026-12-17",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Thursday, December 17, 2026, 6 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.johnstoncountync.org/event/merry-municipal-hot-cocoa-with-santa/13344/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Clayton Municipal Park hosts Merry Municipal Hot Cocoa with Santa on Thursday, December 17, 2026, from 6 to 8 PM. The event is free and open to the public.",
+   "Each guest gets a complimentary cup of hot cocoa to sip while walking through the park's holiday light displays and visiting with Santa. The park is at 325 McCuller's Drive, and the town recommends bringing a camera. Call 919-553-1550 with questions."
+  ],
+  "tip": "Bring a camera for the Santa photo and wear a coat for the walk through the lights."
+ }
+]
