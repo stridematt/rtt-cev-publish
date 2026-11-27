@@ -1,0 +1,31 @@
+[
+ {
+  "cand": 44232,
+  "name": "Santa on the Beach at Fort Lauderdale Beach Park",
+  "page": "fort-lauderdale-fl",
+  "page_name": "Fort Lauderdale",
+  "town": "Fort Lauderdale",
+  "host": "City of Fort Lauderdale Parks and Recreation",
+  "venue": "Fort Lauderdale Beach Park",
+  "address": "1100 Seabreeze Blvd, Fort Lauderdale, FL 33316",
+  "times": [
+   [
+    "2026-12-08",
+    "12:30",
+    "13:30"
+   ]
+  ],
+  "when_note": "Tuesday, December 8, at 12:30 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.parks.fortlauderdale.gov/special-events/special-events/santa-on-the-beach",
+  "kind": "Santa visit",
+  "indoor": false,
+  "paras": [
+   "Fort Lauderdale Parks and Recreation hosts its traditional Santa on the Beach candy giveaway each December. The 2026 date is Tuesday, December 8, at 12:30 PM at Fort Lauderdale Beach Park, 1100 Seabreeze Blvd.",
+   "Santa and his elves begin at Fort Lauderdale Beach Park and head north along Fort Lauderdale Beach, handing out candy canes as they go. Families can wait along the sand and the beachfront path for the group to pass.",
+   "The city keeps a photo gallery from the 2025 visit on its parks site, so families can see what the walk looks like before they go."
+  ],
+  "tip": "Stand along the beach north of the park, since Santa walks that direction."
+ }
+]
