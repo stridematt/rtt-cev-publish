@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44193,
+  "name": "Christmas on the Hill Outdoor Movie Night at Northwoods Church",
+  "page": "tallahassee-fl",
+  "page_name": "Tallahassee",
+  "town": "Tallahassee",
+  "host": "Northwoods Church",
+  "venue": "Outdoor pavilion in the field, Northwoods Church",
+  "address": "3762 Capital Circle NW, Tallahassee, FL 32303",
+  "times": [
+   [
+    "2026-12-04",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 5 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.northwoodschurchtallahassee.com/christmas",
+  "kind": "movie outdoor",
+  "indoor": false,
+  "paras": [
+   "Northwoods Church kicks off the Christmas season with an outdoor holiday movie night on Friday, December 4, 2026, from 5 to 8 PM at its outdoor pavilion in the field on Capital Circle NW in Tallahassee.",
+   "Food trucks and grilled food start at 5 PM, Christmas music begins at 6 PM, and a family movie plays after the music. Admission, popcorn, cookies and hot chocolate are free, while food truck prices vary and a grilled hot dog meal with chips, water and a cookie costs $3.",
+   "The church asks families to bring chairs or blankets and to dress warmly if needed. ADA parking and restrooms with baby changing stations are available, and the movie moves indoors if it rains or turns extremely cold."
+  ],
+  "tip": "Bring chairs or blankets and check the weather, since the movie moves indoors for rain or extreme cold."
+ },
+ {
+  "cand": 44194,
+  "name": "Christmas for Kids at Faith Lutheran Church",
+  "page": "tallahassee-fl",
+  "page_name": "Tallahassee",
+  "town": "Tallahassee",
+  "host": "Faith Lutheran Church",
+  "venue": "Faith Lutheran Church",
+  "address": "Faith Lutheran Church, Tallahassee, FL",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 9 AM to 12 PM",
+  "cost": "Price not listed",
+  "ages": "4K through 4th grade",
+  "url": "https://faithtally.org/event/sqxn7rc/christmas-for-kids",
+  "kind": "church craft indoor",
+  "indoor": true,
+  "paras": [
+   "Faith Lutheran Church in Tallahassee hosts Christmas for Kids on Saturday, December 12, 2026, from 9 AM to noon. Children from 4K through 4th grade spend the morning hearing the Christmas account and enjoying crafts and music.",
+   "Families register on the church's event page, and the form asks parents to enter their own information first and the child's details below it.",
+   "Questions go to the church at (850) 383-1125 or michael.schultz@faithtally.org."
+  ],
+  "tip": "Register ahead on the church's event page, entering the parent information first."
+ }
+]
