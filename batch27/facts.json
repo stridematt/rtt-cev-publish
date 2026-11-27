@@ -1,0 +1,108 @@
+[
+ {
+  "cand": 43801,
+  "name": "Breakfast with Santa at the MassMutual Center",
+  "town": "Springfield",
+  "venue": "MassMutual Center Convention Center",
+  "address": "1277 Main St, Springfield, MA 01103",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    ""
+   ]
+  ],
+  "when_note": "It runs on the first Saturday of December and includes Festival of Trees admission.",
+  "cost": "Adults $21; ages 2 to 11 $14",
+  "ages": "All ages",
+  "host": "MassMutual Center",
+  "url": "https://www.massmutualcenter.com/events/detail/breakfastwithsanta2026",
+  "kind": "santa food",
+  "indoor": true,
+  "page": "springfield-ma",
+  "page_name": "Springfield",
+  "paras": [
+   "Families sit down to a breakfast of pancakes, scrambled eggs and fresh fruit, then meet Santa Claus and hand over their Christmas wish lists. The ticket also gets everyone into the Festival of Trees in the same building.",
+   "Proceeds go to the Springfield Boys and Girls Club. Tickets are sent to a mobile wallet and the venue asks guests not to bring large bags, so travel light with little ones."
+  ],
+  "tip": "Transfer a ticket to each adult in your group so everyone can walk in on their own phone."
+ },
+ {
+  "cand": 43802,
+  "name": "Festival of Trees at the MassMutual Center",
+  "town": "Springfield",
+  "venue": "MassMutual Center Convention Center",
+  "address": "1277 Main St, Springfield, MA 01103",
+  "times": [
+   [
+    "2026-11-27",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-11-28",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-11-29",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-03",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-04",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-06",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-10",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-11",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-12",
+    "10:00",
+    ""
+   ],
+   [
+    "2026-12-13",
+    "10:00",
+    ""
+   ]
+  ],
+  "when_note": "The 26th annual festival runs on 11 days from November 27 to December 13.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Springfield Boys and Girls Club",
+  "url": "https://www.massmutualcenter.com/events/detail/festival-of-trees-2026",
+  "kind": "lights outing",
+  "indoor": true,
+  "page": "springfield-ma",
+  "page_name": "Springfield",
+  "paras": [
+   "Local businesses, schools, hospitals, families and civic groups donate and decorate Christmas trees that fill the convention center meeting rooms. Visitors walk through the display and can buy a raffle ticket for a chance to win a tree valued between $200 and $2,000.",
+   "The Springfield Boys and Girls Club presents the festival and uses the proceeds for its after school, mentoring, athletics and arts programs. The festival is in its 26th year."
+  ],
+  "tip": "Pick a weekday opening to see the trees with fewer crowds, and buy tickets ahead through the venue."
+ }
+]
