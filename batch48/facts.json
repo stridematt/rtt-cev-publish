@@ -1,0 +1,59 @@
+[
+ {
+  "cand": 44068,
+  "name": "Palm Coast Holiday Boat Parade",
+  "town": "Palm Coast",
+  "venue": "Waterfront Park",
+  "address": "Waterfront Park, Palm Coast, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Boat staging at 5 PM, parade at 6 PM, event ends at 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Palm Coast",
+  "url": "https://www.palmcoast.gov/events/home/details/boatparade",
+  "kind": "parade outing",
+  "indoor": false,
+  "page": "palm-coast-fl",
+  "page_name": "Palm Coast",
+  "paras": [
+   "The City of Palm Coast lists its 43rd annual Holiday Boat Parade for Saturday, December 5, 2026. Boats stage at 5 PM, the parade begins at 6 PM and the event ends at 8 PM, with decorated boats lighting up the Intracoastal Waterway with lights and music.",
+   "The city names Waterfront Park as a viewing location, and the parade will also stream live on the City of Palm Coast Facebook page. The event is canceled only for severe weather or lightning. The city's news release says the route starts at the North Cut Canal, runs south to the Grand Haven gazebo and returns north, and calls the parade free."
+  ],
+  "tip": "Arrive before 6 PM to claim a spot at the waterfront."
+ },
+ {
+  "cand": 44069,
+  "name": "FROST Holiday Variety and Cirque Show at the Fitzgerald Performing Arts Center",
+  "town": "Palm Coast",
+  "venue": "Fitzgerald Performing Arts Center",
+  "address": "5500 FL-100, Palm Coast, FL 32164",
+  "times": [
+   [
+    "2026-12-04",
+    "19:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Fitzgerald Performing Arts Center",
+  "url": "https://www.flaglerentertainment.com/event-details/frost-holiday-variety-and-cirque-show",
+  "tickets": "https://www.etix.com/ticket/p/39421473/frost-holiday-variety-and-cirque-show-palm-coast-the-fitzgerald-performing-arts-center",
+  "kind": "show",
+  "indoor": true,
+  "page": "palm-coast-fl",
+  "page_name": "Palm Coast",
+  "paras": [
+   "The Fitzgerald Performing Arts Center lists the FROST Holiday Variety and Cirque Show on Friday, December 4, 2026 from 7 PM to 9 PM at 5500 FL-100 in Palm Coast. The venue calls it a holiday showcase of acrobatics, magic, music and family friendly entertainment.",
+   "The listing promises gymnasts, magicians, colorful hula hoop performances and more for audiences of all ages. Tickets are sold through Etix, and the venue page does not print a price."
+  ],
+  "tip": "Book through the Etix link on the venue page, since the page prints no price."
+ }
+]
