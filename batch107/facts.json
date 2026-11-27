@@ -1,0 +1,31 @@
+[
+ {
+  "cand": 44230,
+  "name": "Crawfordville Christmas in the Park at Hudson Park",
+  "page": "tallahassee-fl",
+  "page_name": "Tallahassee",
+  "town": "Crawfordville",
+  "host": "Wakulla County",
+  "venue": "Hudson Park",
+  "address": "21 Ochlocknee Street, Crawfordville, FL",
+  "times": [
+   [
+    "2026-12-11",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Friday, December 11, 6 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.mywakulla.com/news_detail_T29_R2843.php",
+  "kind": "holiday festival",
+  "indoor": false,
+  "paras": [
+   "The Wakulla County Sheriff's Office and Wakulla County Administration host Christmas in the Park, billed as the most wonderful night in Wakulla, on Friday, December 11, from 6 to 9 PM at Hudson Park, 21 Ochlocknee Street in Crawfordville.",
+   "The county lists the celebration as free for families, with complimentary hot dogs, popcorn and drinks. Santa hands out presents to children, and kids can use a bounce house while a Christmas movie plays under the stars.",
+   "Holiday vendors sell treats and crafts. The county asks guests to bring chairs and blankets for the movie and the evening of lights."
+  ],
+  "tip": "Bring chairs or blankets for the outdoor Christmas movie."
+ }
+]
