@@ -1,0 +1,131 @@
+[
+ {
+  "cand": 44439,
+  "name": "Holiday Nights of Lights at Frances Park",
+  "page": "lansing-mi",
+  "page_name": "Lansing",
+  "town": "Lansing",
+  "host": "City of Lansing",
+  "venue": "Frances Park",
+  "address": "Frances Park, Lansing, MI",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-06",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-13",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-19",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-20",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Fridays, Saturdays and Sundays December 4 to 6, 11 to 13 and 18 to 20, 2026, 6 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.lansingmi.gov/holiday-nights-of-lights",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Holiday Nights of Lights is a free drive-through holiday light display at Frances Park in Lansing. It runs on three weekends in December 2026: December 4 to 6, 11 to 13 and 18 to 20, from 6 to 9 PM each night.",
+   "Families drive through the lit park, so it works for little ones in pajamas and for grandparents who prefer to stay warm in the car. The City of Lansing runs the display, and it costs nothing to attend."
+  ],
+  "tip": "Pick a Friday or Sunday evening to avoid the longest lines."
+ },
+ {
+  "cand": 44440,
+  "name": "Breakfast with Santa at The Morning Dish",
+  "page": "kalamazoo-mi",
+  "page_name": "Kalamazoo",
+  "town": "Kalamazoo",
+  "host": "The Morning Dish at the Radisson Plaza Hotel",
+  "venue": "The Morning Dish",
+  "address": "100 W. Michigan Ave., Kalamazoo, MI 49007",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "13:00"
+   ],
+   [
+    "2026-12-13",
+    "09:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12 and Sunday, December 13, 2026, seatings at 9 AM and 11 AM",
+  "cost": "$20 for kids; $25 for adults; tax and gratuity not included",
+  "ages": "Whole family",
+  "url": "https://allevents.in/kalamazoo/breakfast-with-santa/200031093202008",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Morning Dish inside the Radisson Plaza Hotel in downtown Kalamazoo hosts Breakfast with Santa on Saturday, December 12 and Sunday, December 13, 2026. Seatings are at 9 AM and 11 AM each day.",
+   "Families meet Santa, decorate Christmas ornaments and enjoy an expanded holiday buffet with a hot chocolate bar and a Christmas cookie station. The cost is $20 for kids and $25 for adults, before tax and gratuity. Call 269-226-3155 to reserve."
+  ],
+  "tip": "Call to reserve a seating time."
+ },
+ {
+  "cand": 44441,
+  "name": "Breakfast with Santa at the Bavarian Inn Lodge",
+  "page": "flint-mi",
+  "page_name": "Flint",
+  "town": "Frankenmuth",
+  "host": "Bavarian Inn Lodge",
+  "venue": "Bavarian Inn Lodge",
+  "address": "One Covered Bridge Ln., Frankenmuth, MI 48734",
+  "times": [
+   [
+    "2026-12-20",
+    "09:00",
+    "10:30"
+   ]
+  ],
+  "when_note": "Sunday, December 20, 2026, 9 to 10:30 AM",
+  "cost": "$45.99 for adults; $38.99 for children 3 to 12; free for children under 3; includes tax and gratuity",
+  "ages": "Whole family",
+  "url": "https://members.flintandgeneseechamber.org/events/details/breakfast-with-santa-bavarian-inn-lodge-21118",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Santa and Mrs. Claus host Breakfast with Santa at the Bavarian Inn Lodge in Frankenmuth on Sunday, December 20, 2026, from 9 to 10:30 AM.",
+   "The morning includes a breakfast buffet, a visit with Santa, a present from Santa for each child, a winter craft and an appearance by Willy the Dragon and Greta. Adults pay $45.99 and children 3 to 12 pay $38.99, with children under 3 free, and prices include tax and gratuity. Every child must come with an adult. Reserve at 855-652-7200."
+  ],
+  "tip": "Call 855-652-7200 to book."
+ }
+]
