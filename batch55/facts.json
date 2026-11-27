@@ -1,0 +1,86 @@
+[
+ {
+  "cand": 44083,
+  "name": "Holiday Bike Parade in Historic Cocoa Village",
+  "town": "Cocoa",
+  "venue": "Cocoa Riverfront Park",
+  "address": "Cocoa Riverfront Park, Historic Cocoa Village, Cocoa, FL 32922",
+  "times": [
+   [
+    "2026-12-18",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Check-in 5 to 6:15 PM, parade starts at 6:30 PM, music and awards until 9 PM",
+  "cost": "Price not listed",
+  "host": "Historic Cocoa Village",
+  "url": "https://visitcocoavillage.com/event/holiday-bike-parade",
+  "kind": "parade lights",
+  "indoor": false,
+  "paras": [
+   "Historic Cocoa Village hosts its Holiday Bike Parade on Friday, December 18, 2026, presented by Village Cycle Shoppe. Riders check in at the Cocoa Riverfront Park bandshell from 5 PM to 6:15 PM, where judges look over the decorated bikes for trophies such as best young family entry. The parade starts at 6:30 PM and Santa leads the way on his penny-farthing.",
+   "The route is a little less than two miles, takes about 30 minutes and makes two loops through the Village before ending back at the park. Families who want a shorter ride can loop once. Afterward there is hot cocoa, a photo booth, live music and an awards ceremony until 9 PM. Every rider needs their own registration form, the village asks that only confident young bike riders join, and food donations for the Central Brevard Sharing Center are collected at check-in."
+  ],
+  "tip": "Register every rider ahead and loop the route once with little ones.",
+  "page": "cocoa-fl",
+  "page_name": "Cocoa",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44084,
+  "name": "Hot Cocoa Crawl in Historic Cocoa Village",
+  "town": "Cocoa",
+  "venue": "Myrt Tharpe Square",
+  "address": "Myrt Tharpe Square, 12 Stone St, Cocoa, FL 32922",
+  "times": [
+   [
+    "2026-12-12",
+    "12:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Cookie tins sold 12 to 3 PM at the gazebo, crawl runs to 4 PM",
+  "cost": "$15 per cookie tin",
+  "host": "Historic Cocoa Village",
+  "url": "https://visitcocoavillage.com/event/hot-cocoa-crawl",
+  "kind": "food outing",
+  "indoor": false,
+  "paras": [
+   "Historic Cocoa Village marks National Hot Cocoa Day with its Hot Cocoa Crawl on Saturday, December 12, 2026, from noon to 4 PM. Families buy a $15 cookie tin at the Myrt Tharpe Square gazebo at 12 Stone St between noon and 3 PM, and the village recommends one tin per family.",
+   "The tin and a map take you to participating Village businesses, where each shop hands over a hot cocoa themed treat and signs the map. Visitors who collect every signature enter a drawing for a grand prize. The village's Hot Cocoa Holidays series runs from November 28 through December 23."
+  ],
+  "tip": "Pick up the tin before 3 PM so there is time to visit every shop.",
+  "page": "cocoa-fl",
+  "page_name": "Cocoa",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44085,
+  "name": "3rd Annual Christmas Market on Magnolia",
+  "town": "Merritt Island",
+  "venue": "First Baptist Church Merritt Island",
+  "address": "140 Magnolia Ave, Merritt Island, FL 32952",
+  "times": [
+   [
+    "2026-12-05",
+    "15:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "3 to 7 PM",
+  "cost": "Price not listed",
+  "host": "Visit Space Coast",
+  "url": "https://www.visitspacecoast.com/event/3rd-annual-christmas-market-on-magnolia/",
+  "kind": "santa market crafts food",
+  "indoor": false,
+  "paras": [
+   "Visit Space Coast lists the 3rd Annual Christmas Market on Magnolia on Saturday, December 5, 2026, from 3 to 7 PM at First Baptist Church Merritt Island, 140 Magnolia Ave. The listing describes a family evening with live music, local vendors and food trucks.",
+   "Kids can visit Santa and the Grinch and join children's activities that include holiday crafts. The tourism board's listing gives a contact phone number of 407-924-7116 and does not print an admission price."
+  ],
+  "tip": "Come early in the 3 to 7 PM window for the Santa and Grinch visits.",
+  "page": "cocoa-fl",
+  "page_name": "Cocoa",
+  "ages": "All ages"
+ }
+]
