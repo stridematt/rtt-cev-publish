@@ -1,0 +1,127 @@
+[
+ {
+  "cand": 44271,
+  "name": "Original Dickens Carolers and Santa on Main Street",
+  "page": "littleton-co",
+  "page_name": "Littleton",
+  "town": "Littleton",
+  "host": "Downtown Littleton",
+  "venue": "Main Street, Downtown Littleton",
+  "address": "Main Street, Littleton, CO 80120",
+  "times": [
+   [
+    "2026-11-28",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-11-29",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-05",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-06",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-13",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-19",
+    "11:00",
+    "14:00"
+   ],
+   [
+    "2026-12-20",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturdays and Sundays November 28 and 29, December 5 and 6, 12 and 13, 19 and 20, 11 AM to 2 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://visitlittleton.org/event/the-original-dickens-carolers/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Original Dickens Carolers, a Victorian caroling company with 40 years of tradition on the Colorado Front Range, roam Main Street in downtown Littleton while Santa stops to chat and pose for photos. The visits run from 11 AM to 2 PM on November 28 and 29 and December 5 and 6, 12 and 13, and 19 and 20, 2026.",
+   "The visits are free to enjoy and no tickets are needed. Downtown Littleton describes them as a photo opportunity for families as you stroll, shop and explore Main Street."
+  ],
+  "tip": "Grab a coffee, follow the singing along Main Street and plan your Santa photo between 11 AM and 2 PM on any listed weekend."
+ },
+ {
+  "cand": 44272,
+  "name": "Cocoa and Doughnuts with Santa at Buck Recreation Center",
+  "page": "littleton-co",
+  "page_name": "Littleton",
+  "town": "Littleton",
+  "host": "Buck Recreation Center",
+  "venue": "Douglas H. Buck Community Recreation Center",
+  "address": "2004 W Powers Ave, Littleton, CO 80120",
+  "times": [
+   [
+    "2026-12-05",
+    "08:30",
+    "09:30"
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 8:30 to 9:30 AM or 10 to 11 AM",
+  "cost": "$6 per registration",
+  "ages": "Families with young children",
+  "url": "https://www.ssprd.org/News-And-Events/Post/20750",
+  "tickets": "https://register.ssprd.org/CO/south-suburban-parks-rec/catalog/index/12806d0cf0c174305c17b49e8f1ea940?filter=c2VhcmNoPWNvY29h",
+  "kind": "meal",
+  "indoor": true,
+  "paras": [
+   "South Suburban Parks and Recreation invites families to Cocoa and Doughnuts with Santa at the Buck Recreation Center, 2004 W Powers Avenue in Littleton, on Saturday, December 5, 2026. Two sessions are offered, 8:30 to 9:30 AM and 10 to 11 AM, and the visitlittleton.org guide lists the price at $6.",
+   "Sponsored by the Littleton Rotary, the morning includes doughnuts, hot cocoa, holiday crafts and photos with Santa. Registration is online through the South Suburban catalog."
+  ],
+  "tip": "Register ahead for the 8:30 or 10 AM session and bring a camera for the Santa photos."
+ },
+ {
+  "cand": 44273,
+  "name": "Soccer with Santa at Sheridan Recreation Center",
+  "page": "littleton-co",
+  "page_name": "Littleton",
+  "town": "Sheridan",
+  "host": "Sheridan Recreation Center",
+  "venue": "Sheridan Recreation Center",
+  "address": "3325 W Oxford Ave, Sheridan, CO 80236",
+  "times": [
+   [
+    "2026-12-04",
+    "17:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 5 to 7 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.ssprd.org/News-And-Events/Post/20750",
+  "kind": "festival",
+  "indoor": true,
+  "paras": [
+   "South Suburban Parks and Recreation hosts Soccer with Santa at the Sheridan Recreation Center, 3325 W Oxford Avenue in Sheridan, on Friday, December 4, 2026, from 5 to 7 PM. Kids try their soccer skills against Santa Claus.",
+   "The event is free and includes photos with Santa, pizza, games and plenty of holiday fun."
+  ],
+  "tip": "Wear sneakers for the games against Santa and arrive by 5 PM to get pizza before the photo line grows."
+ }
+]
