@@ -1,0 +1,58 @@
+[
+ {
+  "cand": 44274,
+  "name": "Berthoud Parade of Lights and Tree Lighting",
+  "page": "loveland-co",
+  "page_name": "Loveland",
+  "town": "Berthoud",
+  "host": "Berthoud Parade of Lights",
+  "venue": "Mountain Avenue, Downtown Berthoud",
+  "address": "Mountain Ave, Berthoud, CO 80513",
+  "times": [
+   [
+    "2026-12-05",
+    "17:00",
+    "18:30"
+   ]
+  ],
+  "when_note": "Saturday, December 5, parade at 5 PM, tree lighting at 5:45 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://berthoudparadeoflights.com/",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The annual Berthoud Parade of Lights starts at 5 PM on Saturday, December 5, 2026, with parade line up on Second Street at 4 PM. Illuminated floats, twinkling displays and festive music travel along Mountain Avenue in downtown Berthoud from Second Street to Eighth Street.",
+   "Caroling and the tree lighting ceremony follow at 5:45 PM, and downtown shops and restaurants offer holiday specials from 6 PM. The day begins with A Very Merry Berthoud, which the parade site describes as craft and cookie making, letters to Santa mailboxes, blacksmithing demonstrations on Mountain Avenue and photos with Santa. No admission price is listed."
+  ],
+  "tip": "Come early for A Very Merry Berthoud, then claim a spot on Mountain Avenue before the 5 PM parade start."
+ },
+ {
+  "cand": 44275,
+  "name": "Catch the Glow Parade in Estes Park",
+  "page": "loveland-co",
+  "page_name": "Loveland",
+  "town": "Estes Park",
+  "host": "Estes Park Events Complex",
+  "venue": "Estes Park",
+  "address": "1125 Rooftop Way, Estes Park, CO 80517",
+  "times": [
+   [
+    "2026-11-27",
+    "17:30",
+    "18:30"
+   ]
+  ],
+  "when_note": "Friday, November 27, 5:30 to 6:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.visitestespark.com/event/catch-the-glow-parade/16780/",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Catch the Glow Parade lights up Estes Park on Friday, November 27, 2026, from 5:30 to 6:30 PM. The listing on Visit Estes Park shows the Estes Park Events Complex as presenter and the event as free.",
+   "The parade showcases more than 40 entries, including handcrafted floats from the Town of Estes Park and local nonprofits, marching bands, fire trucks and specialty vehicles. Visit Loveland adds that the illuminated floats roll on Elkhorn Avenue."
+  ],
+  "tip": "Bundle up for a mountain evening and arrive early to get a curb spot before the 5:30 PM start."
+ }
+]
