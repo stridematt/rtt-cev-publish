@@ -1,0 +1,391 @@
+[
+ {
+  "cand": 44337,
+  "name": "Santa's Workshop at Friendly Center",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Greensboro",
+  "host": "Friendly Center",
+  "venue": "Friendly Center",
+  "address": "3110 Kathleen Ave, Greensboro, NC 27408",
+  "times": [
+   [
+    "2026-11-28",
+    "11:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "November 25 to December 24, 2026, with hours listed as 11 AM to 3 PM and 4 to 8 PM",
+  "cost": "Photo packages, see VIP Holiday Photos for pricing",
+  "ages": "All ages",
+  "url": "https://www.friendlycenter.com/store/santas_workshop",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Santa's Workshop at Friendly Center is the Greensboro spot for professional Santa pictures at the open air shopping center on Kathleen Avenue. It runs from November 25 through December 24, 2026, and the center lists hours of 11 AM to 3 PM and 4 to 8 PM.",
+   "Families meet Santa, share their wishes and take holiday photos. Reservations are recommended and are booked online through VIP Holiday Photos for a preferred date and time. Friendly Center also lists pet photos with Santa as a seasonal event."
+  ],
+  "tip": "Reserve a time online before you go, since Santa visits book up."
+ },
+ {
+  "cand": 44338,
+  "name": "Santa at Magnolia House: A Very Merry Magnolia",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Greensboro",
+  "host": "Historic Magnolia House",
+  "venue": "Historic Magnolia House",
+  "address": "Historic Magnolia House, Greensboro, NC",
+  "times": [
+   [
+    "2026-12-12",
+    "10:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 10 AM to 3 PM",
+  "cost": "See organizer for pricing",
+  "ages": "All ages",
+  "url": "https://www.thehistoricmagnoliahouse.org/event/santa-at-magnolia-house-a-very-merry-magnolia/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Historic Magnolia House in Greensboro welcomes Santa for A Very Merry Magnolia on Saturday, December 12, 2026, from 10 AM to 3 PM.",
+   "Families can visit with Santa during the day at this historic Greensboro landmark. The event page has the latest details on tickets and activities."
+  ],
+  "tip": "Check the event page for ticket details before you go."
+ },
+ {
+  "cand": 44339,
+  "name": "Santa at the Station in Summerfield",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Summerfield",
+  "host": "Summerfield Fire District",
+  "venue": "Summerfield Fire District",
+  "address": "Summerfield Fire District, Summerfield, NC",
+  "times": [
+   [
+    "2026-12-06",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, 2 to 4 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://triadmomsonmain.com/where-to-see-santa-in-the-triad-santa-photos/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "The Summerfield Fire District hosts Santa at the Station on Sunday, December 6, 2026, from 2 to 4 PM. It is a free visit with Santa at the fire station.",
+   "Bring your own camera for photos. Free events like this often have lines that build quickly, so arrive a little early."
+  ],
+  "tip": "Bring your own camera and arrive early."
+ },
+ {
+  "cand": 44340,
+  "name": "Christmas at Antique Market Place with Santa",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Greensboro",
+  "host": "Antique Market Place",
+  "venue": "Antique Market Place",
+  "address": "Antique Market Place, Greensboro, NC",
+  "times": [
+   [
+    "2026-12-06",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, 2 to 4 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://triadmomsonmain.com/where-to-see-santa-in-the-triad-santa-photos/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Antique Market Place in Greensboro holds a Christmas event with a free visit from Santa on Sunday, December 6, 2026, from 2 to 4 PM.",
+   "Bring your own camera to capture the visit, and plan to browse the shops while you are there."
+  ],
+  "tip": "Bring your own camera for the Santa photo."
+ },
+ {
+  "cand": 44341,
+  "name": "Free Santa Visits at Hickory Creek Farm",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Greensboro",
+  "host": "Hickory Creek Farm",
+  "venue": "Hickory Creek Farm",
+  "address": "Hickory Creek Farm, Greensboro, NC",
+  "times": [
+   [
+    "2026-11-28",
+    "12:00",
+    "14:00"
+   ],
+   [
+    "2026-12-04",
+    "18:30",
+    "20:00"
+   ],
+   [
+    "2026-12-05",
+    "12:00",
+    "14:00"
+   ],
+   [
+    "2026-12-11",
+    "18:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "November 28 and December 5, 12 to 2 PM; December 4 from 6:30 to 8 PM; December 11 from 6:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://triadmomsonmain.com/where-to-see-santa-in-the-triad-santa-photos/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Hickory Creek Farm in Greensboro offers free visits with Santa on four dates. Santa is there on Saturday, November 28, from 12 to 2 PM, on Friday, December 4, from 6:30 to 8 PM, on Saturday, December 5, from 12 to 2 PM, and on Friday, December 11, starting at 6:30 PM.",
+   "The visits are free, so bring your own camera. The farm is outdoors, so dress for the weather."
+  ],
+  "tip": "Pick a daytime slot on a Saturday if you want warmer weather."
+ },
+ {
+  "cand": 44342,
+  "name": "Cookies with Santa at the Children's Museum of Alamance County",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Graham",
+  "host": "Children's Museum of Alamance County",
+  "venue": "Children's Museum of Alamance County",
+  "address": "Children's Museum of Alamance County, Graham, NC",
+  "times": [
+   [
+    "2026-12-11",
+    "16:30",
+    "17:30"
+   ],
+   [
+    "2026-12-11",
+    "18:15",
+    "19:15"
+   ]
+  ],
+  "when_note": "Friday, December 11, 2026, sessions at 4:30 PM and 6:15 PM",
+  "cost": "Reservations required, see museum for pricing",
+  "ages": "Families with young children",
+  "url": "https://www.childrensmuseumofalamance.org/cookies-with-santa-2026",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Children's Museum of Alamance County in Graham hosts Cookies with Santa on Friday, December 11, 2026, with sessions at 4:30 PM and 6:15 PM.",
+   "Reservations are required, so book through the museum before you go."
+  ],
+  "tip": "Reserve ahead, since sessions are limited."
+ },
+ {
+  "cand": 44343,
+  "name": "Annual Holiday Block Party at Ultimate Kids",
+  "page": "greensboro-nc",
+  "page_name": "Greensboro",
+  "town": "Greensboro",
+  "host": "Ultimate Kids: Home of Tumblebees",
+  "venue": "Ultimate Kids",
+  "address": "Ultimate Kids: Home of Tumblebees, Greensboro, NC",
+  "times": [
+   [
+    "2026-12-11",
+    "17:30",
+    "20:30"
+   ]
+  ],
+  "when_note": "Friday, December 11, 2026, 5:30 to 8:30 PM",
+  "cost": "Pre-registration required, see Ultimate Kids for pricing",
+  "ages": "Kids",
+  "url": "https://ultimate-kids.com/Ultimate-Holiday-Block-Party.html",
+  "kind": "festival",
+  "indoor": true,
+  "paras": [
+   "Ultimate Kids: Home of Tumblebees in Greensboro throws its Annual Holiday Block Party on Friday, December 11, 2026, from 5:30 to 8:30 PM.",
+   "Pre-registration is required, so sign up on the Ultimate Kids page before you go."
+  ],
+  "tip": "Register ahead since the party requires pre-registration."
+ },
+ {
+  "cand": 44344,
+  "name": "A Visit with Cowboy Santa at The Barn Loft",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Thomasville",
+  "host": "The Barn Loft",
+  "venue": "The Barn Loft",
+  "address": "The Barn Loft, Thomasville, NC",
+  "times": [
+   [
+    "2026-12-05",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 11 AM to 2 PM",
+  "cost": "See organizer for pricing",
+  "ages": "All ages",
+  "url": "https://www.facebook.com/events/1409098350977751",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Barn Loft in Thomasville hosts A Visit with Cowboy Santa on Saturday, December 5, 2026, from 11 AM to 2 PM.",
+   "Check the Facebook event for pricing and photo details before you go."
+  ],
+  "tip": "Check the event page for photo details."
+ },
+ {
+  "cand": 44345,
+  "name": "Breakfast with Santa at Midway Methodist Church",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Lexington",
+  "host": "Midway Methodist Church",
+  "venue": "Midway Methodist Church",
+  "address": "Midway Methodist Church, Lexington, NC",
+  "times": [
+   [
+    "2026-12-05",
+    "08:00",
+    "10:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, starting at 8 AM",
+  "cost": "See organizer for pricing",
+  "ages": "All ages",
+  "url": "https://www.facebook.com/events/1841485553646052/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Midway Methodist Church in Lexington hosts Breakfast with Santa on Saturday, December 5, 2026, starting at 8 AM.",
+   "Check the Facebook event for the menu, pricing and ending time."
+  ],
+  "tip": "Check the Facebook event for pricing."
+ },
+ {
+  "cand": 44346,
+  "name": "Christmas Open House with Santa at Cupcakes and Cuties",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Wallburg",
+  "host": "Cupcakes & Cuties",
+  "venue": "Cupcakes & Cuties",
+  "address": "Cupcakes & Cuties, Wallburg, NC",
+  "times": [
+   [
+    "2026-12-06",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, 5 to 8 PM",
+  "cost": "See organizer for pricing",
+  "ages": "All ages",
+  "url": "https://www.facebook.com/events/1418231077083838",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Cupcakes & Cuties in Wallburg holds its 12th annual Christmas Open House with Santa on Sunday, December 6, 2026, from 5 to 8 PM.",
+   "Check the Facebook event for details on photos and treats."
+  ],
+  "tip": "Check the event page for details."
+ },
+ {
+  "cand": 44347,
+  "name": "Pancakes and Pajamas with Santa and Mrs. Claus at Millstone Creek Orchards",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Ramseur",
+  "host": "Millstone Creek Orchards",
+  "venue": "Millstone Creek Orchards",
+  "address": "Millstone Creek Orchards, Ramseur, NC",
+  "times": [
+   [
+    "2026-12-06",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, starting at 10 AM, ticket required",
+  "cost": "Ticket required, see Millstone Creek Orchards",
+  "ages": "All ages",
+  "url": "https://www.millstonecreekorchards.com/christmas-at-mco",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Millstone Creek Orchards in Ramseur serves Pancakes and Pajamas with Santa and Mrs. Claus on Sunday, December 6, 2026, starting at 10 AM. A ticket is required.",
+   "The orchard also runs Christmas at the Orchard on select dates from November 28 to December 20, 2026."
+  ],
+  "tip": "Buy your ticket ahead, since this event requires one."
+ },
+ {
+  "cand": 44348,
+  "name": "Christmas on the Farm at Fairview Farm",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Asheboro",
+  "host": "Fairview Farm",
+  "venue": "Fairview Farm",
+  "address": "Fairview Farm, Asheboro, NC",
+  "times": [
+   [
+    "2026-12-05",
+    "14:00",
+    "18:00"
+   ],
+   [
+    "2026-12-06",
+    "14:00",
+    "18:00"
+   ]
+  ],
+  "when_note": "Saturday and Sunday, December 5 and 6, 2026, 2 to 6 PM",
+  "cost": "See organizer for pricing",
+  "ages": "All ages",
+  "url": "https://www.afairviewfarm.com/christmas-on-the-farm",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "Fairview Farm in Asheboro hosts Christmas on the Farm on Saturday and Sunday, December 5 and 6, 2026, from 2 to 6 PM.",
+   "The farm is outdoors, so dress for the weather, and check the farm page for pricing and activities."
+  ],
+  "tip": "Dress for outdoor weather."
+ },
+ {
+  "cand": 44349,
+  "name": "Santaboose at the Rural Hall Historic Train Depot",
+  "page": "winston-salem-nc",
+  "page_name": "Winston-Salem",
+  "town": "Rural Hall",
+  "host": "Rural Hall Historic Train Depot",
+  "venue": "Rural Hall Historic Train Depot",
+  "address": "8170 Depot St, Rural Hall, NC 27045",
+  "times": [
+   [
+    "2026-12-12",
+    "17:30",
+    "19:30"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 5:30 to 7:30 PM",
+  "cost": "See organizer for pricing",
+  "ages": "All ages",
+  "url": "https://www.facebook.com/events/8170-depot-st-rural-hall-nc-united-states-north-carolina-27045/santaboose/1112724244832730/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Santaboose brings Santa to the Rural Hall Historic Train Depot at 8170 Depot Street on Saturday, December 12, 2026, from 5:30 to 7:30 PM.",
+   "It is a fun stop for families who love trains. Check the Facebook event for details."
+  ],
+  "tip": "Dress warmly since the depot visit is outdoors."
+ }
+]
