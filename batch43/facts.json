@@ -1,0 +1,278 @@
+[
+ {
+  "cand": 44047,
+  "name": "Magic of Lights Daytona",
+  "town": "Daytona Beach",
+  "venue": "Daytona International Speedway",
+  "address": "1801 W International Speedway Blvd, Daytona Beach, FL 32114",
+  "times": [
+   [
+    "2026-11-27",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-11-28",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-11-29",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-11-30",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-01",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-02",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-03",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-04",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-06",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-07",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-08",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-09",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-10",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-11",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-13",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-14",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-15",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-16",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-17",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-18",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-19",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-20",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-21",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-22",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-23",
+    "18:00",
+    "22:00"
+   ],
+   [
+    "2026-12-24",
+    "18:00",
+    "22:00"
+   ]
+  ],
+  "when_note": "Nightly 6 to 10 PM through January 2, 2027",
+  "cost": "From $33.99 per vehicle; $20 per vehicle for November visits",
+  "host": "Magic of Lights",
+  "url": "https://magicoflights.com/locations/daytona-fl/",
+  "tickets": "https://www.tixr.com/groups/moldaytona/events/magic-of-lights-daytona-2026-190659",
+  "kind": "lights outing",
+  "indoor": false,
+  "paras": [
+   "Magic of Lights Daytona is a drive-through holiday light show at Daytona International Speedway. The host lists a season from November 20, 2026 to January 2, 2027, with the lights on nightly from 6 PM to 10 PM.",
+   "Tickets are sold per vehicle. The host lists a standard car weekday ticket at $33.99 and an any-day ticket at $36.99, with a $20 per vehicle price for November visits. Gate prices run a few dollars higher, and a limo or party bus pays more. Tickets are sold through Tixr."
+  ],
+  "tip": "Buy tickets online, since the host lists gate prices a few dollars higher.",
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44048,
+  "name": "Holly Hill Christmas Tree Lighting",
+  "town": "Holly Hill",
+  "venue": "Holly Hill City Hall",
+  "address": "1065 Ridgewood Ave, Holly Hill, FL 32117",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "host": "City of Holly Hill",
+  "url": "https://www.daytonabeach.com/event/67th-annual-holly-hill-christmas-tree-lighting/56042/",
+  "kind": "lights santa show",
+  "indoor": false,
+  "paras": [
+   "The 67th Annual Holly Hill Christmas Tree Lighting takes place on Friday, December 4, from 6 PM to 7 PM on the front steps of City Hall. The listing promises festive performances and a visit from Santa Claus.",
+   "The event is free and open to all. It comes the day before the Holly Hill Christmas Parade on December 5, which makes it an easy kickoff to the town's holiday weekend."
+  ],
+  "tip": "The tree lighting is the evening before the parade, so you can do both.",
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44049,
+  "name": "Breakfast with Santa at Azure Oceanfront Dining",
+  "town": "Daytona Beach Shores",
+  "venue": "Azure Oceanfront Dining at The Shores Resort and Spa",
+  "address": "The Shores Resort and Spa, Daytona Beach Shores, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "07:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Breakfast buffet 7 to 11 AM; Santa visits 9:30 to 11:30 AM",
+  "cost": "$24.99 per adult; $12.99 for children 12 and under",
+  "host": "The Shores Resort and Spa",
+  "url": "https://www.shoresresort.com/events/breakfast-with-santa/",
+  "kind": "santa food",
+  "indoor": true,
+  "paras": [
+   "Azure Oceanfront Dining at The Shores Resort and Spa hosts Breakfast with Santa on Saturday, December 5. The buffet runs 7 AM to 11 AM and Santa's visit is listed for 9:30 AM to 11:30 AM.",
+   "The host prices the buffet at $24.99 per adult and $12.99 for children 12 and under. The page mentions ocean views and photos with Santa, and offers a Reserve Now link through OpenTable."
+  ],
+  "tip": "Santa starts at 9:30 AM, so arrive after that for the best chance of a photo.",
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44050,
+  "name": "S.T.R.E.A.M.: Holiday Ornaments",
+  "town": "Daytona Beach",
+  "venue": "Hope Place Public Library",
+  "address": "1310 Wright St, Daytona Beach, FL",
+  "times": [
+   [
+    "2026-12-14",
+    "15:00",
+    "16:30"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "host": "Volusia County Public Library",
+  "url": "https://volusialibrary.libcal.com/event/17839657",
+  "kind": "crafts",
+  "indoor": true,
+  "paras": [
+   "Volusia County Public Library lists S.T.R.E.A.M.: Holiday Ornaments on Monday, December 14, from 3 PM to 4:30 PM in the Hope Place Library meeting room, for school age children.",
+   "Kids learn about the melting points of crayons and plastic while they design and make crayon speckled ornaments. The listing says supplies may be limited and that no registration is required."
+  ],
+  "tip": "Supplies may be limited, so arrive early.",
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44051,
+  "name": "Spotlight: LaunchPad Holiday Extravaganza",
+  "town": "Daytona Beach",
+  "venue": "Daytona Beach Regional Library LaunchPad",
+  "address": "105 Jackie Robinson Parkway, Daytona Beach, FL",
+  "times": [
+   [
+    "2026-12-14",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "host": "Volusia County Public Library",
+  "url": "https://volusialibrary.libcal.com/event/17864627",
+  "kind": "crafts outing",
+  "indoor": true,
+  "paras": [
+   "The Daytona Beach Regional Library LaunchPad hosts a holiday themed program on Monday, December 14, from 2 PM to 4 PM. The audience is listed as all ages.",
+   "Visitors take part in activities, games and craft making using LaunchPad equipment and materials. The listing says no registration is required."
+  ],
+  "tip": "No registration is needed, so you can drop in during the two hour window.",
+  "page": "daytona-beach-fl",
+  "page_name": "Daytona Beach",
+  "ages": "All ages"
+ }
+]
