@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 44260,
+  "name": "Santa Visits at the Miller Park Branch Library",
+  "page": "upper-arlington-oh",
+  "page_name": "Upper Arlington",
+  "town": "Upper Arlington",
+  "host": "Upper Arlington Public Library",
+  "venue": "Miller Park Branch, Upper Arlington Public Library",
+  "address": "1901 Arlington Ave, Upper Arlington, OH 43212",
+  "times": [
+   [
+    "2026-12-03",
+    "16:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Thursday, December 3, six registered time slots from 4 to 7 PM",
+  "cost": "Price not listed",
+  "ages": "Babies, toddlers, preschool, school age and families",
+  "url": "https://ualibrary.libnet.info/event/17271330",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Upper Arlington Public Library holds its Home for the Holidays Santa visits at the Miller Park Branch, 1901 Arlington Ave, on Thursday, December 3, 2026. Families register for a 30 minute slot to visit with Santa and Mrs. Claus, with six slots running from 4 to 7 PM.",
+   "Each slot includes take-home crafts and cookies. The library lists the visits for babies, toddlers, preschoolers, school age children and families, and registration is required for each time slot."
+  ],
+  "tip": "Register for a time slot first, since each 30 minute visit is booked separately."
+ }
+]
