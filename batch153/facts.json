@@ -1,0 +1,144 @@
+[
+ {
+  "cand": 44406,
+  "name": "Breakfast with Santa at Fox River Mall",
+  "page": "appleton-wi",
+  "page_name": "Appleton",
+  "town": "Appleton",
+  "host": "Fox River Mall",
+  "venue": "Northwoods Cafe at Fox River Mall",
+  "address": "4301 W. Wisconsin Ave., Appleton, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "08:30",
+    "10:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 8:30 to 10 AM",
+  "cost": "$8 per ticket; children 2 and under free",
+  "ages": "Families with kids",
+  "url": "https://www.foxrivermall.com/en/events/55640",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Fox River Mall in Appleton hosts its second annual Breakfast with Santa in the Northwoods Cafe on Saturday, December 5, 2026, from 8:30 to 10 AM. Proceeds benefit Habitat for Humanity of the Greater Fox Cities.",
+   "Santa makes a grand entrance, and families get a breakfast from IHOP, coffee and cake pops from Starbucks, a visit from a princess, craft tables and one-on-one time with Santa. Tickets are $8 each and children 2 and under are free. Bring your proof of purchase."
+  ],
+  "tip": "Buy tickets ahead and bring proof of purchase."
+ },
+ {
+  "cand": 44407,
+  "name": "Pet Night with Santa at Fox River Mall",
+  "page": "appleton-wi",
+  "page_name": "Appleton",
+  "town": "Appleton",
+  "host": "Fox River Mall",
+  "venue": "Macy's Wing at Fox River Mall",
+  "address": "4301 W. Wisconsin Ave., Appleton, WI",
+  "times": [
+   [
+    "2026-11-30",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-01",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-07",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-08",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-14",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-15",
+    "16:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Mondays and Tuesdays through December 15, 2026, 4 to 7 PM",
+  "cost": "See the mall listing for photo pricing",
+  "ages": "Families with pets",
+  "url": "https://www.foxrivermall.com/en/events/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Pet Night with Santa runs on Monday and Tuesday evenings at Fox River Mall in Appleton, in the Macy's wing, from 4 to 7 PM. The remaining nights are November 30, December 1, 7, 8, 14 and 15, 2026.",
+   "Families bring their dogs and other pets for a photo with Santa, so the whole household can be in the holiday picture. Check the mall listing for each night and for photo package prices."
+  ],
+  "tip": "Keep your pet leashed or in a carrier."
+ },
+ {
+  "cand": 44408,
+  "name": "Breakfast with Santa at Beja Shrine Center",
+  "page": "green-bay-wi",
+  "page_name": "Green Bay",
+  "town": "Green Bay",
+  "host": "Beja Shriners",
+  "venue": "Beja Shrine Center",
+  "address": "1950 Bond St., Green Bay, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "08:30",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 8:30 to 11 AM",
+  "cost": "Adults $8; ages 3 to 12 $5; under 3 free",
+  "ages": "Families with kids",
+  "url": "https://bejashriners.com/breakfast-with-santa/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Beja Shriners welcome families to Breakfast with Santa at the Beja Shrine Center, 1950 Bond St. in Green Bay, on Saturday, December 5, 2026, from 8:30 to 11 AM.",
+   "Tickets are $8 for adults and $5 for children ages 3 to 12, and children under 3 eat free. Families sit down for breakfast and visit with Santa."
+  ],
+  "tip": "Arrive early to beat the late-morning crowd."
+ },
+ {
+  "cand": 44409,
+  "name": "Sunday Brunch with Santa at The 1844 Table & Mash",
+  "page": "kenosha-wi",
+  "page_name": "Kenosha",
+  "town": "Kenosha",
+  "host": "The 1844 Table & Mash",
+  "venue": "The 1844 Table & Mash",
+  "address": "Inside The Stella Hotel & Ballroom, downtown Kenosha, WI",
+  "times": [
+   [
+    "2026-12-06",
+    "09:00",
+    "14:00"
+   ],
+   [
+    "2026-12-13",
+    "09:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Sundays, December 6 and 13, 2026, 9 AM to 2 PM",
+  "cost": "Adults $24.95; kids 4 to 12 $19.95; under 3 free",
+  "ages": "Families with kids",
+  "url": "https://the1844.com/special/sunday-brunch-with-santa",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The 1844 Table & Mash in downtown Kenosha serves a festive family brunch with a visit from Santa Claus on Sunday, December 6, and Sunday, December 13, 2026, from 9 AM to 2 PM.",
+   "The buffet has scrambled eggs, bacon, sausage, breakfast pizzas, pastries, fresh fruit and an omelet station, plus Grinch pancakes and a dessert station for kids. Adults are $24.95, kids 4 to 12 are $19.95 and kids under 3 are free. Reservations are required."
+  ],
+  "tip": "Reserve early because it fills up."
+ }
+]
