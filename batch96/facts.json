@@ -1,0 +1,96 @@
+[
+ {
+  "cand": 44204,
+  "name": "Palm Valley Boat Parade",
+  "page": "st-augustine-fl",
+  "page_name": "St. Augustine",
+  "town": "Ponte Vedra Beach",
+  "host": "the Palm Valley Boat Parade committee",
+  "venue": "Intracoastal Waterway and Palm Valley Bridge viewing area",
+  "address": "Palm Valley Bridge viewing area, Ponte Vedra Beach, FL",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "19:30"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 6 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://palmvalleyboatparade.com/",
+  "kind": "boat parade lights",
+  "indoor": false,
+  "paras": [
+   "The Palm Valley Boat Parade lights up the Intracoastal Waterway on Saturday, December 5, 2026, at 6 PM. The parade is free to watch, and the organizers describe it as a local tradition since 1993.",
+   "Decorated power boats and sailboats start one mile south of the Palm Valley Bridge and travel north toward Marsh Landing. Docks along the shore compete in a decorating contest, so families see lights on the water and on the banks.",
+   "The Palm Valley Bridge viewing area is a favorite gathering spot. The committee asks families to bring a chair and arrive early, and it posts parking and viewing updates on its official viewing page."
+  ],
+  "tip": "Bring a chair and arrive early to claim a spot at the Palm Valley Bridge viewing area."
+ },
+ {
+  "cand": 44205,
+  "name": "Una Noche de Navidad and Las Posadas at Mission Nombre de Dios",
+  "page": "st-augustine-fl",
+  "page_name": "St. Augustine",
+  "town": "St. Augustine",
+  "host": "the National Shrine of Our Lady of La Leche",
+  "venue": "National Shrine of Our Lady of La Leche, Mission Nombre de Dios",
+  "address": "101 San Marco Avenue, St. Augustine, FL 32084",
+  "times": [
+   [
+    "2026-12-12",
+    "15:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 3 to 8 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "tickets": "https://forms.ministryforms.net/embed.aspx?formId=0717368f-c811-4021-8841-51967d2287a3",
+  "url": "https://missionandshrine.org/event/las-posadas-a-christmas-tradition/",
+  "kind": "nativity posadas",
+  "indoor": false,
+  "paras": [
+   "The National Shrine of Our Lady of La Leche at Mission Nombre de Dios hosts Las Posadas as a Christmas tradition on Saturday, December 12, 2026, from 3 to 8 PM at 101 San Marco Avenue in St. Augustine.",
+   "The tradition dates back to 16th century Mexico and re-enacts the Holy Family's journey from Nazareth to Bethlehem as they look for shelter on the eve of Jesus' birth, celebrating the spirit of Advent.",
+   "The shrine's event page links a ticket form and a printable flyer titled Una Noche de Navidad."
+  ],
+  "tip": "Reserve through the ticket form on the shrine's event page before the day."
+ },
+ {
+  "cand": 44206,
+  "name": "Colonial Night Watch and Torchlight Parade",
+  "page": "st-augustine-fl",
+  "page_name": "St. Augustine",
+  "town": "St. Augustine",
+  "host": "the Historic Florida Militia garrison",
+  "venue": "Oldest House Museum and Colonial Quarter",
+  "address": "14 Francis Street, St. Augustine, FL 32084",
+  "times": [
+   [
+    "2026-12-04",
+    "10:00",
+    "16:00"
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Friday, December 4 and Saturday, December 5, public days 10 AM to 4 PM, torchlight parade Saturday at 7 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://hfm.club/about/garrison/colonial-night-watch-for-participants/",
+  "kind": "reenactment parade",
+  "indoor": false,
+  "paras": [
+   "The Historic Florida Militia holds the 2026 St. Augustine Colonial Night Watch on Friday, December 4 and Saturday, December 5 at the Oldest House Museum, with public days from 10 AM to 4 PM both days.",
+   "A period encampment recreates the years 1739 through 1785, when Spanish and British forces and their allies were in St. Augustine. Scheduled presentations run Saturday from 11 AM to 3 PM.",
+   "The Torchlight Parade starts at the Visitor Information Center on Saturday at 7 PM and passes through the City Gates and down St. George Street to the Governor's House at 48 King Street. A volley of joy follows the parade.",
+   "The organizers ask for no live rounds and say musket demonstrations are staged by a safety officer, so younger visitors may want ear protection."
+  ],
+  "tip": "Bring ear protection for little ones, since the muskets fire during the demonstrations and parade."
+ }
+]
