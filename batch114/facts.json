@@ -1,0 +1,36 @@
+[
+ {
+  "cand": 44241,
+  "name": "Christmas in the Village at the Strongsville Historical Village",
+  "page": "cleveland-oh",
+  "page_name": "Cleveland",
+  "town": "Strongsville",
+  "host": "Strongsville Historical Society",
+  "venue": "Strongsville Historical Village",
+  "address": "13305 Pearl Road, Strongsville, OH",
+  "times": [
+   [
+    "2026-12-05",
+    "13:00",
+    "16:00"
+   ],
+   [
+    "2026-12-06",
+    "13:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Saturday and Sunday, December 5 and 6, 1 to 4 PM each day",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.strongsville.org/upcoming-events/2026/december/historical-village-christmas-1",
+  "kind": "outing",
+  "indoor": true,
+  "paras": [
+   "The Strongsville Historical Society hosts its annual Christmas in the Village at 13305 Pearl Road on Saturday and Sunday, December 5 and 6, from 1 to 4 PM each day. The City of Strongsville lists the event and states that admission is free.",
+   "Visitors can step back in time for an old-fashioned Christmas, meet Santa, see a model train display and take in the holiday decorations.",
+   "Children can also make gingerbread houses with the Girl Scouts. The Historical Society's own website has more about the village."
+  ],
+  "tip": "Both days run the same 1 to 4 PM hours, so pick the day that suits your family."
+ }
+]
