@@ -1,0 +1,365 @@
+[
+ {
+  "cand": 44442,
+  "name": "Wild Lights at the Detroit Zoo",
+  "page": "detroit-mi",
+  "page_name": "Detroit",
+  "town": "Royal Oak",
+  "host": "Detroit Zoological Society",
+  "venue": "Detroit Zoo",
+  "address": "8450 W. 10 Mile Rd., Royal Oak, MI 48067",
+  "times": [
+   [
+    "2026-11-27",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-11-28",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-11-29",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-04",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-12-05",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-12-06",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-10",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-12-12",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-12-13",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-14",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-15",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-16",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-17",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-12-19",
+    "17:00",
+    "22:30"
+   ],
+   [
+    "2026-12-20",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-21",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-22",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-23",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "November 27 to 29, December 4 to 6 and December 10 to 23, 2026; 5 to 10:30 PM Friday and Saturday and 5 to 9 PM other nights",
+  "cost": "$17 to $25 online; $27 at the gate; parking is $8",
+  "ages": "All ages",
+  "url": "https://www.thepernateam.com/blog/where-to-see-santa-in-metro-detroit/",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Wild Lights fills the Detroit Zoo in Royal Oak with Christmas light displays on select nights from November 27 through December 23, 2026. Hours are 5 to 10:30 PM on Fridays and Saturdays and 5 to 9 PM on other nights.",
+   "Santa appears on every event night. Tickets are $17 to $25 online and $27 at the gate, and parking costs $8."
+  ],
+  "tip": "Buy online to skip the higher gate price."
+ },
+ {
+  "cand": 44443,
+  "name": "Holiday Fun and Santa Visits at Maybury Farm",
+  "page": "detroit-mi",
+  "page_name": "Detroit",
+  "town": "Northville",
+  "host": "Maybury Farm",
+  "venue": "Maybury Farm",
+  "address": "50165 Eight Mile Rd., Northville, MI 48167",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "15:00"
+   ],
+   [
+    "2026-12-06",
+    "10:00",
+    "15:00"
+   ],
+   [
+    "2026-12-12",
+    "10:00",
+    "15:00"
+   ],
+   [
+    "2026-12-13",
+    "10:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturdays and Sundays December 5, 6, 12 and 13, 2026, 10 AM to 3 PM",
+  "cost": "$10 per person for everyone age 2 and over; free for children under 2",
+  "ages": "Whole family",
+  "url": "https://www.thepernateam.com/blog/where-to-see-santa-in-metro-detroit/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Maybury Farm in Northville hosts Holiday Fun and Santa Visits on four weekend days in December 2026: December 5, 6, 12 and 13, from 10 AM to 3 PM.",
+   "Everyone age 2 and over needs a $10 ticket, and children under 2 get in free. Families visit Santa on the working farm."
+  ],
+  "tip": "Dress for a day outdoors on the farm."
+ },
+ {
+  "cand": 44444,
+  "name": "Breakfast with Santa at Dave & Buster's Livonia",
+  "page": "detroit-mi",
+  "page_name": "Detroit",
+  "town": "Livonia",
+  "host": "Dave & Buster's Livonia",
+  "venue": "Dave & Buster's Livonia",
+  "address": "19375 Victor Pkwy., Livonia, MI 48152",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 9 to 11 AM",
+  "cost": "Tickets from $27.94",
+  "ages": "Whole family",
+  "url": "https://www.thepernateam.com/blog/where-to-see-santa-in-metro-detroit/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Dave & Buster's in Livonia hosts Breakfast with Santa on Saturday, December 12, 2026, from 9 to 11 AM at 19375 Victor Pkwy.",
+   "Tickets start at $27.94, so families can book a breakfast with Santa and then stay for the arcade."
+  ],
+  "tip": "Book early since tickets are sold in advance."
+ },
+ {
+  "cand": 44445,
+  "name": "Visit with Santa at The Henry Ford Museum",
+  "page": "detroit-mi",
+  "page_name": "Detroit",
+  "town": "Dearborn",
+  "host": "The Henry Ford",
+  "venue": "Henry Ford Museum of American Innovation",
+  "address": "20900 Oakwood Blvd., Dearborn, MI 48124",
+  "times": [
+   [
+    "2026-11-27",
+    "09:30",
+    "16:00"
+   ],
+   [
+    "2026-11-28",
+    "09:30",
+    "16:00"
+   ],
+   [
+    "2026-11-29",
+    "09:30",
+    "16:00"
+   ],
+   [
+    "2026-12-04",
+    "09:30",
+    "16:00"
+   ],
+   [
+    "2026-12-05",
+    "09:30",
+    "16:00"
+   ],
+   [
+    "2026-12-06",
+    "09:30",
+    "16:00"
+   ]
+  ],
+  "when_note": "November 27 to 29 and December 4 to 6, 2026, 9:30 AM to 12:30 PM and 1:30 to 4 PM",
+  "cost": "Included with museum admission; free for members",
+  "ages": "Whole family",
+  "url": "https://www.thepernateam.com/blog/where-to-see-santa-in-metro-detroit/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa visits the Henry Ford Museum of American Innovation in Dearborn on November 27 to 29 and December 4 to 6, 2026. Visits run from 9:30 AM to 12:30 PM and from 1:30 to 4 PM.",
+   "The Santa visit is included with museum admission, and it is free for members."
+  ],
+  "tip": "Plan your Santa visit around the 12:30 PM break."
+ },
+ {
+  "cand": 44446,
+  "name": "Sensory-Friendly Photos with Santa at the Ford House",
+  "page": "grosse-pointe-mi",
+  "page_name": "Grosse Pointe",
+  "town": "Grosse Pointe Shores",
+  "host": "Edsel and Eleanor Ford House",
+  "venue": "Edsel and Eleanor Ford House",
+  "address": "1100 Lake Shore Rd., Grosse Pointe Shores, MI 48236",
+  "times": [
+   [
+    "2026-12-02",
+    "14:00",
+    "15:00"
+   ],
+   [
+    "2026-12-06",
+    "09:00",
+    "10:00"
+   ],
+   [
+    "2026-12-09",
+    "14:00",
+    "15:00"
+   ],
+   [
+    "2026-12-13",
+    "09:00",
+    "10:00"
+   ],
+   [
+    "2026-12-16",
+    "14:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Wednesdays December 2, 9 and 16, 2 to 3 PM, and Sundays December 6 and 13, 9 to 10 AM, 2026",
+  "cost": "$25 per child for Ford House friends; $35 per child for the public",
+  "ages": "Children of all ages who do best in a calm setting",
+  "url": "https://fordhouse.org/events/sensory-friendly-photos-with-santa/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Edsel and Eleanor Ford House in Grosse Pointe Shores offers Sensory-Friendly Photos with Santa in a quiet, small-group setting. Sessions run on Wednesdays December 2, 9 and 16 from 2 to 3 PM and on Sundays December 6 and 13 from 9 to 10 AM, 2026.",
+   "Tickets are $25 per child for Ford House friends and $35 per child for the public, and the tickets are limited. The first session on November 29 sold out, so book early."
+  ],
+  "tip": "Reserve early because tickets are limited."
+ },
+ {
+  "cand": 44447,
+  "name": "North Pole Express at the Steam Railroading Institute",
+  "page": "corunna-mi",
+  "page_name": "Corunna",
+  "town": "Owosso",
+  "host": "Steam Railroading Institute",
+  "venue": "Steam Railroading Institute",
+  "address": "405 S. Washington St., Owosso, MI 48867",
+  "times": [
+   [
+    "2026-12-04",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-06",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-11",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-12",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-13",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-18",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-19",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-20",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Fridays through Sundays December 4 to 6, 11 to 13 and 18 to 20, 2026; trains depart Owosso at 10 AM and 5 PM (show times estimated); sold out at last check",
+  "cost": "$85 per coach seat; Cocoa Class $250 for 2 seats; children 24 months and under on a lap ride free",
+  "ages": "Whole family",
+  "url": "https://michigansteamtrain.com/north-pole-express/",
+  "kind": "outing",
+  "indoor": false,
+  "paras": [
+   "The North Pole Express is a pajama-friendly train ride from the Steam Railroading Institute in Owosso. Trains run Fridays through Sundays on December 4 to 6, 11 to 13 and 18 to 20, 2026, departing at 10 AM and 5 PM. The trips were sold out at last check, so watch the official site for returned seats.",
+   "Coach Class tickets are $85 per seat and include a cup of hot cocoa. Every ticket also includes free admission to the Village of Ashley Country Christmas and a Believe bell. Children 24 months and under who sit on a lap do not need a ticket."
+  ],
+  "tip": "Check the official site for returned seats because trips are sold out."
+ }
+]
