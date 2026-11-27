@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 43101,
+  "name": "Christmas at Central National Bank",
+  "town": "Waco",
+  "venue": "Central National Bank, Highway 84 location",
+  "address": "8320 W Hwy 84, Waco, TX 76712",
+  "times": [
+   [
+    "2026-12-04",
+    "16:00",
+    "18:00"
+   ],
+   [
+    "2026-12-05",
+    "09:00",
+    "12:00"
+   ],
+   [
+    "2026-12-11",
+    "15:00",
+    "18:00"
+   ],
+   [
+    "2026-12-12",
+    "09:00",
+    "12:00"
+   ],
+   [
+    "2026-12-18",
+    "15:00",
+    "18:00"
+   ],
+   [
+    "2026-12-19",
+    "09:00",
+    "12:00"
+   ],
+   [
+    "2026-12-19",
+    "13:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "It runs over three weekends, with Friday afternoon and Saturday morning sessions, plus an extra Saturday afternoon session on December 19.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Central National Bank",
+  "url": "https://www.cnbwaco.com/christmas/",
+  "kind": "santa",
+  "indoor": true,
+  "page": "waco-tx",
+  "page_name": "Waco",
+  "paras": [
+   "Central National Bank hosts its 15th annual Christmas at Central National Bank at its Highway 84 location on six dates from December 4 to 19, 2026. Families get complimentary pictures with Santa, cookies and hot chocolate.",
+   "The bank plays holiday music and lights a 20 foot Christmas tree. A professional photographer takes the Santa pictures at no cost, and families may also use their own phones. The photos are posted to the bank's Facebook page, usually within 48 hours."
+  ],
+  "tip": "Ask for the time slot card at the event, because it tells you which Facebook album holds your photos."
+ }
+]
