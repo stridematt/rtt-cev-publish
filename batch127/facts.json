@@ -1,0 +1,93 @@
+[
+ {
+  "cand": 44262,
+  "name": "Downtown Spirit of Christmas Walk",
+  "page": "grand-junction-co",
+  "page_name": "Grand Junction",
+  "town": "Grand Junction",
+  "host": "Downtown Grand Junction",
+  "venue": "Downtown Grand Junction",
+  "address": "Downtown Grand Junction, Grand Junction, CO 81501",
+  "times": [
+   [
+    "2026-12-11",
+    "17:30",
+    "20:30"
+   ]
+  ],
+  "when_note": "Friday, December 11, 5:30 to 8:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://downtowngj.org/events/spirit-of-christmas/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "Downtown Grand Junction hosts the Spirit of Christmas Walk on Friday, December 11, 2026, from 5:30 to 8:30 PM. Downtown becomes a Christmas village with extended business hours and extra entertainment along the walk.",
+   "The host lists walking light tours, special shopping deals, carolers, pop-up art markets, entertainment and a Santa Con. The walk is a public downtown event with no admission listed."
+  ],
+  "tip": "Dress warmly and plan to walk, since the lights, carolers and pop-up markets are spread along downtown."
+ },
+ {
+  "cand": 44263,
+  "name": "Olde Fashioned Christmas in Palisade",
+  "page": "grand-junction-co",
+  "page_name": "Grand Junction",
+  "town": "Palisade",
+  "host": "Palisade Chamber of Commerce",
+  "venue": "Downtown Palisade",
+  "address": "Downtown Palisade, Palisade, CO 81526",
+  "times": [
+   [
+    "2026-12-04",
+    "16:30",
+    "18:30"
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 4:30 to 6:30 PM and Saturday, December 5, 10 AM to 4 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://palisadecoc.com/ofc/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Palisade Chamber of Commerce runs Olde Fashioned Christmas in downtown Palisade on Friday, December 4, and Saturday, December 5, 2026. Friday evening, from 4:30 to 6:30 PM, brings a cup of warmth at Slice O'Life Bakery, a carolers march at 3rd and Main, the Palisade Parade of Lights at 5:30 PM, the tree lighting and the tower lighting at the Palisade Fire Station at 6 PM.",
+   "Saturday runs from 10 AM to 4 PM with a Winter Faire of artisan booths, food and music, Clark's Carriage Rides from 10:30 AM to 3:30 PM, the Candy Cane Train and Depot at 3rd and Main from 10 AM to 4 PM, and Christmas Critters at 2nd and Peach from 10 AM to 2 PM. Pictures with Santa are at 3rd and Kluge from 11 AM to 12:30 PM, with Galasso Images photo packages starting at $25.",
+   "The Winter Faire is free to attend. A ticketed Breakfast with Santa on Saturday at 8:30 or 9:00 AM adds a buffet, a professional photo with Santa, a free book and a candy cane, with tickets sold through Zeffy. The weekend also includes a children's Gingerbread Contest and Showcase with drop off at 9 AM on December 5 and a Soup Challenge from 11 AM to 1:30 PM."
+  ],
+  "tip": "Arrive Friday for the 5:30 PM parade or Saturday before 11 AM to line up for Santa pictures."
+ },
+ {
+  "cand": 44265,
+  "name": "Christmas at Cross",
+  "page": "grand-junction-co",
+  "page_name": "Grand Junction",
+  "town": "Grand Junction",
+  "host": "Museums of Western Colorado",
+  "venue": "Cross Orchards Historic Site",
+  "address": "3073 Patterson Rd, Grand Junction, CO 81504",
+  "times": [
+   [
+    "2026-12-19",
+    "09:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 19, 9 AM to 3 PM",
+  "cost": "$5 per person, free for museum members",
+  "ages": "All ages",
+  "url": "https://museumsofwesternco.org/event/christmas-at-cross-2/",
+  "tickets": "https://altru118995.sky.blackbaud.com/118995/page.aspx?pid=213&tab=2&txobjid=6114337b-861c-47a9-aa2f-4acb6ba00c2c",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Museums of Western Colorado hold Christmas at Cross on Saturday, December 19, 2026, from 9 AM to 3 PM at the Cross Orchards Historic Site, 3073 Patterson Road in Grand Junction. Admission is $5 per person and free for museum members.",
+   "The day includes unlimited firetruck and train rides, visits with Santa, crafts, hot cocoa, cider and cookies, and a model train Christmas show. Tickets are sold through the museum's ticketing page."
+  ],
+  "tip": "Buy tickets ahead and head to the train and firetruck lines first, since rides are unlimited all day."
+ }
+]
