@@ -1,0 +1,118 @@
+[
+ {
+  "cand": 44243,
+  "name": "Santa Claws for a Cause at the Wildlife Conservation Center",
+  "page": "canton-oh",
+  "page_name": "Canton",
+  "town": "Massillon",
+  "host": "Stark Parks",
+  "venue": "Wildlife Conservation Center at Sippo Lake Park",
+  "address": "800 Genoa Ave, Massillon, OH 44646",
+  "times": [
+   [
+    "2026-12-04",
+    "17:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 5:30 to 8 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.starkparks.com/holidays/",
+  "kind": "outing",
+  "indoor": true,
+  "paras": [
+   "Stark Parks invites families to help Santa Claws deck the halls of the Wildlife Conservation Center at Sippo Lake Park, 800 Genoa Ave in Massillon. The evening runs from 5:30 to 8 PM on Friday, December 4, and no registration is required.",
+   "Guests can bring a gift from the center's wish list and watch Santa deliver special items to the wildlife ambassadors, then fill the critters' stockings. Kids meet the animals, visit the Holly Hospital station to give a stuffed animal a check up, and listen to live music.",
+   "Hot cocoa is served around the fire. Donations to the center are accepted through the Stark Parks giving page."
+  ],
+  "tip": "Pack a stuffed animal for the Holly Hospital check up and bring a gift from the wish list if you wish."
+ },
+ {
+  "cand": 44244,
+  "name": "Manor House Open House at Quail Hollow Park",
+  "page": "canton-oh",
+  "page_name": "Canton",
+  "town": "Hartville",
+  "host": "Stark Parks",
+  "venue": "Stewart Manor House, Quail Hollow Park",
+  "address": "13480 Congress Lake Ave, Hartville, OH 44632",
+  "times": [
+   [
+    "2026-12-12",
+    "13:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 1 to 3 PM",
+  "cost": "$5 per person or $20 per family, children 3 and under free",
+  "ages": "All ages",
+  "url": "https://www.starkparks.com/holidays/",
+  "kind": "outing",
+  "indoor": true,
+  "paras": [
+   "The Quail Hollow Volunteer Association and Stark Parks open the Stewart Manor House at Quail Hollow Park, 13480 Congress Lake Ave in Hartville, on Saturday, December 12 from 1 to 3 PM. The first floor sparkles with lights and festive holiday decorations.",
+   "Guests enjoy music in the living room, and Stark Parks naturalists lead a make and take Christmas craft for kids to bring home. Pre-registration is not required.",
+   "Admission is $5 per person or $20 for a family, paid in cash at the door, and children age 3 and under are free. All proceeds go to the Stewart Manor House."
+  ],
+  "tip": "Bring cash, since admission is paid at the door."
+ },
+ {
+  "cand": 44245,
+  "name": "Grinchmas Celebration at Sippo Lake Park",
+  "page": "canton-oh",
+  "page_name": "Canton",
+  "town": "Canton",
+  "host": "Stark Parks",
+  "venue": "Perry-Sippo Library, Sippo Lake Park",
+  "address": "5712 12th St NW, Canton, OH 44708",
+  "times": [
+   [
+    "2026-12-12",
+    "14:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2 to 4 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.starkparks.com/holidays/",
+  "kind": "crafts",
+  "indoor": true,
+  "paras": [
+   "Green fur, silly games and a big heart: Grinchmas lands at Sippo Lake Park on Saturday, December 12, from 2 to 4 PM. The party happens inside the Perry-Sippo Library, so a cozy reading corner is part of the fun.",
+   "The Fireplace Storytime opens at 2 PM, and Old Saint Nick drops in for a meet and greet. Between stories, kids tackle Grinch-y games and crafts.",
+   "Seats are limited by sign-up. Families reserve through Stark Library, where registration opened November 2."
+  ],
+  "tip": "Register through Stark Library ahead of time, since registration is required."
+ },
+ {
+  "cand": 44246,
+  "name": "Santa's Winter Workshop at Sippo Lake Park",
+  "page": "canton-oh",
+  "page_name": "Canton",
+  "town": "Canton",
+  "host": "Stark Parks",
+  "venue": "Exploration Gateway at Sippo Lake Park",
+  "address": "5712 12th St NW, Canton, OH 44708",
+  "times": [
+   [
+    "2026-12-22",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Tuesday, December 22, 10 AM to noon",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://www.starkparks.com/holidays/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Three days before Christmas, Santa makes a weekday stop in Canton. Tuesday, December 22, from 10 AM to noon, he holds court at the Exploration Gateway nature center, and families can simply walk in.",
+   "The morning is built around a craft, a scavenger hunt, rounds of Christmas Bingo and a holiday cartoon on screen.",
+   "Letters to Santa are welcome, so kids should write one at home and hand it over in person."
+  ],
+  "tip": "Bring your letter for Santa."
+ }
+]
