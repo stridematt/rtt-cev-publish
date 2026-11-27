@@ -1,0 +1,62 @@
+[
+ {
+  "cand": 44136,
+  "name": "Baldwin Park Winter Wonderland Extravaganza",
+  "host": "City of Orlando",
+  "venue": "Mayor Glenda Hood Park, Baldwin Park Village",
+  "address": "4990 New Broad Street, Orlando, FL 32814",
+  "times": [
+   [
+    "2026-12-05",
+    "16:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 4 to 8 PM, with the lighted parade at 7 PM",
+  "cost": "Free",
+  "url": "https://www.orlando.gov/Events/Winter-Wonderland-Extravaganza-at-Baldwin-Park-Village",
+  "kind": "santa parade lights outing food",
+  "indoor": false,
+  "paras": [
+   "The City of Orlando lists the Winter Wonderland Extravaganza at Baldwin Park Village for Saturday, December 5, 2026 from 4 to 8 PM at Mayor Glenda Hood Park on New Broad Street. The city lists the cost as free.",
+   "The afternoon includes kids' activities, live holiday performances, local artists, food, stilt walkers, face painting and a chance to take pictures with Santa.",
+   "At 7 PM a lighted parade heads down New Broad Street toward Lake Baldwin. After the parade, Santa lights the holiday tree.",
+   "The event contact listed by the city is Adam Bailey at Tim Webber Events, 407-719-4488."
+  ],
+  "tip": "Plan to be on New Broad Street before 7 PM if you want a spot for the lighted parade.",
+  "page": "orlando-fl",
+  "page_name": "Orlando",
+  "ages": "All ages",
+  "town": "Orlando"
+ },
+ {
+  "cand": 44137,
+  "name": "Holiday Craft Day at Leu Gardens",
+  "host": "Harry P. Leu Gardens",
+  "venue": "Harry P. Leu Gardens",
+  "address": "1920 N Forest Ave, Orlando, FL 32803",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 10 AM to 1 PM",
+  "cost": "Included with garden admission: $15 adult, $10 child",
+  "url": "https://www.leugardens.org/Events/Calendar-of-Events/Holiday-Craft-Day",
+  "kind": "crafts outing",
+  "indoor": false,
+  "paras": [
+   "Harry P. Leu Gardens hosts Holiday Craft Day on Saturday, December 5, 2026 from 10 AM to 1 PM. Visitors of all ages can join holiday craft activities led by the gardens team.",
+   "Crafts include making a snowman ornament, decorating a mini wreath and learning to make snowball slime. All of it is included with regular garden admission.",
+   "Admission is $15 for adults and $10 for children. The gardens list their hours as 9 AM to 4 PM, with last entry one hour before closing.",
+   "The gardens note that the Historic Leu House Museum is temporarily closed."
+  ],
+  "tip": "Craft Day runs only 10 AM to 1 PM, so arrive early to fit in all three crafts.",
+  "page": "orlando-fl",
+  "page_name": "Orlando",
+  "ages": "All ages",
+  "town": "Orlando"
+ }
+]
