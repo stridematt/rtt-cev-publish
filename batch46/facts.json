@@ -1,0 +1,143 @@
+[
+ {
+  "cand": 44063,
+  "name": "Garden of Lights at Heathcote Botanical Gardens",
+  "town": "Fort Pierce",
+  "venue": "Heathcote Botanical Gardens",
+  "address": "210 Savannah Road, Fort Pierce, FL 34982",
+  "times": [
+   [
+    "2026-12-04",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-05",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-06",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-12",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-13",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-14",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-19",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-20",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-26",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-27",
+    "17:30",
+    "21:00"
+   ]
+  ],
+  "when_note": "Select evenings in December, 5:30 to 9 PM",
+  "cost": "Adults $15; children ages 6 to 17 $5; children under 6 free; members $10",
+  "host": "Heathcote Botanical Gardens",
+  "url": "https://heathcotebotanicalgardens.org/garden-of-lights-2/",
+  "kind": "lights outing",
+  "indoor": false,
+  "paras": [
+   "Heathcote Botanical Gardens lists Garden of Lights on twelve evenings in December 2026: December 4, 5, 6, 11, 12, 13, 14, 18, 19, 20, 26 and 27, from 5:30 PM to 9 PM. The gardens are at 210 Savannah Road in Fort Pierce.",
+   "The host lists admission at $15 for adults, $5 for children ages 6 to 17, free for children under 6, and $10 for members. Kids can follow a scavenger hunt with a prize, Santa appears on select nights, and food trucks are on site."
+  ],
+  "tip": "Check the host page for which nights Santa visits before you pick a date.",
+  "page": "fort-pierce-fl",
+  "page_name": "Fort Pierce",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44064,
+  "name": "A Spectacular Christmas at the Sunrise Theatre",
+  "town": "Fort Pierce",
+  "venue": "Sunrise Theatre",
+  "address": "117 South Second Street, Fort Pierce, FL 34950",
+  "times": [
+   [
+    "2026-12-19",
+    "19:00",
+    ""
+   ]
+  ],
+  "when_note": "One night only, with a Santa visit in the lobby before the show",
+  "cost": "Price not listed",
+  "host": "South Florida Dance Company",
+  "url": "https://southfloridadance.com/performance/a-spectacular-christmas/",
+  "tickets": "https://www.ticketmaster.com/event/0D006537ACA0A74C",
+  "kind": "show santa",
+  "indoor": true,
+  "paras": [
+   "South Florida Dance Company presents A Spectacular Christmas at the Sunrise Theatre in downtown Fort Pierce on Saturday, December 19, 2026 at 7 PM, one night only. The host calls it a full length theatrical dance production for children from one to ninety-two.",
+   "The story follows a family separated during the holidays and hoping to be reunited by Christmas morning. The host lists Rockettes-inspired numbers, Rudolph the Red-Nosed Reindeer, Santa Claus and a portrayal of the Nativity. Young audience members can see Santa in the theatre lobby before the performance. The host page does not print a ticket price."
+  ],
+  "tip": "Arrive early for the lobby visit with Santa before the curtain.",
+  "page": "fort-pierce-fl",
+  "page_name": "Fort Pierce",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44065,
+  "name": "The Nutcracker by St. Lucie Ballet at the Sunrise Theatre",
+  "town": "Fort Pierce",
+  "venue": "Sunrise Theatre",
+  "address": "117 South Second Street, Fort Pierce, FL 34950",
+  "times": [
+   [
+    "2026-12-04",
+    "19:00",
+    ""
+   ]
+  ],
+  "when_note": "Doors open at 6 PM",
+  "cost": "Price not listed",
+  "host": "Sunrise Theatre",
+  "url": "https://www.sunrisetheatre.com/shows/st-lucie-ballet-nutcracker/",
+  "tickets": "https://www.ticketmaster.com/event/0D00653884203BC4",
+  "kind": "show",
+  "indoor": true,
+  "paras": [
+   "The Sunrise Theatre lists St. Lucie Ballet's The Nutcracker on Friday, December 4, 2026 at 7 PM, with doors at 6 PM. The theatre calls it a full length Treasure Coast tradition of 22 years in the Main Theatre.",
+   "The theatre page does not print ticket prices or an age guide, so check the box office, 772-461-4775, before you buy."
+  ],
+  "tip": "Doors open an hour early, which helps families settle young children.",
+  "page": "fort-pierce-fl",
+  "page_name": "Fort Pierce",
+  "ages": "All ages"
+ }
+]
