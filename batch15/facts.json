@@ -1,0 +1,58 @@
+[
+ {
+  "cand": 42601,
+  "name": "Grinchfest",
+  "town": "Midland",
+  "venue": "Golf Course Road Church of Christ",
+  "address": "3500 W Golf Course Rd, Midland, TX 79703",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed; the holiday activity stations are described as free",
+  "ages": "All ages",
+  "host": "Whiskers & Tails Animal Rescue",
+  "url": "https://business.midlandtxchamber.com/events/details/grinchfest-12880",
+  "kind": "other crafts",
+  "indoor": true,
+  "page": "midland-tx",
+  "page_name": "Midland",
+  "paras": [
+   "Whiskers & Tails Animal Rescue hosts Grinchfest on Saturday, December 12, 2026, from 11 am to 3 pm at Golf Course Road Church of Christ in west Midland. Families meet the Grinch, pose for photos and pick up a Grinchfest Passport.",
+   "Kids collect stamps at free holiday activity stations scattered through the event. Money raised supports the rescue's pet care and low-cost spay and neuter services."
+  ],
+  "tip": "Pick up the passport right after the Grinch photo so the kids can stamp every station."
+ },
+ {
+  "cand": 42602,
+  "name": "Storytime: Pig the Elf at the Fredda Turner Durham Children's Museum",
+  "town": "Midland",
+  "venue": "Fredda Turner Durham Children's Museum",
+  "address": "1705 W Missouri Ave, Midland, TX 79701",
+  "times": [
+   [
+    "2026-12-26",
+    "11:00",
+    "11:30"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "ages": "Young children",
+  "host": "Museum of the Southwest",
+  "url": "https://www.museumsw.org/event-details/storytime-pig-the-elf-by-aaron-blabey-2026-12-26-11-00",
+  "kind": "story",
+  "indoor": true,
+  "page": "midland-tx",
+  "page_name": "Midland",
+  "paras": [
+   "The Fredda Turner Durham Children's Museum reads Aaron Blabey's Christmas picture book Pig the Elf on Saturday, December 26, 2026, from 11 to 11:30 am. The story follows a greedy pug who ends up on Santa's sleigh.",
+   "The reading happens in the museum's calming room, and the museum says no registration is required."
+  ],
+  "tip": "The calming room keeps the reading quiet, which suits kids who like a gentler Saturday outing."
+ }
+]
