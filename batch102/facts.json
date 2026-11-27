@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44222,
+  "name": "Casselberry Annual Tree Lighting Ceremony at Lake Concord Park",
+  "page": "casselberry-fl",
+  "page_name": "Casselberry",
+  "town": "Casselberry",
+  "host": "City of Casselberry",
+  "venue": "Lake Concord Park, behind City Hall",
+  "address": "95 Triplet Lake Dr, Casselberry, FL 32707",
+  "times": [
+   [
+    "2026-12-05",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 5 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.casselberry.org/calendar.aspx?EID=18916",
+  "kind": "tree lighting",
+  "indoor": false,
+  "paras": [
+   "The City of Casselberry hosts its annual tree lighting ceremony on Saturday, December 5, 2026, from 5 to 8 PM at Lake Concord Park, behind City Hall at 95 Triplet Lake Drive. The city lists admission as free.",
+   "The city describes a night of great singing and holiday festivities. Various schools perform, and Santa Claus shows up to turn on the Christmas tree lights behind City Hall.",
+   "Besides the singing, there is a host of children's activities and vendors, and families can take free portrait style photos with Santa using their own cameras. Parking is available at adjacent businesses."
+  ],
+  "tip": "Bring your own camera for the free photos with Santa and park at the adjacent businesses."
+ },
+ {
+  "cand": 44223,
+  "name": "Casselberry Holiday Art and Music in the Park and Berry Bazaar",
+  "page": "casselberry-fl",
+  "page_name": "Casselberry",
+  "town": "Casselberry",
+  "host": "City of Casselberry",
+  "venue": "Lake Concord Park",
+  "address": "95 Triplet Lake Dr, Casselberry, FL 32707",
+  "times": [
+   [
+    "2026-12-11",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Friday, December 11, 6 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.casselberry.org/Calendar.aspx?EID=18918&month=12&year=2026&day=17&calType=0",
+  "kind": "holiday music night",
+  "indoor": false,
+  "paras": [
+   "The City of Casselberry hosts a special Holiday Art & Music in the Park and Food Trucks night, also called the Berry Bazaar, on Friday, December 11, 2026, from 6 to 9 PM at Lake Concord Park, 95 Triplet Lake Drive. The city lists the cost as free.",
+   "The city says there will be live music, Santa Claus available for photos, 10 food trucks and many holiday vendors.",
+   "The city calls it a great night of holiday music and shopping just two weeks before Christmas."
+  ],
+  "tip": "Come hungry for the food trucks and plan your photo with Santa early in the evening."
+ }
+]
