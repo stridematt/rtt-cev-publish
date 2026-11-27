@@ -1,0 +1,59 @@
+[
+ {
+  "cand": 44258,
+  "name": "Breakfast with Santa at The Center",
+  "page": "stow-oh",
+  "page_name": "Stow",
+  "town": "Stow",
+  "host": "The Center Events and Catering",
+  "venue": "The Center",
+  "address": "4157 Hudson Dr, Stow, OH 44224",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 9 to 11 AM",
+  "cost": "Adults $30, children 2 to 10 $15, ages 2 and under free",
+  "ages": "All ages",
+  "url": "https://www.thecenterstow.com/breakfast-with-santa",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Center Events and Catering hosts Breakfast with Santa on Saturday, December 12, 2026, from 9 to 11 AM at 4157 Hudson Dr in Stow. The morning pairs a breakfast with photos with Santa and holiday fun for the whole family.",
+   "Admission is $30 for adults and $15 for children ages 2 to 10, and children ages 2 and under are free. Tickets went on sale November 14 through the venue."
+  ],
+  "tip": "Buy tickets through The Center before the day, since the breakfast is ticketed."
+ },
+ {
+  "cand": 44259,
+  "name": "Sensory Friendly Santa and the Symphony",
+  "page": "new-albany-oh",
+  "page_name": "New Albany",
+  "town": "New Albany",
+  "host": "New Albany Symphony Orchestra",
+  "venue": "McCoy Center for the Arts",
+  "address": "100 E Dublin-Granville Rd, New Albany, OH 43054",
+  "times": [
+   [
+    "2026-12-19",
+    "11:30",
+    "12:30"
+   ]
+  ],
+  "when_note": "Saturday, December 19, 11:30 AM to 12:30 PM",
+  "cost": "$10",
+  "ages": "All ages",
+  "url": "https://newalbanysymphony.com/event/santa-the-symphony-2/",
+  "tickets": "https://www.capa.com/productions/santa-the-symphony-2026/",
+  "kind": "concert",
+  "indoor": true,
+  "paras": [
+   "The New Albany Symphony Orchestra presents a sensory friendly Santa and the Symphony on Saturday, December 19, 2026, at 11:30 AM at the McCoy Center for the Arts, 100 E Dublin-Granville Rd. The morning features sleigh bells, classic carols and a special visit from Santa.",
+   "The sensory friendly series is designed for people on the autism spectrum, the dementia and Alzheimer's community, young children, and anyone who wants a more relaxed concert. Admission is $10 and tickets are sold through CAPA."
+  ],
+  "tip": "Choose this one for a relaxed concert where movement and noise are welcome."
+ }
+]
