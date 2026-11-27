@@ -1,0 +1,63 @@
+[
+ {
+  "cand": 44097,
+  "name": "An Old Florida Christmas",
+  "town": "Bradenton",
+  "venue": "Manatee Village Historical Park",
+  "address": "1404 Manatee Ave E, Bradenton, FL 34208",
+  "times": [
+   [
+    "2026-12-12",
+    "10:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "10 AM to 2 PM",
+  "cost": "Free",
+  "host": "Manatee Village Historical Park",
+  "url": "https://www.manateevillage.org/an-old-florida-christmas",
+  "kind": "market food crafts show outing",
+  "indoor": false,
+  "paras": [
+   "Manatee Village Historical Park hosts An Old Florida Christmas on Saturday, December 12, 2026, with free admission to the grounds.",
+   "The day brings local vendors, food trucks, live entertainment and holiday crafts to the historic village, so families can browse and snack between performances."
+  ],
+  "tip": "Food and vendor items are bought on site, so bring a little cash or a card for treats.",
+  "page": "bradenton-fl",
+  "page_name": "Bradenton",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44098,
+  "name": "Palmetto's Christmas in the Park",
+  "town": "Palmetto",
+  "venue": "Palmetto Historical Park",
+  "address": "515 10th Ave W, Palmetto, FL",
+  "times": [
+   [
+    "2026-12-04",
+    "15:00",
+    "19:30"
+   ],
+   [
+    "2026-12-05",
+    "15:00",
+    "19:30"
+   ]
+  ],
+  "when_note": "3 to 7:30 PM both nights",
+  "cost": "Free",
+  "host": "Palmetto Historical Park",
+  "url": "https://palmettohistoricalpark.com/palmettos-christmas-in-the-park/",
+  "kind": "santa lights crafts outing",
+  "indoor": false,
+  "paras": [
+   "Palmetto Historical Park and the Manatee County Agricultural Museum host a Historic Hometown Christmas on Friday, December 4 and Saturday, December 5, 2026, from 3 to 7:30 PM. Both days offer the same experience.",
+   "General admission is free with no reservation needed and covers the crafts, the games and six decorated buildings. Food is sold on site. Visits with Santa are free but need an online reservation, and the park lists Santa's schedule as full for both days."
+  ],
+  "tip": "Santa visits are reservation only and currently full, so plan on the crafts, games and decorated buildings.",
+  "page": "bradenton-fl",
+  "page_name": "Bradenton",
+  "ages": "All ages"
+ }
+]
