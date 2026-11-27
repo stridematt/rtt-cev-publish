@@ -1,0 +1,121 @@
+[
+ {
+  "cand": 44210,
+  "name": "Tree Lighting Ceremony at Dunedin City Hall",
+  "page": "dunedin-fl",
+  "page_name": "Dunedin",
+  "town": "Dunedin",
+  "host": "Dunedin Parks and Recreation",
+  "venue": "Dunedin City Hall, Louden Avenue side",
+  "address": "737 Louden Avenue, Dunedin, FL 34698",
+  "times": [
+   [
+    "2026-12-03",
+    "17:00",
+    "18:30"
+   ]
+  ],
+  "when_note": "Thursday, December 3, 5 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.dunedin.gov/Events-directory/2026-Events-Meetings/2026-Special-Events/Tree-Lighting-Ceremony",
+  "kind": "tree lighting",
+  "indoor": false,
+  "paras": [
+   "The City of Dunedin holds its annual tree lighting ceremony on Thursday, December 3, 2026, at 5 PM at Dunedin City Hall. The city lists the event as free.",
+   "Residents gather in front of the building on the Louden Avenue side for the tree lighting presentation, with musical entertainment by the International Chorale and a special visit from Santa.",
+   "Dunedin Parks and Recreation presents the evening and answers questions at 727-812-4530."
+  ],
+  "tip": "Gather on the Louden Avenue side of City Hall and arrive before 5 PM to see Santa's visit."
+ },
+ {
+  "cand": 44211,
+  "name": "Dunedin Holiday Boat Parade and Tree Lighting at Edgewater Park",
+  "page": "dunedin-fl",
+  "page_name": "Dunedin",
+  "town": "Dunedin",
+  "host": "Dunedin Parks and Recreation with the Dunedin Boat Club",
+  "venue": "Dunedin Marina and Edgewater Park",
+  "address": "51 Main Street, Dunedin, FL 34698",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 6 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.dunedin.gov/Events-directory/2026-Events-Meetings/Holiday-Boat-Parade",
+  "kind": "boat parade",
+  "indoor": false,
+  "paras": [
+   "Dunedin's Holiday Boat Parade returns on Saturday, December 5, 2026, from 6 to 9 PM. Decorated and illuminated boats launch from Loggerhead Marker 1 Marina and travel the Intracoastal toward Dunedin Marina, leading up to the arrival of Santa.",
+   "The parade begins at 6 PM outside Loggerhead Marker 1 Marina, travels south to Union Street and returns north to finish at the Dunedin Marina, with boats arriving at about 7 PM.",
+   "Festivities in Edgewater Park include holiday music, a tree lighting ceremony, s'mores and concessions by Old Bay Cafe. Bleachers are set up in the marina parking lot, and the city suggests lawn chairs.",
+   "Other viewing areas include Weaver Park and spots along Bayshore Boulevard and Edgewater Drive, though boats stay in the channel there. Admission is free."
+  ],
+  "tip": "Bring lawn chairs and arrive early, because bleacher and lawn space at the marina can fill up."
+ },
+ {
+  "cand": 44212,
+  "name": "Breakfast with Santa at Dunedin Community Center",
+  "page": "dunedin-fl",
+  "page_name": "Dunedin",
+  "town": "Dunedin",
+  "host": "Dunedin Parks and Recreation",
+  "venue": "Dunedin Community Center",
+  "address": "1920 Pinehurst Road, Dunedin, FL 34698",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    ""
+   ]
+  ],
+  "when_note": "Saturday, December 5, 9 AM",
+  "cost": "$10 per person early bird through December 2; $15 per person on December 3 if space allows",
+  "ages": "All ages",
+  "tickets": "https://fldunedinweb.myvscloud.com/webtrac/web/iteminfo.html?Module=AR&FMID=121804039",
+  "url": "https://www.dunedin.gov/Events-directory/2026-Events-Meetings/2026-Special-Events/Breakfast-with-Santa",
+  "kind": "breakfast with santa",
+  "indoor": true,
+  "paras": [
+   "Dunedin Parks and Recreation invites families to Breakfast with Santa on Saturday, December 5, 2026, at 9 AM at the Dunedin Community Center, 1920 Pinehurst Road.",
+   "Children bring their wish list and join Santa for a pancake breakfast, crafts and entertainment.",
+   "The early bird fee is $10 per person on or before December 2, and the fee is $15 per person on December 3 if space allows. Tickets are sold through the city's online registration system."
+  ],
+  "tip": "Buy tickets by December 2 for the lower early bird price."
+ },
+ {
+  "cand": 44213,
+  "name": "Dunedin Holiday Parade and Old Fashioned Christmas",
+  "page": "dunedin-fl",
+  "page_name": "Dunedin",
+  "town": "Dunedin",
+  "host": "Dunedin Parks and Recreation",
+  "venue": "Downtown Dunedin, Main Street and Douglas Avenue",
+  "address": "Main Street and Douglas Avenue, Dunedin, FL 34698",
+  "times": [
+   [
+    "2026-12-12",
+    "15:30",
+    "21:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, parade at 3:30 PM, festivities until 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.dunedin.gov/Events-directory/2026-Events-Meetings/2026-Special-Events/Holiday-Parade-Old-Fashioned-Christmas",
+  "kind": "parade festival",
+  "indoor": false,
+  "paras": [
+   "Dunedin's annual downtown holiday parade starts at 3:30 PM on Saturday, December 12, 2026, and travels along Douglas Avenue from Beltrees Street north to Skinner Boulevard. It features decorated floats, bands, performers and Santa Claus.",
+   "After the parade, Old Fashioned Christmas fills downtown through 9 PM with Clydesdale horse drawn carriage rides, snow slides, kids' crafts, old fashioned games, face painting, live music in Pioneer Park, street performers, snow flurries and s'mores.",
+   "Families can visit Santa Claus at the Dunedin History Museum to share their wishes and take photos.",
+   "The event is free to attend, with donations accepted at the activity areas. A free Jolley Trolley shuttle runs from 2:30 to 9:30 PM from the Mease Hospital overflow lot and Curtis Fundamental."
+  ],
+  "tip": "Park at the Mease Hospital overflow lot or Curtis Fundamental and ride the free Jolley Trolley downtown."
+ }
+]
