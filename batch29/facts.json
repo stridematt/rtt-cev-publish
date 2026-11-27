@@ -1,0 +1,434 @@
+[
+ {
+  "cand": 44001,
+  "name": "Garden City Christmas Festival and Official Tree Lighting",
+  "town": "Garden City",
+  "venue": "Town Green",
+  "address": "Town Green, Garden City, GA 31405",
+  "times": [
+   [
+    "2026-12-04",
+    "18:00",
+    "19:30"
+   ]
+  ],
+  "when_note": "Contest winners are announced at 5:45 PM, just before the main event begins.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Garden City",
+  "url": "https://www.gardencity-ga.gov/Events-directory/Christmas-Festival-Official-Tree-Lighting",
+  "kind": "lights santa",
+  "indoor": false,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "The city's annual festival fills the Town Green with a moonbounce, train rides, refreshments and giveaways. An ugly sweater contest adds a silly side, and Santa takes photos on the front steps of City Hall.",
+   "Children can also look over the entries in the city's tree decorating and gingerbread house contests before the tree is lit."
+  ],
+  "tip": "Come before 6 PM to see the decorated trees and gingerbread houses before the crowd builds."
+ },
+ {
+  "cand": 44002,
+  "name": "Richmond Hill 30th Annual Christmas Parade",
+  "town": "Richmond Hill",
+  "venue": "Timber Trail Recreation to City Hall",
+  "address": "City Hall, 40 Richard R Davis Rd, Richmond Hill, GA 31324",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "13:30"
+   ]
+  ],
+  "when_note": "The route runs from Timber Trail Recreation to City Hall, and the theme is Scenes of the Season.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Richmond Hill",
+  "url": "https://richmondhill-ga.gov/calendar.aspx?EID=1668",
+  "kind": "parade",
+  "indoor": false,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "Floats, bands and community groups travel the route on a Saturday morning, which suits young children better than an evening parade. This is the city's 30th parade.",
+   "Last year's parade was canceled for weather, so the city moved it up to early December this time."
+  ],
+  "tip": "Pick a spot near City Hall at the end of the route, where the floats slow down."
+ },
+ {
+  "cand": 44003,
+  "name": "Breakfast with Santa at Vic's on the River",
+  "town": "Savannah",
+  "venue": "Vic's on the River",
+  "address": "26 E Bay St, Savannah, GA 31401",
+  "times": [
+   [
+    "2026-12-12",
+    "10:30",
+    "11:30"
+   ],
+   [
+    "2026-12-12",
+    "12:00",
+    "13:00"
+   ],
+   [
+    "2026-12-12",
+    "13:30",
+    "14:30"
+   ]
+  ],
+  "when_note": "Three seatings run that Saturday: 10:30, 12:00 and 1:30. Doors open 20 minutes early.",
+  "cost": "Tickets from $36.22",
+  "ages": "All ages",
+  "host": "Vic's on the River",
+  "url": "",
+  "kind": "santa food story",
+  "indoor": true,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "Each seating pairs a breakfast buffet of pancakes, French toast, eggs, bacon, sausage and fruit with a visit from Santa at the table. Santa reads The Night Before Christmas before the crafts begin.",
+   "Afterward, children can do holiday crafts, face painting, temporary tattoos and a letter to Santa dropped in his mailbox. Every child leaves with a gift bag, and tickets are not refundable."
+  ],
+  "tip": "Book the earliest seating if your child naps in the afternoon, since the crafts follow the story.",
+  "tickets": "https://www.eventbrite.com/e/breakfast-with-santa-2026-tickets-2002240795117"
+ },
+ {
+  "cand": 44004,
+  "name": "A Very Maritime Holiday Party at Ships of the Sea",
+  "town": "Savannah",
+  "venue": "Ships of the Sea Maritime Museum",
+  "address": "41 Martin Luther King Jr Blvd, Savannah, GA 31401",
+  "times": [
+   [
+    "2026-12-11",
+    "16:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "Santa arrives at 4:30 PM, and a live concert follows in the Maple Grove.",
+  "cost": "$22 adults; $10 children; free for museum members",
+  "ages": "All ages",
+  "host": "Ships of the Sea Maritime Museum",
+  "url": "https://www.shipsofthesea.org/maritimeholiday",
+  "kind": "santa crafts show",
+  "indoor": false,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "The museum's holiday party fills its historic house and gardens with art projects, gingerbread sailboats and treats. Santa arrives at 4:30 PM, and hot chocolate is served while a local band plays holiday classics.",
+   "Parents can order Polar Champagne Punch while the children decorate. Tickets are sold online in advance."
+  ],
+  "tip": "Arrive at 4:30 PM sharp if you want the first turn with Santa before the concert starts."
+ },
+ {
+  "cand": 44005,
+  "name": "Holiday Family Programs at Ships of the Sea",
+  "town": "Savannah",
+  "venue": "Ships of the Sea Maritime Museum",
+  "address": "41 Martin Luther King Jr Blvd, Savannah, GA 31401",
+  "times": [
+   [
+    "2026-12-19",
+    "11:00",
+    "12:00"
+   ],
+   [
+    "2026-12-20",
+    "11:00",
+    "16:00"
+   ],
+   [
+    "2026-12-21",
+    "13:00",
+    "14:30"
+   ]
+  ],
+  "when_note": "Little Sailors Storytime is Dec. 19, Deck the Hulls drop-in crafts run Dec. 20, and the Holiday Harbor Club workshop for ages 8 and up is Dec. 21.",
+  "cost": "Storytime and crafts included with museum admission; workshop $20, or $15 for members",
+  "ages": "Storytime for little ones; workshop ages 8 and up",
+  "host": "Ships of the Sea Maritime Museum",
+  "url": "https://www.shipsofthesea.org/maritimeholiday",
+  "kind": "story crafts",
+  "indoor": true,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "Three small programs at the maritime museum fill the week before Christmas. The first is a cozy holiday story time for the youngest visitors, then a day of drop-in maritime crafts, then a drop-off art workshop for older children.",
+   "The Holiday Harbor Club workshop needs advance registration and runs only if at least eight children sign up. Parents can shop downtown with free parking while the artists work."
+  ],
+  "tip": "Register for the Dec. 21 workshop early, since it only runs with eight or more children."
+ },
+ {
+  "cand": 44006,
+  "name": "Santa on a Fire Truck in Pooler Neighborhoods",
+  "town": "Pooler",
+  "venue": "Neighborhoods across Pooler",
+  "address": "Pooler, GA 31322",
+  "times": [
+   [
+    "2026-11-29",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-04",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-05",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-06",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-13",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Santa visits a different part of the city each night, with make-up dates planned for bad weather. A live tracker shows where he is.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "City of Pooler",
+  "url": "https://www.pooler-ga.gov/news/city-event-santa-clause-is-coming-to-town-december-2026/",
+  "kind": "santa outing",
+  "indoor": false,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "Santa rides through Pooler on a fire truck from 6 to 9 PM, so families can watch from their own street instead of waiting in a line. The city's page lists the streets for each night.",
+   "The city also runs a live Santa Tracker, which helps children know when the truck is close."
+  ],
+  "tip": "Check the street list for your night before leaving home, since each date covers different subdivisions."
+ },
+ {
+  "cand": 44007,
+  "name": "Savannah Ice Rink at Tanger Outlets",
+  "town": "Pooler",
+  "venue": "Tanger Outlets Savannah",
+  "address": "200 Tanger Outlets Blvd, Pooler, GA 31322",
+  "times": [
+   [
+    "2026-11-28",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-11-29",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-11-30",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-01",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-02",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-03",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-04",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-05",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-06",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-07",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-08",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-09",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-10",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-11",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-13",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-14",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-15",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-16",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-17",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-18",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-19",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-20",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-21",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-22",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-23",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-24",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-25",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-26",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-27",
+    "11:00",
+    ""
+   ],
+   [
+    "2026-12-28",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-29",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-30",
+    "15:00",
+    ""
+   ],
+   [
+    "2026-12-31",
+    "15:00",
+    ""
+   ],
+   [
+    "2027-01-01",
+    "15:00",
+    ""
+   ],
+   [
+    "2027-01-02",
+    "11:00",
+    ""
+   ],
+   [
+    "2027-01-03",
+    "11:00",
+    ""
+   ]
+  ],
+  "when_note": "The rink is open through Jan. 3, 2027. Hours are 3 to 9 PM Monday to Thursday, 3 to 10 PM Friday, 11 AM to 10 PM Saturday and 11 AM to 8 PM Sunday. Holiday hours are not published.",
+  "cost": "$18 per skater with rental; $15 on select Mondays",
+  "ages": "All ages",
+  "host": "Tanger Outlets Savannah",
+  "url": "https://iretangersavannah.ticketspice.com/savannah-ice-rink-at-tanger-outlets-20262027-season",
+  "kind": "outing",
+  "indoor": false,
+  "page": "savannah-ga",
+  "page_name": "Savannah",
+  "paras": [
+   "The outdoor rink beside the outlet center's lighthouse is open every day of the season, and skate rental is included in the ticket. Tickets are sold in 30-minute sessions.",
+   "The $15 Cheapskate Monday price applies on Nov. 30 and Dec. 7, 14, 21 and 28. A season pass costs $99."
+  ],
+  "tip": "Book a Monday evening session for the lowest price and thinner crowds."
+ }
+]
