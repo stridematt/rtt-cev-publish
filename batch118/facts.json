@@ -1,0 +1,67 @@
+[
+ {
+  "cand": 44249,
+  "name": "Hands-On Holidays and Hotcakes at the Akron Children's Museum",
+  "page": "akron-oh",
+  "page_name": "Akron",
+  "town": "Akron",
+  "host": "Akron Children's Museum",
+  "venue": "Akron Children's Museum",
+  "address": "216 S Main St, Akron, OH 44308",
+  "times": [
+   [
+    "2026-12-06",
+    "09:30",
+    "15:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, three sessions from 9:15 AM, museum closes at 3 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://akronkids.org/calendar/special-events/hands-holidays-hotcakes-sunday-december-6",
+  "tickets": "https://bit.ly/3U9Amhl",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Akron Children's Museum, 216 S Main St, turns a December Sunday into a hotcake breakfast and a day of holiday play. Hands-On Holidays and Hotcakes runs on Sunday, December 6, with the museum closing at 3 PM.",
+   "Families check in and head to the Holiday Hotcake Hall for a buffet of fluffy pancakes, a toppings bar, coffee and drinks. When everyone has eaten, special holiday guests announce play time and the group moves into the museum.",
+   "Inside, kids make and take holiday crafts, get their faces painted, try hands-on STEM activities and meet Santa and friends. Tickets are sold online in advance for one of three sessions."
+  ],
+  "tip": "Pick a session when you buy tickets, since families move from the dining space to the museum with their belongings."
+ },
+ {
+  "cand": 44250,
+  "name": "Paws and Claus Photos with Santa at Twinkle Nights",
+  "page": "findlay-oh",
+  "page_name": "Findlay",
+  "town": "Findlay",
+  "host": "Family Resource Center",
+  "venue": "Hancock County Fairgrounds",
+  "address": "1017 E Sandusky St, Findlay, OH 45840",
+  "times": [
+   [
+    "2026-12-19",
+    "18:00",
+    "21:00"
+   ],
+   [
+    "2026-12-20",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Saturday, December 19 and Sunday, December 20, 6 to 9 PM",
+  "cost": "Free photos with Santa; tickets for the light show ride sold online",
+  "ages": "All ages",
+  "url": "https://www.frcohio.com/twinkle-nights-schedule/paws-amp-claus-plus-photos-with-santa-t84m6",
+  "tickets": "https://app.fairs.com/e/b701bb87fb794490",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa Claus moves indoors this year at Twinkle Nights, the Family Resource Center's drive-thru Christmas light show at the Hancock County Fairgrounds, 1017 E Sandusky St in Findlay. Paws and Claus runs Saturday, December 19 and Sunday, December 20, from 6 to 9 PM.",
+   "Kids, pets or the whole crew can stop for free photos with Santa and then take a ride through the lights. Tickets for the ride are sold online.",
+   "The host is also collecting wishlist items for the Humane Society and SPCA of Hancock County. Guests who bring an item to donate receive a free beverage from Travelin' Tom's Coffee."
+  ],
+  "tip": "Bring a wishlist item for the Humane Society to get a free coffee or cocoa from Travelin' Tom's."
+ }
+]
