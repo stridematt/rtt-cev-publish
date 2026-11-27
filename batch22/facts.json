@@ -1,0 +1,24 @@
+[
+ {
+  "cand": 43301,
+  "name": "Buoy Tree Lighting Ceremony at Lisman Landing",
+  "town": "Milford",
+  "venue": "Lisman Landing",
+  "address": "37 Helwig St, Milford, CT 06460",
+  "times": [["2026-12-06","15:00","18:00"]],
+  "when_note": "The market under the pavilion runs from 3 to 6 PM, with music at 4 PM and the tree lighting with the mayor at 5 PM.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Milford Arts Council",
+  "url": "https://milfordarts.org/holiday-buoy-tree-exhibit/",
+  "kind": "lights market",
+  "indoor": false,
+  "page": "bridgeport-ct",
+  "page_name": "Bridgeport",
+  "paras": [
+   "The Milford Arts Council lights a tree built from lobster buoys on the harbor at Lisman Landing. The program includes caroling, the arrival of Santa and Mrs. Claus by oyster boat, and the lighting itself with the Mayor of Milford.",
+   "A small holiday market sets up under the Lisman pavilion with vendors selling stocking stuffers and ornaments. Food trucks serve hot cocoa and coffee, and live music starts at 4 PM ahead of the 5 PM lighting."
+  ],
+  "tip": "Dress for wind off the water and arrive before 4 PM to see the Santa boat arrival and find parking near the marina."
+ }
+]
