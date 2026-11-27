@@ -1,0 +1,86 @@
+[
+ {
+  "cand": 44267,
+  "name": "Jingle Bell Jam",
+  "page": "greeley-co",
+  "page_name": "Greeley",
+  "town": "Greeley",
+  "host": "Greeley Family FunPlex",
+  "venue": "Family FunPlex",
+  "address": "1501 65th Ave, Greeley, CO 80634",
+  "times": [
+   [
+    "2026-12-18",
+    "17:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Friday, December 18, 5 to 8 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://greeleyco.gov/events/greeley-events/211813166",
+  "kind": "festival",
+  "indoor": true,
+  "paras": [
+   "Greeley Parks and Recreation hosts Jingle Bell Jam at the Family FunPlex, 1501 65th Avenue, on Friday, December 18, 2026, from 5 to 8 PM. Admission is free.",
+   "Families can visit with Santa and Mrs. Claus, sip hot cocoa and decorate an ornament."
+  ],
+  "tip": "Plan to decorate an ornament and visit Santa and Mrs. Claus before the 8 PM close."
+ },
+ {
+  "cand": 44268,
+  "name": "Skate With Santa at the Greeley Ice Haus",
+  "page": "greeley-co",
+  "page_name": "Greeley",
+  "town": "Greeley",
+  "host": "Greeley Ice Haus",
+  "venue": "Greeley Ice Haus",
+  "address": "900 8th Ave, Greeley, CO 80631",
+  "times": [
+   [
+    "2026-12-19",
+    "12:00",
+    "13:30"
+   ]
+  ],
+  "when_note": "Saturday, December 19, 12 to 1:30 PM",
+  "cost": "$15, includes skate rental",
+  "ages": "All ages",
+  "url": "https://greeleyco.gov/events/greeley-events/211815810",
+  "kind": "festival",
+  "indoor": true,
+  "paras": [
+   "Santa takes to the rink on Saturday, December 19, 2026, when the Greeley Ice Haus at 900 8th Avenue runs its Skate With Santa session from noon to 1:30 PM. One $15 ticket covers admission and rental skates, so there is nothing extra to book.",
+   "The city's listing promises a free skating lesson alongside hot cocoa, face painting and crafts. Kids can have their picture taken with Santa, and the Zamboni is part of the fun."
+  ],
+  "tip": "Arrive at noon so the skating lesson fits in before the lines for Santa pictures build."
+ },
+ {
+  "cand": 44269,
+  "name": "Homesteader's Holiday at Centennial Village Museum",
+  "page": "greeley-co",
+  "page_name": "Greeley",
+  "town": "Greeley",
+  "host": "City of Greeley Museums",
+  "venue": "Centennial Village Museum",
+  "address": "1475 A St, Greeley, CO 80631",
+  "times": [
+   [
+    "2026-12-12",
+    "12:00",
+    "18:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 12 to 6 PM",
+  "cost": "Adults $8, youth 7 to 17 and seniors $6, children 6 and under free, family of 3 to 5 $20",
+  "ages": "All ages",
+  "url": "https://greeleyco.gov/events/greeley-events/211685607",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "Greeley's Centennial Village Museum decks its historical homes and pathways for Homesteader's Holiday on Saturday, December 12, 2026, from 12 to 6 PM at 1475 A Street. Adults pay $8, youth ages 7 to 17 and seniors pay $6, children 6 and under are free, and a family of 3 to 5 pays $20. Visitors with demonstrated need (SNAP or EBT) enter free.",
+   "The day offers holiday crafts and music, old-fashioned candle dipping and festive historical homes. A visit with Cowboy Santa is part of the museum's holiday weekend listing on Visit Greeley."
+  ],
+  "tip": "Start with candle dipping and crafts, then tour the historical homes while the lights come on."
+ }
+]
