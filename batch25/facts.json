@@ -1,0 +1,46 @@
+[
+ {
+  "cand": 43601,
+  "name": "Princess Breakfast and Skate at Hanford Winter Wonderland",
+  "town": "Hanford",
+  "venue": "Winter Wonderland ice rink",
+  "address": "400 N Douty St, Hanford, CA 93230",
+  "times": [["2026-12-12","08:30","10:30"]],
+  "when_note": "It is a Saturday morning session.",
+  "cost": "$25 per person",
+  "ages": "All ages",
+  "host": "Hanford Winter Wonderland",
+  "url": "https://www.hanfordwinterwonderland.com/events/princess-breakfast/",
+  "kind": "food outing",
+  "indoor": false,
+  "page": "visalia-ca",
+  "page_name": "Visalia",
+  "paras": [
+   "Hanford Winter Wonderland serves a breakfast with princess characters at its downtown ice rink, then opens a private skating session. The ticket covers breakfast, skate rentals, the skating session and a meet and greet with photos and autographs.",
+   "The host page encourages children to dress up. Tickets are sold through Eventbrite, and the session runs from 8:30 to 10:30 AM."
+  ],
+  "tip": "Book ahead on Eventbrite and have kids wear their costume over layers for the ice."
+ },
+ {
+  "cand": 43602,
+  "name": "Superhero Breakfast and Skate at Hanford Winter Wonderland",
+  "town": "Hanford",
+  "venue": "Winter Wonderland ice rink",
+  "address": "400 N Douty St, Hanford, CA 93230",
+  "times": [["2026-12-13","08:30","10:30"]],
+  "when_note": "It is a Sunday morning session.",
+  "cost": "$25 per person",
+  "ages": "All ages",
+  "host": "Hanford Winter Wonderland",
+  "url": "https://www.hanfordwinterwonderland.com/events/superhero-breakfast/",
+  "kind": "food outing",
+  "indoor": false,
+  "page": "visalia-ca",
+  "page_name": "Visalia",
+  "paras": [
+   "Families meet costumed superheroes over a full breakfast buffet of pancakes, eggs and bacon at the Winter Wonderland ice rink in downtown Hanford. Professional photos are part of the meet and greet, and ice skating follows the meal.",
+   "The host page says spaces are limited and sends families to Eventbrite to reserve. The morning runs from 8:30 to 10:30 AM."
+  ],
+  "tip": "Reserve early because spaces are limited, and plan for skating after the buffet."
+ }
+]
