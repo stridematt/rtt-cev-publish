@@ -1,0 +1,61 @@
+[
+ {
+  "cand": 44178,
+  "name": "A Magical Reindeer Encounter at Newfield in Palm City",
+  "town": "Palm City",
+  "host": "Newfield's own events page",
+  "venue": "The Promenade at Newfield",
+  "address": "10850 SW Pioneer Street, Palm City, FL 34990",
+  "times": [
+   [
+    "2026-12-12",
+    "16:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 4 to 8 PM",
+  "cost": "$16 residents, $18 non-residents",
+  "ages": "All ages with a parent or guardian",
+  "url": "https://newfieldfl.com/events/a-magical-reindeer-encounter/",
+  "kind": "santa lights outing crafts",
+  "indoor": false,
+  "paras": [
+   "Newfield, the Palm City community, hosts A Magical Reindeer Encounter on Saturday, December 12, 2026 from 4 to 8 PM at The Promenade, 10850 SW Pioneer Street. Live reindeer arrive for a meet and greet with photos.",
+   "Tickets cost $16 for Newfield residents and $18 for non-residents and cover meeting the reindeer and taking photos. They are sold on site, and sales close once the line reaches capacity, so only guests already in line at that point get photos.",
+   "Alongside the reindeer, the evening includes a Letters to Santa station where kids write a note addressed to the North Pole, and a holiday light stroll.",
+   "Every child must be accompanied by a parent or guardian."
+  ],
+  "tip": "Join the reindeer line early, because ticketing stops when the line hits capacity.",
+  "page": "stuart-fl",
+  "page_name": "Stuart"
+ },
+ {
+  "cand": 44179,
+  "name": "Holiday Village at The Patio in Palm City",
+  "town": "Palm City",
+  "host": "the Palm City Chamber of Commerce",
+  "venue": "The Patio at Palm City Place",
+  "address": "3290 SW Mapp Road, Palm City, FL 34990",
+  "times": [
+   [
+    "2026-12-02",
+    "17:30",
+    "20:00"
+   ]
+  ],
+  "when_note": "Wednesday, December 2, 5:30 to 8 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://business.palmcitychamber.com/event-calendar/Details/holiday-village-2026-1899894?sourceTypeId=Website",
+  "kind": "market santa outing",
+  "indoor": false,
+  "paras": [
+   "The Palm City Chamber of Commerce lists Holiday Village 2026 for Wednesday, December 2, from 5:30 to 8 PM at The Patio at Palm City Place, 3290 SW Mapp Road.",
+   "Martin County's Macaroni KID holiday guide also carries the evening, promoted by the chamber, among its early December family events.",
+   "The chamber's calendar entry gives the date, hours and place, and the chamber office answers questions at (772) 286-8121."
+  ],
+  "tip": "Check with the chamber before you go for the evening's lineup and any admission details.",
+  "page": "stuart-fl",
+  "page_name": "Stuart"
+ }
+]
