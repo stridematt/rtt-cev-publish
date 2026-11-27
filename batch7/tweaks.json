@@ -1,0 +1,16 @@
+{
+"christmas-in-mcgregor-tx":{"cand":41801,
+ "kids":["Take pictures with Santa","Make a craft with Mrs. Claus","Pet the barnyard animals","Ride the trackless train","Play carnival games and win prizes","Eat cookies and milk"],
+ "site":["Christmas parade","Tree lighting","Petting zoo","Train rides","Carnival games","Movie on the lawn"],
+ "table":[["Host","McGregor Christmas"],["Date","Friday, December 18, 2026"],["Hours","6 to 10 pm"],["Admission","Free"]],
+ "about":["The McGregor Movement organizes the parade, and the McGregor Ministerial Alliance leads caroling inside at 7 pm.","The Texas Theatre shows a Christmas movie on the lawn at 7 pm.","Presenting sponsor SpaceX and other local businesses make the night free for every family."],
+ "faq":[["Is McGregor Christmas free?","Yes, the event site says local sponsors make it free for every family."],["What time does the McGregor tree light up?","At 6:45 pm outside The Exchange Event Center, after the 6 pm parade."]],
+ "source":"the McGregor Christmas event site"},
+"bellmead-christmas-tree-lighting-and-parade-tx":{"cand":41802,
+ "kids":["Watch the tree light up at 6:30 pm","Watch the parade at 7 pm","Bring a chair for the park"],
+ "site":["Tree lighting","Christmas parade","Memorial Park"],
+ "table":[["Host","City of Bellmead"],["Date","Thursday, December 3, 2026"],["Schedule","Tree lighting 6:30 pm, parade 7 pm"],["Admission","Free"]],
+ "about":["The tree stands in Memorial Park, where the city holds the lighting every year.","Bellmead sits just north of Waco along the interstate.","The city calendar entry runs from 6 to 7 pm."],
+ "faq":[["Where is the Bellmead tree lighting?","Memorial Park, 3017 Bellmead Drive."],["What time is the Bellmead parade?","7 pm on Thursday, December 3, 2026, after the 6:30 pm tree lighting."]],
+ "source":"the City of Bellmead's event page"}
+}
