@@ -1,0 +1,96 @@
+[
+ {
+  "cand": 44207,
+  "name": "Violectric Holiday Show at Lake Eola Park",
+  "page": "orlando-fl",
+  "page_name": "Orlando",
+  "town": "Orlando",
+  "host": "Violectric and the City of Orlando",
+  "venue": "Walt Disney Amphitheater at Lake Eola Park",
+  "address": "195 North Rosalind Avenue, Orlando, FL 32801",
+  "times": [
+   [
+    "2026-12-12",
+    "19:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 7 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.orlando.gov/Events/Violectric-Holiday-Show-2026",
+  "kind": "holiday concert",
+  "indoor": false,
+  "paras": [
+   "Violectric, the Central Florida strings group led by Michelle Jones, plays its 14th Annual Violectric Holiday Show on Saturday, December 12, 2026, at 7 PM. The City of Orlando lists the concert as free and tags it for kids and families.",
+   "The show takes place at the Walt Disney Amphitheater at Lake Eola Park, 195 North Rosalind Avenue in downtown Orlando. This year's lineup features students who join the band from local school orchestras.",
+   "Lake Eola Park also hosts the city's other December events, so the concert fits into a longer evening by the lake."
+  ],
+  "tip": "Pack a blanket or low chair for the amphitheater lawn and plan parking early on a busy lake night."
+ },
+ {
+  "cand": 44208,
+  "name": "DTOLive for the Holidays at Lake Eola Amphitheater",
+  "page": "orlando-fl",
+  "page_name": "Orlando",
+  "town": "Orlando",
+  "host": "Downtown Orlando and the City of Orlando",
+  "venue": "Lake Eola Amphitheater",
+  "address": "101 North Rosalind Avenue, Orlando, FL 32801",
+  "times": [
+   [
+    "2026-12-05",
+    "18:00",
+    "21:30"
+   ],
+   [
+    "2026-12-20",
+    "18:00",
+    "21:30"
+   ]
+  ],
+  "when_note": "Select evenings from Saturday, December 5 through Sunday, December 20, schedule on the DTOLive page",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.orlando.gov/Events/DTOLive-for-the-Holidays-2026",
+  "kind": "live music series",
+  "indoor": false,
+  "paras": [
+   "DTOLive for the Holidays brings free live music to the Lake Eola Amphitheater, 101 North Rosalind Avenue, on select evenings from Saturday, December 5 to Sunday, December 20, 2026. The City of Orlando tags the series for kids and families.",
+   "The lineup changes by night. December 5 has The John Horton Band and Joe Fritz, December 6 has MacSilver Merry Irish Pirates and Sonarte, and December 11 has Steamin' Jazz and Shay Butter Band.",
+   "December 13 has Safia and the Speak EZ and Lovestruck Robot, December 18 has Sass Band and The Leo Aether Band, December 19 has MALCAN'THEARYOU and Dale and the New Band, and December 20 has Aleksandra Vargas and the Aletier Band and The Hannah Stokes Band.",
+   "The city links a full DTOLive event schedule from the listing, so families can pick a night by genre, from classical and jazz to rock and pop."
+  ],
+  "tip": "Check the DTOLive schedule and choose a night by genre before you head to the lake."
+ },
+ {
+  "cand": 44209,
+  "name": "Downtown for the Holidays Sensory Night at Lake Eola",
+  "page": "orlando-fl",
+  "page_name": "Orlando",
+  "town": "Orlando",
+  "host": "Downtown Orlando",
+  "venue": "East Lawn at Lake Eola",
+  "address": "512 East Washington Street, Orlando, FL 32801",
+  "times": [
+   [
+    "2026-12-13",
+    "17:30",
+    "21:30"
+   ]
+  ],
+  "when_note": "Sunday, December 13, 5:30 to 9:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.downtownorlando.com/Fun/Events/Downtown-for-the-Holidays-Sensory-Night",
+  "kind": "sensory friendly santa",
+  "indoor": false,
+  "paras": [
+   "Downtown Orlando hosts a Downtown for the Holidays Sensory Night on Sunday, December 13, 2026, from 5:30 to 9:30 PM on the East Lawn at Lake Eola, 512 East Washington Street. Admission is free.",
+   "The evening is built for guests with sensory sensitivities, with no or low music, a quiet place with water, snacks and calming vibes, fidget spinners and noise canceling headphones.",
+   "Santa and the Grinch each have a line system designed so families can meet them with less stress.",
+   "The downtown event page describes the night as a warm and inclusive way to enjoy the season."
+  ],
+  "tip": "Ask for noise canceling headphones and use the quiet place whenever your child needs a break."
+ }
+]
