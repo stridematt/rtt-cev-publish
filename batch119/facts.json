@@ -1,0 +1,32 @@
+[
+ {
+  "cand": 44251,
+  "name": "Breakfast with Santa at RollHouse Mentor",
+  "page": "mentor-oh",
+  "page_name": "Mentor",
+  "town": "Mentor",
+  "host": "RollHouse Mentor",
+  "venue": "RollHouse Mentor",
+  "address": "7300 Palisades Pkwy, Mentor, OH 44060",
+  "times": [
+   [
+    "2026-12-20",
+    "09:30",
+    "11:30"
+   ]
+  ],
+  "when_note": "Sunday, December 20, 9:30 to 11:30 AM",
+  "cost": "Price not listed",
+  "ages": "Kids 12 and under get an arcade card",
+  "url": "https://therollhouse.com/mentor/breakfast-with-santa/",
+  "tickets": "https://bookeo.com/rollhouseentertainment?type=41558R6LJHU19327085A7C",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "RollHouse Mentor, the bowling and arcade entertainment center at 7300 Palisades Pkwy, hosts Breakfast with Santa on Sunday, December 20, from 9:30 to 11:30 AM. Families sit down to a hot breakfast and then visit with Santa.",
+   "The breakfast menu has scrambled eggs, applewood smoked bacon, breakfast potatoes with peppers and onions on the side, regular and chocolate chip pancakes, fresh fruit and cinnamon sugar beignets with vanilla icing. Orange juice and cranberry juice are served to drink.",
+   "Kids 12 and under receive a $10 arcade card, and every family takes home a half off bowling coupon that is valid for one week. Reservations are made on the RollHouse online booking page, where current ticket options and prices are shown."
+  ],
+  "tip": "Reserve online ahead of time, because the breakfast is booked through the RollHouse booking page."
+ }
+]
