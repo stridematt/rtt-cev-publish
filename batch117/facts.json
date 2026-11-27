@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44247,
+  "name": "Visit Santa at Lorain Winterfest",
+  "page": "lorain-oh",
+  "page_name": "Lorain",
+  "town": "Lorain",
+  "host": "Lorain Winterfest",
+  "venue": "Black River Landing",
+  "address": "421 Black River Lane, Lorain, OH 44052",
+  "times": [
+   [
+    "2026-11-28",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Saturday, November 28, 5 to 9 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://lorainwinterfest.com/santa",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Santa Claus sets up his North Pole at Black River Landing, 421 Black River Lane in Lorain, during Lorain Winterfest on Saturday, November 28. He is there from 5 to 9 PM, right after the Winterfest parade.",
+   "Every child who visits receives a small gift from Santa, and families can take photos at the waterfront. Admission is free, with no tickets.",
+   "The visit is outdoors, so dress warmly, and arrive early because lines can grow as the evening goes on."
+  ],
+  "tip": "Arrive early, since the line for Santa grows as the evening goes on."
+ },
+ {
+  "cand": 44248,
+  "name": "Lorain Winterfest Holiday Parade on Broadway",
+  "page": "lorain-oh",
+  "page_name": "Lorain",
+  "town": "Lorain",
+  "host": "Lorain Winterfest",
+  "venue": "Broadway Avenue",
+  "address": "Broadway Ave, Lorain, OH 44052",
+  "times": [
+   [
+    "2026-11-28",
+    "16:30",
+    "17:00"
+   ]
+  ],
+  "when_note": "Saturday, November 28, 4:30 to 5 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://lorainwinterfest.com/overview-2",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Lorain Winterfest parade rolls down Broadway Avenue in downtown Lorain on Saturday, November 28, from 4:30 to 5 PM. Floats, marching bands and community groups take part, and Santa Claus rides in the parade.",
+   "Winterfest organizers advise lining up early for a good viewing spot. Free parking is available throughout downtown, and the parking garage is closed.",
+   "After the parade, families can walk to Black River Landing to meet Santa and see live reindeer, with fireworks at Veterans Park at 6 PM."
+  ],
+  "tip": "Line up early along Broadway for a good view."
+ }
+]
