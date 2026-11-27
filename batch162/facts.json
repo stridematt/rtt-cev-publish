@@ -1,0 +1,124 @@
+[
+ {
+  "cand": 44449,
+  "name": "Santa Skate at Stormont Vail Events Center",
+  "page": "topeka-ks",
+  "page_name": "Topeka",
+  "town": "Topeka",
+  "host": "Stormont Vail Events Center",
+  "venue": "Landon Arena at Stormont Vail Events Center",
+  "address": "One Expocentre Dr., Topeka, KS 66612",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "12:00"
+   ],
+   [
+    "2026-12-05",
+    "13:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026; two sessions, 10 AM to 12 PM and 1 to 3 PM",
+  "cost": "$12 to skate with a Santa picture; $5 for non-skaters; $10 per ticket for groups of 10 or more",
+  "ages": "All ages",
+  "url": "https://www.stormontvaileventscenter.com/events/2026/santa-skate-2026",
+  "kind": "outing",
+  "indoor": true,
+  "paras": [
+   "Santa Skate takes over the Landon Arena at the Stormont Vail Events Center in Topeka on Saturday, December 5, 2026. Families choose one of two sessions, 10 AM to 12 PM or 1 to 3 PM.",
+   "A $12 ticket covers skating, skate rental and a picture with Santa. Non-skaters pay $5, and groups of 10 or more pay $10 per ticket."
+  ],
+  "tip": "Pick a session when you buy tickets, since each one is a separate time slot."
+ },
+ {
+  "cand": 44450,
+  "name": "Christmas Film Series: The Polar Express at the Fox Theatre",
+  "page": "hutchinson-ks",
+  "page_name": "Hutchinson",
+  "town": "Hutchinson",
+  "host": "Fox Theatre Hutchinson",
+  "venue": "Fox Theatre",
+  "address": "18 E. 1st Ave., Hutchinson, KS 67501",
+  "times": [
+   [
+    "2026-12-23",
+    "19:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Wednesday, December 23, 2026, 7 PM",
+  "cost": "$7 for adults; $6 for students, military and seniors 60 and over",
+  "ages": "All ages",
+  "url": "https://www.hutchinsonfox.com/events/christmas-film-series-the-polar-express-2",
+  "kind": "movie",
+  "indoor": true,
+  "paras": [
+   "The Fox Theatre in Hutchinson shows The Polar Express as part of its Christmas Film Series on Wednesday, December 23, 2026, at 7 PM.",
+   "Admission is $7 for adults and $6 for students, military and seniors 60 and over. Advance tickets are not sold, and Fox Film Series Passes work for this showing."
+  ],
+  "tip": "Tickets are sold at the door only, so arrive a little early."
+ },
+ {
+  "cand": 44451,
+  "name": "Breakfast with Santa at the Flint Hills Discovery Center",
+  "page": "manhattan-ks",
+  "page_name": "Manhattan",
+  "town": "Manhattan",
+  "host": "Flint Hills Discovery Center",
+  "venue": "Flint Hills Discovery Center",
+  "address": "315 S. 3rd St., Manhattan, KS 66502",
+  "times": [
+   [
+    "2026-12-05",
+    "08:15",
+    "12:15"
+   ],
+   [
+    "2026-12-12",
+    "08:15",
+    "12:15"
+   ]
+  ],
+  "when_note": "Saturdays, December 5 and 12, 2026; two sessions each day, 8:15 to 11:15 AM or 9:15 AM to 12:15 PM",
+  "cost": "$25 for members and $35 for non-members ages 2 and over; $10 for children under 2",
+  "ages": "Families with children",
+  "url": "https://www.manhattanks.gov/Calendar.aspx?EID=10700",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Flint Hills Discovery Center in Manhattan hosts Breakfast with Santa on Saturdays, December 5 and 12, 2026. Each day has two sessions, 8:15 to 11:15 AM and 9:15 AM to 12:15 PM, and families choose one session.",
+   "Guests enjoy breakfast and sweet treats, play games, hear holiday stories, decorate gingerbread men and pose for photos with Santa. Tickets are $25 for members and $35 for non-members ages 2 and over, and $10 for children under 2."
+  ],
+  "tip": "Register ahead, since you must choose one session when you sign up."
+ },
+ {
+  "cand": 44452,
+  "name": "Mingle and Jingle with Santa",
+  "page": "newton-ks",
+  "page_name": "Newton",
+  "town": "Newton",
+  "host": "Choose Newton",
+  "venue": "Sunflower on 6th Salon and Spa",
+  "address": "218 W. 6th St., Newton, KS 67114",
+  "times": [
+   [
+    "2026-12-04",
+    "17:30",
+    "19:30"
+   ]
+  ],
+  "when_note": "Friday, December 4, 2026, 5:30 to 7:30 PM",
+  "cost": "Free",
+  "ages": "Kids and families",
+  "url": "https://www.choose-newton.com/Community-Events/Mingle-and-Jingle-with-Santa-2026",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Choose Newton hosts its second annual Mingle and Jingle holiday event on Friday, December 4, 2026, from 5:30 to 7:30 PM at Sunflower on 6th Salon and Spa in downtown Newton, and Santa is the special guest.",
+   "The evening is free and includes cocoa, snacks, games, raffles and shopping. Kids can share their wish lists with Santa and snap festive photos."
+  ],
+  "tip": "Stop in any time during the two hours to see Santa."
+ }
+]
