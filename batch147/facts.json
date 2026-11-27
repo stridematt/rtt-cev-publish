@@ -1,0 +1,59 @@
+[
+ {
+  "cand": 44332,
+  "name": "Country Christmas Walk Through Light Show at Phillips Farms of Cary",
+  "page": "cary-nc",
+  "page_name": "Cary",
+  "town": "Cary",
+  "host": "Phillips Farms of Cary",
+  "venue": "Phillips Farms of Cary",
+  "address": "6800 Good Hope Church Rd, Cary, NC 27519",
+  "times": [
+   [
+    "2026-11-27",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Nightly November 27 through December 27, 2026, about 5 to 9 PM",
+  "cost": "$20 per person plus fees, ages 2 and up",
+  "ages": "Ages 2 and up",
+  "url": "https://www.phillipsfarmsofcary.com/",
+  "tickets": "https://www.simpletix.com/e/country-christmas-walk-through-light-show-tickets-299366",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Phillips Farms of Cary opens its Country Christmas Walk Through Light Show on Friday, November 27, 2026, and runs it through December 27 at 6800 Good Hope Church Road. Families stroll a trail of lights across the farm grounds, with evening hours of about 5 to 9 PM.",
+   "General admission is $20 per person for ages 2 and up, and SimpleTix lists the total at $22.13 with fees. Each ticket covers the light walk, a s'mores kit, a visit with Santa and Mrs. Klaus, the Pint Sized Pasture Petting Zoo and classic Christmas movie clips on a big screen by the fire. Pictures with Santa are do it yourself. Tickets are not exchangeable or refundable, and they can be used on any date until 30 minutes before closing."
+  ],
+  "tip": "Dress for the weather since the trail is outdoors, and bring your own camera for Santa photos."
+ },
+ {
+  "cand": 44333,
+  "name": "Pictures with Santa at the Mary Perry Ragsdale Family YMCA",
+  "page": "high-point-nc",
+  "page_name": "High Point",
+  "town": "Jamestown",
+  "host": "Mary Perry Ragsdale Family YMCA",
+  "venue": "Mary Perry Ragsdale Family YMCA",
+  "address": "900 Bonner Dr, Jamestown, NC 27282",
+  "times": [
+   [
+    "2026-12-12",
+    "10:30",
+    "12:30"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 10:30 AM to 12:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.ymcagreensboro.org/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Mary Perry Ragsdale Family YMCA in Jamestown invites families to take pictures with Santa on Saturday, December 12, 2026, from 10:30 AM to 12:30 PM. The photos happen in the Energy Factory at 900 Bonner Drive.",
+   "The visit is free. No photographer is provided, so bring a phone or camera to capture the moment."
+  ],
+  "tip": "Bring your own camera, since no photographer is provided."
+ }
+]
