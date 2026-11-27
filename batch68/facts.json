@@ -1,0 +1,86 @@
+[
+ {
+  "cand": 44113,
+  "name": "Christmas on the Square at CountryWay Town Square",
+  "town": "Newberry",
+  "venue": "CountryWay Town Square",
+  "address": "1739 SW 248th Dr. Suite 20, Newberry, FL 32669",
+  "times": [
+   [
+    "2026-12-19",
+    "18:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Starts at 6 PM",
+  "cost": "Price not listed",
+  "host": "City of Newberry",
+  "url": "https://www.newberryfl.gov/calendar.aspx?EID=2412",
+  "kind": "show food market outing",
+  "indoor": false,
+  "paras": [
+   "The City of Newberry lists Christmas on the Square for Saturday, December 19, 2026, starting at 6 PM at CountryWay Town Square in Newberry.",
+   "The city calendar describes a festive evening with live music, performances, food, shopping and a live nativity, and notes this is the 10th annual celebration."
+  ],
+  "tip": "Newberry also holds its Christmas parade the same evening at 6 PM, so check the start times before choosing one.",
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44114,
+  "name": "Newberry Christmas Parade",
+  "town": "Newberry",
+  "venue": "Newberry High School",
+  "address": "400 SW 258th St, Newberry, FL 32669",
+  "times": [
+   [
+    "2026-12-19",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Starts at 6 PM",
+  "cost": "Free",
+  "host": "City of Newberry",
+  "url": "https://www.newberryfl.gov/calendar.aspx?EID=2410",
+  "kind": "parade outing",
+  "indoor": false,
+  "paras": [
+   "The City of Newberry calendar lists the NMSO Christmas Parade for Saturday, December 19, 2026 at 6 PM, with Newberry High School shown as the location.",
+   "Organizers invite floats to register through an online form, and the listing states there is no registration fee to take part in the parade."
+  ],
+  "tip": "The Newberry parade and Christmas on the Square both begin at 6 PM that evening, so pick one to arrive for first.",
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "ages": "All ages"
+ },
+ {
+  "cand": 44115,
+  "name": "Christmas Doin's at Marjorie's",
+  "town": "Cross Creek",
+  "venue": "Marjorie Kinnan Rawlings Historic State Park",
+  "address": "18700 S County Road 325, Cross Creek, FL 32640",
+  "times": [
+   [
+    "2026-12-19",
+    "17:00",
+    "19:30"
+   ]
+  ],
+  "when_note": "5 PM to 7:30 PM",
+  "cost": "Free with $3 park admission",
+  "host": "Florida State Parks",
+  "url": "https://www.floridastateparks.org/events/christmas-doins-marjories",
+  "kind": "lights outing",
+  "indoor": false,
+  "paras": [
+   "Florida State Parks lists Christmas Doin's at Marjorie's for Saturday, December 19, 2026, from 5 PM to 7:30 PM at Marjorie Kinnan Rawlings Historic State Park in Cross Creek.",
+   "The park calls it a much-loved annual holiday event with the firing of the grove, festive music and a tour of the main part of the house decorated in typical 1930s fashion. The event is free with park admission of $3."
+  ],
+  "tip": "Park entry is $3 per vehicle, and the farmhouse interior is normally open by guided tour only.",
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "ages": "All ages"
+ }
+]
