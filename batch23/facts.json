@@ -1,0 +1,46 @@
+[
+ {
+  "cand": 43401,
+  "name": "Cocoa Beach Christmas Boat Parade",
+  "town": "Cocoa Beach",
+  "venue": "Banana River canals, starting at Marker 101 near Centennial Park",
+  "address": "State Road 520, Cocoa Beach, FL 32931",
+  "times": [["2026-12-12","18:00",""]],
+  "when_note": "The parade starts at 6 PM on the second Saturday of December.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Rotary Club of Cocoa Beach",
+  "url": "https://cocoabeachrotary.org/cocoa-beach-boat-parade/",
+  "kind": "parade lights",
+  "indoor": false,
+  "page": "cocoa-fl",
+  "page_name": "Cocoa",
+  "paras": [
+   "Decorated boats leave Marker 101 near Centennial Park on State Road 520, across from Cape Canaveral Hospital, and travel south through the canals off the Banana River. The Rotary Club of Cocoa Beach runs the parade, and registered captains compete for awards with a boat number that must be easy to read from shore.",
+   "Watchers can line up at State Road 520 and Banana River Road, at the end of South Banana River Boulevard, or at Cove Park on McNabb Parkway. Anyone who lives on a canal can watch from the back dock."
+  ],
+  "tip": "Pick your spot early and bring a blanket, because the canal viewing points fill before the 6 PM start."
+ },
+ {
+  "cand": 43402,
+  "name": "Surfing Santas of Cocoa Beach",
+  "town": "Cocoa Beach",
+  "venue": "In front of Coconuts on the Beach",
+  "address": "2 Minutemen Causeway, Cocoa Beach, FL 32931",
+  "times": [["2026-12-24","07:30","12:00"]],
+  "when_note": "It runs on Christmas Eve morning.",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Surfing Santas",
+  "url": "https://surfingsantas.org/event/surfing-santas-of-cocoa-beach-main-event-2026/",
+  "kind": "outing show",
+  "indoor": false,
+  "page": "cocoa-fl",
+  "page_name": "Cocoa",
+  "paras": [
+   "Surfers and paddleboarders in Santa suits and other Christmas costumes hit the water in front of Coconuts on the Beach on Christmas Eve morning. The organizers invite families to bring their own Santa outfit, join the surf or paddle, and pose for a picture with a Surfing Santa.",
+   "The event has run since 2009 and benefits local charities including Grind for Life and the Florida Surf Museum. Organizers post a parking guide for the day, and the host page encourages visitors to share photos with the hashtag surfingsantas."
+  ],
+  "tip": "Check the organizers' parking guide before you go, since the beach area is busy on Christmas Eve."
+ }
+]
