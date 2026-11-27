@@ -1,0 +1,85 @@
+[
+ {
+  "cand": 42501,
+  "name": "Christmas Town at Summerfield Zoo",
+  "town": "Belvidere",
+  "venue": "Summerfield Farm and Zoo",
+  "address": "3088 Flora Rd, Belvidere, IL 61008",
+  "times": [
+   [
+    "2026-11-27",
+    "10:00",
+    "16:00"
+   ],
+   [
+    "2026-11-28",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-11-29",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-06",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-12",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-13",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-19",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-20",
+    "10:00",
+    "17:00"
+   ],
+   [
+    "2026-12-21",
+    "10:00",
+    "15:00"
+   ],
+   [
+    "2026-12-22",
+    "10:00",
+    "15:00"
+   ],
+   [
+    "2026-12-23",
+    "10:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Open weekends through December 20, the Friday after Thanksgiving, and December 21 to 23. Santa visits run on weekends and November 27 only, and tickets are tied to a date and time.",
+  "cost": "$18 per person; ages 1 and under free",
+  "ages": "All ages",
+  "host": "Summerfield Farm and Zoo",
+  "url": "https://summerfieldfarmandzoo.com/christmas-town",
+  "kind": "santa outing",
+  "indoor": false,
+  "page": "rockford-il",
+  "page_name": "Rockford",
+  "paras": [
+   "Summerfield Farm and Zoo in Belvidere, about 20 minutes from Rockford, turns its zoo into Christmas Town for the 2026 season. The star is Santa's Reindeer Barn with live reindeer, and the zoo says it also keeps its outdoor cold climate animals on view.",
+   "Families can visit Santa at his cottage, browse the Flying Reindeer Gift Shop and stop by Mrs. Claus' Kitchen. The zoo lists photo spots, with no extra photo fee, and says to bring your own camera."
+  ],
+  "tip": "Buy the timed ticket first, arrive 15 minutes early and dress warmly, since the reindeer barn is open air and only the gift shop is heated."
+ }
+]
