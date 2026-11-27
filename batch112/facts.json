@@ -1,0 +1,31 @@
+[
+ {
+  "cand": 44236,
+  "name": "Breakfast with Santa at Balm Park",
+  "page": "riverview-fl",
+  "page_name": "Riverview",
+  "town": "Wimauma",
+  "host": "Hillsborough County Parks and Recreation",
+  "venue": "Balm Park and Recreation Center",
+  "address": "14747 Balm Wimauma Rd, Wimauma, FL 33598",
+  "times": [
+   [
+    "2026-12-10",
+    "10:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Thursday, December 10, 10 AM to noon",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://hcfl.gov/events/breakfast-with-santa-at-balm-park",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Hillsborough County Parks and Recreation hosts Breakfast with Santa at Balm Park and Recreation Center, 14747 Balm Wimauma Rd, Wimauma, on Thursday, December 10, from 10 AM to noon. The county lists the event as free, with registration required through its online registration system.",
+   "The morning includes pancakes and juice, holiday crafts, music, a photo with Santa and a reading of The Night Before Christmas. Santa arrives at 11:30 AM.",
+   "The county caps the event at 100 participants and lists no minimum age. Guests are asked to bring a camera and bug spray. Questions go to Heather Gay at (813) 285-8816."
+  ],
+  "tip": "Register early, since the county limits the breakfast to 100 participants, and bring a camera for the 11:30 AM Santa arrival."
+ }
+]
