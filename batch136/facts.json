@@ -1,0 +1,91 @@
+[
+ {
+  "cand": 44281,
+  "name": "Breakfast with Santa at Brighton Recreation Center",
+  "page": "brighton-co",
+  "page_name": "Brighton",
+  "town": "Brighton",
+  "host": "City of Brighton Recreation Center",
+  "venue": "Brighton Recreation Center",
+  "address": "555 N 11th Ave, Brighton, CO 80601",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "10:00"
+   ],
+   [
+    "2026-12-12",
+    "10:30",
+    "11:30"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, two seatings: 9 to 10 AM and 10:30 to 11:30 AM",
+  "cost": "$10 per person, registration required",
+  "ages": "All ages",
+  "url": "https://www.brightonco.gov/1834/Breakfast-with-Santa",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The City of Brighton Recreation Center hosts Breakfast with Santa on Saturday, December 12, 2026, with two one-hour seatings at 9 AM and 10:30 AM. The city registration page lists 125 spots per seating, so families pick a time when they sign up.",
+   "Registration is $10 per person for each session and is handled through the City of Brighton store. Bring the kids for breakfast and a visit with Santa, and sign up early because spots are limited to the 125 per seating."
+  ],
+  "tip": "Choose the 9 AM seating for younger children, since it comes before naps and the later rush."
+ },
+ {
+  "cand": 44282,
+  "name": "Superior Winter Festival",
+  "page": "boulder-co",
+  "page_name": "Boulder",
+  "town": "Superior",
+  "host": "Superior Chamber of Commerce",
+  "venue": "Downtown Superior, Main Street and Superior Drive",
+  "address": "Main St & Superior Dr, Superior, CO 80027",
+  "times": [
+   [
+    "2026-12-12",
+    "14:00",
+    "17:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 2 to 5 PM, tree lighting at 5 PM",
+  "cost": "Free to attend, some activities may cost extra",
+  "ages": "All ages",
+  "url": "https://www.superiorchamber.com/winter-festival/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Superior Chamber of Commerce, the Town of Superior and Blue Sport Stable run the Superior Winter Festival in downtown Superior on Saturday, December 12, 2026, from 2 to 5 PM. Kids can meet Santa for a keepsake photo, meet the Grinch, see reindeer and ride a hayride around downtown.",
+   "The afternoon also offers an Elf Express letter station, face painting, S'mores kits at fire pits, a hot cocoa bar and live performances. Skate with Santa runs 3 to 5 PM at Blue Sport Stable, and the Superior Community Tree lights up at 5 PM."
+  ],
+  "tip": "Arrive near 2 PM for the shortest Santa line, and stay for the 5 PM tree lighting."
+ },
+ {
+  "cand": 44283,
+  "name": "Timnath Holiday Festival",
+  "page": "fort-collins-co",
+  "page_name": "Fort Collins",
+  "town": "Timnath",
+  "host": "Town of Timnath",
+  "venue": "Timnath Community Park",
+  "address": "Timnath Community Park, Timnath, CO 80547",
+  "times": [
+   [
+    "2026-12-05",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 11 AM to 1 PM",
+  "cost": "Free to attend",
+  "ages": "All ages",
+  "url": "https://timnath.org/holidayfestival/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The Town of Timnath kicks off the season with its Holiday Festival at Timnath Community Park on Saturday, December 5, 2026, from 11 AM to 1 PM. Families can visit Santa for photos, make crafts, see ice sculptures and meet holiday characters and reindeer.",
+   "Local bands and school choirs perform, and hot drinks and cookies are served. Food trucks and an artisan market are on site, and volunteer golf carts shuttle guests from drop-off points on River Pass Road and Twin Bridge Road."
+  ],
+  "tip": "Park in the neighborhood and use the free golf cart shuttle, since parking near the park fills early."
+ }
+]
