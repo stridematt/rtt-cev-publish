@@ -1,0 +1,60 @@
+[
+ {
+  "cand": 44188,
+  "name": "Family Holiday Movie at Shannon Staub Library",
+  "page": "north-port-fl",
+  "page_name": "North Port",
+  "town": "North Port",
+  "host": "Sarasota County Libraries",
+  "venue": "Shannon Staub Library, Meeting Room",
+  "address": "4675 Career Lane, North Port, FL 34289",
+  "times": [
+   [
+    "2026-12-21",
+    "10:30",
+    "12:30"
+   ]
+  ],
+  "when_note": "Monday, December 21, 10:30 AM to 12:30 PM",
+  "cost": "Price not listed",
+  "ages": "All ages, from babies to teens",
+  "url": "https://scgovlibrary.librarymarket.com/event/holiday-movie-338304",
+  "kind": "movie indoor",
+  "indoor": true,
+  "paras": [
+   "Sarasota County Libraries invites families to watch a holiday movie together on Monday, December 21, 2026, from 10:30 AM to 12:30 PM in the Meeting Room at the Shannon Staub Library in North Port.",
+   "The library's calendar tags the screening for every age group, from babies, toddlers and preschoolers through children, tweens, teens and families.",
+   "The listing is filed under the Cultural Life, Lifelong Learning and Movies program types, and the library's description says to come watch a holiday movie with the whole family."
+  ],
+  "tip": "Arrive by 10:30 AM, when the screening starts in the Meeting Room."
+ },
+ {
+  "cand": 44189,
+  "name": "Make a Festive Button at North Port Library",
+  "page": "north-port-fl",
+  "page_name": "North Port",
+  "town": "North Port",
+  "host": "the North Port Library",
+  "venue": "Creation Station, North Port Library",
+  "address": "13800 Tamiami Trail, North Port, FL 34287",
+  "times": [
+   [
+    "2026-12-04",
+    "13:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 1 to 4 PM",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "url": "https://scgovlibrary.librarymarket.com/event/creation-station-program-block-303698",
+  "kind": "craft indoor",
+  "indoor": true,
+  "paras": [
+   "The Creation Station at the North Port Library offers a drop in craft on Friday, December 4, 2026, from 1 to 4 PM. Visitors make a festive button for the holidays.",
+   "The county library calendar files the activity under Creation Station and marks it for all ages, so kids and grown ups can make buttons at the same table.",
+   "Questions go to the library system at 941-861-1110."
+  ],
+  "tip": "Come any time between 1 and 4 PM, since the activity runs for three hours."
+ }
+]
