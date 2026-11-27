@@ -1,0 +1,31 @@
+[
+ {
+  "cand": 44252,
+  "name": "Santa in the Cabin at the Scout Cabin",
+  "page": "hudson-oh",
+  "page_name": "Hudson",
+  "town": "Hudson",
+  "host": "City of Hudson and the Rotary Club of Hudson",
+  "venue": "Scout Cabin",
+  "address": "2 W Streetsboro St, Hudson, OH 44236",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 9 AM to 3 PM, free timed tickets handed out from 8 AM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://events.hudsonhappenings.org/event/santa-in-the-cabin",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Rotary Club of Hudson brings Santa and Mrs. Claus back to downtown Hudson on Saturday, December 5, with visits inside the restored Scout Cabin at 2 W Streetsboro St. The day runs from 9 AM to 3 PM and is listed on the City of Hudson calendar as a free event.",
+   "Santa and Mrs. Claus arrive by fire truck at 9 AM. Families then have a cozy visit by the glowing fireplace in the decorated cabin, and friendly elves help with photos, so bring a camera.",
+   "Visits are scheduled in hourly slots with 20 families each hour. A total of 120 free tickets, each with an assigned visit time, are handed out from 8 AM at the Gazebo on a first come, first served basis. Families enter the cabin from the rear, where parking is available, and hot chocolate and candy canes are served outside."
+  ],
+  "tip": "Pick up free tickets at the Gazebo starting at 8 AM, since only 120 are handed out."
+ }
+]
