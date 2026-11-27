@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 43001,
+  "name": "Ted & Amy's 93Q Christmas Spectacular",
+  "town": "Syracuse",
+  "venue": "The Canyon at Destiny USA",
+  "address": "1 Destiny USA Dr, Syracuse, NY 13204",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Live bands play from 10:20 am to about 1 pm, and the activities run for the full three hours.",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Destiny USA",
+  "url": "https://www.destinyusa.com/event/ted-amys-christmas-spectacular-2/",
+  "kind": "santa crafts",
+  "indoor": true,
+  "page": "syracuse-ny",
+  "page_name": "Syracuse",
+  "paras": [
+   "Destiny USA hosts Ted & Amy's 93Q Christmas Spectacular on Saturday, December 5, 2026, from 10 am to 1 pm in The Canyon. The mall calls it a free day of holiday fun for the whole family.",
+   "Kids get a free toy at Santa's Workshop while supplies last, and can make ornaments, play reindeer games and enter a coloring contest. Local bands perform holiday music, and there is a free photo booth."
+  ],
+  "tip": "Toys are limited, so go early to get one at Santa's Workshop before the bands start playing."
+ }
+]
