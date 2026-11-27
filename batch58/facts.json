@@ -1,0 +1,30 @@
+[
+ {
+  "cand": 44088,
+  "name": "Breakfast with Santa at Brimstone",
+  "town": "Pembroke Pines",
+  "venue": "Brimstone Woodfire Grill, The Shops at Pembroke Gardens",
+  "address": "The Shops at Pembroke Gardens, Pembroke Pines, FL",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "11 AM to 2 PM, reservations required",
+  "cost": "Price not listed",
+  "host": "The Shops at Pembroke Gardens",
+  "url": "https://www.pembrokegardens.com/event/pembrokekids-x-brimstone/",
+  "kind": "santa food crafts",
+  "indoor": true,
+  "paras": [
+   "The Shops at Pembroke Gardens lists a PembrokeKIDS Breakfast with Santa at Brimstone on Saturday, December 12, 2026, from 11 AM to 2 PM. Families sit down to breakfast with Santa at the restaurant, and the listing promises a festive morning of holiday cheer and creative fun.",
+   "Little ones can color, decorate and make their own Christmas ornaments to take home as a keepsake. Reservations are required, and the shopping center asks families to call Brimstone directly to reserve a spot. No price is printed on the listing, so ask when you call."
+  ],
+  "tip": "Call Brimstone early to reserve, since seats are by reservation only.",
+  "page": "pembroke-pines-fl",
+  "page_name": "Pembroke Pines",
+  "ages": "All ages"
+ }
+]
