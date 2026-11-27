@@ -1,0 +1,66 @@
+[
+ {
+  "cand": 44255,
+  "name": "Christmas Nights at Berns Middletown",
+  "page": "middletown-oh",
+  "page_name": "Middletown",
+  "town": "Middletown",
+  "host": "City of Middletown",
+  "venue": "Berns Middletown",
+  "address": "825 Greentree Dr, Middletown, OH 45044",
+  "times": [
+   [
+    "2026-11-27",
+    "17:00",
+    "19:00"
+   ],
+   [
+    "2026-11-28",
+    "17:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Friday, November 27 and Saturday, November 28, 5 to 7 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.cityofmiddletown.org/Calendar.aspx?EID=3166",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The City of Middletown calendar lists Christmas Nights at Berns Middletown on Friday, November 27 and Saturday, November 28, from 5 to 7 PM each evening. Berns Middletown is at 825 Greentree Dr, and the city lists the event as free.",
+   "The two evenings kick off the Christmas season inside the garden gates, with twinkling lights, fresh greenery and a poinsettia Christmas tree that the host calls famous.",
+   "Santa is on hand both nights, so children can say hello and share what they hope to find under the tree."
+  ],
+  "tip": "Go on Saturday if Friday is not an option, since both evenings run the same 5 to 7 PM hours."
+ },
+ {
+  "cand": 44256,
+  "name": "Breakfast with Santa and Holiday Market at Bridgewater Event Center",
+  "page": "powell-oh",
+  "page_name": "Powell",
+  "town": "Powell",
+  "host": "Bridgewater Event Center",
+  "venue": "Bridgewater Event Center",
+  "address": "10561 Sawmill Pkwy, Powell, OH 43065",
+  "times": [
+   [
+    "2026-11-29",
+    "09:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Sunday, November 29, breakfast seatings at 9 AM and 11 AM, craft market 9 AM to 1 PM",
+  "cost": "Adults $25, children $15",
+  "ages": "All ages",
+  "url": "https://bridgewatereventcenter.com/breakfast-with-santa/",
+  "tickets": "https://square.link/u/DpoLbuSh",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Bridgewater Event Center, 10561 Sawmill Pkwy in Powell, serves Breakfast with Santa and a Holiday Market on Sunday, November 29. Guests pick a 9 AM or 11 AM breakfast seating when they reserve.",
+   "The breakfast buffet has pancakes, eggs, bacon, pastries, coffee and cocoa. Families take their own photos with Santa, and there are festive activities and letters to Santa in Santa's workshop.",
+   "A holiday craft market with local vendors runs from 9 AM to 1 PM and is included with the breakfast ticket. Tickets cost $25 for adults and $15 for children, advance reservations are required, and a toy and gift card drive supports Delaware County veteran families."
+  ],
+  "tip": "Bring your own phone or camera, because the event invites families to take their own photos with Santa."
+ }
+]
