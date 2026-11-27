@@ -1,0 +1,102 @@
+[
+ {
+  "cand": 44200,
+  "name": "Alachua Christmas Parade on Main Street",
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "town": "Alachua",
+  "host": "the Alachua Chamber parade page",
+  "venue": "Historic Main Street",
+  "address": "Main Street, Alachua, FL",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, starting at 11 AM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.alachuachamber.com/christmas-on-main/",
+  "kind": "parade",
+  "indoor": false,
+  "paras": [
+   "The Alachua Chamber of Commerce hosts the City of Alachua Christmas Parade every year on the second Saturday of December, which falls on December 12 in 2026. The parade begins at 11 AM sharp along the historic Main Street.",
+   "Dozens of floats, entertainers and local school groups roll through town. The route crosses US 441 onto the north side of Main Street and continues all the way down to Alachua Farm and Lumber.",
+   "Businesses and groups can enter a float, and the chamber says the parade shows off local businesses to thousands of attendees.",
+   "Parade entrants line up on the south side of Main Street, with spot numbers painted on the road after a 9 AM check in at Lee's Preschool."
+  ],
+  "tip": "Find a spot along the north side of Main Street before 11 AM so the kids can see the floats cross US 441."
+ },
+ {
+  "cand": 44201,
+  "name": "High Springs Tree Lighting and 28th Annual Twilight Christmas Parade",
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "town": "High Springs",
+  "host": "the High Springs Chamber events calendar",
+  "venue": "Farmers Market Pavilion and Main Street",
+  "address": "23517 NW 185 Rd, High Springs, FL 32643",
+  "times": [
+   [
+    "2026-12-05",
+    "17:00",
+    "19:00"
+   ],
+   [
+    "2026-12-12",
+    "18:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5 (tree lighting, 5 PM) and Saturday, December 12 (parade, 6 PM)",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://chamberofhighsprings.com/events/",
+  "kind": "parade tree lighting",
+  "indoor": false,
+  "paras": [
+   "The High Springs Chamber of Commerce lists two main Christmas events for 2026: a tree lighting at the pavilion on Saturday, December 5, and the 28th Annual Twilight Christmas Parade on Saturday, December 12.",
+   "Local listings place the tree lighting at the Farmers Market Pavilion, 23517 NW 185 Rd, at 5 PM with free admission. A Facebook event shows the parade starting at 6 PM on Main Street in High Springs.",
+   "The chamber office takes parade applications and answers questions at 386-454-3120 or by email to decker@highspringscoc.com.",
+   "The December 5 date sits one week before the parade, so families can plan both holiday evenings in the same town."
+  ],
+  "tip": "Plan both Saturdays: the tree lighting at the pavilion on December 5 and the parade on Main Street on December 12."
+ },
+ {
+  "cand": 44203,
+  "name": "Light Up Micanopy Holiday Weekend",
+  "page": "gainesville-fl",
+  "page_name": "Gainesville",
+  "town": "Micanopy",
+  "host": "Town of Micanopy",
+  "venue": "Historic Downtown Micanopy",
+  "address": "Micanopy Downtown Historic District, Micanopy, FL",
+  "times": [
+   [
+    "2026-12-12",
+    "10:00",
+    "18:00"
+   ],
+   [
+    "2026-12-13",
+    "10:00",
+    "18:00"
+   ]
+  ],
+  "when_note": "Saturday and Sunday, December 12 and 13",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.micanopytown.com/home-page/page/light-micanopy-december-12-13-holiday-fun-whole-family",
+  "kind": "tree lighting santa market",
+  "indoor": false,
+  "paras": [
+   "The Town of Micanopy hosts Light Up Micanopy on Saturday and Sunday, December 12 and 13, 2026, with music, shopping, entertainment, holiday lights and activities for the whole family in the historic downtown.",
+   "Visit Gainesville describes illuminated streets, extended shopping hours, a holiday market and visits with Santa and Mrs. Claus, and lists the weekend from 10 AM Saturday to 6 PM Sunday.",
+   "Saturday includes student performances and a free outdoor holiday movie on the lawn at Herlong Mansion. Sunday brings a concert at the Church of the Mediator, the Town Hall tree lighting ceremony, a holiday story reading and a performance by the Willie Mae Stokes After School Program.",
+   "The town posts a flyer with the full schedule on its event page."
+  ],
+  "tip": "Check the flyer on the town page for exact times, and plan the movie night on Saturday and tree lighting on Sunday."
+ }
+]
