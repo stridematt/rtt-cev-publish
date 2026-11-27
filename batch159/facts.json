@@ -1,0 +1,232 @@
+[
+ {
+  "cand": 44434,
+  "name": "Christmas Lite Show Drive-Thru",
+  "page": "grand-rapids-mi",
+  "page_name": "Grand Rapids",
+  "town": "Comstock Park",
+  "host": "Christmas Lite Show",
+  "venue": "LMCU Ballpark",
+  "address": "4500 W. River Dr. NE, Comstock Park, MI 49321",
+  "times": [
+   [
+    "2026-12-03",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-04",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-05",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-06",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-10",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-12",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-13",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-17",
+    "17:30",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-19",
+    "17:30",
+    "22:00"
+   ],
+   [
+    "2026-12-20",
+    "17:30",
+    "22:00"
+   ]
+  ],
+  "when_note": "Nightly November 25, 2026 through January 2, 2027; 5:30 to 9 PM Monday to Thursday and 5:30 to 10 PM Friday to Sunday",
+  "cost": "$30 online or $35 at the gate per family vehicle; the Memory Lane Train is $40 per bench",
+  "ages": "All ages",
+  "url": "https://christmasliteshow.com/",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "The Christmas Lite Show turns LMCU Ballpark in Comstock Park into a two-mile drive-through Christmas light display from November 25, 2026 through January 2, 2027. It is open from 5:30 to 9 PM Monday through Thursday and 5:30 to 10 PM Friday through Sunday.",
+   "Families ride through animated displays and lighted tunnels in their own car or aboard the Memory Lane Train. Admission is charged per vehicle and covers everyone inside: $30 online or $35 at the gate for a family vehicle. The Memory Lane Train is $40 per bench."
+  ],
+  "tip": "Buy online to save $5 per family vehicle."
+ },
+ {
+  "cand": 44435,
+  "name": "Breakfast with Santa at Dave & Buster's Kentwood",
+  "page": "grand-rapids-mi",
+  "page_name": "Grand Rapids",
+  "town": "Kentwood",
+  "host": "Dave & Buster's Kentwood",
+  "venue": "Dave & Buster's Kentwood",
+  "address": "3660 28th St. SE, Kentwood, MI 49512",
+  "times": [
+   [
+    "2026-12-06",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, 9 to 11 AM",
+  "cost": "$22 for the Holly Jolly Breakfast (food only); $25.99 for Santa's Ultimate Workshop (food and play)",
+  "ages": "Whole family",
+  "url": "https://business.southkent.org/events/details/breakfast-with-santa-at-dave-buster-s-kentwood-14098",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Dave & Buster's in Kentwood hosts Breakfast with Santa on Sunday, December 6, 2026, from 9 to 11 AM at 3660 28th St. SE.",
+   "Families choose between the Holly Jolly Breakfast for $22, which is food only, and Santa's Ultimate Workshop for $25.99, which adds play. Tickets are sold in advance."
+  ],
+  "tip": "Pick the Ultimate Workshop ticket if the kids want arcade play."
+ },
+ {
+  "cand": 44436,
+  "name": "The Santa Cabin at Bosch's Countryview Nursery",
+  "page": "allendale-mi",
+  "page_name": "Allendale",
+  "town": "Allendale",
+  "host": "Bosch's Countryview Nursery",
+  "venue": "Bosch's Choose and Cut Tree Farm",
+  "address": "10785 84th Ave., Allendale, MI 49401",
+  "times": [
+   [
+    "2026-11-27",
+    "10:00",
+    "16:00"
+   ],
+   [
+    "2026-11-28",
+    "10:00",
+    "16:00"
+   ],
+   [
+    "2026-12-05",
+    "10:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Friday, November 27, Saturday, November 28 and Saturday, December 5, 2026, 10 AM to 4 PM",
+  "cost": "$12 per person",
+  "ages": "Whole family",
+  "url": "https://boschsnursery.com/christmas-trees/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "At Bosch's Choose and Cut Tree Farm in Allendale, families ride a horse-drawn wagon through the woods to Santa's log cabin. The Santa Cabin runs Friday, November 27, Saturday, November 28 and Saturday, December 5, 2026, from 10 AM to 4 PM.",
+   "Each $12 ticket includes the wagon ride, a visit inside the cabin with Santa, a s'mores package and time around the campfire toasting marshmallows. A hot chocolate comes with tickets bought at the refreshment checkout."
+  ],
+  "tip": "Dress for the cold since the wagon ride and campfire are outside."
+ },
+ {
+  "cand": 44437,
+  "name": "Magic at the Mill at Windmill Island Gardens",
+  "page": "allendale-mi",
+  "page_name": "Allendale",
+  "town": "Holland",
+  "host": "Windmill Island Gardens",
+  "venue": "Windmill Island Gardens",
+  "address": "1 Lincoln Ave., Holland, MI 49423",
+  "times": [
+   [
+    "2026-12-04",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-05",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-11",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-12",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-18",
+    "17:00",
+    "21:00"
+   ],
+   [
+    "2026-12-19",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Friday and Saturday evenings December 4, 5, 11, 12, 18 and 19, 2026, 5 to 9 PM; Sinterklaas greets kids 5:30 to 8:30 PM",
+  "cost": "$10 for adults 16 and up; $5 for ages 3 to 15; free for children 2 and under",
+  "ages": "All ages",
+  "url": "https://www.holland.org/magic-at-the-mill/",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Magic at the Mill lights up Windmill Island Gardens in Holland on Friday and Saturday evenings December 4 through 19, 2026, from 5 to 9 PM.",
+   "Children can greet Sinterklaas, the Dutch predecessor of Santa Claus, from 5:30 to 8:30 PM each evening. Snacks and drinks are sold on site. Tickets are $10 for adults 16 and up and $5 for ages 3 to 15, and children 2 and under are free. Tickets must be bought in advance online."
+  ],
+  "tip": "Buy tickets early because they sell out."
+ },
+ {
+  "cand": 44438,
+  "name": "Pictures with Santa at The Tina Peterson Team Office",
+  "page": "howell-mi",
+  "page_name": "Howell",
+  "town": "Howell",
+  "host": "The Tina Peterson Team",
+  "venue": "The Tina Peterson Team Office",
+  "address": "4959 W. Grand River Ave., Howell, MI 48855",
+  "times": [
+   [
+    "2026-12-05",
+    "12:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 12 to 4 PM",
+  "cost": "Free",
+  "ages": "Whole family",
+  "url": "https://blog.tinapetersonteam.com/pictures-with-santa-livingston-county/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "The Tina Peterson Team hosts free Pictures with Santa on Saturday, December 5, 2026, from 12 to 4 PM at 4959 W. Grand River Ave. in Howell.",
+   "Families get professional photos with Santa, hear Santa sing Christmas carols, and enjoy face painting, a hot chocolate and cookies bar, a letter-writing station for Santa letters and a coloring corner."
+  ],
+  "tip": "Bring the kids' letters to Santa or write them at the station."
+ }
+]
