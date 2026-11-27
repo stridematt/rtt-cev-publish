@@ -1,0 +1,143 @@
+[
+ {
+  "cand": 44303,
+  "name": "Breakfast with Santa at Dave & Buster's Cary",
+  "page": "cary-nc",
+  "page_name": "Cary",
+  "town": "Cary",
+  "host": "Dave & Buster's",
+  "venue": "Dave & Buster's",
+  "address": "1111 Walnut St, Cary, NC 27511",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 9 to 11 AM",
+  "cost": "From $27.94 per person",
+  "ages": "All ages",
+  "url": "https://www.visitraleigh.com/event/breakfast-with-santa/112402/",
+  "tickets": "https://feverup.com/m/819725",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Dave & Buster's at 1111 Walnut Street in Cary opens early for Breakfast with Santa on Saturday, December 5, 2026, from 9 to 11 AM. Families get VIP access before the doors open to the public, with a festive breakfast banquet and a keepsake photo with Santa.",
+   "Kids can write letters to Santa and decorate holiday crafts, and guests with play tickets can head to the arcade floor with Santa. Tickets start at $27.94, spots are limited, and the restaurant phone is 919-535-6808."
+  ],
+  "tip": "Reserve early, since seats are limited, and bring a camera for the Santa photo."
+ },
+ {
+  "cand": 44304,
+  "name": "Brunch with Santa at Doherty's Irish Pub in Cary",
+  "page": "cary-nc",
+  "page_name": "Cary",
+  "town": "Cary",
+  "host": "Doherty's Irish Pub",
+  "venue": "Doherty's Irish Pub",
+  "address": "1979 High House Rd, Cary, NC 27519",
+  "times": [
+   [
+    "2026-12-20",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Sunday, December 20, 2026, 11 AM to 1 PM",
+  "cost": "Menu prices at the Cary pub",
+  "ages": "All ages",
+  "url": "https://www.dohertysirishpubnc.com/brunch-with-santa",
+  "kind": "meal",
+  "indoor": true,
+  "paras": [
+   "Doherty's Irish Pub on High House Road in Cary hosts a Sunday brunch with Santa on December 20, 2026, from 11 AM to 1 PM. The meet and greet is relaxed, and families can snap their own photos and enjoy the moment at their own pace.",
+   "The restaurant lists no price for the event, so check the Doherty's events page or call the pub before you go. The same pub hosts Santa lunches in Apex, Holly Springs and Pittsboro this December."
+  ],
+  "tip": "Arrive near 11 AM so you can eat and still have time for photos with Santa."
+ },
+ {
+  "cand": 44305,
+  "name": "Lunch with Santa at Doherty's Irish Pub in Apex",
+  "page": "apex-nc",
+  "page_name": "Apex",
+  "town": "Apex",
+  "host": "Doherty's Irish Pub",
+  "venue": "Doherty's Irish Pub",
+  "address": "5490 Apex Peakway, Apex, NC 27502",
+  "times": [
+   [
+    "2026-12-19",
+    "11:30",
+    "13:30"
+   ]
+  ],
+  "when_note": "Saturday, December 19, 2026, 11:30 AM to 1:30 PM",
+  "cost": "Apex lunch menu, event fee unlisted",
+  "ages": "All ages",
+  "url": "https://www.dohertysirishpubnc.com/brunch-with-santa",
+  "kind": "meal",
+  "indoor": true,
+  "paras": [
+   "Doherty's Irish Pub on Apex Peakway serves a festive lunch with Santa on Saturday, December 19, 2026, from 11:30 AM to 1:30 PM. It is an easy meet and greet where families take their own photos and share a meal.",
+   "No price is listed for the event, so check the Doherty's events page before you go. Doherty's also hosts Santa events in Cary, Holly Springs and Pittsboro."
+  ],
+  "tip": "Come right at 11:30 AM to get a table and a short wait for Santa."
+ },
+ {
+  "cand": 44306,
+  "name": "Brunch with Santa at Doherty's Irish Pub in Holly Springs",
+  "page": "holly-springs-nc",
+  "page_name": "Holly Springs",
+  "town": "Holly Springs",
+  "host": "Doherty's Irish Pub",
+  "venue": "Doherty's Irish Pub",
+  "address": "3149 McChesney Hl Lp, Holly Springs, NC 27540",
+  "times": [
+   [
+    "2026-12-13",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Sunday, December 13, 2026, 11 AM to 1 PM",
+  "cost": "Holly Springs brunch menu",
+  "ages": "All ages",
+  "url": "https://www.dohertysirishpubnc.com/brunch-with-santa",
+  "kind": "meal",
+  "indoor": true,
+  "paras": [
+   "Doherty's Irish Pub in Holly Springs hosts a Sunday brunch with Santa on December 13, 2026, from 11 AM to 1 PM, at 3149 McChesney Hill Loop. Families settle in for a relaxed meet and greet and take their own photos.",
+   "The pub lists no price for the event, so check its events page or call before you go. Doherty's has more Santa meals in Cary, Apex and Pittsboro this month."
+  ],
+  "tip": "Plan a Sunday brunch around the 11 AM start and bring your own camera."
+ },
+ {
+  "cand": 44307,
+  "name": "Lunch with Santa at Doherty's Irish Pub in Pittsboro",
+  "page": "chapel-hill-nc",
+  "page_name": "Chapel Hill",
+  "town": "Pittsboro",
+  "host": "Doherty's Irish Pub",
+  "venue": "Doherty's Irish Pub",
+  "address": "56 Sanford Rd, Pittsboro, NC 27312",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 11 AM to 1 PM",
+  "cost": "Pittsboro lunch menu",
+  "ages": "All ages",
+  "url": "https://www.dohertysirishpubnc.com/brunch-with-santa",
+  "kind": "meal",
+  "indoor": true,
+  "paras": [
+   "Doherty's Irish Pub at 56 Sanford Road in Pittsboro serves lunch with Santa on Saturday, December 12, 2026, from 11 AM to 1 PM. The meet and greet is unhurried, and families take their own photos.",
+   "No price is listed, so check the Doherty's events page before you go. Pittsboro is about 20 minutes south of Chapel Hill."
+  ],
+  "tip": "Pittsboro is a short drive from Chapel Hill, so make it a Saturday outing."
+ }
+]
