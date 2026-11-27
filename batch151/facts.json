@@ -1,0 +1,700 @@
+[
+ {
+  "cand": 44367,
+  "name": "Breakfast with Santa at the Harley-Davidson Museum",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Harley-Davidson Museum",
+  "venue": "Harley-Davidson Museum",
+  "address": "Motor Restaurant, 401 W. Canal St., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-06",
+    "10:00",
+    "14:00"
+   ],
+   [
+    "2026-12-13",
+    "10:00",
+    "14:00"
+   ],
+   [
+    "2026-12-20",
+    "10:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Sundays, December 6, 13 and 20, 2026, 10 AM to 2 PM",
+  "cost": "$42.95 adults, $19.95 children 4 to 14, free for children 3 and under",
+  "ages": "Families with kids",
+  "url": "https://www.jsonline.com/story/communities/2026/11/21/find-santa-claus-at-these-milwaukee-area-events/92646256007/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Harley-Davidson Museum in Milwaukee hosts Breakfast with Santa on three Sundays, December 6, 13 and 20, 2026, from 10 AM to 2 PM at the Motor Restaurant.",
+   "The event features a brunch buffet, holiday treats, cookie decorating, letters to Santa and time to talk with Santa. Tickets cost $42.95 for adults and $19.95 for children 4 to 14, and children 3 and under are free. Parking is free. Register on the museum site."
+  ],
+  "tip": "Register ahead and pick the Sunday that fits your family."
+ },
+ {
+  "cand": 44368,
+  "name": "Cocoa with the Clauses at Cathedral Square Park",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Cathedral Square Park",
+  "venue": "Milwaukee Downtown",
+  "address": "Cathedral Square Park, 520 E. Wells St., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 11 AM to 2 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://milwaukeedowntown.com/signature-events/milwaukee-holiday-lights-festival/holiday-events/",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Cocoa with the Clauses takes place at Cathedral Square Park in downtown Milwaukee on Saturday, December 12, 2026, from 11 AM to 2 PM. The event is free.",
+   "Kids can share their wish lists with Santa and Mrs. Claus, take photos, and meet elves and other characters. Free cookies and hot cocoa are provided. The event is outdoors."
+  ],
+  "tip": "Dress warmly because the event is outdoors."
+ },
+ {
+  "cand": 44369,
+  "name": "The Night Before Christmas Children's Reading at Villa Terrace",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Villa Terrace Museum and Gardens",
+  "venue": "Villa Terrace Museum and Gardens",
+  "address": "Villa Terrace Museum and Gardens, 2220 N. Terrace Ave., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-13",
+    "13:00",
+    "14:30"
+   ]
+  ],
+  "when_note": "Sunday, December 13, 2026, 1 to 2:30 PM",
+  "cost": "Members $10 each or $30 for a family of 4; non-members $15 each or $40 for a family of 4",
+  "ages": "Children with an adult",
+  "url": "https://www.villaterrace.org/exhibitions_events/upcoming_events/?eid=757",
+  "kind": "story",
+  "indoor": true,
+  "paras": [
+   "Villa Terrace Museum and Gardens in Milwaukee hosts The Night Before Christmas Children's Reading on Sunday, December 13, 2026, from 1 to 2:30 PM.",
+   "Children enjoy photos with Santa, chocolate milk and doughnut holes, and the cost includes a Santa-signed copy of The Night Before Christmas. Members pay $10 each or $30 for a family of 4, and non-members pay $15 each or $40 for a family of 4. All children must be accompanied by an adult."
+  ],
+  "tip": "Bring an adult for every child since it is required."
+ },
+ {
+  "cand": 44370,
+  "name": "Brunch with Santa at Saint Kate - The Arts Hotel",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Saint Kate - The Arts Hotel",
+  "venue": "Saint Kate - The Arts Hotel",
+  "address": "139 E. Kilbourn Ave., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-12",
+    "09:00",
+    "10:30"
+   ],
+   [
+    "2026-12-12",
+    "11:30",
+    "13:00"
+   ],
+   [
+    "2026-12-13",
+    "09:00",
+    "10:30"
+   ],
+   [
+    "2026-12-13",
+    "11:30",
+    "13:00"
+   ]
+  ],
+  "when_note": "Saturday and Sunday, December 12 and 13, 2026, 9 to 10:30 AM and 11:30 AM to 1 PM",
+  "cost": "$89.28 per person, $43.40 children 3 to 10, free for children 2 and under",
+  "ages": "Families with kids",
+  "url": "https://www.jsonline.com/story/communities/2026/11/21/find-santa-claus-at-these-milwaukee-area-events/92646256007/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Saint Kate - The Arts Hotel in Milwaukee serves Brunch with Santa on Saturday and Sunday, December 12 and 13, 2026, in two seatings each day, from 9 to 10:30 AM and from 11:30 AM to 1 PM.",
+   "Chefs make waffles with the trimmings along with traditional buffet items. There are photo opportunities, kids make crafts and write a letter to Santa. Preregistration is required. The price is $89.28 per person, $43.40 for children 3 to 10, and free for children 2 and under."
+  ],
+  "tip": "Preregister because the seatings require it."
+ },
+ {
+  "cand": 44371,
+  "name": "Santa Brunch at Harbor House",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Harbor House",
+  "venue": "Harbor House",
+  "address": "550 N. Harbor Dr., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-20",
+    "11:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Sunday, December 20, 2026, 11 AM to 2 PM",
+  "cost": "$70 per adult, $35 children 12 and under",
+  "ages": "Families with kids",
+  "url": "https://www.bartolottas.com/harbor-house/events/santa-brunch-harbor-house",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Harbor House on the Milwaukee lakefront serves a three-course Santa Brunch on Sunday, December 20, 2026, from 11 AM to 2 PM. Santa takes photos with kids and families.",
+   "Pricing is $70 per adult and $35 for children 12 and under. Reserve by calling 414-395-4900 or through the Bartolotta site."
+  ],
+  "tip": "Call 414-395-4900 or book online to reserve."
+ },
+ {
+  "cand": 44372,
+  "name": "Breakfast with Santa at Kosciuszko Park",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Kosciuszko Park Community Center",
+  "venue": "Milwaukee County Parks",
+  "address": "Kosciuszko Community Center, 2201 S. 7th St., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-12",
+    "09:30",
+    "12:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, 9:30 AM to noon",
+  "cost": "$5 per ticket, cash only, bought in advance",
+  "ages": "Families with kids",
+  "url": "https://www.jsonline.com/story/communities/2026/11/21/find-santa-claus-at-these-milwaukee-area-events/92646256007/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Milwaukee County Parks hosts Breakfast with Santa at the Kosciuszko Community Center on Saturday, December 12, 2026, from 9:30 AM to noon.",
+   "An advance ticket costs $5, cash only. Tickets are sold at the community center during regular hours, 8 AM to 8 PM Monday through Friday and 9 AM to 2 PM on Saturday. The center is closed Sunday."
+  ],
+  "tip": "Buy your $5 ticket ahead with cash."
+ },
+ {
+  "cand": 44373,
+  "name": "Donuts with Santa at Story Hill FireHouse",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Story Hill FireHouse",
+  "venue": "Story Hill FireHouse",
+  "address": "407 N. Hawley Rd., Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-13",
+    "08:30",
+    "11:30"
+   ]
+  ],
+  "when_note": "Sunday, December 13, 2026, 8:30 to 11:30 AM in four time slots",
+  "cost": "$17 per person, infants under 1 free",
+  "ages": "Families with kids",
+  "url": "https://www.jsonline.com/story/communities/2026/11/21/find-santa-claus-at-these-milwaukee-area-events/92646256007/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Story Hill FireHouse in Milwaukee hosts Donuts with Santa on Sunday, December 13, 2026, from 8:30 to 11:30 AM. Families choose from four time slots.",
+   "The morning includes doughnuts, hot cocoa, coffee and milk, and Santa takes photos with kids and families. Tickets are $17 per person and infants under 1 are free. Advance registration is required."
+  ],
+  "tip": "Register early to get the time slot you want."
+ },
+ {
+  "cand": 44374,
+  "name": "Santa at Christmas at the Commons in South Milwaukee",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "South Milwaukee",
+  "host": "Bucyrus Commons",
+  "venue": "City of South Milwaukee",
+  "address": "Bucyrus Commons, 1028 Madison Ave., South Milwaukee, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "15:00",
+    "17:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 3 to 5 PM",
+  "cost": "Free pictures with Santa; hot chocolate and cider for purchase",
+  "ages": "All ages",
+  "url": "https://www.southmilwaukee.gov/538/Christmas-at-the-Commons",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Christmas at the Commons in South Milwaukee runs Saturday, December 5, 2026, from 3 to 5 PM at Bucyrus Commons.",
+   "Families enjoy live music, entertainment and family-friendly activities, plus a hayride to the Bucyrus Club for free pictures with Santa. Hot chocolate and cider are for sale."
+  ],
+  "tip": "Plan for the hayride to reach Santa at the Bucyrus Club."
+ },
+ {
+  "cand": 44375,
+  "name": "Santa Visits at Sendik's Food Markets Around Milwaukee",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Sendik's Food Markets in Elm Grove, Brookfield, Waukesha, Franklin and Greenfield",
+  "venue": "Sendik's Food Market",
+  "address": "Sendik's stores in Elm Grove, Brookfield, Waukesha, Franklin and Greenfield, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "11:30"
+   ],
+   [
+    "2026-12-05",
+    "12:00",
+    "13:30"
+   ],
+   [
+    "2026-12-05",
+    "14:00",
+    "15:30"
+   ],
+   [
+    "2026-12-19",
+    "10:00",
+    "11:30"
+   ],
+   [
+    "2026-12-19",
+    "12:00",
+    "13:30"
+   ]
+  ],
+  "when_note": "Saturday, December 5: Elm Grove 10 to 11:30 AM, Brookfield noon to 1:30 PM, Waukesha 2 to 3:30 PM. Saturday, December 19: Franklin 10 to 11:30 AM, Greenfield noon to 1:30 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.jsonline.com/story/communities/2026/11/21/find-santa-claus-at-these-milwaukee-area-events/92646256007/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Sendik's Food Markets host free Santa visits at several Milwaukee area stores in December 2026. On Saturday, December 5, Santa is at the Elm Grove store, 13425 Watertown Plank Rd., from 10 to 11:30 AM, at The Corners of Brookfield, 20222 Lower Union St., from noon to 1:30 PM, and at the Meadowbrook store in Waukesha, 701 Meadowbrook Rd., from 2 to 3:30 PM.",
+   "On Saturday, December 19, Santa is at the Franklin store, 5200 W. Rawson Ave., from 10 to 11:30 AM and at the Greenfield store, 709 W. Layton Ave., from noon to 1:30 PM. Santa also visits the West Bend and Grafton stores on Saturday, December 12. All of the visits are free, so bring your own camera."
+  ],
+  "tip": "Pick the store closest to you and bring your own camera."
+ },
+ {
+  "cand": 44377,
+  "name": "Santa at Southridge Mall in Greendale",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Greendale",
+  "host": "Southridge Mall",
+  "venue": "Southridge Mall",
+  "address": "5300 S. 76th St., Greendale, WI",
+  "times": [
+   [
+    "2026-12-06",
+    "09:00",
+    "10:30"
+   ],
+   [
+    "2026-12-14",
+    "16:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Santa is at Center Court through December 24; sensory-friendly Santa Sunday, December 6, 9 to 10:30 AM; pet photo night Monday, December 14, 4 to 8 PM",
+  "cost": "Photo packages by reservation",
+  "ages": "Families with kids",
+  "url": "https://southridgeshoppingmall.com/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa is at Southridge Mall in Greendale on the first level near Center Court from Friday, November 20, through Thursday, December 24, 2026.",
+   "Special visits include a sensory-friendly Santa on Sunday, December 6, from 9 to 10:30 AM, and a pet photo night on Monday, December 14, from 4 to 8 PM. Photo packages are available by reservation at the mall website."
+  ],
+  "tip": "Reserve a photo time on the mall site."
+ },
+ {
+  "cand": 44378,
+  "name": "Santa and Pet Photos at Mayfair Mall",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Wauwatosa",
+  "host": "Mayfair Mall",
+  "venue": "Mayfair Mall",
+  "address": "2600 N. Mayfair Rd., Wauwatosa, WI",
+  "times": [
+   [
+    "2026-11-30",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-01",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-07",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-08",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-14",
+    "16:00",
+    "19:00"
+   ],
+   [
+    "2026-12-15",
+    "16:00",
+    "19:00"
+   ]
+  ],
+  "when_note": "Santa photos daily through December 24; pet photos Mondays and Tuesdays, 4 to 7 PM, through December 15",
+  "cost": "Photo packages sold, see Mayfair Mall for prices",
+  "ages": "Families with kids and pets",
+  "url": "https://www.mayfairmall.com/en/events/55956/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa takes photos at Mayfair Mall in Wauwatosa from Saturday, November 21, through Thursday, December 24, 2026, on Level 1 in the Nordstrom wing near Barnes and Noble.",
+   "Pet photos with Santa run Mondays and Tuesdays from 4 to 7 PM through Tuesday, December 15. Walkups are welcome and families can also register. Photo packages are sold and prices are on the mall website."
+  ],
+  "tip": "Walkups work, but registering saves time."
+ },
+ {
+  "cand": 44379,
+  "name": "Santa at Ruckus and Glee Toy Store",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Wauwatosa",
+  "host": "Ruckus and Glee",
+  "venue": "Ruckus and Glee",
+  "address": "805 N. 68th St., Wauwatosa, WI",
+  "times": [
+   [
+    "2026-11-27",
+    "13:00",
+    "17:00"
+   ]
+  ],
+  "when_note": "Friday, November 27, 2026, 1 to 5 PM",
+  "cost": "Free",
+  "ages": "Kids who want to share a wish list",
+  "url": "https://www.jsonline.com/story/communities/2026/11/21/find-santa-claus-at-these-milwaukee-area-events/92646256007/",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa visits the Ruckus and Glee toy store in Wauwatosa on Friday, November 27, 2026, the day after Thanksgiving, from 1 to 5 PM. The visit is free.",
+   "Children can share their lists and have a photo taken with Santa."
+  ],
+  "tip": "Go today since the visit is a single afternoon."
+ },
+ {
+  "cand": 44380,
+  "name": "Candy Cane Lane in West Allis",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "West Allis",
+  "host": "West Allis neighborhood, 92nd to 96th Streets",
+  "venue": "Candy Cane Lane",
+  "address": "92nd St. to 96th St. and Montana Ave. to Oklahoma Ave., West Allis, WI",
+  "times": [
+   [
+    "2026-11-27",
+    "17:00",
+    "22:00"
+   ],
+   [
+    "2026-11-28",
+    "17:00",
+    "22:00"
+   ],
+   [
+    "2026-12-05",
+    "17:00",
+    "22:00"
+   ],
+   [
+    "2026-12-12",
+    "17:00",
+    "22:00"
+   ],
+   [
+    "2026-12-19",
+    "17:00",
+    "22:00"
+   ]
+  ],
+  "when_note": "Nightly November 27 through December 25, 2026; Monday to Thursday 6 to 9 PM, Friday 6 to 10 PM, Saturday 5 to 10 PM, Sunday 5 to 9 PM",
+  "cost": "Free, donations support the MACC Fund",
+  "ages": "All ages",
+  "url": "https://candycanelanewi.com/",
+  "kind": "lights",
+  "indoor": false,
+  "paras": [
+   "Candy Cane Lane in West Allis is a neighborhood Christmas lights display that runs nightly from Friday, November 27, through December 25, 2026.",
+   "Hours are 6 to 9 PM Monday through Thursday, 6 to 10 PM Friday, 5 to 10 PM Saturday and 5 to 9 PM Sunday. The display covers the blocks from 92nd to 96th Streets and Montana to Oklahoma Avenues and is an annual fundraiser for the MACC Fund."
+  ],
+  "tip": "Walk or drive slowly through the blocks and dress warmly."
+ },
+ {
+  "cand": 44381,
+  "name": "A Rudolph Christmas at the Festival of Trees",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Milwaukee",
+  "host": "Tripoli Shrine Temple",
+  "venue": "Tripoli Shriners",
+  "address": "3000 W. Wisconsin Ave., Milwaukee, WI",
+  "times": [
+   [
+    "2026-11-27",
+    "10:00",
+    "20:00"
+   ],
+   [
+    "2026-11-28",
+    "10:00",
+    "17:00"
+   ]
+  ],
+  "when_note": "Friday, November 27, 10 AM to 8 PM, and Saturday, November 28, 2026, 10 AM to 5 PM",
+  "cost": "$5, children 12 and under free",
+  "ages": "All ages",
+  "url": "https://tripolishrine.com/feztival",
+  "kind": "festival",
+  "indoor": true,
+  "paras": [
+   "The Tripoli Shriners Festival of Trees at the Tripoli Shrine Temple in Milwaukee wraps up with Friday, November 27, from 10 AM to 8 PM and Saturday, November 28, 2026, from 10 AM to 5 PM.",
+   "This year's theme is A Rudolph Christmas. Visitors see festive trees decorated by local businesses and groups, vote for a favorite tree, and Santa is there. Admission is $5 and children 12 and under are free."
+  ],
+  "tip": "Go today or tomorrow since only two days remain."
+ },
+ {
+  "cand": 44382,
+  "name": "Dickens of a Village in Greendale",
+  "page": "milwaukee-wi",
+  "page_name": "Milwaukee",
+  "town": "Greendale",
+  "host": "Historic Downtown Greendale",
+  "venue": "Greendale Entertainment Association",
+  "address": "Historic Downtown Greendale, WI",
+  "times": [
+   [
+    "2026-12-04",
+    "17:00",
+    "21:00"
+   ]
+  ],
+  "when_note": "Friday, December 4, 2026, 5 to 9 PM",
+  "cost": "See the Greendale Lions listing for details",
+  "ages": "All ages",
+  "url": "https://greendalelions.org/events/list/",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "Dickens of a Village fills historic downtown Greendale on Friday, December 4, 2026, from 5 to 9 PM.",
+   "The Charles Dickens inspired evening includes the downtown Dickens fire pits, a long-running Greendale tradition. The event is outdoors."
+  ],
+  "tip": "Dress warmly for an evening outdoors."
+ },
+ {
+  "cand": 44384,
+  "name": "Breakfast with Santa in Elm Grove",
+  "page": "brookfield-wi",
+  "page_name": "Brookfield",
+  "town": "Elm Grove",
+  "host": "Elm Grove Women's Club",
+  "venue": "Elm Grove Junior Guild",
+  "address": "13885 Watertown Plank Rd., Elm Grove, WI",
+  "times": [
+   [
+    "2026-12-12",
+    "08:30",
+    "10:00"
+   ],
+   [
+    "2026-12-12",
+    "10:30",
+    "12:00"
+   ]
+  ],
+  "when_note": "Saturday, December 12, 2026, seatings at 8:30 and 10:30 AM",
+  "cost": "$25, children 2 and under free",
+  "ages": "Families with kids",
+  "url": "https://elmgrovejuniorguild.org/event/breakfast-with-santa/",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Elm Grove Junior Guild hosts Breakfast with Santa at the Elm Grove Women's Club on Saturday, December 12, 2026, with seatings at 8:30 and 10:30 AM.",
+   "The morning features a breakfast buffet, kids' crafts, music, photo ops with Santa and a storytime. The cost is $25 and children 2 and under are admitted free."
+  ],
+  "tip": "Choose the seating that fits nap time."
+ },
+ {
+  "cand": 44386,
+  "name": "Photos with Santa at Brookfield Square",
+  "page": "brookfield-wi",
+  "page_name": "Brookfield",
+  "town": "Brookfield",
+  "host": "Brookfield Square",
+  "venue": "Brookfield Square",
+  "address": "95 N. Moorland Rd., Brookfield, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "12:00",
+    "19:00"
+   ],
+   [
+    "2026-12-12",
+    "11:00",
+    "20:00"
+   ]
+  ],
+  "when_note": "Santa visits through December 24, 2026; Saturdays noon to 7 PM through December 10, and 11 AM to 8 PM Monday to Saturday December 11 to 17",
+  "cost": "Photo packages start at $37",
+  "ages": "Families, pets welcome",
+  "url": "http://www.shopbrookfieldsquaremall.com/store/santas_workshop",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa is at Brookfield Square from Friday, November 13, through Thursday, December 24, 2026. Families with pets can visit too.",
+   "Hours are noon to 7 PM Monday through Saturday and noon to 6 PM Sunday through December 10, then 11 AM to 8 PM Monday through Saturday from December 11 to 17. Hours vary December 18 to 24. Photo packages start at $37. Reservations are highly recommended but not required."
+  ],
+  "tip": "Reserve a time on the mall site to skip the wait."
+ },
+ {
+  "cand": 44387,
+  "name": "Mr. and Mrs. Claus at the Butler Public Library",
+  "page": "brookfield-wi",
+  "page_name": "Brookfield",
+  "town": "Butler",
+  "host": "Butler Public Library",
+  "venue": "Butler Public Library",
+  "address": "12808 W. Hampton Ave., Butler, WI",
+  "times": [
+   [
+    "2026-12-03",
+    "17:30",
+    "18:30"
+   ]
+  ],
+  "when_note": "Thursday, December 3, 2026, 5:30 to 6:30 PM",
+  "cost": "Free",
+  "ages": "Children",
+  "url": "https://butlerpl.librarycalendar.com/event/mr-and-mrs-claus-visit-505",
+  "kind": "story",
+  "indoor": true,
+  "paras": [
+   "Mr. and Mrs. Claus visit the Butler Public Library on Thursday, December 3, 2026, from 5:30 to 6:30 PM. The event is free.",
+   "There is a holiday story time, photos, and children can tell Santa what they want for the holidays."
+  ],
+  "tip": "Arrive for the story time at the start."
+ },
+ {
+  "cand": 44388,
+  "name": "Breakfast with Reindeer in Delafield",
+  "page": "delafield-wi",
+  "page_name": "Delafield",
+  "town": "Delafield",
+  "host": "Revere's Wells Street Tavern",
+  "venue": "Delafield Chamber of Commerce",
+  "address": "505 Wells St., Delafield, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "08:00",
+    "12:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 8 AM to noon in one hour slots",
+  "cost": "$40 per family of up to five",
+  "ages": "Families with kids",
+  "url": "https://delafieldchamber.com/breakfast-with-reindeer",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "The Delafield Chamber of Commerce hosts Breakfast with Reindeer at Revere's Wells Street Tavern on Saturday, December 5, 2026, from 8 AM to noon.",
+   "Families buy a ticket and reserve a one hour slot, at 8, 9, 10 or 11 AM. The event includes photos with Santa, a chance to meet his reindeer, cookies, a continental breakfast and live music. A ticket is $40 for a family of up to five."
+  ],
+  "tip": "Reserve a slot since tickets are required."
+ },
+ {
+  "cand": 44389,
+  "name": "Santa Storytime at the Delafield Common Council Chambers",
+  "page": "delafield-wi",
+  "page_name": "Delafield",
+  "town": "Delafield",
+  "host": "Common Council Chambers",
+  "venue": "Delafield Public Library",
+  "address": "500 Genesee St., Delafield, WI",
+  "times": [
+   [
+    "2026-12-17",
+    "10:00",
+    "10:45"
+   ]
+  ],
+  "when_note": "Thursday, December 17, 2026, 10 to 10:45 AM",
+  "cost": "Free, registration required",
+  "ages": "Young children",
+  "url": "https://delafield.librarycalendar.com/event/santa-storytime-7235",
+  "kind": "story",
+  "indoor": true,
+  "paras": [
+   "The Delafield Public Library hosts Santa Storytime at the Common Council Chambers on Thursday, December 17, 2026, from 10 to 10:45 AM.",
+   "Families hear a story and a song, meet Santa and take a photo with him. The event is free and registration is required."
+  ],
+  "tip": "Register with the library first."
+ },
+ {
+  "cand": 44390,
+  "name": "Santa and Mrs. Claus at the Muskego Public Library",
+  "page": "new-berlin-wi",
+  "page_name": "New Berlin",
+  "town": "Muskego",
+  "host": "Muskego Public Library",
+  "venue": "Muskego Public Library",
+  "address": "S73 W16663 Janesville Rd., Muskego, WI",
+  "times": [
+   [
+    "2026-12-05",
+    "10:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 10 AM to 2 PM",
+  "cost": "Free",
+  "ages": "Families with kids",
+  "url": "https://muskego.librarycalendar.com/event/santas-booked-library-7733",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Santa and Mrs. Claus visit the Muskego Public Library on Saturday, December 5, 2026, from 10 AM to 2 PM. Families can take a free picture with them.",
+   "There are family-friendly holiday activities, and the Friends of the Library sell baked goods and gently used books and DVDs to support library programs."
+  ],
+  "tip": "Browse the Friends sale after your picture."
+ }
+]
