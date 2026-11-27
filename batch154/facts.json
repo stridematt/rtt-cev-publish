@@ -1,0 +1,136 @@
+[
+ {
+  "cand": 44410,
+  "name": "Holidays on the Rails at the National Railroad Museum",
+  "page": "green-bay-wi",
+  "page_name": "Green Bay",
+  "town": "Green Bay",
+  "host": "National Railroad Museum",
+  "venue": "National Railroad Museum",
+  "address": "2285 S. Broadway, Green Bay, WI 54304",
+  "times": [
+   [
+    "2026-12-08",
+    "09:00",
+    "14:00"
+   ],
+   [
+    "2026-12-09",
+    "09:00",
+    "14:00"
+   ],
+   [
+    "2026-12-10",
+    "09:00",
+    "14:00"
+   ]
+  ],
+  "when_note": "Tuesday to Thursday, December 8 to 10, 2026, 9 AM to 2 PM; train rides depart at 9:15, 10, 11 AM, noon and 1 PM",
+  "cost": "$18 for children 2 and over; $16 for adults; museum members free",
+  "ages": "Preschool through second grade, all ages welcome",
+  "url": "https://nationalrrmuseum.org/holidays-on-the-rails/",
+  "kind": "outing",
+  "indoor": true,
+  "paras": [
+   "Holidays on the Rails brings a holiday train ride, crafts and a visit with Santa Claus to the National Railroad Museum at 2285 S. Broadway in Green Bay from December 8 to 10, 2026. Activities run from 9 AM to 2 PM, rain or shine, and the museum stays open until 5 PM.",
+   "Every ticket includes a train ride, and your ticket time is your ride time. Afterward families can play holiday games, hunt through an I-Spy scavenger hunt, visit the temporary tattoo station, decorate cookies, try four craft stations and meet Santa. The day is designed for children in preschool through second grade. Tickets are $18 for children 2 and over and $16 for adults, and museum members get in free."
+  ],
+  "tip": "Walk-ups are welcome, and seating is first come, first served."
+ },
+ {
+  "cand": 44411,
+  "name": "The Polar Express Train Ride at the National Railroad Museum",
+  "page": "green-bay-wi",
+  "page_name": "Green Bay",
+  "town": "Green Bay",
+  "host": "National Railroad Museum",
+  "venue": "National Railroad Museum",
+  "address": "2285 S. Broadway, Green Bay, WI 54304",
+  "times": [
+   [
+    "2026-11-27",
+    "16:00",
+    "17:45"
+   ],
+   [
+    "2026-11-28",
+    "14:00",
+    "15:45"
+   ],
+   [
+    "2026-11-29",
+    "16:00",
+    "17:45"
+   ],
+   [
+    "2026-12-04",
+    "16:00",
+    "17:45"
+   ],
+   [
+    "2026-12-05",
+    "14:00",
+    "15:45"
+   ],
+   [
+    "2026-12-06",
+    "16:00",
+    "17:45"
+   ],
+   [
+    "2026-12-11",
+    "16:00",
+    "17:45"
+   ],
+   [
+    "2026-12-12",
+    "14:00",
+    "15:45"
+   ],
+   [
+    "2026-12-13",
+    "16:00",
+    "17:45"
+   ]
+  ],
+  "when_note": "Fridays, Saturdays and Sundays through December 13, 2026; first shows about 4 PM Fridays and Sundays and 2 PM Saturdays",
+  "cost": "$35 to $75 by train car; 2026 shows are sold out",
+  "ages": "All ages, everyone needs a ticket",
+  "url": "https://nationalrrmuseum.org/the-polar-express-train-ride/",
+  "kind": "show",
+  "indoor": true,
+  "paras": [
+   "The National Railroad Museum in Green Bay hosts The Polar Express Train Ride on Fridays, Saturdays and Sundays from November 20 through December 13, 2026. The 2026 shows are sold out, so check the museum for any returned tickets before you go.",
+   "The program starts in the Lenfestey Center with the Hot Chocolate Dance, hot chocolate and cookies, and a reading of the original book. Guests then board a real vintage train for a ride to the North Pole, where Santa visits with passengers. Tickets range from $35 in Northern Lights to $75 in Spirit of the Season lounge seating, and the whole program takes about 105 minutes. Pajamas are welcome."
+  ],
+  "tip": "Arrive 30 minutes early and wear layers."
+ },
+ {
+  "cand": 44412,
+  "name": "Christmas at DeKoven: A Family Holiday Celebration",
+  "page": "racine-wi",
+  "page_name": "Racine",
+  "town": "Racine",
+  "host": "DeKoven Center",
+  "venue": "DeKoven Center",
+  "address": "600 21st St., Racine, WI 53403",
+  "times": [
+   [
+    "2026-12-06",
+    "11:00",
+    "16:00"
+   ]
+  ],
+  "when_note": "Sunday, December 6, 2026, 11 AM to 4 PM",
+  "cost": "Free",
+  "ages": "All ages",
+  "url": "https://www.diowis.org/events/christmas-at-dekoven-a-family-holiday-celebration",
+  "kind": "festival",
+  "indoor": false,
+  "paras": [
+   "The historic DeKoven Center in Racine hosts Christmas at DeKoven, a free family holiday celebration, on Sunday, December 6, 2026, from 11 AM to 4 PM.",
+   "The afternoon includes a festive artisan market, a live nativity with animals, holiday music and entertainment, photos with Santa and Mrs. Claus, family crafts and seasonal treats on DeKoven's historic Episcopal campus."
+  ],
+  "tip": "Dress for the weather because the nativity has animals."
+ }
+]
