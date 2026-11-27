@@ -1,0 +1,101 @@
+[
+ {
+  "cand": 44422,
+  "name": "Oshkosh Food Co-op Skyway to Santa",
+  "page": "oshkosh-wi",
+  "page_name": "Oshkosh",
+  "town": "Oshkosh",
+  "host": "Oshkosh Food Co-op",
+  "venue": "Oshkosh Food Co-op",
+  "address": "155 Jackson St., Oshkosh, WI 54901",
+  "times": [
+   [
+    "2026-12-12",
+    "11:00",
+    "15:45"
+   ],
+   [
+    "2026-12-13",
+    "11:00",
+    "15:45"
+   ],
+   [
+    "2026-12-19",
+    "11:00",
+    "15:45"
+   ],
+   [
+    "2026-12-20",
+    "11:00",
+    "15:45"
+   ]
+  ],
+  "when_note": "Starting Saturday, December 12, 2026, with booked 15-minute time slots through Sunday, December 20",
+  "cost": "Free; donations to the Food for All program are encouraged",
+  "ages": "Whole family",
+  "url": "https://allevents.in/oshkosh/oshkosh-food-co-op-skyway-to-santa/100002005102139475",
+  "kind": "santa",
+  "indoor": true,
+  "paras": [
+   "Families ride the NOELevator at the Oshkosh Food Co-op for a trip to the North Pole in Skyway to Santa. Time slots start Saturday, December 12, 2026, and run through Sunday, December 20, at 155 Jackson St.",
+   "Each visit is a 15-minute experience for groups of up to 12, with time to share wish lists with Santa, take photos, make crafts and pick up treats and giveaways. Admission is free, and donations support the co-op's Food for All program. Book a boarding pass online first, and email the co-op to join the waitlist if every time is full."
+  ],
+  "tip": "Book a boarding pass early because slots fill up."
+ },
+ {
+  "cand": 44423,
+  "name": "Santa and His Critters in Hudson",
+  "page": "hammond-wi",
+  "page_name": "Hammond",
+  "town": "Hudson",
+  "host": "Hudson Area Chamber of Commerce",
+  "venue": "Lakefront Park",
+  "address": "Lakefront Park, Hudson, WI 54016",
+  "times": [
+   [
+    "2026-12-05",
+    "12:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 12 to 3 PM",
+  "cost": "Free",
+  "ages": "Whole family",
+  "url": "https://business.hudsonwi.org/events/details/santa-and-his-critters-2026-38344",
+  "kind": "santa",
+  "indoor": false,
+  "paras": [
+   "Santa visits with children at Lakefront Park in Hudson on Saturday, December 5, 2026, from 12 to 3 PM. Kids bring their wish lists and parents bring their cameras.",
+   "The afternoon also has sweet treats, sled dogs, a petting zoo and more activities. Downtown Hudson shops and restaurants run specials the same day, and the whole event is free."
+  ],
+  "tip": "Dress warmly because most of it is outside by the lake."
+ },
+ {
+  "cand": 44424,
+  "name": "Breakfast Buffet with Santa Show at Tattersall",
+  "page": "hammond-wi",
+  "page_name": "Hammond",
+  "town": "River Falls",
+  "host": "Tattersall Event Center",
+  "venue": "Tattersall Event Center",
+  "address": "1777 Paulson Rd., River Falls, WI 54022",
+  "times": [
+   [
+    "2026-12-05",
+    "09:00",
+    "11:00"
+   ]
+  ],
+  "when_note": "Saturday, December 5, 2026, 9 to 11 AM",
+  "cost": "$24.95 for adults and kids; $6.95 for kids under 4",
+  "ages": "Whole family",
+  "url": "https://business.hudsonwi.org/events/details/breakfast-buffet-with-santa-show-at-tattersall-41538",
+  "kind": "breakfast",
+  "indoor": true,
+  "paras": [
+   "Tattersall Event Center in River Falls hosts a breakfast buffet and Santa show on Saturday, December 5, 2026, from 9 to 11 AM at 1777 Paulson Rd.",
+   "Families eat together, watch the Santa show and get wish lists to the big guy. The cost is $24.95 for adults and kids, and $6.95 for kids under 4. Reservations are made online through OpenTable."
+  ],
+  "tip": "Reserve ahead through OpenTable."
+ }
+]
