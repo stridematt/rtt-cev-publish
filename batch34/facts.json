@@ -1,0 +1,142 @@
+[
+ {
+  "cand": 44017,
+  "name": "Holiday Planetarium Lighting",
+  "town": "Columbia",
+  "venue": "South Carolina State Museum",
+  "address": "301 Gervais St, Columbia, SC 29201",
+  "times": [
+   [
+    "2026-12-01",
+    "16:00",
+    "20:30"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Pay as you may admission; show tickets $5",
+  "ages": "All ages",
+  "host": "South Carolina State Museum",
+  "url": "https://scmuseum.org/events/holiday-planetarium-lighting",
+  "kind": "santa museum lights",
+  "indoor": true,
+  "page": "columbia-sc",
+  "page_name": "Columbia",
+  "paras": [
+   "The South Carolina State Museum stays open late to light up its planetarium dome for the holidays. Guests can meet Santa, hear live music from ColaJazz and make a holiday craft for kids.",
+   "General admission is pay as you may that evening, so families choose their own price. Rudolph the Red-Nosed Reindeer 4D and the Ar\u00f3ra planetarium show are $5 each, and food trucks sell dinner."
+  ],
+  "tip": "Pick your show times early, since the host lists Rudolph 4D from 4 PM and Ar\u00f3ra from 4:30 PM."
+ },
+ {
+  "cand": 44018,
+  "name": "Sundaes with Santa at the Junior League Holiday Market",
+  "town": "Columbia",
+  "venue": "South Carolina State Fairgrounds, Goodman and Cantey buildings",
+  "address": "901 George Rogers Blvd, Columbia, SC 29201",
+  "times": [
+   [
+    "2026-12-06",
+    "12:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "$8 per child, $10 per adult",
+  "ages": "All ages",
+  "host": "Junior League of Columbia",
+  "url": "https://www.jlcolumbia.org/support/holiday-market/faq/",
+  "kind": "santa market food",
+  "indoor": true,
+  "page": "columbia-sc",
+  "page_name": "Columbia",
+  "paras": [
+   "The Junior League of Columbia adds Sundaes with Santa to its 40th annual Holiday Market on the final market day. Kids take a photo with Santa in front of the market's Christmas tree, then play holiday games, do crafts and write a letter to Santa.",
+   "The visit ends at an ice cream sundae bar. Photos with Santa are free, but families bring their own camera since no photographer is on site."
+  ],
+  "tip": "Bring your own camera and plan for $5 parking at Gate 6, as the host lists."
+ },
+ {
+  "cand": 44019,
+  "name": "Irmo Tree Lighting",
+  "town": "Irmo",
+  "venue": "Whitt Cline Community Park",
+  "address": "7330 Carlisle St, Irmo, SC 29063",
+  "times": [
+   [
+    "2026-12-01",
+    "18:00",
+    ""
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "ages": "All ages",
+  "host": "Town of Irmo",
+  "url": "https://www.townofirmosc.com/business_detail_T8_R24.php",
+  "kind": "tree-lighting santa",
+  "indoor": false,
+  "page": "columbia-sc",
+  "page_name": "Columbia",
+  "paras": [
+   "The Town of Irmo lights its tree at Whitt Cline Community Park with local school choirs and bands and a greeting from the mayor. After the countdown, the crowd gets pizza, hot chocolate and cookies.",
+   "Santa arrives by fire truck so children can share their Christmas wishes, according to the town."
+  ],
+  "tip": "Arrive before 6 PM to hear the school choirs before the countdown."
+ },
+ {
+  "cand": 44020,
+  "name": "Snowball Festival Carnival",
+  "town": "Lexington",
+  "venue": "Icehouse Amphitheater",
+  "address": "Icehouse Amphitheater, Lexington, SC",
+  "times": [
+   [
+    "2026-12-05",
+    "11:00",
+    "15:00"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Free",
+  "ages": "All ages",
+  "host": "Icehouse Amphitheater",
+  "url": "https://icehouseamphitheater.com/events/snowball-festival-carnival/",
+  "kind": "carnival santa",
+  "indoor": false,
+  "page": "columbia-sc",
+  "page_name": "Columbia",
+  "paras": [
+   "The Icehouse Amphitheater hosts a free Snowball Festival Carnival on Saturday with rides, pictures with Santa, face painting, balloon animals and a petting zoo. The venue also lists holiday mini golf, a Lexington County Public Library table and free cookies.",
+   "Vendors on the page include Tally Ho Mobile Petting Zoo, Carolina Holiday Mini Golf, Balloonopolis and Palmetto Amusements. The venue says outside food and drink are not permitted."
+  ],
+  "tip": "Skip the lawn chairs, since the amphitheater does not allow freestanding chairs."
+ },
+ {
+  "cand": 44021,
+  "name": "Family Palooza: Santa Visit at Gaston Library",
+  "town": "Gaston",
+  "venue": "Gaston Branch Library",
+  "address": "214 S Main St, Gaston, SC 29053",
+  "times": [
+   [
+    "2026-12-16",
+    "17:30",
+    "18:30"
+   ]
+  ],
+  "when_note": "",
+  "cost": "Price not listed",
+  "ages": "Families with children",
+  "host": "Lexington County Public Library",
+  "url": "https://lexcolibrary.libcal.com/event/17111419",
+  "kind": "santa library",
+  "indoor": true,
+  "page": "columbia-sc",
+  "page_name": "Columbia",
+  "paras": [
+   "Lexington County Public Library invites families with children to meet Santa at the Gaston Branch. Kids share their wish list and snap a festive photo.",
+   "The event is part of the library's Family Palooza holiday series and runs one hour on a Wednesday evening."
+  ],
+  "tip": "Bring a camera, since the host encourages a festive photo with Santa."
+ }
+]
